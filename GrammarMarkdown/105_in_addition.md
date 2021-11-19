@@ -1,0 +1,2 @@
+In order to base a next clause on the previous one by saying *"in addition"* a word `それに` is used in the beginning of the second clause.
+>明日日本にいく。**それに**あそこでは日本語を勉強するつもり。Tomorrow I will go to Japan. Besides I will study Japanese there.
