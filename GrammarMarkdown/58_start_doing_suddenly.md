@@ -1,0 +1,2 @@
+In order to describe that something started unexpectedly or suddenly a verb `出す` (だす) is added to a verb stem. The tense of the clause is determined by the tense of the *出す* verb.
+>急に雨が降**り出した**。Suddenly it began to rain.
