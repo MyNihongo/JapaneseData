@@ -72,3 +72,7 @@ The honorific expression of three verbs いる (to be - living), 行く (to go) 
 `お + verb stem + てください` is the honorific counterpart of the form [てください](46) and is used to politely request from the person above the speaker. Like the original form it is not used is speaking, but rather in emails or public speech.
 
 >今、情報がないので、**お待ちください**。Because there is no information, please wait.
+
+It is also possible to say negative requests with [ないでください](30). The pattern is `verb (dictionary form) + のはご遠慮ください`.
+
+>電話を使うのはご遠慮ください。Please do not use your phone.
