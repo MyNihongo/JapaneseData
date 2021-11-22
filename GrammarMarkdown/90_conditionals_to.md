@@ -19,3 +19,8 @@ If we do not take into account the latest climate changes usually it is expected
 When people talk about how they feel in response to other people's feelings the `と` particle is used.
 
 >あさみさんが嬉しい**と**、私も。If Asami is happy, so am I.
+
+#### Other situations with `whenever`
+Apart from the aforecited situations there numerous situations situations where the word `whenever` may be used. Let us take a look at the following example.
+
+>あのバスに乗る**と**、座席が空いていませ。Whenever I go by that bus, there are no free seats.
