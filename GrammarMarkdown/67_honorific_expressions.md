@@ -17,6 +17,8 @@ The rule for う- and る-verbs is the same, i.e. `お + verb stem + になり�
 >先生は公園で**お**散歩**になります**。Teacher walks in a park.
 >先生は**ご**電話**になります**。Teacher talks on the phone.
 
+**Note**: when a verb stem consists only of a single kana (not kanji) character the honorific expression cannot be created. For example the verb stem of the verb *見る* is *見 (み)*, therefore, the honorific form cannot be created. On the contrary the verb stem of *飲む* is *飲み (のみ)*, therefore, the honorific form can be *お飲みになる*.
+
 #### Passive voice form
 The passive voice form is just an alternative to the standard honorific form, there is no real difference in sematic.
 The [passive voice](137) form is created by adding `あれる` to the verb (e.g. 話す➝話される, 食べる➝食べられる, する➝される, etc.). When the honorific form is created the whole sentence is **not** transformed into the passive voice only the verb is. Therefore, it differs from the actual passive voice as shown in the example below.
