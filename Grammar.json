@@ -1111,7 +1111,7 @@
 	},
 	{
 		"Id": 59,
-		"Sort": 109,
+		"Sort": 110,
 		"Title": "Extra modest expressions",
 		"Text": "59_extra_modest_expressions",
 		"Jlpt": 4,
@@ -3868,7 +3868,7 @@
 	},
 	{
 		"Id": 187,
-		"Sort": 108,
+		"Sort": 109,
 		"Title": "Honorific expressions - special verbs",
 		"Text": "187_honorific_expressions_special_verbs",
 		"Jlpt": 4,
@@ -3986,6 +3986,22 @@
 			"rhetorical",
 			"seek confirmation",
 			"confirmation"
+		]
+	},
+	{
+		"Id": 192,
+		"Sort": 108,
+		"Title": "Humble expressions",
+		"Text": "192_humble_expressions",
+		"Jlpt": 4,
+		"Form": "謙譲語",
+		"Search": [
+			"謙譲語",
+			"けんじょうご"
+		],
+		"SearchEN": [
+			"humble expressions",
+			"expressions"
 		]
 	}
 ]
