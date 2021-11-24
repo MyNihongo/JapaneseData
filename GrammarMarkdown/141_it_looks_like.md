@@ -8,3 +8,5 @@ In order to say that something looks like a pattern `clause + ようです` is u
 |な-adjective|casual form + な + ようです|安全**なようです**|
 
 >ジョンさんは日本人**のようです**。John is like Japanese.
+>
+>ジョンさんは日本人**のようではありません**。John is not like Japanese.
