@@ -13,6 +13,7 @@ In order to make honorific forms ven more respectful special verbs are used. The
 |くれる|くださる (る-verb)|
 |verb + ている|verb + ていらっしゃる (る-verb)|
 |verb + てください|お + verb stem + てください|
+|するverb + てください|お + noun + ください|
 
 #### いらっしゃる
 The honorific expression of three verbs いる (to be - living), 行く (to go) and 来る (to come) is only one る-verb `いらっしゃる`, so the meaning of the clause (which of the verbs is used) can only be determined by the context.
@@ -72,6 +73,8 @@ The honorific expression of three verbs いる (to be - living), 行く (to go) 
 `お + verb stem + てください` is the honorific counterpart of the form [てください](46) and is used to politely request from the person above the speaker. Like the original form it is not used is speaking, but rather in emails or public speech.
 
 >今、情報がないので、**お待ちください**。Because there is no information, please wait.
+>
+>**ご**相談ください。Please give me advice.
 
 It is also possible to say negative requests with [ないでください](30). The pattern is `verb (dictionary form) + のはご遠慮ください`.
 

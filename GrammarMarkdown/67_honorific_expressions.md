@@ -1,4 +1,10 @@
 Honorific expressions (尊敬語) are the most polite expressions which are used to exalt the subject of the sentence, therefore, the position of the subject becomes higher while the position of others (usually the speaker) remains below the position of the subject. Therefore, the honorific expressions are used for describing other persons' actions and never for own actions.
+In the following example the first sentence is correct (OK) since it describes an action of a teacher, but the second sentence is wrong (✕) since it describes an action of the speaker.
+
+>**先生**はお待ちになります。(OK) Teacher waits.
+>
+>**私**はお待ちになります。(✕) I wait.
+
 The common rules are described in this article, but the special verbs are in [this article](187).
 
 #### Honorific form
