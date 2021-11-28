@@ -1112,21 +1112,19 @@
 	{
 		"Id": 59,
 		"Sort": 110,
-		"Title": "Extra modest expressions",
-		"Text": "59_extra_modest_expressions",
+		"Title": "Humble expressions - special verbs",
+		"Text": "59_humble_expressions_special_verbs",
 		"Jlpt": 4,
-		"Form": "",
+		"Form": "謙譲語",
 		"Search": [
-			"でございます",
-			"でござる",
-			"ございます",
-			"ござる",
-			"いたします",
-			"いたす",
-			"致す"
+			"謙譲語",
+			"けんじょうご"
 		],
 		"SearchEN": [
-			"extra modest expressions"
+			"humble expressions",
+			"expressions",
+			"polite",
+			"special verbs"
 		]
 	},
 	{
