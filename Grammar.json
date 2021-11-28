@@ -1319,7 +1319,9 @@
 			"いらっしゃいます"
 		],
 		"SearchEN": [
-			"honorific expressions"
+			"honorific expressions",
+			"expressions",
+			"polite"
 		]
 	},
 	{
@@ -3913,7 +3915,9 @@
 		],
 		"SearchEN": [
 			"honorific expressions",
-			"special verbs"
+			"expressions",
+			"special verbs",
+			"polite"
 		]
 	},
 	{
@@ -4007,7 +4011,8 @@
 		],
 		"SearchEN": [
 			"humble expressions",
-			"expressions"
+			"expressions",
+			"polite"
 		]
 	}
 ]
