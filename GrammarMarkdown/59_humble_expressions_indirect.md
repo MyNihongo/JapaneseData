@@ -1,0 +1,1 @@
+In order to make humble forms more respectful (or when the verb stem consists of a single syllable) special verbs are used. `Direct`

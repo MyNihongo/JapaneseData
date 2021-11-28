@@ -1,4 +1,4 @@
-In order to make honorific forms ven more respectful special verbs are used. These verbs are shown in the table below.
+In order to make honorific forms more respectful (or when the verb stem consists of a single syllable) special verbs are used. These verbs are shown in the table below.
 
 |Normal|Honorific|
 |-|-|

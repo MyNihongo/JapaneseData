@@ -1111,9 +1111,9 @@
 	},
 	{
 		"Id": 59,
-		"Sort": 110,
-		"Title": "Humble expressions - special verbs",
-		"Text": "59_humble_expressions_special_verbs",
+		"Sort": 111,
+		"Title": "Humble expressions - indirect",
+		"Text": "59_humble_expressions_indirect",
 		"Jlpt": 4,
 		"Form": "謙譲語",
 		"Search": [
@@ -1124,7 +1124,8 @@
 			"humble expressions",
 			"expressions",
 			"polite",
-			"special verbs"
+			"special verbs",
+			"indirect"
 		]
 	},
 	{
@@ -4011,6 +4012,25 @@
 			"humble expressions",
 			"expressions",
 			"polite"
+		]
+	},
+	{
+		"Id": 193,
+		"Sort": 111,
+		"Title": "Humble expressions - direct",
+		"Text": "59_humble_expressions_direct",
+		"Jlpt": 4,
+		"Form": "謙譲語",
+		"Search": [
+			"謙譲語",
+			"けんじょうご"
+		],
+		"SearchEN": [
+			"humble expressions",
+			"expressions",
+			"polite",
+			"special verbs",
+			"direct"
 		]
 	}
 ]
