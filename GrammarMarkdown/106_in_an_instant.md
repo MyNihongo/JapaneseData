@@ -3,7 +3,7 @@ To create this form add `そうです` to a verb stem. *そうです* is a な-a
 
 |Pattern|Example|
 |-|-|
-|Verb stem + そうな|食べ**そうな**|
+|Verb stem + そうです|食べ**そうです**|
 
 >箱は落ち**そうです**。A box will fall now.
 
