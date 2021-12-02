@@ -719,10 +719,10 @@
 	{
 		"Id": 40,
 		"Sort": 48,
-		"Title": "There are things",
+		"Title": "Experience",
 		"Text": "40_there_are_things",
 		"Jlpt": 5,
-		"Form": "事があります",
+		"Form": "た + 事があります",
 		"Search": [
 			"た事がある",
 			"たことがある",
@@ -743,10 +743,10 @@
 		],
 		"SearchEN": [
 			"experience",
-			"have done before",
 			"has been done before",
-			"there are times",
-			"sometimes"
+			"have done before",
+			"done before",
+			"before"
 		]
 	},
 	{
@@ -2124,14 +2124,14 @@
 	{
 		"Id": 106,
 		"Sort": 76,
-		"Title": "Happen in an instant",
-		"Text": "106_looks_like",
+		"Title": "It looks like",
+		"Text": "106_it_looks_like",
 		"Jlpt": 4,
-		"Form": "そうな",
+		"Form": "そうです",
 		"Search": [
 			"そうな",
-			"そうだ",
-			"そうです"
+			"そうだね",
+			"そうですね"
 		],
 		"SearchEN": [
 			"it is like",
@@ -2142,6 +2142,7 @@
 			"it looks like",
 			"looks like",
 			"happen in an instant",
+			"in an instant",
 			"instant",
 			"moment"
 		]
@@ -4095,6 +4096,70 @@
 			"polite",
 			"special verbs",
 			"direct"
+		]
+	},
+	{
+		"Id": 194,
+		"Sort": 48, -- increase
+		"Title": "Sometimes",
+		"Text": "40_there_are_things",
+		"Jlpt": 5,
+		"Form": "た + 事があります",
+		"Search": [
+			"た事がある",
+			"たことがある",
+			"た事があります",
+			"たことがあります",
+			"事がある",
+			"ことがある",
+			"た事がない",
+			"事があります",
+			"ことがあります",
+			"たことがない",
+			"事がない",
+			"ことがない",
+			"た事がありません",
+			"たことがありません",
+			"事がありません",
+			"ことがありません"
+		],
+		"SearchEN": [
+			"experience",
+			"has been done before",
+			"have done before",
+			"done before",
+			"before"
+		]
+	},
+	{
+		"Id": 195,
+		"Sort": 69, -- increase
+		"Title": "Ask for permission",
+		"Text": "195_ask_for_permission",
+		"Jlpt": 4,
+		"Form": "～あせてもらえませんか",
+		"Search": [
+			"てもらえませんか",
+			"でもらえませんか",
+			"あせてもらえませんか",
+			"させてもらえませんか",
+			"わせてもらえませんか",
+			"たせてもらえませんか",
+			"らせてもらえませんか",
+			"ませてもらえませんか",
+			"ばせてもらえませんか",
+			"なせてもらえませんか",
+			"かせてもらえませんか",
+			"がせてもらえませんか"
+		],
+		"SearchEN": [
+			"ask for permission",
+			"permission",
+			"it is allowed to do",
+			"it is ok to do",
+			"allowed to do",
+			"ok to do",
+			"may"
 		]
 	}
 ]
