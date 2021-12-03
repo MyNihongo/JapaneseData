@@ -19,9 +19,9 @@ In order to make honorific forms more respectful (or when the verb stem consists
 The honorific expression of three verbs いる (to be - living), 行く (to go) and 来る (to come) is only one る-verb `いらっしゃる`, so the meaning of the clause (which of the verbs is used) can only be determined by the context.
 
 >先生はまだ**いらっしゃいますか** (いる)。Is the teacher still there?
-
+>
 >明日、先生は外国に**いらっしゃいます** (行く)。Teacher will go abroad tomorrow.
-
+>
 >今日は先生は**いらっしゃいません** (来る)。Today the teacher will not come.
 
 #### なさる
