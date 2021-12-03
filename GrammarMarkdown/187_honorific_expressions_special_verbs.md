@@ -22,7 +22,7 @@ The honorific expression of three verbs いる (to be - living), 行く (to go) 
 
 >明日、先生は外国に**いらっしゃいます** (行く)。Teacher will go abroad tomorrow.
 
->今日は先生は**いらっしゃいません**。Today the teacher will not come.
+>今日は先生は**いらっしゃいません** (来る)。Today the teacher will not come.
 
 #### なさる
 *する* verbs have a standard honorific form with is interchangeable with *なさる*. If *する* is used with the [を particle](173) (e.g. スポーツをする) only *なさる* can be used.
