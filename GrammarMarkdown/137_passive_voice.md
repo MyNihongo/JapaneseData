@@ -1,4 +1,4 @@
-In order to use the passive voice in Japanese (e.g. *"vegetables are eaten"*) an `あれる` ending of verbs is used. In order to create a passive voice the final *う vowel* of a verb is replaced with *あれる* (under each group there is a specific memorisation rule). For る- and う-verbs the rule is the same, but irregular verbs *来る (くる)* and *する* conjugate differently. As it is usually the case with verbs which end with the *う syllable* the *わ syllable* appears with *あれる*.
+In order to use the passive voice in Japanese (e.g. *"vegetables are eaten"*) an `あれる` ending of verbs is used. Below there specific memorisation rules for う- and る-verbs.
 The `に particle` indicates by whom an action is performed.
 *Note* that with る-verbs the passive voice and the [potential form](97) looks exactly the same, i.e. *られる* ending.
 
@@ -27,13 +27,19 @@ Example: 使う➝使わ**ない**➝使われる
 |見る|見**られる**|
 |開ける|開け**られる**|
 
-Rule:
+##### Rule (option 1):
 1) conjugate the verb into its ない-form
 2) replace the *ない* with *られる*
 
-Example: 食べる➝食べ**ない**➝食べられる or 食べる➝食べ**ます**➝食べられる
+Example: 食べる➝食べ**ない**➝食べられる
 
-#### Passive voice of irregular verbs.
+##### Rule (option 2):
+1) conjugate the verb into its ます-form
+2) replace the *ます* with *られる*
+
+Example: 食べる➝食べ**ます**➝食べられる
+
+#### Passive voice of irregular verbs
 |Irregular verb|Passive voice|
 |-|-|
 |する|される|
