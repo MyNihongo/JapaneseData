@@ -1987,7 +1987,9 @@
 			"ばせます",
 			"なせます",
 			"かせます",
-			"がせます"
+			"がせます",
+			"使役形",
+			"しえきけい"
 		],
 		"SearchEN": [
 			"causative form",
@@ -2000,7 +2002,7 @@
 	{
 		"Id": 100,
 		"Sort": 71,
-		"Title": "Causative passive form (to be made or let do something)",
+		"Title": "Causative passive form - to be made or let do something",
 		"Text": "100_causative_passive_form",
 		"Jlpt": 4,
 		"Form": "～あせられます",
@@ -2024,11 +2026,14 @@
 			"ばせられます",
 			"なせられます",
 			"かせられます",
-			"がせられます"
+			"がせられます",
+			"使役受身形",
+			"しえきうけみけい"
 		],
 		"SearchEN": [
 			"causative passive form",
 			"passive form",
+			"passive voice",
 			"to be made doing",
 			"be made doing",
 			"was made doing",
@@ -4257,6 +4262,52 @@
 			"allowed to do",
 			"ok to do",
 			"may"
+		]
+	},
+	{
+		"Id": 196,
+		"Sort": 72,
+		"Title": "Causative passive form - short form",
+		"Text": "196_causative_passive_short_form",
+		"Jlpt": 4,
+		"Form": "～あせれる",
+		"Search": [
+			"あせれる",
+			"させれる",
+			"わせれる",
+			"たせれる",
+			"らせれる",
+			"ませれる",
+			"ばせれる",
+			"なせれる",
+			"かせれる",
+			"がせれる",
+			"あせれます",
+			"させれます",
+			"わせれます",
+			"たせれます",
+			"らせれます",
+			"ませれます",
+			"ばせれます",
+			"なせれます",
+			"かせれます",
+			"がせれます",
+			"使役受身形",
+			"しえきうけみけい"
+		],
+		"SearchEN": [
+			"short causative passive form",
+			"causative passive form",
+			"passive form",
+			"passive voice",
+			"to be made doing",
+			"be made doing",
+			"was made doing",
+			"made doing",
+			"to be let doing",
+			"be let doing",
+			"was let doing",
+			"let doing"
 		]
 	}
 ]
