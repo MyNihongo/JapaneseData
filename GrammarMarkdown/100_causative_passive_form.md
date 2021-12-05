@@ -1,31 +1,68 @@
-If the [causative form](99) is combined with the [passive voice](137) expressions as *"to be made doing"* or *"to be let doing"* can be used and the form is `あせられる` which consists of `あせる (causative) + あれる (passive)` where the last *る* of *あせる* is replaced with * あれる*. Technically it is a combination of two forms, but it is worth highlighting it.
-The pattern of the form is `Aは + Bに + verbあせられる` (notice that the *に particle* is used), where:
+If the [causative form](99) is combined with the [passive voice](137) expressions as *"to be made doing"* or *"to be let doing"* can be used. Below there specific memorisation rules for う- and る-verbs.
+The complete clause of the causative passive form is `Aは + Bに + verbあせられる`, where:
 - A - subject (the one who is made doing)
 - B - object (the one who makes someone do)
 
-Due to the fact that the form starts with the causative part it becomes quite clear that the form is created in exactly the same way, but instead of *あせる* there will be *あせられる*. As a recap the pattern for verbs is in the table below.
-
-|Form|Pattern|Example|
+#### Causative passive form of う-verbs
+|Verb|Dictionary form|Causative passive form|
 |-|-|-|
-|る-verbs|～させられる|食べ**させられる**|
-|う-verbs|～あせられる|飲**ませられる**|
-|する|させられる||
-|来る (くる)|来**させられる** (こさせられる)||
+|～う|買う|買**わされる**|
+|～つ|待つ|待**たされる**|
+|～る|取る|取**らされる**|
+|～む|読む|読**まされる**|
+|～ぶ|叫ぶ|叫**ばされる**|
+|～ぬ|死ぬ|死**なされる**|
+|～く|書く|書**かされる**|
+|～ぐ|急ぐ|急**がされる**|
+|～す|話す|話**される**|
 
-More examples for う-verbs are in the next table. Again the only peculiar verb group is the one which ends with *う* because like in the casual negative form the last *う* is replaced with *わ*, so the causative form is *わせられる*.
+#####　Rule (except す-verbs):
+1) conjugate the verb into its ない-form
+2) replace the *ない* with *される*
 
-|う-verb|Dictionary form|Potential form|
-|-|-|-|
-|～う|買う|買**わせられる**|
-|～つ|待つ|待**たせられる**|
-|～る|取る|取**らせられる**|
-|～む|読む|読**ませられる**|
-|～ぶ|叫ぶ|叫**ばせられる**|
-|～ぬ|死ぬ|死**なせられる**|
-|～く|書く|書**かせられる**|
-|～ぐ|急ぐ|急**がせられる**|
-|～す|話す|話**させられる**|
+Example: 使う➝使わ**ない**➝使わされる
 
->お金がなかったが、友達に車を買**わせられた**。I didn't have money, but my fried made me buy the car.
+>私**は**母**に**コーヒーを飲ま**されました**。I was allowed by mom to drink coffee.
+>
+>私**は**社長**に**働か**されました**。I was persuaded by the boss to work.
 
->パスポートがないが、日本に行**かせられた**。I don't have a passport, but they let me go to Japan.
+#####　Rule (for す-verbs):
+す-verbs have a special rule in order that a syllable さ is not duplicated.
+1) conjugate the verb into its ない-form
+2) replace the *ない* with *れる*
+
+Example: 話す➝話さ**ない**➝話される
+
+>私**は**両親**に**先生と話**されました**。I was allowed by parents to talk to the teacher.
+
+#### Causative passive form of る-verbs
+|Verb|Causative passive form|
+|-|-|
+|見る|見**させられる**|
+|開ける|開け**させられる**|
+
+##### Rule (option 1):
+1) conjugate the verb into its ない-form
+2) replace the *ない* with *させられる*
+
+Example: 食べる➝食べ**ない**➝食べさせられる
+
+##### Rule (option 2):
+1) conjugate the verb into its ます-form
+2) replace the *ます* with *させる*
+
+Example: 食べる➝食べ**ます**➝食べさせられる
+
+>私**は**母**に**映画を見**させられました**。I was allowed by mom to watch the movie.
+>
+>私**は**母**に**納豆を食べ**させられました**。I was persuaded by mom to eat natto.
+
+#### Causative passive form of irregular verbs
+|Irregular verb|Causative form|
+|-|-|
+|する|させられる|
+|来る (くる)|来**させられる** (こさせられる)|
+
+>私**は**先生**に**宿題を**させられました**。I was persuaded by the teacher to do the homework.
+>
+>私**は**母**に**学校に**来させられました**。I was persuaded by mom to come to school.
