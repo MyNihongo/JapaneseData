@@ -2953,7 +2953,8 @@
 		"Words": [
 			"1505390",
 			"1505470",
-			"1297960"
+			"1297960",
+			"1426650"
 		],
 		"En": [
 			"sentence",
@@ -3622,6 +3623,231 @@
 			"true",
 			"reality",
 			"Buddhist sect"
+		]
+	},
+	{
+		"Id": 180,
+		"Sort": 71,
+		"Char": "洗",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あら|う"
+		],
+		"Onyomi": [
+			"セン"
+		],
+		"Words": [
+			"1390930",
+			"1390980",
+			"1390950"
+		],
+		"En": [
+			"wash",
+			"inquire into",
+			"probe"
+		]
+	},
+	{
+		"Id": 181,
+		"Sort": 72,
+		"Char": "濯",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"タク"
+		],
+		"Words": [
+			"1390980"
+		],
+		"En": [
+			"laundry",
+			"wash",
+			"pour on",
+			"rinse"
+		]
+	},
+	{
+		"Id": 182,
+		"Sort": 73,
+		"Char": "注",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"そそ|ぐ"
+		],
+		"Onyomi": [
+			"チュウ"
+		],
+		"Words": [
+			"1426530",
+			"1426650"
+		],
+		"En": [
+			"pour",
+			"irrigate",
+			"shed (tears)",
+			"flow into",
+			"concentrate on",
+			"notes",
+			"comment",
+			"annotate"
+		]
+	},
+	{
+		"Id": 183,
+		"Sort": 74,
+		"Char": "服",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"フク"
+		],
+		"Words": [
+			"1500940",
+			"1562190",
+			"1546020"
+		],
+		"En": [
+			"clothes",
+			"admit",
+			"obey",
+			"discharge"
+		]
+	},
+	{
+		"Id": 184,
+		"Sort": 75,
+		"Char": "料",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"リョウ"
+		],
+		"Words": [
+			"1554310",
+			"1554280"
+		],
+		"En": [
+			"fee",
+			"materials"
+		]
+	},
+	{
+		"Id": 185,
+		"Sort": 76,
+		"Char": "理",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"リ"
+		],
+		"Words": [
+			"1554310",
+			"1550140",
+			"1549910"
+		],
+		"En": [
+			"logic",
+			"arrangement",
+			"reason",
+			"justice",
+			"truth"
+		]
+	},
+	{
+		"Id": 186,
+		"Sort": 77,
+		"Char": "寝",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ね|る",
+			"ね|かす"
+		],
+		"Onyomi": [
+			"シン"
+		],
+		"Words": [
+			"1360010",
+			"1360140"
+		],
+		"En": [
+			"lie down",
+			"sleep",
+			"rest",
+			"bed",
+			"remain unsold"
+		]
+	},
+	{
+		"Id": 187,
+		"Sort": 78,
+		"Char": "起",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"おき|る",
+			"おこ|る",
+			"おこ|す"
+		],
+		"Onyomi": [
+			"キ"
+		],
+		"Words": [
+			"1223640",
+			"1223660"
+		],
+		"En": [
+			"rouse",
+			"wake up",
+			"get up"
+		]
+	},
+	{
+		"Id": 188,
+		"Sort": 79,
+		"Char": "用",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"もち|いる"
+		],
+		"Onyomi": [
+			"ヨウ"
+		],
+		"Words": [
+			"1546300",
+			"1546220",
+			"1306200",
+			"1546290"
+		],
+		"En": [
+			"utilise",
+			"business",
+			"service",
+			"use",
+			"empty"
+		]
+	},
+	{
+		"Id": 189,
+		"Sort": 80,
+		"Char": "事",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"こと"
+		],
+		"Onyomi": [
+			"ジ",
+			"ズ"
+		],
+		"Words": [
+			"1304970",
+			"1546300"
+		],
+		"En": [
+			"matter",
+			"thing",
+			"fact",
+			"business",
+			"reason",
+			"possibility"
 		]
 	}
 ]
