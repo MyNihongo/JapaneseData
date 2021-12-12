@@ -3,9 +3,9 @@ In English its usage can be translated as *even though* or *in spite of*.
 
 |Form|Pattern|Example|
 |-|-|-|
-|Verbs|casual form + のに|食べる**のに**|
-|Nouns|noun + な + のに|日本人**なのに**|
-|い-adjectives|casual form + のに|高い**なのに**|
-|な-adjectives|dictionary form + のに|静かな**のに**|
+|Verbs|verb + のに|食べる**のに**|
+|Nouns|noun + **な** + のに|日本人**なのに**|
+|い-adjectives|adjective + のに|高い**なのに**|
+|な-adjectives|adjective + **な** + のに|静かな**のに**|
 
 >毎日、漢字を勉強した**のに**、試験を受かれませんでした。Despite the fact that I had been studying every day, I didn't pass the exam.

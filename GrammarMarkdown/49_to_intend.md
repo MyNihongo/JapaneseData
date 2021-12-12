@@ -13,4 +13,4 @@ In order to say that the speaker does not have any intention of doing something 
 
 There are several way how to express intentions and here are the differences:
 - [verbおう + と思ってる](146) - *つもり* is more certain. Even though *"verbおう + と思ってる"* shows that the speaker has been thinking about it *つもり* implies more determination
-- [予定](140) - *予定* is a defined plan (e.g. plans for tomorrow), but even though *つもり* expresses some certainty it is not 100% certain
+- [予定](140) - *予定* is a defined plan (e.g. plans for tomorrow or schedule), but even though *つもり* expresses some certainty it is not 100% certain

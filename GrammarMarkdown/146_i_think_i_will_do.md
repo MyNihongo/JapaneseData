@@ -1,7 +1,7 @@
 In order to express plans or intentions in a way *"I think I will do something"* a pattern `verbおう + と思ってる` or `verbおう + と思ってる` is used where the first verb is in the casual tense of the [volitional form](24) which is constructed by replacing the last vowel with *おう* and is translated as *"let's do something"*. Usually the pattern is **not used** in the negative tense, so for negations [つもり](49) is a more natural choice.
 There are several ways how to express intentions and below the differences are explained:
 - [つもり](49) - *つもり* is more certain. Even though *"verbおう + と思ってる"* shows that the speaker has been thinking about it *つもり* implies more determination
-- [予定](140) - *予定* is a defined plan (e.g. plans for tomorrow), but *"verbおう + と思ってる"* expresses thoughts of the speaker to do something
+- [予定](140) - *予定* is a defined plan (e.g. plans for tomorrow or schedule), but *"verbおう + と思ってる"* expresses thoughts of the speaker to do something
 
 This pattern can be used in two tenses which are show below
 - *"verbおう + と思ってる"* - the speaker has been thinking about it for some time

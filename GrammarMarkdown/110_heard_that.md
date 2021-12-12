@@ -1,8 +1,22 @@
-In order to report that the speaker heard something a pattern `clause + そうだ` is used.
+In order to report that the speaker heard something a pattern `clause + そうです` is used where the clause is in the casual form (both past and present tense are allowed).
 
-|Pattern|Example|
+|Part of speech|Example (present tense)|
 |-|-|
-|I heard that|食べ**た**そう|
+|verb|食べるそうです|
+|noun|日本人**だ**そうです|
+|い-adjective|おいしいそうです|
+|な-adjective|静か**だ**そうです|
 
-In the *"I heard that"-sentences* the clause retains its ending while in *"it looks like"-sentences* the ending is dropped.
->綾子ちゃんが結婚してる**そうだ**。I heard that Ayako is married.
+>明日、雨が降る**そうです**。I heard that it would rain tomorrow.
+>
+>ジョンさんは日本人**だそうです**。I heard that John was Japanese.
+>
+>日本の料理がおいしいい**そうです**。I heard that Japanese food was delicious.
+>
+>東京が静か**だそうです**。I heard that Tokyo was quiet.
+
+#### `Heard that` vs `Looks like`
+**Note** that *"そうです"* can also mean [it looks like](106), but the patterns are different. *"I heard that"* uses the casual form while in *"it looks like"* the ending is dropped.
+>雨が降り**そうです**。It will rain in the next instance.
+>
+>雨が降る**そうです**。I heard that it would rain.

@@ -6,5 +6,5 @@ So be careful and use the potential form of the verb *もらう* in order to ask
 The meaning of *てもらえませんか* is similar to [てください](46), but the usage is different. *てください* is used **only** in tests and public requests, while *てもらえませんか* is used in a direct request to a person. If one uses *てください* directly with another person it will be considered **rude**.
 >少し手伝っ**てもらえませんか**。Could you help me a bit?
 
-It is also possible to use [humble expressions](67) and replace the verb *もらう* with `いただく`. Note that the potential form remains, so it is *いただ**け**ませんか* and not *(✕)いただ**き**ませんか*. **いただけませんか** is the most polite way to ask for something.
+It is also possible to use [humble expressions](192) and replace the verb *もらう* with `いただく`. Note that the potential form remains, so it is *いただ**け**ませんか* and not *(✕)いただ**き**ませんか*. **いただけませんか** is the most polite way to ask for something.
 >少し手伝っ**いただけませんか**。Could you help me a bit?

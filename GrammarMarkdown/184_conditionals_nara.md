@@ -1,4 +1,4 @@
-`なら` particle is used only in specific situations which are listed below. The patter of the form is `A(casual form)なら、B`.
+`なら` particle is used only in specific situations which are listed below. The pattern of the form is `A(casual form)なら、B`.
 
 #### Giving advice, recommendations
 >東京を観光する**なら**、スカイツリーがいいですよ。If you go sight seeing in Tokyo, Skytree is great.

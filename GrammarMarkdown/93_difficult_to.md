@@ -1,4 +1,5 @@
-In order to say that something is difficult to do a pattern `verb + にくい(です)` is used. To construct this form a verb must be in its stem form which is followed by the い-adjective *にくい*, therefore, the whole pattern can be conjugated in the same way as any い-adjective.
+In order to say that something is difficult to do a pattern `verb + にくいです` is used. To construct this form a verb must be in its stem form which is followed by the い-adjective *にくい*, therefore, the whole pattern can be conjugated in the same way as any い-adjective.
+This form is the opposite of [verb + やすいです](138) which means *"it is easy to"*.
 
 |Pattern|Example|
 |-|-|

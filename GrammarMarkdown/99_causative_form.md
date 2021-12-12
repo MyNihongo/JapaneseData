@@ -1,19 +1,10 @@
-In order to express things like *"to make someone do"* or *"to let someone do"* (i.e. the causative form) a conjugation form `あせる` of verbs is used. Which of these two expressions can only be confirmed by the context, but sometimes even the context does not make the sense unequivocal. The pattern of the form is `Aは + Bに + verbあせる` (notice that the *に particle* is used), where:
+In order to express ideas like *"to make someone do"* or *"to let someone do"* (i.e. the causative form) an `あせる` ending of verbs is used. Below there specific memorisation rules for う- and る-verbs.
+The complete clause of the causative form is `Aは + Bに(or を) + verbあせる` (see [this article](194) about rules for transitive and intransitive verbs), where:
 - A - subject (the one who makes someone do)
 - B - object (the one who is made doing)
 
-う- and る-verbs differ in how the *あせる-form* is created. For う-verbs the last う-vowel is replaces with *あせる*, therefore, the last consonant and *あ* make a syllable (く → か + せる). For る-verbs the final *る* is replaced with *させる*. The pattern is shown in the table below.
-
-|Form|Pattern|Example|
-|-|-|-|
-|る-verbs|～させる|食べ**させる**|
-|う-verbs|～あせる|飲**ませる**|
-|する|させる||
-|来る (くる)|来**させる** (こさせる)||
-
-More examples for う-verbs are in the next table. The only peculiar verb group is the one which ends with *う* because like in the casual negative form the last *う* is replaced with *わ*, so the causative form is *わせる*.
-
-|う-verb|Dictionary form|Potential form|
+#### Causative form of う-verbs
+|Verb|Dictionary form|Causative form|
 |-|-|-|
 |～う|買う|買**わせる**|
 |～つ|待つ|待**たせる**|
@@ -25,6 +16,44 @@ More examples for う-verbs are in the next table. The only peculiar verb group 
 |～ぐ|急ぐ|急**がせる**|
 |～す|話す|話**させる**|
 
->弟に宿題を**させた**。I made my younger brother do my homework. (Theoretically, if the younger brother likes doing the homework the sentence could be translated as *"I **let** my younger brother do my homework"*)
+Rule:
+1) conjugate the verb into its ない-form
+2) replace the *ない* with *せる*
 
->友達に僕先にパーティーに行**かせた**。I let my friends go to the party without me.
+Example: 使う➝使わ**ない**➝使わせる
+
+>母**は**私**に**コーヒーを飲ま**せます**。Mom lets me drink coffee.
+>
+>社長**は**私**に**働か**せました**。The boos made me work.
+
+#### Causative form of る-verbs
+|Verb|Causative form|
+|-|-|
+|見る|見**させる**|
+|開ける|開け**させる**|
+
+##### Rule (option 1):
+1) conjugate the verb into its ない-form
+2) replace the *ない* with *させる*
+
+Example: 食べる➝食べ**ない**➝食べさせる
+
+##### Rule (option 2):
+1) conjugate the verb into its ます-form
+2) replace the *ます* with *させる*
+
+Example: 食べる➝食べ**ます**➝食べさせる
+
+>母**は**私**に**映画を見**させました**。Mom let me watch the movie.
+>
+>母**は**私**に**納豆を食べ**させました**。Mom made me eat natto.
+
+#### Causative form of irregular verbs
+|Irregular verb|Causative form|
+|-|-|
+|する|させる|
+|来る (くる)|来**させる** (こさせる)|
+
+>先生**は**私**に**宿題を**させました**。Teacher made me do the homework.
+>
+>母**は**私**に**学校に**来させました**。Mom made me come to school.

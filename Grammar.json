@@ -424,7 +424,11 @@
 			"ないか",
 			"ましょう",
 			"おう",
-			"よう"
+			"よう",
+			"意志形",
+			"いしけい",
+			"意向形",
+			"いこうけい"
 		],
 		"SearchEN": [
 			"volitional form",
@@ -446,13 +450,16 @@
 		"Search": [
 			"ましょうか",
 			"おうか",
-			"ようか"
+			"ようか",
+			"提案",
+			"ていあん"
 		],
 		"SearchEN": [
 			"offer assistance",
 			"assistance",
 			"shall",
-			"help"
+			"help",
+			"suggestion"
 		]
 	},
 	{
@@ -719,8 +726,8 @@
 	{
 		"Id": 40,
 		"Sort": 48,
-		"Title": "There are things",
-		"Text": "40_there_are_things",
+		"Title": "Experience",
+		"Text": "40_experience",
 		"Jlpt": 5,
 		"Form": "事があります",
 		"Search": [
@@ -743,10 +750,11 @@
 		],
 		"SearchEN": [
 			"experience",
-			"have done before",
 			"has been done before",
-			"there are times",
-			"sometimes"
+			"have done before",
+			"done before",
+			"before",
+			"usually"
 		]
 	},
 	{
@@ -929,7 +937,7 @@
 			"つもりです"
 		],
 		"SearchEN": [
-			"to intend yo",
+			"to intend to",
 			"intend to",
 			"intent",
 			"to plan to",
@@ -1111,22 +1119,47 @@
 	},
 	{
 		"Id": 59,
-		"Sort": 109,
-		"Title": "Extra modest expressions",
-		"Text": "59_extra_modest_expressions",
+		"Sort": 113,
+		"Title": "Humble expressions - indirect",
+		"Text": "59_humble_expressions_indirect",
 		"Jlpt": 4,
-		"Form": "",
+		"Form": "謙譲語",
 		"Search": [
-			"でございます",
-			"でござる",
-			"ございます",
-			"ござる",
-			"いたします",
+			"謙譲語",
+			"けんじょうご",
+			"参る",
+			"まいる",
+			"参ります",
+			"まいります",
+			"おる",
+			"おります",
+			"致す",
 			"いたす",
-			"致す"
+			"致します",
+			"いたします",
+			"申す",
+			"もうす",
+			"申します",
+			"もうします",
+			"頂く",
+			"いただく",
+			"頂きます",
+			"いただきます",
+			"存じておる",
+			"ぞんじておる",
+			"存じております",
+			"ぞんじております",
+			"存じる",
+			"ぞんじる",
+			"存じます",
+			"ぞんじます"
 		],
 		"SearchEN": [
-			"extra modest expressions"
+			"humble expressions",
+			"expressions",
+			"polite",
+			"special verbs",
+			"indirect"
 		]
 	},
 	{
@@ -1307,7 +1340,7 @@
 	},
 	{
 		"Id": 67,
-		"Sort": 107,
+		"Sort": 109,
 		"Title": "Honorific expressions",
 		"Text": "67_honorific_expressions",
 		"Jlpt": 4,
@@ -1319,7 +1352,9 @@
 			"いらっしゃいます"
 		],
 		"SearchEN": [
-			"honorific expressions"
+			"honorific expressions",
+			"expressions",
+			"polite"
 		]
 	},
 	{
@@ -1590,7 +1625,7 @@
 	},
 	{
 		"Id": 82,
-		"Sort": 70,
+		"Sort": 72,
 		"Title": "It looks like",
 		"Text": "82_it_looks_like",
 		"Jlpt": 4,
@@ -1611,7 +1646,7 @@
 	},
 	{
 		"Id": 83,
-		"Sort": 71,
+		"Sort": 73,
 		"Title": "Similar to (by appearance)",
 		"Text": "83_object_similar_to",
 		"Jlpt": 4,
@@ -1627,7 +1662,7 @@
 	},
 	{
 		"Id": 84,
-		"Sort": 72,
+		"Sort": 74,
 		"Title": "Do like",
 		"Text": "84_do_like",
 		"Jlpt": 4,
@@ -1774,7 +1809,7 @@
 	},
 	{
 		"Id": 92,
-		"Sort": 78,
+		"Sort": 80,
 		"Title": "It seems like",
 		"Text": "92_it_seems_like",
 		"Jlpt": 4,
@@ -1908,7 +1943,7 @@
 	},
 	{
 		"Id": 98,
-		"Sort": 79,
+		"Sort": 81,
 		"Title": "Similar to (by characteristic)",
 		"Text": "98_similar_to",
 		"Jlpt": 4,
@@ -1952,7 +1987,9 @@
 			"ばせます",
 			"なせます",
 			"かせます",
-			"がせます"
+			"がせます",
+			"使役形",
+			"しえきけい"
 		],
 		"SearchEN": [
 			"causative form",
@@ -1964,8 +2001,8 @@
 	},
 	{
 		"Id": 100,
-		"Sort": 69,
-		"Title": "Causative passive form (to be made or let do something)",
+		"Sort": 71,
+		"Title": "Causative passive form - to be made or let do something",
 		"Text": "100_causative_passive_form",
 		"Jlpt": 4,
 		"Form": "～あせられます",
@@ -1973,27 +2010,49 @@
 			"あせられる",
 			"させられる",
 			"わせられる",
+			"わされる",
 			"たせられる",
+			"たされる",
 			"らせられる",
+			"らされる",
 			"ませられる",
+			"まされる",
 			"ばせられる",
+			"ばされる",
 			"なせられる",
+			"なされる",
 			"かせられる",
+			"かされる",
 			"がせられる",
+			"がされる",
+			"される",
 			"あせられます",
 			"させられます",
 			"わせられます",
+			"わされます",
 			"たせられます",
+			"たされます",
 			"らせられます",
+			"らされます",
 			"ませられます",
+			"まされます",
 			"ばせられます",
+			"ばされます",
 			"なせられます",
+			"なされます",
 			"かせられます",
-			"がせられます"
+			"かされます",
+			"がせられます",
+			"がされます",
+			"されます",
+			
+			"使役受身形",
+			"しえきうけみけい"
 		],
 		"SearchEN": [
 			"causative passive form",
 			"passive form",
+			"passive voice",
 			"to be made doing",
 			"be made doing",
 			"was made doing",
@@ -2001,7 +2060,9 @@
 			"to be let doing",
 			"be let doing",
 			"was let doing",
-			"let doing"
+			"let doing",
+			"to be persuaded",
+			"be persuaded"
 		]
 	},
 	{
@@ -2096,15 +2157,15 @@
 	},
 	{
 		"Id": 106,
-		"Sort": 76,
-		"Title": "Happen in an instant",
-		"Text": "106_looks_like",
+		"Sort": 78,
+		"Title": "It looks like",
+		"Text": "106_it_looks_like",
 		"Jlpt": 4,
-		"Form": "そうな",
+		"Form": "そうです",
 		"Search": [
 			"そうな",
-			"そうだ",
-			"そうです"
+			"そうだね",
+			"そうですね"
 		],
 		"SearchEN": [
 			"it is like",
@@ -2115,13 +2176,14 @@
 			"it looks like",
 			"looks like",
 			"happen in an instant",
+			"in an instant",
 			"instant",
 			"moment"
 		]
 	},
 	{
 		"Id": 107,
-		"Sort": 77,
+		"Sort": 79,
 		"Title": "Do like",
 		"Text": "107_do_like",
 		"Jlpt": 4,
@@ -2166,7 +2228,7 @@
 	},
 	{
 		"Id": 109,
-		"Sort": 82,
+		"Sort": 84,
 		"Title": "To be about to",
 		"Text": "109_to_be_about_to",
 		"Jlpt": 4,
@@ -2187,7 +2249,7 @@
 	},
 	{
 		"Id": 110,
-		"Sort": 80,
+		"Sort": 82,
 		"Title": "I heard that",
 		"Text": "110_heard_that",
 		"Jlpt": 4,
@@ -2202,7 +2264,7 @@
 	},
 	{
 		"Id": 111,
-		"Sort": 97,
+		"Sort": 99,
 		"Title": "Transitive and intransitive verbs",
 		"Text": "111_transitive_intransitive_verbs",
 		"Jlpt": 4,
@@ -2260,7 +2322,7 @@
 	},
 	{
 		"Id": 114,
-		"Sort": 101,
+		"Sort": 103,
 		"Title": "To do for someone",
 		"Text": "114_to_do_for_someone",
 		"Jlpt": 4,
@@ -2303,7 +2365,7 @@
 	},
 	{
 		"Id": 116,
-		"Sort": 98,
+		"Sort": 100,
 		"Title": "Action away from the speaker",
 		"Text": "116_action_away",
 		"Jlpt": 4,
@@ -2334,7 +2396,7 @@
 	},
 	{
 		"Id": 117,
-		"Sort": 105,
+		"Sort": 107,
 		"Title": "Could you please",
 		"Text": "117_could_you_please",
 		"Jlpt": 4,
@@ -2359,7 +2421,7 @@
 	},
 	{
 		"Id": 118,
-		"Sort": 103,
+		"Sort": 105,
 		"Title": "Someone does for us",
 		"Text": "118_someone_does_for_us",
 		"Jlpt": 4,
@@ -2379,7 +2441,7 @@
 	},
 	{
 		"Id": 119,
-		"Sort": 99,
+		"Sort": 101,
 		"Title": "Action towards the speaker",
 		"Text": "119_action_towards",
 		"Jlpt": 4,
@@ -2408,7 +2470,7 @@
 	},
 	{
 		"Id": 120,
-		"Sort": 86,
+		"Sort": 88,
 		"Title": "To try doing",
 		"Text": "120_to_try",
 		"Jlpt": 4,
@@ -2437,7 +2499,7 @@
 	},
 	{
 		"Id": 121,
-		"Sort": 104,
+		"Sort": 106,
 		"Title": "Someone does for us",
 		"Text": "121_someone_does_for_us",
 		"Jlpt": 4,
@@ -2458,7 +2520,7 @@
 	},
 	{
 		"Id": 122,
-		"Sort": 83,
+		"Sort": 85,
 		"Title": "To do in advance",
 		"Text": "122_to_do_in_advance",
 		"Jlpt": 4,
@@ -2481,7 +2543,7 @@
 	},
 	{
 		"Id": 123,
-		"Sort": 84,
+		"Sort": 86,
 		"Title": "To do by accident / to finish completely",
 		"Text": "123_to_do_by_accident",
 		"Jlpt": 4,
@@ -2533,7 +2595,7 @@
 	},
 	{
 		"Id": 125,
-		"Sort": 102,
+		"Sort": 104,
 		"Title": "To do for someone",
 		"Text": "125_do_for_someone",
 		"Jlpt": 4,
@@ -2593,7 +2655,7 @@
 	},
 	{
 		"Id": 128,
-		"Sort": 95,
+		"Sort": 97,
 		"Title": "It could be said",
 		"Text": "128_it_could_be_said",
 		"Jlpt": 4,
@@ -2615,7 +2677,7 @@
 	},
 	{
 		"Id": 129,
-		"Sort": 91,
+		"Sort": 93,
 		"Title": "Called or named",
 		"Text": "129_called_named",
 		"Jlpt": 4,
@@ -2656,7 +2718,7 @@
 	},
 	{
 		"Id": 131,
-		"Sort": 94,
+		"Sort": 96,
 		"Title": "It is said",
 		"Text": "131_it_is_said",
 		"Jlpt": 4,
@@ -2680,7 +2742,7 @@
 	},
 	{
 		"Id": 132,
-		"Sort": 81,
+		"Sort": 83,
 		"Title": "I heard that",
 		"Text": "132_i_heard",
 		"Jlpt": 4,
@@ -2703,7 +2765,7 @@
 	},
 	{
 		"Id": 133,
-		"Sort": 85,
+		"Sort": 87,
 		"Title": "I think",
 		"Text": "133_i_think",
 		"Jlpt": 4,
@@ -2711,12 +2773,20 @@
 		"Search": [
 			"と思う",
 			"と思います",
-			"とおう",
+			"とおもう",
 			"とおもいます",
 			"思う",
 			"思います",
 			"おう",
-			"おもいます"
+			"おもいます",
+			"と思っている",
+			"と思っています",
+			"とおもっている",
+			"とおもっています",
+			"思っている",
+			"思っています",
+			"おもっている",
+			"おもっています"
 		],
 		"SearchEN": [
 			"i think",
@@ -2764,7 +2834,7 @@
 	},
 	{
 		"Id": 136,
-		"Sort": 96,
+		"Sort": 98,
 		"Title": "Informal quotation particle",
 		"Text": "136_informal_quotation_particle",
 		"Jlpt": 4,
@@ -2787,6 +2857,8 @@
 		"Jlpt": 4,
 		"Form": "～あれます",
 		"Search": [
+			"受身形",
+			"うけみけい",
 			"あれる",
 			"来られる",
 			"こられる",
@@ -2851,7 +2923,7 @@
 	},
 	{
 		"Id": 140,
-		"Sort": 89,
+		"Sort": 91,
 		"Title": "To plan",
 		"Text": "140_to_plan",
 		"Jlpt": 4,
@@ -2872,7 +2944,7 @@
 	},
 	{
 		"Id": 141,
-		"Sort": 73,
+		"Sort": 75,
 		"Title": "It looks like",
 		"Text": "141_it_looks_like",
 		"Jlpt": 4,
@@ -2883,7 +2955,11 @@
 			"のようだ",
 			"のようです",
 			"なようだ",
-			"なようです"
+			"なようです",
+			"ようではありません",
+			"のようではありません",
+			"ようではない",
+			"のようではない"
 		],
 		"SearchEN": [
 			"it is like",
@@ -2897,7 +2973,7 @@
 	},
 	{
 		"Id": 142,
-		"Sort": 74,
+		"Sort": 76,
 		"Title": "Object is similar to",
 		"Text": "142_object_similar_to",
 		"Jlpt": 4,
@@ -2915,7 +2991,7 @@
 	},
 	{
 		"Id": 143,
-		"Sort": 75,
+		"Sort": 77,
 		"Title": "Do like",
 		"Text": "143_do_like",
 		"Jlpt": 4,
@@ -2934,7 +3010,7 @@
 	},
 	{
 		"Id": 144,
-		"Sort": 90,
+		"Sort": 92,
 		"Title": "To be able to",
 		"Text": "144_to_be_able_to",
 		"Jlpt": 4,
@@ -2954,7 +3030,7 @@
 	},
 	{
 		"Id": 145,
-		"Sort": 87,
+		"Sort": 89,
 		"Title": "To try hard",
 		"Text": "145_to_try",
 		"Jlpt": 4,
@@ -2979,12 +3055,28 @@
 	},
 	{
 		"Id": 146,
-		"Sort": 88,
+		"Sort": 90,
 		"Title": "I think I will do",
 		"Text": "146_i_think_i_will_do",
 		"Jlpt": 4,
 		"Form": "おうと思います",
 		"Search": [
+			"思う",
+			"おもう",
+			"思います",
+			"おもいます",
+			"思っている",
+			"おもっている",
+			"思ってる",
+			"おもってる",
+			"と思う",
+			"とおもう",
+			"と思います",
+			"とおもいます",
+			"と思っている",
+			"とおもっている",
+			"と思ってる",
+			"とおもってる",
 			"おうと思う",
 			"こうと思う",
 			"そうと思う",
@@ -2993,7 +3085,7 @@
 			"ぼうと思う",
 			"もうと思う",
 			"ろうと思う",
-			"と思ってる",
+			"ようと思う",
 			"おうとおもう",
 			"こうとおもう",
 			"そうとおもう",
@@ -3002,7 +3094,61 @@
 			"ぼうとおもう",
 			"もうとおもう",
 			"ろうとおもう",
-			"とおもってる"
+			"ようとおもう",
+			"おうと思っている",
+			"こうと思っている",
+			"そうと思っている",
+			"とうと思っている",
+			"のうと思っている",
+			"ぼうと思っている",
+			"もうと思っている",
+			"ろうと思っている",
+			"ようと思っている",
+			"おうとおもっている",
+			"こうとおもっている",
+			"そうとおもっている",
+			"とうとおもっている",
+			"のうとおもっている",
+			"ぼうとおもっている",
+			"もうとおもっている",
+			"ろうとおもっている",
+			"ようとおもっている",
+			"おうと思います",
+			"こうと思います",
+			"そうと思います",
+			"とうと思います",
+			"のうと思います",
+			"ぼうと思います",
+			"もうと思います",
+			"ろうと思います",
+			"ようと思います",
+			"おうとおもいます",
+			"こうとおもいます",
+			"そうとおもいます",
+			"とうとおもいます",
+			"のうとおもいます",
+			"ぼうとおもいます",
+			"もうとおもいます",
+			"ろうとおもいます",
+			"ようとおもいます",
+			"おうと思っています",
+			"こうと思っています",
+			"そうと思っています",
+			"とうと思っています",
+			"のうと思っています",
+			"ぼうと思っています",
+			"もうと思っています",
+			"ろうと思っています",
+			"ようと思っています",
+			"おうとおもっています",
+			"こうとおもっています",
+			"そうとおもっています",
+			"とうとおもっています",
+			"のうとおもっています",
+			"ぼうとおもっています",
+			"もうとおもっています",
+			"ろうとおもっています",
+			"ようとおもっています"
 		],
 		"SearchEN": [
 			"to intend yo",
@@ -3399,7 +3545,7 @@
 	},
 	{
 		"Id": 164,
-		"Sort": 92,
+		"Sort": 94,
 		"Title": "Reported speech",
 		"Text": "164_reported_speech",
 		"Jlpt": 4,
@@ -3423,7 +3569,7 @@
 	},
 	{
 		"Id": 165,
-		"Sort": 100,
+		"Sort": 102,
 		"Title": "To give, to receive",
 		"Text": "165_give_receive",
 		"Jlpt": 4,
@@ -3500,7 +3646,7 @@
 	},
 	{
 		"Id": 168,
-		"Sort": 93,
+		"Sort": 95,
 		"Title": "Reported speech - requests",
 		"Text": "168_reported_speech_request",
 		"Jlpt": 4,
@@ -3735,7 +3881,7 @@
 	},
 	{
 		"Id": 181,
-		"Sort": 106,
+		"Sort": 108,
 		"Title": "Imperative form",
 		"Text": "181_imperative_form",
 		"Jlpt": 4,
@@ -3868,7 +4014,7 @@
 	},
 	{
 		"Id": 187,
-		"Sort": 108,
+		"Sort": 110,
 		"Title": "Honorific expressions - special verbs",
 		"Text": "187_honorific_expressions_special_verbs",
 		"Jlpt": 4,
@@ -3907,7 +4053,9 @@
 		],
 		"SearchEN": [
 			"honorific expressions",
-			"special verbs"
+			"expressions",
+			"special verbs",
+			"polite"
 		]
 	},
 	{
@@ -3986,6 +4134,155 @@
 			"rhetorical",
 			"seek confirmation",
 			"confirmation"
+		]
+	},
+	{
+		"Id": 192,
+		"Sort": 111,
+		"Title": "Humble expressions",
+		"Text": "192_humble_expressions",
+		"Jlpt": 4,
+		"Form": "謙譲語",
+		"Search": [
+			"謙譲語",
+			"けんじょうご"
+		],
+		"SearchEN": [
+			"humble expressions",
+			"expressions",
+			"polite"
+		]
+	},
+	{
+		"Id": 193,
+		"Sort": 112,
+		"Title": "Humble expressions - direct",
+		"Text": "193_humble_expressions_direct",
+		"Jlpt": 4,
+		"Form": "謙譲語",
+		"Search": [
+			"謙譲語",
+			"けんじょうご",
+			"伺う",
+			"うかがう",
+			"伺います",
+			"うかがいます",
+			"おる",
+			"おります",
+			"致す",
+			"いたす",
+			"致します",
+			"いたします",
+			"申し上げる",
+			"もうしあげる",
+			"申し上げます",
+			"もうしあげます",
+			"拝見する",
+			"はいけんする",
+			"しますする",
+			"はいけんします",
+			"お目にかける",
+			"おめにかける",
+			"お目にかけます",
+			"おめにかけます",
+			"頂く",
+			"いただく",
+			"頂きます",
+			"いただきます",
+			"存じ上げる",
+			"ぞんじあげる",
+			"存じ上げます",
+			"ぞんじあげます",
+			"お目にかがる",
+			"おめにかがる",
+			"お目にかがります",
+			"おめにかがります",
+			"拝借する",
+			"はいしゃくする",
+			"拝借します",
+			"はいしゃくします"
+		],
+		"SearchEN": [
+			"humble expressions",
+			"expressions",
+			"polite",
+			"special verbs",
+			"direct"
+		]
+	},
+	{
+		"Id": 194,
+		"Sort": 69,
+		"Title": "Causative pattern - transitive and intransitive verbs",
+		"Text": "194_causative_pattern",
+		"Jlpt": 4,
+		"Form": "～あせます",
+		"Search": [
+			"あせる",
+			"させる",
+			"わせる",
+			"たせる",
+			"らせる",
+			"ませる",
+			"ばせる",
+			"なせる",
+			"かせる",
+			"がせる",
+			"あせます",
+			"させます",
+			"わせます",
+			"たせます",
+			"らせます",
+			"ませます",
+			"ばせます",
+			"なせます",
+			"かせます",
+			"がせます",
+			"自動詞",
+			"他動詞",
+			"じどうし",
+			"たどうし"
+		],
+		"SearchEN": [
+			"causative form",
+			"make doing",
+			"make someone doing",
+			"let doing",
+			"let someone doing",
+			"transitive and intransitive verbs",
+			"transitive verbs",
+			"intransitive verbs"
+		]
+	},
+	{
+		"Id": 195,
+		"Sort": 70,
+		"Title": "Ask for permission",
+		"Text": "195_ask_for_permission",
+		"Jlpt": 4,
+		"Form": "～あせてもらえませんか",
+		"Search": [
+			"てもらえませんか",
+			"でもらえませんか",
+			"あせてもらえませんか",
+			"させてもらえませんか",
+			"わせてもらえませんか",
+			"たせてもらえませんか",
+			"らせてもらえませんか",
+			"ませてもらえませんか",
+			"ばせてもらえませんか",
+			"なせてもらえませんか",
+			"かせてもらえませんか",
+			"がせてもらえませんか"
+		],
+		"SearchEN": [
+			"ask for permission",
+			"permission",
+			"it is allowed to do",
+			"it is ok to do",
+			"allowed to do",
+			"ok to do",
+			"may"
 		]
 	}
 ]
