@@ -993,24 +993,6 @@
 		]
 	},
 	{
-		"Id": 59,
-		"Sort": 59,
-		"Char": "好",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"この|む",
-			"す|く"
-		],
-		"Onyomi": [
-			"コウ"
-		],
-		"En": [
-			"fond",
-			"pleasing",
-			"like something"
-		]
-	},
-	{
 		"Id": 60,
 		"Sort": 60,
 		"Char": "林",
@@ -3220,6 +3202,234 @@
 		"En": [
 			"bright",
 			"light"
+		]
+	},
+	{
+		"Id": 188,
+		"Sort": 51,
+		"Char": "有",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あ|る"
+		],
+		"Onyomi": [
+			"ユウ",
+			"ウ"
+		],
+		"Words": [
+			"1541620"
+		],
+		"En": [
+			"possess",
+			"have",
+			"exist",
+			"happen",
+			"occur",
+			"approx"
+		]
+	},
+	{
+		"Id": 189,
+		"Sort": 52,
+		"Char": "元",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"もと"
+		],
+		"Onyomi": [
+			"ゲン",
+			"ガン"
+		],
+		"Words": [
+			"1260720"
+		],
+		"En": [
+			"beginning",
+			"former time",
+			"origin"
+		]
+	},
+	{
+		"Id": 190,
+		"Sort": 53,
+		"Char": "同",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"おな|じ"
+		],
+		"Onyomi": [
+			"ドウ"
+		],
+		"Words": [
+			"1451750",
+			"1452500"
+		],
+		"En": [
+			"same",
+			"agree",
+			"equal"
+		]
+	},
+	{
+		"Id": 191,
+		"Sort": 54,
+		"Char": "親",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"おや",
+			"した|しい",
+			"した|しむ"
+		],
+		"Onyomi": [
+			"シン"
+		],
+		"Words": [
+			"1365040",
+			"1365250",
+			"1365410"
+		],
+		"En": [
+			"parent",
+			"intimacy",
+			"relative",
+			"familiarity",
+			"dealer (cards)"
+		]
+	},
+	{
+		"Id": 191,
+		"Sort": 55,
+		"Char": "切",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"き|る",
+			"き|れる"
+		],
+		"Onyomi": [
+			"セツ",
+			"サイ"
+		],
+		"Words": [
+			"1384830",
+			"1365250",
+			"1414340"
+		],
+		"En": [
+			"cut",
+			"cutoff",
+			"be sharp"
+		]
+	},
+	{
+		"Id": 192,
+		"Sort": 56,
+		"Char": "便",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"たよ|り"
+		],
+		"Onyomi": [
+			"ベン",
+			"ビン"
+		],
+		"Words": [
+			"1512360",
+			"1512610",
+			"1542430"
+		],
+		"En": [
+			"convenience",
+			"facility",
+			"excrement",
+			"feces",
+			"letter",
+			"chance"
+		]
+	},
+	{
+		"Id": 193,
+		"Sort": 57,
+		"Char": "利",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"き|く"
+		],
+		"Onyomi": [
+			"リ"
+		],
+		"Words": [
+			"1512610",
+			"1549660"
+		],
+		"En": [
+			"profit",
+			"advantage",
+			"benefit"
+		]
+	},
+	{
+		"Id": 194,
+		"Sort": 58,
+		"Char": "不",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"フ",
+			"ブ"
+		],
+		"Words": [
+			"1494860"
+		],
+		"En": [
+			"negative",
+			"non-",
+			"bad",
+			"ugly",
+			"clumsy"
+		]
+	},
+	{
+		"Id": 195,
+		"Sort": 59,
+		"Char": "静",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"しず",
+			"しず|か",
+			"しず|まる",
+			"しず|める"
+		],
+		"Onyomi": [
+			"セイ",
+			"ジョウ"
+		],
+		"Words": [
+			"1381820"
+		],
+		"En": [
+			"quiet"
+		]
+	},
+	{
+		"Id": 169,
+		"Sort": 60,
+		"Char": "好",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"この|む",
+			"す|く"
+		],
+		"Onyomi": [
+			"コウ"
+		],
+		"Words": [
+			"1277450",
+			"1277790"
+		],
+		"En": [
+			"fond",
+			"pleasing",
+			"like something"
 		]
 	}
 ]
