@@ -956,24 +956,6 @@
 		]
 	},
 	{
-		"Id": 56,
-		"Sort": 56,
-		"Char": "明",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"あか|るい",
-			"あき|らか"
-		],
-		"Onyomi": [
-			"メイ",
-			"ミョウ"
-		],
-		"En": [
-			"bright",
-			"light"
-		]
-	},
-	{
 		"Id": 57,
 		"Sort": 57,
 		"Char": "休",
@@ -1221,24 +1203,6 @@
 		]
 	},
 	{
-		"Id": 76,
-		"Sort": 76,
-		"Char": "短",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"みじか|い"
-		],
-		"Onyomi": [
-			"タン"
-		],
-		"En": [
-			"short",
-			"fault",
-			"defect",
-			"weak point"
-		]
-	},
-	{
 		"Id": 77,
 		"Sort": 77,
 		"Char": "高",
@@ -1253,23 +1217,6 @@
 			"tall",
 			"high",
 			"expensive"
-		]
-	},
-	{
-		"Id": 78,
-		"Sort": 78,
-		"Char": "低",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"ひく|い"
-		],
-		"Onyomi": [
-			"テイ"
-		],
-		"En": [
-			"lower",
-			"short",
-			"humble"
 		]
 	},
 	{
@@ -1290,26 +1237,6 @@
 			"relax",
 			"rested",
 			"quiet"
-		]
-	},
-	{
-		"Id": 80,
-		"Sort": 80,
-		"Char": "暗",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"くら|い"
-		],
-		"Onyomi": [
-			"アン"
-		],
-		"En": [
-			"darkness",
-			"disappear",
-			"shade",
-			"informal",
-			"grow dark",
-			"be blinded"
 		]
 	},
 	{
@@ -3072,6 +2999,227 @@
 			"decoration",
 			"figures",
 			"plan"
+		]
+	},
+	{
+		"Id": 178,
+		"Sort": 41,
+		"Char": "低",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ひく|い"
+		],
+		"Onyomi": [
+			"テイ"
+		],
+		"Words": [
+			"1434180",
+			"1472670",
+			"1434250"
+		],
+		"En": [
+			"lower",
+			"short",
+			"humble"
+		]
+	},
+	{
+		"Id": 179,
+		"Sort": 42,
+		"Char": "短",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"みじか|い"
+		],
+		"Onyomi": [
+			"タン"
+		],
+		"Words": [
+			"1418620",
+			"1418760"
+		],
+		"En": [
+			"short",
+			"fault",
+			"defect",
+			"weak point"
+		]
+	},
+	{
+		"Id": 180,
+		"Sort": 43,
+		"Char": "軽",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"かる|い",
+			"かろ|やか"
+		],
+		"Onyomi": [
+			"ケイ"
+		],
+		"Words": [
+			"1252560"
+		],
+		"En": [
+			"lightly",
+			"trifling",
+			"unimportant"
+		]
+	},
+	{
+		"Id": 181,
+		"Sort": 44,
+		"Char": "重",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"おも|い",
+			"かさ|ねる",
+			"かさ|なる",
+			"え"
+		],
+		"Onyomi": [
+			"ジュウ",
+			"チョウ"
+		],
+		"Words": [
+			"1335750",
+			"1409540"
+		],
+		"En": [
+			"heavy",
+			"important",
+			"esteem",
+			"respect"
+		]
+	},
+	{
+		"Id": 182,
+		"Sort": 45,
+		"Char": "弱",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"よわ|い",
+			"よわ|る",
+			"よわ|まる",
+			"よわ|める"
+		],
+		"Onyomi": [
+			"ジャク"
+		],
+		"Words": [
+			"1324520",
+			"1324870"
+		],
+		"En": [
+			"weak",
+			"frail"
+		]
+	},
+	{
+		"Id": 183,
+		"Sort": 46,
+		"Char": "強",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"つよ|い",
+			"つよ|まる",
+			"つよ|める",
+			"し|いる"
+		],
+		"Onyomi": [
+			"キョウ",
+			"ゴウ"
+		],
+		"Words": [
+			"1236070",
+			"1512670",
+			"1591720"
+		],
+		"En": [
+			"strong"
+		]
+	},
+	{
+		"Id": 184,
+		"Sort": 47,
+		"Char": "暑",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あつ|い"
+		],
+		"Onyomi": [
+			"ショ"
+		],
+		"Words": [
+			"1343460"
+		],
+		"En": [
+			"sultry",
+			"hot",
+			"summer heat"
+		]
+	},
+	{
+		"Id": 185,
+		"Sort": 48,
+		"Char": "暗",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"くら|い"
+		],
+		"Onyomi": [
+			"アン"
+		],
+		"Words": [
+			"1154330"
+		],
+		"En": [
+			"darkness",
+			"disappear",
+			"shade",
+			"informal",
+			"grow dark",
+			"be blinded"
+		]
+	},
+	{
+		"Id": 186,
+		"Sort": 49,
+		"Char": "寒",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"さむ|い"
+		],
+		"Onyomi": [
+			"カン"
+		],
+		"Words": [
+			"1210360"
+		],
+		"En": [
+			"cold"
+		]
+	},
+	{
+		"Id": 187,
+		"Sort": 50,
+		"Char": "明",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あか|るい",
+			"あき|らか"
+		],
+		"Onyomi": [
+			"メイ",
+			"ミョウ"
+		],
+		"Words": [
+			"1532350",
+			"1584660"
+		],
+		"En": [
+			"bright",
+			"light"
 		]
 	}
 ]
