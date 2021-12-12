@@ -2085,24 +2085,6 @@
 		]
 	},
 	{
-		"Id": 133,
-		"Sort": 133,
-		"Char": "館",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"やかた"
-		],
-		"Onyomi": [
-			"カン"
-		],
-		"En": [
-			"building",
-			"mansion",
-			"large building",
-			"palace"
-		]
-	},
-	{
 		"Id": 134,
 		"Sort": 134,
 		"Char": "公",
@@ -3430,6 +3412,216 @@
 			"fond",
 			"pleasing",
 			"like something"
+		]
+	},
+	{
+		"Id": 170,
+		"Sort": 61,
+		"Char": "鉄",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"テツ"
+		],
+		"Words": [
+			"1437780",
+			"1420900"
+		],
+		"En": [
+			"iron"
+		]
+	},
+	{
+		"Id": 171,
+		"Sort": 62,
+		"Char": "飛",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"と|ぶ",
+			"と|ばす"
+		],
+		"Onyomi": [
+			"ヒ"
+		],
+		"Words": [
+			"1429700-1",
+			"1485470"
+		],
+		"En": [
+			"fly",
+			"skip (pages)",
+			"scatter"
+		]
+	},
+	{
+		"Id": 172,
+		"Sort": 63,
+		"Char": "機",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はた"
+		],
+		"Onyomi": [
+			"キ"
+		],
+		"Words": [
+			"1485470",
+			"1220810",
+			"1220800"
+		],
+		"En": [
+			"loom",
+			"mechanism",
+			"machine",
+			"airplane",
+			"opportunity",
+			"potency",
+			"efficacy",
+			"occasion"
+		]
+	},
+	{
+		"Id": 173,
+		"Sort": 64,
+		"Char": "旅",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"たび"
+		],
+		"Onyomi": [
+			"リョ"
+		],
+		"Words": [
+			"1553120",
+			"1553170"
+		],
+		"En": [
+			"trip",
+			"travel"
+		]
+	},
+	{
+		"Id": 174,
+		"Sort": 65,
+		"Char": "館",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"やかた"
+		],
+		"Onyomi": [
+			"カン"
+		],
+		"Words": [
+			"1370420",
+			"1173750"
+		],
+		"En": [
+			"building",
+			"mansion",
+			"large building",
+			"palace"
+		]
+	},
+	{
+		"Id": 175,
+		"Sort": 66,
+		"Char": "持",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"も|つ"
+		],
+		"Onyomi": [
+			"ジ"
+		],
+		"Words": [
+			"1315720",
+			"1315590"
+		],
+		"En": [
+			"hold",
+			"have"
+		]
+	},
+	{
+		"Id": 176,
+		"Sort": 67,
+		"Char": "予",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ヨ"
+		],
+		"Words": [
+			"1543750",
+			"1543240"
+		],
+		"En": [
+			"beforehand",
+			"previous",
+			"myself",
+			"I"
+		]
+	},
+	{
+		"Id": 177,
+		"Sort": 68,
+		"Char": "約",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ヤク"
+		],
+		"Words": [
+			"1538130",
+			"1543750"
+		],
+		"En": [
+			"promise",
+			"approximately",
+			"shrink"
+		]
+	},
+	{
+		"Id": 178,
+		"Sort": 69,
+		"Char": "写",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"うつ|す",
+			"うつ|る"
+		],
+		"Onyomi": [
+			"シャ"
+		],
+		"Words": [
+			"1588320",
+			"1321900"
+		],
+		"En": [
+			"copy",
+			"be photographed",
+			"describe"
+		]
+	},
+	{
+		"Id": 179,
+		"Sort": 70,
+		"Char": "真",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ま"
+		],
+		"Onyomi": [
+			"シン"
+		],
+		"Words": [
+			"1604350",
+			"1321900"
+		],
+		"En": [
+			"true",
+			"reality",
+			"Buddhist sect"
 		]
 	}
 ]
