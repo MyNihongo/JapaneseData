@@ -1121,45 +1121,6 @@
 		]
 	},
 	{
-		"Id": 67,
-		"Sort": 67,
-		"Char": "文",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"ふみ"
-		],
-		"Onyomi": [
-			"ブン",
-			"モン"
-		],
-		"En": [
-			"sentence",
-			"literature",
-			"style",
-			"art",
-			"decoration",
-			"figures",
-			"plan"
-		]
-	},
-	{
-		"Id": 68,
-		"Sort": 68,
-		"Char": "字",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"あざ"
-		],
-		"Onyomi": [
-			"ジ"
-		],
-		"En": [
-			"character",
-			"letter",
-			"word"
-		]
-	},
-	{
 		"Id": 69,
 		"Sort": 69,
 		"Char": "物",
@@ -2881,6 +2842,236 @@
 			"congregate",
 			"swarm",
 			"flock"
+		]
+	},
+	{
+		"Id": 168,
+		"Sort": 31,
+		"Char": "葉",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"は"
+		],
+		"Onyomi": [
+			"ヨウ"
+		],
+		"Words": [
+			"1264540",
+			"1546590"
+		],
+		"En": [
+			"leaf",
+			"plane",
+			"lobe",
+			"needle",
+			"blade",
+			"spear",
+			"counter for flat thing",
+			"fragment",
+			"piece"
+		]
+	},
+	{
+		"Id": 169,
+		"Sort": 32,
+		"Char": "漢",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"カン"
+		],
+		"Words": [
+			"1213170"
+		],
+		"En": [
+			"Sino-",
+			"China"
+		]
+	},
+	{
+		"Id": 170,
+		"Sort": 33,
+		"Char": "字",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あざ"
+		],
+		"Onyomi": [
+			"ジ"
+		],
+		"Words": [
+			"1213170",
+			"1505390",
+			"1373060"
+		],
+		"En": [
+			"character",
+			"letter",
+			"word"
+		]
+	},
+	{
+		"Id": 171,
+		"Sort": 34,
+		"Char": "発",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ハツ",
+			"ホツ"
+		],
+		"Words": [
+			"1477840",
+			"1340000",
+			"1477170"
+		],
+		"En": [
+			"departure",
+			"discharge",
+			"publish",
+			"emit",
+			"start from",
+			"disclose",
+			"counter for gunshots"
+		]
+	},
+	{
+		"Id": 172,
+		"Sort": 35,
+		"Char": "勉",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ベン"
+		],
+		"Words": [
+			"1512670"
+		],
+		"En": [
+			"exertion",
+			"endeavour",
+			"encourage",
+			"strive",
+			"make effort",
+			"diligent"
+		]
+	},
+	{
+		"Id": 173,
+		"Sort": 36,
+		"Char": "意",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"イ"
+		],
+		"Words": [
+			"1156800",
+			"1546220",
+			"1426530"
+		],
+		"En": [
+			"idea",
+			"mind",
+			"heart",
+			"taste",
+			"thought",
+			"desire",
+			"care",
+			"liking"
+		]
+	},
+	{
+		"Id": 174,
+		"Sort": 37,
+		"Char": "味",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あじ",
+			"あじ|わる"
+		],
+		"Onyomi": [
+			"ミ"
+		],
+		"Words": [
+			"1526960",
+			"1156800"
+		],
+		"En": [
+			"flavour",
+			"taste"
+		]
+	},
+	{
+		"Id": 175,
+		"Sort": 38,
+		"Char": "質",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"シツ",
+			"シチ",
+			"チ"
+		],
+		"Words": [
+			"1320760"
+		],
+		"En": [
+			"substance",
+			"quality",
+			"matter",
+			"temperament"
+		]
+	},
+	{
+		"Id": 176,
+		"Sort": 39,
+		"Char": "問",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"と|う",
+			"と|い",
+			"と|ん"
+		],
+		"Onyomi": [
+			"モン"
+		],
+		"Words": [
+			"1535930",
+			"1320760",
+			"1536010"
+		],
+		"En": [
+			"question",
+			"ask",
+			"problem"
+		]
+	},
+	{
+		"Id": 177,
+		"Sort": 40,
+		"Char": "文",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ふみ"
+		],
+		"Onyomi": [
+			"ブン",
+			"モン"
+		],
+		"Words": [
+			"1505390",
+			"1505470",
+			"1297960"
+		],
+		"En": [
+			"sentence",
+			"literature",
+			"style",
+			"art",
+			"decoration",
+			"figures",
+			"plan"
 		]
 	}
 ]
