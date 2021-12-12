@@ -3849,5 +3849,230 @@
 			"reason",
 			"possibility"
 		]
+	},
+	{
+		"Id": 190,
+		"Sort": 81,
+		"Char": "逃",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"に|げる",
+			"に|がす",
+			"のが|す",
+			"のが|れる"
+		],
+		"Onyomi": [
+			"トウ"
+		],
+		"Words": [
+			"1450330"
+		],
+		"En": [
+			"escape",
+			"flee",
+			"shirk",
+			"evade",
+			"set free"
+		]
+	},
+	{
+		"Id": 191,
+		"Sort": 82,
+		"Char": "危",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あぶ|ない",
+			"あや|うい",
+			"あや|ぶむ"
+		],
+		"Onyomi": [
+			"キ"
+		],
+		"Words": [
+			"1218380",
+			"1218560"
+		],
+		"En": [
+			"dangerous",
+			"fear",
+			"uneasy"
+		]
+	},
+	{
+		"Id": 192,
+		"Sort": 83,
+		"Char": "険",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"けわ|しい"
+		],
+		"Onyomi": [
+			"ケン"
+		],
+		"Words": [
+			"1513440",
+			"1218560"
+		],
+		"En": [
+			"precipitous",
+			"inaccessible place",
+			"impregnable position",
+			"steep place",
+			"sharp eyes"
+		]
+	},
+	{
+		"Id": 193,
+		"Sort": 84,
+		"Char": "走",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はし|る"
+		],
+		"Onyomi": [
+			"ソウ"
+		],
+		"Words": [
+			"1402540-1"
+		],
+		"En": [
+			"run"
+		]
+	},
+	{
+		"Id": 194,
+		"Sort": 85,
+		"Char": "窓",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"まど"
+		],
+		"Onyomi": [
+			"ソウ"
+		],
+		"Words": [
+			"1401400",
+			"1401420"
+		],
+		"En": [
+			"window",
+			"pane"
+		]
+	},
+	{
+		"Id": 195,
+		"Sort": 86,
+		"Char": "階",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"カイ"
+		],
+		"Words": [
+			"1203020",
+			"1203090"
+		],
+		"En": [
+			"storey",
+			"stair",
+			"counter for storeys of a building"
+		]
+	},
+	{
+		"Id": 196,
+		"Sort": 87,
+		"Char": "段",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ダン"
+		],
+		"Words": [
+			"1203090"
+		],
+		"En": [
+			"grade",
+			"steps",
+			"stairs"
+		]
+	},
+	{
+		"Id": 197,
+		"Sort": 88,
+		"Char": "消",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"き|える",
+			"け|す"
+		],
+		"Onyomi": [
+			"ショウ"
+		],
+		"Words": [
+			"1350110",
+			"1350040",
+			"1350160",
+			"1350170"
+		],
+		"En": [
+			"grade",
+			"steps",
+			"stairs"
+		]
+	},
+	{
+		"Id": 198,
+		"Sort": 89,
+		"Char": "押",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"お|す",
+			"お|さえる"
+		],
+		"Onyomi": [
+			"オウ"
+		],
+		"Words": [
+			"1180470"
+		],
+		"En": [
+			"push",
+			"stop",
+			"check",
+			"subdue",
+			"attach",
+			"seize",
+			"weight",
+			"shove",
+			"press",
+			"seal",
+			"do in spite of"
+		]
+	},
+	{
+		"Id": 199,
+		"Sort": 90,
+		"Char": "引",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ひ|く",
+			"ひ|ける"
+		],
+		"Onyomi": [
+			"オン"
+		],
+		"Words": [
+			"1169250",
+			"1169340"
+		],
+		"En": [
+			"pull",
+			"tug",
+			"jerk",
+			"admit",
+			"install",
+			"quote",
+			"refer to"
+		]
 	}
 ]
