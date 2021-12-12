@@ -420,25 +420,6 @@
 		]
 	},
 	{
-		"Id": 26,
-		"Sort": 26,
-		"Char": "室",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"むろ"
-		],
-		"Onyomi": [
-			"シツ"
-		],
-		"En": [
-			"room",
-			"apartment",
-			"chamber",
-			"greenhouse",
-			"cellar"
-		]
-	},
-	{
 		"Id": 27,
 		"Sort": 27,
 		"Char": "家",
@@ -720,24 +701,6 @@
 		"En": [
 			"big",
 			"large"
-		]
-	},
-	{
-		"Id": 41,
-		"Sort": 41,
-		"Char": "英",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"はなぶさ"
-		],
-		"Onyomi": [
-			"エイ"
-		],
-		"En": [
-			"England",
-			"English",
-			"hero",
-			"outstanding"
 		]
 	},
 	{
@@ -1657,24 +1620,6 @@
 		]
 	},
 	{
-		"Id": 94,
-		"Sort": 94,
-		"Char": "教",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"おし|える",
-			"おそ|わる"
-		],
-		"Onyomi": [
-			"キョウ"
-		],
-		"En": [
-			"teach",
-			"faith",
-			"doctrine"
-		]
-	},
-	{
 		"Id": 95,
 		"Sort": 95,
 		"Char": "時",
@@ -2549,6 +2494,212 @@
 		"En": [
 			"place",
 			"extent"
+		]
+	},
+	{
+		"Id": 148,
+		"Sort": 11,
+		"Char": "座",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"すわ|る"
+		],
+		"Onyomi": [
+			"ザ"
+		],
+		"Words": [
+			"1291800-1",
+			"1291880"
+		],
+		"En": [
+			"squat",
+			"seat",
+			"cushion",
+			"gathering",
+			"sit"
+		]
+	},
+	{
+		"Id": 149,
+		"Sort": 12,
+		"Char": "貸",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"か|す"
+		],
+		"Onyomi": [
+			"タイ"
+		],
+		"Words": [
+			"1411160"
+		],
+		"En": [
+			"lend"
+		]
+	},
+	{
+		"Id": 150,
+		"Sort": 13,
+		"Char": "借",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"か|りる"
+		],
+		"Onyomi": [
+			"シャク"
+		],
+		"Words": [
+			"1323560",
+			"1323940"
+		],
+		"En": [
+			"borrow",
+			"rent"
+		]
+	},
+	{
+		"Id": 151,
+		"Sort": 14,
+		"Char": "習",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"なら|う"
+		],
+		"Onyomi": [
+			"シュウ"
+		],
+		"Words": [
+			"1333070",
+			"1500800"
+		],
+		"En": [
+			"learn"
+		]
+	},
+	{
+		"Id": 152,
+		"Sort": 15,
+		"Char": "教",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"おし|える",
+			"おそ|わる"
+		],
+		"Onyomi": [
+			"キョウ"
+		],
+		"Words": [
+			"1236900",
+			"1237150"
+		],
+		"En": [
+			"teach",
+			"faith",
+			"doctrine"
+		]
+	},
+	{
+		"Id": 153,
+		"Sort": 16,
+		"Char": "室",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"むろ"
+		],
+		"Onyomi": [
+			"シツ"
+		],
+		"Words": [
+			"1237150"
+		],
+		"En": [
+			"room",
+			"apartment",
+			"chamber",
+			"greenhouse",
+			"cellar"
+		]
+	},
+	{
+		"Id": 154,
+		"Sort": 17,
+		"Char": "答",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"こた|える",
+			"こた|え"
+		],
+		"Onyomi": [
+			"トウ"
+		],
+		"Words": [
+			"1449530",
+			"1449550"
+		],
+		"En": [
+			"solution",
+			"answer"
+		]
+	},
+	{
+		"Id": 155,
+		"Sort": 18,
+		"Char": "待",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ま|つ"
+		],
+		"Onyomi": [
+			"タイ"
+		],
+		"Words": [
+			"1410590",
+			"1349610"
+		],
+		"En": [
+			"wait",
+			"depend on"
+		]
+	},
+	{
+		"Id": 156,
+		"Sort": 19,
+		"Char": "英",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はなぶさ"
+		],
+		"Onyomi": [
+			"エイ"
+		],
+		"Words": [
+			"1174420"
+		],
+		"En": [
+			"England",
+			"English",
+			"hero",
+			"outstanding"
+		]
+	},
+	{
+		"Id": 157,
+		"Sort": 20,
+		"Char": "送",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"おく|る"
+		],
+		"Onyomi": [
+			"ソウ"
+		],
+		"Words": [
+			"1402730",
+			"1542380"
+		],
+		"En": [
+			"escort",
+			"send"
 		]
 	}
 ]
