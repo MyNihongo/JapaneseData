@@ -1085,24 +1085,6 @@
 		]
 	},
 	{
-		"Id": 69,
-		"Sort": 69,
-		"Char": "物",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"もの"
-		],
-		"Onyomi": [
-			"ブツ",
-			"モツ"
-		],
-		"En": [
-			"thing",
-			"object",
-			"matter"
-		]
-	},
-	{
 		"Id": 70,
 		"Sort": 70,
 		"Char": "牛",
@@ -1747,24 +1729,6 @@
 		]
 	},
 	{
-		"Id": 113,
-		"Sort": 113,
-		"Char": "病",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"や|む",
-			"やまい"
-		],
-		"Onyomi": [
-			"ビョウ",
-			"ヘイ"
-		],
-		"En": [
-			"ill",
-			"sick"
-		]
-	},
-	{
 		"Id": 114,
 		"Sort": 114,
 		"Char": "屋",
@@ -2015,41 +1979,6 @@
 		]
 	},
 	{
-		"Id": 131,
-		"Sort": 131,
-		"Char": "工",
-		"Jlpt": 5,
-		"Kunyomi": [],
-		"Onyomi": [
-			"コウ",
-			"ク"
-		],
-		"En": [
-			"craft",
-			"construction"
-		]
-	},
-	{
-		"Id": 132,
-		"Sort": 132,
-		"Char": "図",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"はか|る"
-		],
-		"Onyomi": [
-			"ズ",
-			"ト"
-		],
-		"En": [
-			"map",
-			"drawing",
-			"plan",
-			"extraordinary",
-			"audacious"
-		]
-	},
-	{
 		"Id": 134,
 		"Sort": 134,
 		"Char": "公",
@@ -2065,22 +1994,6 @@
 			"prince",
 			"official",
 			"governmental"
-		]
-	},
-	{
-		"Id": 136,
-		"Sort": 136,
-		"Char": "場",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"ば"
-		],
-		"Onyomi": [
-			"ジョウ"
-		],
-		"En": [
-			"location",
-			"place"
 		]
 	},
 	{
@@ -4277,6 +4190,216 @@
 			"collapse",
 			"drop",
 			"break down"
+		]
+	},
+	{
+		"Id": 210,
+		"Sort": 101,
+		"Char": "銀",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ギン"
+		],
+		"Words": [
+			"1595090",
+			"1243490"
+		],
+		"En": [
+			"silver"
+		]
+	},
+	{
+		"Id": 211,
+		"Sort": 102,
+		"Char": "病",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"や|む",
+			"やまい"
+		],
+		"Onyomi": [
+			"ビョウ",
+			"ヘイ"
+		],
+		"Words": [
+			"1490220",
+			"1490230"
+		],
+		"En": [
+			"ill",
+			"sick"
+		]
+	},
+	{
+		"Id": 212,
+		"Sort": 103,
+		"Char": "院",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"イン"
+		],
+		"Words": [
+			"1490220",
+			"1413250"
+		],
+		"En": [
+			"institution",
+			"temple",
+			"mansion",
+			"school"
+		]
+	},
+	{
+		"Id": 213,
+		"Sort": 104,
+		"Char": "図",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はか|る"
+		],
+		"Onyomi": [
+			"ズ",
+			"ト"
+		],
+		"Words": [
+			"1370420",
+			"1421290"
+		],
+		"En": [
+			"map",
+			"drawing",
+			"plan",
+			"extraordinary",
+			"audacious"
+		]
+	},
+	{
+		"Id": 214,
+		"Sort": 105,
+		"Char": "建",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"た|てる",
+			"た|つ"
+		],
+		"Onyomi": [
+			"ケン",
+			"コン"
+		],
+		"Words": [
+			"1257330",
+			"1257540",
+			"1257500"
+		],
+		"En": [
+			"build"
+		]
+	},
+	{
+		"Id": 215,
+		"Sort": 106,
+		"Char": "物",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"もの"
+		],
+		"Onyomi": [
+			"ブツ",
+			"モツ"
+		],
+		"Words": [
+			"1358340",
+			"1600430",
+			"1277790",
+			"1451470"
+		],
+		"En": [
+			"thing",
+			"object",
+			"matter"
+		]
+	},
+	{
+		"Id": 216,
+		"Sort": 107,
+		"Char": "工",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"コウ",
+			"ク"
+		],
+		"Words": [
+			"1578700",
+			"1278150"
+		],
+		"En": [
+			"craft",
+			"construction"
+		]
+	},
+	{
+		"Id": 217,
+		"Sort": 108,
+		"Char": "場",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ば"
+		],
+		"Onyomi": [
+			"ジョウ"
+		],
+		"Words": [
+			"1355850",
+			"1278590"
+		],
+		"En": [
+			"location",
+			"place"
+		]
+	},
+	{
+		"Id": 218,
+		"Sort": 109,
+		"Char": "遠",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"とお|い"
+		],
+		"Onyomi": [
+			"エン",
+			"オン"
+		],
+		"Words": [
+			"1177800"
+		],
+		"En": [
+			"distant",
+			"far"
+		]
+	},
+	{
+		"Id": 219,
+		"Sort": 110,
+		"Char": "近",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ちか|い"
+		],
+		"Onyomi": [
+			"キン"
+		],
+		"Words": [
+			"1242130",
+			"1293780"
+		],
+		"En": [
+			"near",
+			"early",
+			"akin",
+			"tantamount"
 		]
 	}
 ]
