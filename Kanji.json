@@ -1696,23 +1696,6 @@
 		]
 	},
 	{
-		"Id": 111,
-		"Sort": 111,
-		"Char": "広",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"ひろ|い"
-		],
-		"Onyomi": [
-			"コウ"
-		],
-		"En": [
-			"wide",
-			"broad",
-			"spacious"
-		]
-	},
-	{
 		"Id": 112,
 		"Sort": 112,
 		"Char": "店",
@@ -1726,25 +1709,6 @@
 		"En": [
 			"shop",
 			"store"
-		]
-	},
-	{
-		"Id": 114,
-		"Sort": 114,
-		"Char": "屋",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"や"
-		],
-		"Onyomi": [
-			"オク"
-		],
-		"En": [
-			"roof",
-			"house",
-			"shop",
-			"dealer",
-			"seller"
 		]
 	},
 	{
@@ -1961,21 +1925,6 @@
 			"master",
 			"main thing",
 			"principal"
-		]
-	},
-	{
-		"Id": 130,
-		"Sort": 130,
-		"Char": "地",
-		"Jlpt": 5,
-		"Kunyomi": [],
-		"Onyomi": [
-			"チ",
-			"ジ"
-		],
-		"En": [
-			"ground",
-			"earth"
 		]
 	},
 	{
@@ -4400,6 +4349,226 @@
 			"early",
 			"akin",
 			"tantamount"
+		]
+	},
+	{
+		"Id": 220,
+		"Sort": 111,
+		"Char": "部",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ブ"
+		],
+		"Words": [
+			"1499320",
+			"1499460"
+		],
+		"En": [
+			"section",
+			"bureau",
+			"dept",
+			"class",
+			"copy",
+			"part",
+			"portion",
+			"counter for copies of a newspaper or magazine"
+		]
+	},
+	{
+		"Id": 221,
+		"Sort": 112,
+		"Char": "屋",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"や"
+		],
+		"Onyomi": [
+			"オク"
+		],
+		"Words": [
+			"1499320",
+			"1182710",
+			"1194560"
+		],
+		"En": [
+			"roof",
+			"house",
+			"shop",
+			"dealer",
+			"seller"
+		]
+	},
+	{
+		"Id": 222,
+		"Sort": 113,
+		"Char": "広",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ひろ|い"
+		],
+		"Onyomi": [
+			"コウ"
+		],
+		"Words": [
+			"1278410",
+			"1278590",
+			"2164670"
+		],
+		"En": [
+			"wide",
+			"broad",
+			"spacious"
+		]
+	},
+	{
+		"Id": 223,
+		"Sort": 114,
+		"Char": "地",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"チ",
+			"ジ"
+		],
+		"Words": [
+			"1421290",
+			"1420900"
+		],
+		"En": [
+			"ground",
+			"earth"
+		]
+	},
+	{
+		"Id": 224,
+		"Sort": 115,
+		"Char": "箱",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"チ",
+			"ジ"
+		],
+		"Words": [
+			"1585650"
+		],
+		"En": [
+			"box",
+			"chest",
+			"case",
+			"bin",
+			"railway car"
+		]
+	},
+	{
+		"Id": 225,
+		"Sort": 116,
+		"Char": "紙",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"かみ"
+		],
+		"Onyomi": [
+			"シ"
+		],
+		"Words": [
+			"1311530",
+			"1327720",
+			"1546290"
+		],
+		"En": [
+			"paper"
+		]
+	},
+	{
+		"Id": 226,
+		"Sort": 117,
+		"Char": "湯",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ゆ"
+		],
+		"Onyomi": [
+			"トウ"
+		],
+		"Words": [
+			"1002510",
+			"1467960"
+		],
+		"En": [
+			"hot water",
+			"bath",
+			"hot spring"
+		]
+	},
+	{
+		"Id": 227,
+		"Sort": 118,
+		"Char": "特",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"トク"
+		],
+		"Words": [
+			"1454670",
+			"1455280"
+		],
+		"En": [
+			"special"
+		]
+	},
+	{
+		"Id": 228,
+		"Sort": 119,
+		"Char": "別",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"わか|れる"
+		],
+		"Onyomi": [
+			"ベツ"
+		],
+		"Words": [
+			"1603290",
+			"1455280",
+			"1606590"
+		],
+		"En": [
+			"separate",
+			"branch off",
+			"diverge",
+			"fork",
+			"another",
+			"extra",
+			"specially"
+		]
+	},
+	{
+		"Id": 229,
+		"Sort": 120,
+		"Char": "代",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"か|わる",
+			"か|える",
+			"よ",
+			"しろ"
+		],
+		"Onyomi": [
+			"ダイ",
+			"タイ"
+		],
+		"Words": [
+			"1468950",
+			"1263810",
+			"1374190"
+		],
+		"En": [
+			"call",
+			"call out to",
+			"invite"
 		]
 	}
 ]
