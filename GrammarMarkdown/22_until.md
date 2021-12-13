@@ -28,4 +28,8 @@ In this example the sentence ends with まで, therefore, までに cannot be us
 >
 >金曜日**まで**宿題を提出してください。(✕) Wrong.
 
-In this example there is a second clause after までに which indicates a request, therefore, まで cannot be used here.
+>宿題はいつ**までに**すればいいですか。Until when should we complete the homework?
+>
+>宿題はいつ**まで**すればいいですか。(✕) Wrong.
+
+In these examples there is a second clause after までに which indicates a request, therefore, まで cannot be used here.
