@@ -1838,41 +1838,6 @@
 		]
 	},
 	{
-		"Id": 118,
-		"Sort": 118,
-		"Char": "開",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"あ|ける",
-			"ひら|く"
-		],
-		"Onyomi": [
-			"カイ"
-		],
-		"En": [
-			"open",
-			"unfold",
-			"unseal"
-		]
-	},
-	{
-		"Id": 119,
-		"Sort": 119,
-		"Char": "閉",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"と|じる",
-			"し|める"
-		],
-		"Onyomi": [
-			"ヘイ"
-		],
-		"En": [
-			"close",
-			"shut"
-		]
-	},
-	{
 		"Id": 120,
 		"Sort": 120,
 		"Char": "友",
@@ -4073,6 +4038,245 @@
 			"install",
 			"quote",
 			"refer to"
+		]
+	},
+	{
+		"Id": 200,
+		"Sort": 91,
+		"Char": "開",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あ|ける",
+			"ひら|く"
+		],
+		"Onyomi": [
+			"カイ"
+		],
+		"Words": [
+			"1202450-1",
+			"1586270-1",
+			"1202760"
+		],
+		"En": [
+			"open",
+			"unfold",
+			"unseal"
+		]
+	},
+	{
+		"Id": 201,
+		"Sort": 92,
+		"Char": "閉",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"と|じる",
+			"し|める"
+		],
+		"Onyomi": [
+			"ヘイ"
+		],
+		"Words": [
+			"1508590",
+			"1436560-1"
+		],
+		"En": [
+			"close",
+			"shut"
+		]
+	},
+	{
+		"Id": 202,
+		"Sort": 93,
+		"Char": "置",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"お|く"
+		],
+		"Onyomi": [
+			"チ"
+		],
+		"Words": [
+			"1421850"
+		],
+		"En": [
+			"placement",
+			"put",
+			"set",
+			"deposit",
+			"leave behind",
+			"keep",
+			"employ",
+			"pawn"
+		]
+	},
+	{
+		"Id": 203,
+		"Sort": 94,
+		"Char": "止",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"と|まる",
+			"と|める"
+		],
+		"Onyomi": [
+			"シ"
+		],
+		"Words": [
+			"1310670-1",
+			"1310620"
+		],
+		"En": [
+			"stop",
+			"halt"
+		]
+	},
+	{
+		"Id": 204,
+		"Sort": 95,
+		"Char": "始",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はじ|める",
+			"はじ|まる"
+		],
+		"Onyomi": [
+			"シ"
+		],
+		"Words": [
+			"1307550",
+			"1307500"
+		],
+		"En": [
+			"commence",
+			"begin"
+		]
+	},
+	{
+		"Id": 205,
+		"Sort": 96,
+		"Char": "着",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"き|る",
+			"き|せる",
+			"つ|く",
+			"つ|ける"
+		],
+		"Onyomi": [
+			"チャク",
+			"ジャク"
+		],
+		"Words": [
+			"1423000",
+			"1422970"
+		],
+		"En": [
+			"arrive",
+			"wear",
+			"don",
+			"counter for suits of clothing"
+		]
+	},
+	{
+		"Id": 206,
+		"Sort": 97,
+		"Char": "乗",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"の|る",
+			"の|せる"
+		],
+		"Onyomi": [
+			"ジョウ"
+		],
+		"Words": [
+			"1355120",
+			"1600270-1"
+		],
+		"En": [
+			"ride",
+			"power",
+			"multiplication",
+			"record",
+			"board",
+			"mount",
+			"join",
+			"counter fo vehicles"
+		]
+	},
+	{
+		"Id": 207,
+		"Sort": 98,
+		"Char": "割",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"わ|る",
+			"わり",
+			"わ|れる",
+			"さ|く"
+		],
+		"Onyomi": [
+			"カツ"
+		],
+		"Words": [
+			"1208000",
+			"1208020",
+			"1206630"
+		],
+		"En": [
+			"proportion",
+			"comparatively",
+			"divide out",
+			"separate",
+			"split"
+		]
+	},
+	{
+		"Id": 208,
+		"Sort": 99,
+		"Char": "落",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"お|ちる",
+			"お|とす"
+		],
+		"Onyomi": [
+			"ラク"
+		],
+		"Words": [
+			"1589260",
+			"1548550"
+		],
+		"En": [
+			"fall",
+			"drop",
+			"come down",
+			"village",
+			"hamlet"
+		]
+	},
+	{
+		"Id": 209,
+		"Sort": 100,
+		"Char": "倒",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"たお|れる",
+			"たお|す"
+		],
+		"Onyomi": [
+			"トウ"
+		],
+		"Words": [
+			"1445770",
+			"1445790"
+		],
+		"En": [
+			"overthrow",
+			"fall",
+			"collapse",
+			"drop",
+			"break down"
 		]
 	}
 ]
