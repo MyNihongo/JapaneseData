@@ -737,21 +737,6 @@
 		]
 	},
 	{
-		"Id": 44,
-		"Sort": 44,
-		"Char": "首",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"くび"
-		],
-		"Onyomi": [
-			"シュ"
-		],
-		"En": [
-			"neck"
-		]
-	},
-	{
 		"Id": 45,
 		"Sort": 45,
 		"Char": "目",
@@ -4789,6 +4774,211 @@
 			"reach",
 			"arrive",
 			"attain"
+		]
+	},
+	{
+		"Id": 240,
+		"Sort": 131,
+		"Char": "顔",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"かお"
+		],
+		"Onyomi": [
+			"ガン"
+		],
+		"Words": [
+			"1217730"
+		],
+		"En": [
+			"face",
+			"expression"
+		]
+	},
+	{
+		"Id": 241,
+		"Sort": 132,
+		"Char": "頭",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あたま",
+			"かしら"
+		],
+		"Onyomi": [
+			"トウ",
+			"ズ",
+			"ト"
+		],
+		"Words": [
+			"1582310",
+			"1450890"
+		],
+		"En": [
+			"head",
+			"counter for large animals"
+		]
+	},
+	{
+		"Id": 242,
+		"Sort": 133,
+		"Char": "医",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"イ"
+		],
+		"Words": [
+			"1159980"
+		],
+		"En": [
+			"doctor",
+			"medicine"
+		]
+	},
+	{
+		"Id": 243,
+		"Sort": 134,
+		"Char": "者",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"もの"
+		],
+		"Onyomi": [
+			"シャ"
+		],
+		"Words": [
+			"1159980",
+			"1206800"
+		],
+		"En": [
+			"someone",
+			"person"
+		]
+	},
+	{
+		"Id": 244,
+		"Sort": 135,
+		"Char": "首",
+		"Jlpt": 5,
+		"Kunyomi": [
+			"くび"
+		],
+		"Onyomi": [
+			"シュ"
+		],
+		"Words": [
+			"1592270",
+			"1327770",
+			"1329340",
+			"1329300"
+		],
+		"En": [
+			"neck"
+		]
+	},
+	{
+		"Id": 245,
+		"Sort": 136,
+		"Char": "声",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"こえ",
+			"こわ"
+		],
+		"Onyomi": [
+			"セイ",
+			"ショウ"
+		],
+		"Words": [
+			"1380440",
+			"1183880"
+		],
+		"En": [
+			"voice"
+		]
+	},
+	{
+		"Id": 246,
+		"Sort": 137,
+		"Char": "薬",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"くすり"
+		],
+		"Onyomi": [
+			"ヤク"
+		],
+		"Words": [
+			"1538160",
+			"1538200"
+		],
+		"En": [
+			"medicine",
+			"chemical",
+			"enamel",
+			"gunpowder",
+			"benefit"
+		]
+	},
+	{
+		"Id": 247,
+		"Sort": 138,
+		"Char": "心",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"こころ"
+		],
+		"Onyomi": [
+			"シン"
+		],
+		"Words": [
+			"1360480",
+			"1424550"
+		],
+		"En": [
+			"heart",
+			"mind",
+			"spirit"
+		]
+	},
+	{
+		"Id": 248,
+		"Sort": 139,
+		"Char": "野",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ヤ"
+		],
+		"Words": [
+			"1537370",
+			"1537300"
+		],
+		"En": [
+			"plants",
+			"field",
+			"rustic",
+			"civilian life"
+		]
+	},
+	{
+		"Id": 249,
+		"Sort": 140,
+		"Char": "菜",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"な"
+		],
+		"Onyomi": [
+			"サイ"
+		],
+		"Words": [
+			"1537370"
+		],
+		"En": [
+			"vegetable",
+			"side dish",
+			"greens"
 		]
 	}
 ]
