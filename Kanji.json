@@ -4570,5 +4570,225 @@
 			"call out to",
 			"invite"
 		]
+	},
+	{
+		"Id": 230,
+		"Sort": 121,
+		"Char": "世",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"よ"
+		],
+		"Onyomi": [
+			"セイ",
+			"セ"
+		],
+		"Words": [
+			"1373860",
+			"1373990"
+		],
+		"En": [
+			"generation",
+			"world",
+			"society",
+			"public"
+		]
+	},
+	{
+		"Id": 231,
+		"Sort": 122,
+		"Char": "界",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"カイ"
+		],
+		"Words": [
+			"1373860"
+		],
+		"En": [
+			"world",
+			"boundary"
+		]
+	},
+	{
+		"Id": 232,
+		"Sort": 123,
+		"Char": "太",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ふと|い",
+			"ふと|る"
+		],
+		"Onyomi": [
+			"タイ",
+			"ア"
+		],
+		"Words": [
+			"1408180",
+			"1408220",
+			"1408370",
+			"1408360"
+		],
+		"En": [
+			"plump",
+			"big around",
+			"thick"
+		]
+	},
+	{
+		"Id": 233,
+		"Sort": 124,
+		"Char": "平",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"たい|ら",
+			"たい|らげる",
+			"ひら"
+		],
+		"Onyomi": [
+			"ヘイ",
+			"ビョウ"
+		],
+		"Words": [
+			"1506930",
+			"1507180",
+			"1408360"
+		],
+		"En": [
+			"even",
+			"flat",
+			"peace"
+		]
+	},
+	{
+		"Id": 234,
+		"Sort": 125,
+		"Char": "洋",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ヨウ"
+		],
+		"Words": [
+			"1546020",
+			"1408360"
+		],
+		"En": [
+			"ocean",
+			"sea",
+			"foreign",
+			"Western style"
+		]
+	},
+	{
+		"Id": 235,
+		"Sort": 126,
+		"Char": "和",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ヨウ"
+		],
+		"Words": [
+			"1562190",
+			"1508070"
+		],
+		"En": [
+			"ocean",
+			"sea",
+			"foreign",
+			"Western style"
+		]
+	},
+	{
+		"Id": 236,
+		"Sort": 127,
+		"Char": "経",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"へ|る"
+		],
+		"Onyomi": [
+			"ケイ",
+			"キョウ"
+		],
+		"Words": [
+			"1251320",
+			"1251270"
+		],
+		"En": [
+			"sutra",
+			"longitude",
+			"pass thru",
+			"expire",
+			"warp"
+		]
+	},
+	{
+		"Id": 237,
+		"Sort": 128,
+		"Char": "済",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"す|む",
+			"す|ます"
+		],
+		"Onyomi": [
+			"サイ"
+		],
+		"Words": [
+			"1251320"
+		],
+		"En": [
+			"settle (debt. etc.)",
+			"relieve (burden)",
+			"finish",
+			"come to en end",
+			"excusable",
+			"need not"
+		]
+	},
+	{
+		"Id": 238,
+		"Sort": 129,
+		"Char": "議",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ギ"
+		],
+		"Words": [
+			"1198360",
+			"1226160"
+		],
+		"En": [
+			"deliberation",
+			"consultation",
+			"debate",
+			"consideration"
+		]
+	},
+	{
+		"Id": 239,
+		"Sort": 130,
+		"Char": "達",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"たち"
+		],
+		"Onyomi": [
+			"タツ"
+		],
+		"Words": [
+			"1540170",
+			"1353850"
+		],
+		"En": [
+			"accomplished",
+			"reach",
+			"arrive",
+			"attain"
+		]
 	}
 ]
