@@ -1712,27 +1712,6 @@
 		]
 	},
 	{
-		"Id": 116,
-		"Sort": 116,
-		"Char": "回",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"まわ|る",
-			"まわ|す"
-		],
-		"Onyomi": [
-			"カイ",
-			"エ"
-		],
-		"En": [
-			"times",
-			"round",
-			"game",
-			"revolve",
-			"counter for occurrences"
-		]
-	},
-	{
 		"Id": 117,
 		"Sort": 117,
 		"Char": "困",
@@ -4979,6 +4958,243 @@
 			"vegetable",
 			"side dish",
 			"greens"
+		]
+	},
+	{
+		"Id": 250,
+		"Sort": 141,
+		"Char": "降",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"お|りる",
+			"お|ろす",
+			"ふ|る"
+		],
+		"Onyomi": [
+			"コウ"
+		],
+		"Words": [
+			"1282790",
+			"1589500-1"
+		],
+		"En": [
+			"descend",
+			"precipitate",
+			"fall",
+			"surrender"
+		]
+	},
+	{
+		"Id": 251,
+		"Sort": 142,
+		"Char": "運",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はこ|ぶ"
+		],
+		"Onyomi": [
+			"ウン"
+		],
+		"Words": [
+			"1172660",
+			"1172910",
+			"1172830",
+			"1172750"
+		],
+		"En": [
+			"carry",
+			"luck",
+			"destiny",
+			"fate",
+			"lot",
+			"transport",
+			"progress",
+			"advance"
+		]
+	},
+	{
+		"Id": 252,
+		"Sort": 143,
+		"Char": "通",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"とお|る",
+			"とお|す",
+			"かよ|う"
+		],
+		"Onyomi": [
+			"ツウ",
+			"シ"
+		],
+		"Words": [
+			"1433030",
+			"1432850",
+			"1433600"
+		],
+		"En": [
+			"traffic",
+			"pass through",
+			"avenue",
+			"commute"
+		]
+	},
+	{
+		"Id": 253,
+		"Sort": 144,
+		"Char": "動",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"うご|く",
+			"うご|かす"
+		],
+		"Onyomi": [
+			"ドウ"
+		],
+		"Words": [
+			"1451210",
+			"1172910",
+			"1451470"
+		],
+		"En": [
+			"move",
+			"motion",
+			"change",
+			"confusion",
+			"shift",
+			"shake"
+		]
+	},
+	{
+		"Id": 254,
+		"Sort": 145,
+		"Char": "転",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ころ|がる",
+			"ころ|げる",
+			"ころ|がす",
+			"ころ|ぶ"
+		],
+		"Onyomi": [
+			"テン"
+		],
+		"Words": [
+			"1582130",
+			"1172830"
+		],
+		"En": [
+			"resolve",
+			"turn around",
+			"change"
+		]
+	},
+	{
+		"Id": 255,
+		"Sort": 146,
+		"Char": "自",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"みずか|ら"
+		],
+		"Onyomi": [
+			"ジ",
+			"シ"
+		],
+		"Words": [
+			"1318610",
+			"1317970",
+			"1318090",
+			"1318720"
+		],
+		"En": [
+			"oneself"
+		]
+	},
+	{
+		"Id": 256,
+		"Sort": 147,
+		"Char": "急",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"いそ|ぐ"
+		],
+		"Onyomi": [
+			"キュウ"
+		],
+		"Words": [
+			"1228560",
+			"1228650",
+			"1454750"
+		],
+		"En": [
+			"hurry",
+			"emergency",
+			"sudden",
+			"steep"
+		]
+	},
+	{
+		"Id": 257,
+		"Sort": 148,
+		"Char": "回",
+		"Jlpt": 5,
+		"Kunyomi": [
+			"まわ|る",
+			"まわ|す"
+		],
+		"Onyomi": [
+			"カイ",
+			"エ"
+		],
+		"Words": [
+			"1604300",
+			"1199640"
+		],
+		"En": [
+			"times",
+			"round",
+			"game",
+			"revolve",
+			"counter for occurrences"
+		]
+	},
+	{
+		"Id": 258,
+		"Sort": 149,
+		"Char": "売",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"う|る",
+			"う|れる"
+		],
+		"Onyomi": [
+			"バイ"
+		],
+		"Words": [
+			"1473950"
+		],
+		"En": [
+			"sell"
+		]
+	},
+	{
+		"Id": 259,
+		"Sort": 150,
+		"Char": "取",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"と|る"
+		],
+		"Onyomi": [
+			"シュ"
+		],
+		"Words": [
+			"1326980"
+		],
+		"En": [
+			"take",
+			"fetch",
+			"take up"
 		]
 	}
 ]
