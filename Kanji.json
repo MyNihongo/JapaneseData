@@ -5196,5 +5196,215 @@
 			"fetch",
 			"take up"
 		]
+	},
+	{
+		"Id": 260,
+		"Sort": 151,
+		"Char": "思",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"おも|う"
+		],
+		"Onyomi": [
+			"シ"
+		],
+		"Words": [
+			"1589350"
+		],
+		"En": [
+			"think"
+		]
+	},
+	{
+		"Id": 261,
+		"Sort": 152,
+		"Char": "考",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"かんが|える"
+		],
+		"Onyomi": [
+			"コウ"
+		],
+		"Words": [
+			"1281020"
+		],
+		"En": [
+			"consider",
+			"think over"
+		]
+	},
+	{
+		"Id": 262,
+		"Sort": 153,
+		"Char": "使",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"つか|う"
+		],
+		"Onyomi": [
+			"シ"
+		],
+		"Words": [
+			"1305990",
+			"1306200"
+		],
+		"En": [
+			"use",
+			"send on a mission",
+			"oder",
+			"messenger",
+			"envoy",
+			"ambassador",
+			"cause"
+		]
+	},
+	{
+		"Id": 263,
+		"Sort": 154,
+		"Char": "作",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"つく|る"
+		],
+		"Onyomi": [
+			"サク",
+			"サ"
+		],
+		"Words": [
+			"1597890",
+			"1297960"
+		],
+		"En": [
+			"make",
+			"production",
+			"prepare",
+			"build"
+		]
+	},
+	{
+		"Id": 264,
+		"Sort": 155,
+		"Char": "知",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"し|る"
+		],
+		"Onyomi": [
+			"チ"
+		],
+		"Words": [
+			"1420470",
+			"1420590"
+		],
+		"En": [
+			"know",
+			"wisdom"
+		]
+	},
+	{
+		"Id": 265,
+		"Sort": 156,
+		"Char": "試",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"こころ|みる",
+			"ため|す"
+		],
+		"Onyomi": [
+			"シ"
+		],
+		"Words": [
+			"1312260",
+			"1312350"
+		],
+		"En": [
+			"test",
+			"try",
+			"attempt",
+			"experiment",
+			"ordeal"
+		]
+	},
+	{
+		"Id": 266,
+		"Sort": 157,
+		"Char": "験",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ケン",
+			"ゲン"
+		],
+		"Words": [
+			"1312350",
+			"1251270",
+			"1409420"
+		],
+		"En": [
+			"verification",
+			"effect",
+			"testing"
+		]
+	},
+	{
+		"Id": 267,
+		"Sort": 158,
+		"Char": "記",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"しる|す"
+		],
+		"Onyomi": [
+			"キ"
+		],
+		"Words": [
+			"1463930"
+		],
+		"En": [
+			"scribe",
+			"account",
+			"narrative"
+		]
+	},
+	{
+		"Id": 268,
+		"Sort": 159,
+		"Char": "終",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"お|わる",
+			"お|える"
+		],
+		"Onyomi": [
+			"シュウ"
+		],
+		"Words": [
+			"1589600",
+			"1333040"
+		],
+		"En": [
+			"end",
+			"finish"
+		]
+	},
+	{
+		"Id": 269,
+		"Sort": 160,
+		"Char": "題",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ダイ"
+		],
+		"Words": [
+			"1337270",
+			"1536010",
+			"1562400"
+		],
+		"En": [
+			"topic",
+			"subject"
+		]
 	}
 ]
