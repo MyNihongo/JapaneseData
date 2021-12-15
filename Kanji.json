@@ -978,38 +978,6 @@
 		]
 	},
 	{
-		"Id": 60,
-		"Sort": 60,
-		"Char": "林",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"はやし"
-		],
-		"Onyomi": [
-			"リン"
-		],
-		"En": [
-			"grove",
-			"forest"
-		]
-	},
-	{
-		"Id": 61,
-		"Sort": 61,
-		"Char": "森",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"もり"
-		],
-		"Onyomi": [
-			"シン"
-		],
-		"En": [
-			"forest",
-			"woods"
-		]
-	},
-	{
 		"Id": 62,
 		"Sort": 62,
 		"Char": "竹",
@@ -4838,7 +4806,7 @@
 		"Id": 244,
 		"Sort": 135,
 		"Char": "首",
-		"Jlpt": 5,
+		"Jlpt": 4,
 		"Kunyomi": [
 			"くび"
 		],
@@ -5137,7 +5105,7 @@
 		"Id": 257,
 		"Sort": 148,
 		"Char": "回",
-		"Jlpt": 5,
+		"Jlpt": 4,
 		"Kunyomi": [
 			"まわ|る",
 			"まわ|す"
@@ -5405,6 +5373,210 @@
 		"En": [
 			"topic",
 			"subject"
+		]
+	},
+	{
+		"Id": 270,
+		"Sort": 161,
+		"Char": "春",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はる"
+		],
+		"Onyomi": [
+			"シュン"
+		],
+		"Words": [
+			"1341000"
+		],
+		"En": [
+			"springtime",
+			"spring (season)"
+		]
+	},
+	{
+		"Id": 271,
+		"Sort": 162,
+		"Char": "夏",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"なつ"
+		],
+		"Onyomi": [
+			"カ",
+			"ゲ"
+		],
+		"Words": [
+			"2253330",
+			"1191420"
+		],
+		"En": [
+			"summer"
+		]
+	},
+	{
+		"Id": 272,
+		"Sort": 163,
+		"Char": "秋",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あき"
+		],
+		"Onyomi": [
+			"シュウ"
+		],
+		"Words": [
+			"1332650"
+		],
+		"En": [
+			"autumn"
+		]
+	},
+	{
+		"Id": 273,
+		"Sort": 164,
+		"Char": "冬",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ふゆ"
+		],
+		"Onyomi": [
+			"トウ"
+		],
+		"Words": [
+			"1446070"
+		],
+		"En": [
+			"winter"
+		]
+	},
+	{
+		"Id": 274,
+		"Sort": 165,
+		"Char": "森",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"もり"
+		],
+		"Onyomi": [
+			"シン"
+		],
+		"Words": [
+			"1362490-1",
+			"1362530"
+		],
+		"En": [
+			"forest",
+			"woods"
+		]
+	},
+	{
+		"Id": 275,
+		"Sort": 166,
+		"Char": "林",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はやし"
+		],
+		"Onyomi": [
+			"リン"
+		],
+		"Words": [
+			"1555440",
+			"1362530"
+		],
+		"En": [
+			"grove",
+			"forest"
+		]
+	},
+	{
+		"Id": 276,
+		"Sort": 167,
+		"Char": "季",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"キ"
+		],
+		"Words": [
+			"1222840",
+			"1307130"
+		],
+		"En": [
+			"seasons"
+		]
+	},
+	{
+		"Id": 277,
+		"Sort": 168,
+		"Char": "節",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ふし"
+		],
+		"Onyomi": [
+			"セツ",
+			"セチ"
+		],
+		"Words": [
+			"1222840"
+		],
+		"En": [
+			"node",
+			"season",
+			"period",
+			"occasion",
+			"verse",
+			"clause",
+			"stanza",
+			"honour",
+			"joint",
+			"knuckle",
+			"knob",
+			"knot",
+			"tune",
+			"melody"
+		]
+	},
+	{
+		"Id": 278,
+		"Sort": 169,
+		"Char": "池",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"いけ"
+		],
+		"Onyomi": [
+			"チ"
+		],
+		"Words": [
+			"1421700",
+			"1443620"
+		],
+		"En": [
+			"pond",
+			"cistern",
+			"pool",
+			"reservoir"
+		]
+	},
+	{
+		"Id": 279,
+		"Sort": 170,
+		"Char": "雪",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ゆき"
+		],
+		"Onyomi": [
+			"セツ"
+		],
+		"Words": [
+			"1386500"
+		],
+		"En": [
+			"snow"
 		]
 	}
 ]
