@@ -5707,5 +5707,227 @@
 		"En": [
 			"blue"
 		]
+	},
+	{
+		"Id": 290,
+		"Sort": 181,
+		"Char": "活",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"カツ"
+		],
+		"Words": [
+			"1378860",
+			"1208360"
+		],
+		"En": [
+			"lively",
+			"resuscitation",
+			"being",
+			"helped",
+			"living"
+		]
+	},
+	{
+		"Id": 291,
+		"Sort": 182,
+		"Char": "主",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ぬし",
+			"おも"
+		],
+		"Onyomi": [
+			"シュ",
+			"ス"
+		],
+		"Words": [
+			"1324990"
+		],
+		"En": [
+			"lord",
+			"chief",
+			"master",
+			"main thing",
+			"principal"
+		]
+	},
+	{
+		"Id": 292,
+		"Sort": 183,
+		"Char": "色",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"いろ"
+		],
+		"Onyomi": [
+			"ショク",
+			"シキ"
+		],
+		"Words": [
+			"1357600",
+			"1587850",
+			"1422720",
+			"1576760"
+		],
+		"En": [
+			"color"
+		]
+	},
+	{
+		"Id": 293,
+		"Sort": 184,
+		"Char": "形",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"かた",
+			"かたち"
+		],
+		"Onyomi": [
+			"ケイ",
+			"ギョウ"
+		],
+		"Words": [
+			"1250220",
+			"1954390",
+			"1250430"
+		],
+		"En": [
+			"shape",
+			"form",
+			"style"
+		]
+	},
+	{
+		"Id": 294,
+		"Sort": 185,
+		"Char": "品",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"しな"
+		],
+		"Onyomi": [
+			"ヒン"
+		],
+		"Words": [
+			"1490670",
+			"1297910"
+		],
+		"En": [
+			"goods",
+			"refinement",
+			"dignity",
+			"article",
+			"counter for meal courses"
+		]
+	},
+	{
+		"Id": 295,
+		"Sort": 186,
+		"Char": "民",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"たみ"
+		],
+		"Onyomi": [
+			"ミン"
+		],
+		"Words": [
+			"1308690",
+			"1244260"
+		],
+		"En": [
+			"people",
+			"nation",
+			"subjects"
+		]
+	},
+	{
+		"Id": 296,
+		"Sort": 187,
+		"Char": "両",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"リョウ"
+		],
+		"Words": [
+			"1602710",
+			"1553660",
+			"1553820"
+		],
+		"En": [
+			"both",
+			"old Japanese coin",
+			"counter for carriages (e.g. in a train)",
+			"two"
+		]
+	},
+	{
+		"Id": 297,
+		"Sort": 188,
+		"Char": "信",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"シン"
+		],
+		"Words": [
+			"1359040",
+			"1359240",
+			"1359620"
+		],
+		"En": [
+			"faith",
+			"truth",
+			"fidelity",
+			"trust"
+		]
+	},
+	{
+		"Id": 298,
+		"Sort": 189,
+		"Char": "計",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はか|る",
+			"はか|らう"
+		],
+		"Onyomi": [
+			"ケイ"
+		],
+		"Words": [
+			"1316140",
+			"1252090"
+		],
+		"En": [
+			"plot",
+			"plan",
+			"scheme",
+			"measure"
+		]
+	},
+	{
+		"Id": 299,
+		"Sort": 190,
+		"Char": "光",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ひか|る",
+			"ひかり"
+		],
+		"Onyomi": [
+			"コウ"
+		],
+		"Words": [
+			"1272780",
+			"1272820",
+			"1214840"
+		],
+		"En": [
+			"ray",
+			"light"
+		]
 	}
 ]
