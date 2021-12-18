@@ -422,69 +422,37 @@
 	{
 		"Id": 26,
 		"Sort": 26,
-		"Char": "室",
+		"Char": "泳",
 		"Jlpt": 5,
 		"Kunyomi": [
-			"むろ"
+			"およ|ぐ"
 		],
 		"Onyomi": [
-			"シツ"
+			"エイ"
 		],
 		"En": [
-			"room",
-			"apartment",
-			"chamber",
-			"greenhouse",
-			"cellar"
+			"swim"
 		]
 	},
 	{
 		"Id": 27,
 		"Sort": 27,
-		"Char": "家",
+		"Char": "海",
 		"Jlpt": 5,
 		"Kunyomi": [
-			"いえ",
-			"や",
-			"うち"
+			"うみ"
 		],
 		"Onyomi": [
-			"カ",
-			"ケ"
+			"カイ"
 		],
 		"En": [
-			"house",
-			"home",
-			"family",
-			"professional",
-			"expert",
-			"performer"
+			"sea",
+			"ocean"
 		]
 	},
 	{
 		"Id": 28,
 		"Sort": 28,
-		"Char": "度",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"たび",
-			"た|い"
-		],
-		"Onyomi": [
-			"ド",
-			"ト",
-			"タク"
-		],
-		"En": [
-			"degrees",
-			"occurrence",
-			"time",
-			"counter for occurrences"
-		]
-	},
-	{
-		"Id": 29,
-		"Sort": 29,
 		"Char": "金",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -502,8 +470,8 @@
 		]
 	},
 	{
-		"Id": 30,
-		"Sort": 30,
+		"Id": 29,
+		"Sort": 29,
 		"Char": "土",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -520,8 +488,8 @@
 		]
 	},
 	{
-		"Id": 31,
-		"Sort": 31,
+		"Id": 30,
+		"Sort": 30,
 		"Char": "子",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -538,8 +506,8 @@
 		]
 	},
 	{
-		"Id": 32,
-		"Sort": 32,
+		"Id": 31,
+		"Sort": 31,
 		"Char": "女",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -557,8 +525,8 @@
 		]
 	},
 	{
-		"Id": 33,
-		"Sort": 33,
+		"Id": 32,
+		"Sort": 32,
 		"Char": "男",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -575,8 +543,8 @@
 		]
 	},
 	{
-		"Id": 34,
-		"Sort": 34,
+		"Id": 33,
+		"Sort": 33,
 		"Char": "私",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -593,8 +561,8 @@
 		]
 	},
 	{
-		"Id": 35,
-		"Sort": 35,
+		"Id": 34,
+		"Sort": 34,
 		"Char": "生",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -616,8 +584,8 @@
 		]
 	},
 	{
-		"Id": 36,
-		"Sort": 36,
+		"Id": 35,
+		"Sort": 35,
 		"Char": "先",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -636,8 +604,8 @@
 		]
 	},
 	{
-		"Id": 37,
-		"Sort": 37,
+		"Id": 36,
+		"Sort": 36,
 		"Char": "上",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -658,8 +626,8 @@
 		]
 	},
 	{
-		"Id": 38,
-		"Sort": 38,
+		"Id": 37,
+		"Sort": 37,
 		"Char": "下",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -684,8 +652,8 @@
 		]
 	},
 	{
-		"Id": 39,
-		"Sort": 39,
+		"Id": 38,
+		"Sort": 38,
 		"Char": "中",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -706,8 +674,8 @@
 		]
 	},
 	{
-		"Id": 40,
-		"Sort": 40,
+		"Id": 39,
+		"Sort": 39,
 		"Char": "大",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -723,26 +691,8 @@
 		]
 	},
 	{
-		"Id": 41,
-		"Sort": 41,
-		"Char": "英",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"はなぶさ"
-		],
-		"Onyomi": [
-			"エイ"
-		],
-		"En": [
-			"England",
-			"English",
-			"hero",
-			"outstanding"
-		]
-	},
-	{
-		"Id": 42,
-		"Sort": 42,
+		"Id": 40,
+		"Sort": 40,
 		"Char": "会",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -758,8 +708,8 @@
 		]
 	},
 	{
-		"Id": 43,
-		"Sort": 43,
+		"Id": 41,
+		"Sort": 41,
 		"Char": "口",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -774,23 +724,8 @@
 		]
 	},
 	{
-		"Id": 44,
-		"Sort": 44,
-		"Char": "首",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"くび"
-		],
-		"Onyomi": [
-			"シュ"
-		],
-		"En": [
-			"neck"
-		]
-	},
-	{
-		"Id": 45,
-		"Sort": 45,
+		"Id": 42,
+		"Sort": 42,
 		"Char": "目",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -812,8 +747,8 @@
 		]
 	},
 	{
-		"Id": 46,
-		"Sort": 46,
+		"Id": 43,
+		"Sort": 43,
 		"Char": "耳",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -827,8 +762,8 @@
 		]
 	},
 	{
-		"Id": 47,
-		"Sort": 47,
+		"Id": 44,
+		"Sort": 44,
 		"Char": "手",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -844,8 +779,8 @@
 		]
 	},
 	{
-		"Id": 48,
-		"Sort": 48,
+		"Id": 45,
+		"Sort": 45,
 		"Char": "足",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -863,8 +798,8 @@
 		]
 	},
 	{
-		"Id": 49,
-		"Sort": 49,
+		"Id": 46,
+		"Sort": 46,
 		"Char": "小",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -882,8 +817,8 @@
 		]
 	},
 	{
-		"Id": 50,
-		"Sort": 50,
+		"Id": 47,
+		"Sort": 47,
 		"Char": "半",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -900,8 +835,8 @@
 		]
 	},
 	{
-		"Id": 51,
-		"Sort": 51,
+		"Id": 48,
+		"Sort": 48,
 		"Char": "分",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -919,8 +854,8 @@
 		]
 	},
 	{
-		"Id": 52,
-		"Sort": 52,
+		"Id": 49,
+		"Sort": 49,
 		"Char": "力",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -941,8 +876,8 @@
 		]
 	},
 	{
-		"Id": 53,
-		"Sort": 53,
+		"Id": 50,
+		"Sort": 50,
 		"Char": "何",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -957,8 +892,8 @@
 		]
 	},
 	{
-		"Id": 54,
-		"Sort": 54,
+		"Id": 51,
+		"Sort": 51,
 		"Char": "雨",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -973,8 +908,8 @@
 		]
 	},
 	{
-		"Id": 55,
-		"Sort": 55,
+		"Id": 52,
+		"Sort": 52,
 		"Char": "米",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -993,26 +928,8 @@
 		]
 	},
 	{
-		"Id": 56,
-		"Sort": 56,
-		"Char": "明",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"あか|るい",
-			"あき|らか"
-		],
-		"Onyomi": [
-			"メイ",
-			"ミョウ"
-		],
-		"En": [
-			"bright",
-			"light"
-		]
-	},
-	{
-		"Id": 57,
-		"Sort": 57,
+		"Id": 53,
+		"Sort": 53,
 		"Char": "休",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1029,8 +946,8 @@
 		]
 	},
 	{
-		"Id": 58,
-		"Sort": 58,
+		"Id": 54,
+		"Sort": 54,
 		"Char": "体",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1048,58 +965,8 @@
 		]
 	},
 	{
-		"Id": 59,
-		"Sort": 59,
-		"Char": "好",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"この|む",
-			"す|く"
-		],
-		"Onyomi": [
-			"コウ"
-		],
-		"En": [
-			"fond",
-			"pleasing",
-			"like something"
-		]
-	},
-	{
-		"Id": 60,
-		"Sort": 60,
-		"Char": "林",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"はやし"
-		],
-		"Onyomi": [
-			"リン"
-		],
-		"En": [
-			"grove",
-			"forest"
-		]
-	},
-	{
-		"Id": 61,
-		"Sort": 61,
-		"Char": "森",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"もり"
-		],
-		"Onyomi": [
-			"シン"
-		],
-		"En": [
-			"forest",
-			"woods"
-		]
-	},
-	{
-		"Id": 62,
-		"Sort": 62,
+		"Id": 55,
+		"Sort": 55,
 		"Char": "竹",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1113,8 +980,8 @@
 		]
 	},
 	{
-		"Id": 63,
-		"Sort": 63,
+		"Id": 56,
+		"Sort": 56,
 		"Char": "貝",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1128,8 +995,8 @@
 		]
 	},
 	{
-		"Id": 64,
-		"Sort": 64,
+		"Id": 57,
+		"Sort": 57,
 		"Char": "花",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1144,8 +1011,8 @@
 		]
 	},
 	{
-		"Id": 65,
-		"Sort": 65,
+		"Id": 58,
+		"Sort": 58,
 		"Char": "肉",
 		"Jlpt": 5,
 		"Kunyomi": [],
@@ -1158,79 +1025,8 @@
 		]
 	},
 	{
-		"Id": 66,
-		"Sort": 66,
-		"Char": "茶",
-		"Jlpt": 5,
-		"Kunyomi": [],
-		"Onyomi": [
-			"チャ",
-			"サ"
-		],
-		"En": [
-			"tea"
-		]
-	},
-	{
-		"Id": 67,
-		"Sort": 67,
-		"Char": "文",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"ふみ"
-		],
-		"Onyomi": [
-			"ブン",
-			"モン"
-		],
-		"En": [
-			"sentence",
-			"literature",
-			"style",
-			"art",
-			"decoration",
-			"figures",
-			"plan"
-		]
-	},
-	{
-		"Id": 68,
-		"Sort": 68,
-		"Char": "字",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"あざ"
-		],
-		"Onyomi": [
-			"ジ"
-		],
-		"En": [
-			"character",
-			"letter",
-			"word"
-		]
-	},
-	{
-		"Id": 69,
-		"Sort": 69,
-		"Char": "物",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"もの"
-		],
-		"Onyomi": [
-			"ブツ",
-			"モツ"
-		],
-		"En": [
-			"thing",
-			"object",
-			"matter"
-		]
-	},
-	{
-		"Id": 70,
-		"Sort": 70,
+		"Id": 59,
+		"Sort": 59,
 		"Char": "牛",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1244,24 +1040,8 @@
 		]
 	},
 	{
-		"Id": 71,
-		"Sort": 71,
-		"Char": "鳥",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"とり"
-		],
-		"Onyomi": [
-			"チョウ"
-		],
-		"En": [
-			"bird",
-			"chicken"
-		]
-	},
-	{
-		"Id": 72,
-		"Sort": 72,
+		"Id": 60,
+		"Sort": 60,
 		"Char": "魚",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1276,8 +1056,8 @@
 		]
 	},
 	{
-		"Id": 73,
-		"Sort": 73,
+		"Id": 61,
+		"Sort": 61,
 		"Char": "新",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1293,8 +1073,8 @@
 		]
 	},
 	{
-		"Id": 74,
-		"Sort": 74,
+		"Id": 62,
+		"Sort": 62,
 		"Char": "古",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1308,8 +1088,8 @@
 		]
 	},
 	{
-		"Id": 75,
-		"Sort": 75,
+		"Id": 63,
+		"Sort": 63,
 		"Char": "長",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1327,26 +1107,8 @@
 		]
 	},
 	{
-		"Id": 76,
-		"Sort": 76,
-		"Char": "短",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"みじか|い"
-		],
-		"Onyomi": [
-			"タン"
-		],
-		"En": [
-			"short",
-			"fault",
-			"defect",
-			"weak point"
-		]
-	},
-	{
-		"Id": 77,
-		"Sort": 77,
+		"Id": 64,
+		"Sort": 64,
 		"Char": "高",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1362,25 +1124,8 @@
 		]
 	},
 	{
-		"Id": 78,
-		"Sort": 78,
-		"Char": "低",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"ひく|い"
-		],
-		"Onyomi": [
-			"テイ"
-		],
-		"En": [
-			"lower",
-			"short",
-			"humble"
-		]
-	},
-	{
-		"Id": 79,
-		"Sort": 79,
+		"Id": 65,
+		"Sort": 65,
 		"Char": "安",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1399,28 +1144,8 @@
 		]
 	},
 	{
-		"Id": 80,
-		"Sort": 80,
-		"Char": "暗",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"くら|い"
-		],
-		"Onyomi": [
-			"アン"
-		],
-		"En": [
-			"darkness",
-			"disappear",
-			"shade",
-			"informal",
-			"grow dark",
-			"be blinded"
-		]
-	},
-	{
-		"Id": 81,
-		"Sort": 81,
+		"Id": 66,
+		"Sort": 66,
 		"Char": "多",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1436,8 +1161,8 @@
 		]
 	},
 	{
-		"Id": 82,
-		"Sort": 82,
+		"Id": 67,
+		"Sort": 67,
 		"Char": "少",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1453,8 +1178,8 @@
 		]
 	},
 	{
-		"Id": 83,
-		"Sort": 83,
+		"Id": 68,
+		"Sort": 68,
 		"Char": "行",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1479,8 +1204,8 @@
 		]
 	},
 	{
-		"Id": 84,
-		"Sort": 84,
+		"Id": 69,
+		"Sort": 69,
 		"Char": "来",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1500,8 +1225,8 @@
 		]
 	},
 	{
-		"Id": 85,
-		"Sort": 85,
+		"Id": 70,
+		"Sort": 70,
 		"Char": "帰",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1519,8 +1244,8 @@
 		]
 	},
 	{
-		"Id": 86,
-		"Sort": 86,
+		"Id": 71,
+		"Sort": 71,
 		"Char": "食",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1538,8 +1263,8 @@
 		]
 	},
 	{
-		"Id": 87,
-		"Sort": 87,
+		"Id": 72,
+		"Sort": 72,
 		"Char": "飲",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1553,8 +1278,8 @@
 		]
 	},
 	{
-		"Id": 88,
-		"Sort": 88,
+		"Id": 73,
+		"Sort": 73,
 		"Char": "見",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1575,8 +1300,8 @@
 		]
 	},
 	{
-		"Id": 89,
-		"Sort": 89,
+		"Id": 74,
+		"Sort": 74,
 		"Char": "聞",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1593,8 +1318,8 @@
 		]
 	},
 	{
-		"Id": 90,
-		"Sort": 90,
+		"Id": 75,
+		"Sort": 75,
 		"Char": "読",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1610,8 +1335,8 @@
 		]
 	},
 	{
-		"Id": 91,
-		"Sort": 91,
+		"Id": 76,
+		"Sort": 76,
 		"Char": "書",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1625,8 +1350,8 @@
 		]
 	},
 	{
-		"Id": 92,
-		"Sort": 92,
+		"Id": 77,
+		"Sort": 77,
 		"Char": "話",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1642,8 +1367,8 @@
 		]
 	},
 	{
-		"Id": 93,
-		"Sort": 93,
+		"Id": 78,
+		"Sort": 78,
 		"Char": "買",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1657,26 +1382,8 @@
 		]
 	},
 	{
-		"Id": 94,
-		"Sort": 94,
-		"Char": "教",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"おし|える",
-			"おそ|わる"
-		],
-		"Onyomi": [
-			"キョウ"
-		],
-		"En": [
-			"teach",
-			"faith",
-			"doctrine"
-		]
-	},
-	{
-		"Id": 95,
-		"Sort": 95,
+		"Id": 79,
+		"Sort": 79,
 		"Char": "時",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1691,8 +1398,8 @@
 		]
 	},
 	{
-		"Id": 96,
-		"Sort": 96,
+		"Id": 80,
+		"Sort": 80,
 		"Char": "朝",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1710,8 +1417,8 @@
 		]
 	},
 	{
-		"Id": 97,
-		"Sort": 97,
+		"Id": 81,
+		"Sort": 81,
 		"Char": "昼",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1726,8 +1433,8 @@
 		]
 	},
 	{
-		"Id": 98,
-		"Sort": 98,
+		"Id": 82,
+		"Sort": 82,
 		"Char": "夜",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1743,8 +1450,8 @@
 		]
 	},
 	{
-		"Id": 99,
-		"Sort": 99,
+		"Id": 83,
+		"Sort": 83,
 		"Char": "晩",
 		"Jlpt": 5,
 		"Kunyomi": [],
@@ -1757,8 +1464,8 @@
 		]
 	},
 	{
-		"Id": 100,
-		"Sort": 100,
+		"Id": 84,
+		"Sort": 84,
 		"Char": "夕",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1772,8 +1479,8 @@
 		]
 	},
 	{
-		"Id": 101,
-		"Sort": 101,
+		"Id": 85,
+		"Sort": 85,
 		"Char": "方",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1789,8 +1496,8 @@
 		]
 	},
 	{
-		"Id": 102,
-		"Sort": 102,
+		"Id": 86,
+		"Sort": 86,
 		"Char": "午",
 		"Jlpt": 5,
 		"Kunyomi": [],
@@ -1803,8 +1510,8 @@
 		]
 	},
 	{
-		"Id": 103,
-		"Sort": 103,
+		"Id": 87,
+		"Sort": 87,
 		"Char": "前",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1819,8 +1526,8 @@
 		]
 	},
 	{
-		"Id": 104,
-		"Sort": 104,
+		"Id": 88,
+		"Sort": 88,
 		"Char": "後",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1840,8 +1547,8 @@
 		]
 	},
 	{
-		"Id": 105,
-		"Sort": 105,
+		"Id": 89,
+		"Sort": 89,
 		"Char": "毎",
 		"Jlpt": 5,
 		"Kunyomi": [],
@@ -1853,8 +1560,8 @@
 		]
 	},
 	{
-		"Id": 106,
-		"Sort": 106,
+		"Id": 90,
+		"Sort": 90,
 		"Char": "週",
 		"Jlpt": 5,
 		"Kunyomi": [],
@@ -1866,8 +1573,8 @@
 		]
 	},
 	{
-		"Id": 107,
-		"Sort": 107,
+		"Id": 91,
+		"Sort": 91,
 		"Char": "曜",
 		"Jlpt": 5,
 		"Kunyomi": [],
@@ -1879,8 +1586,8 @@
 		]
 	},
 	{
-		"Id": 108,
-		"Sort": 108,
+		"Id": 92,
+		"Sort": 92,
 		"Char": "今",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1895,8 +1602,8 @@
 		]
 	},
 	{
-		"Id": 109,
-		"Sort": 109,
+		"Id": 93,
+		"Sort": 93,
 		"Char": "年",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1911,8 +1618,8 @@
 		]
 	},
 	{
-		"Id": 110,
-		"Sort": 110,
+		"Id": 94,
+		"Sort": 94,
 		"Char": "間",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1929,25 +1636,8 @@
 		]
 	},
 	{
-		"Id": 111,
-		"Sort": 111,
-		"Char": "広",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"ひろ|い"
-		],
-		"Onyomi": [
-			"コウ"
-		],
-		"En": [
-			"wide",
-			"broad",
-			"spacious"
-		]
-	},
-	{
-		"Id": 112,
-		"Sort": 112,
+		"Id": 95,
+		"Sort": 95,
 		"Char": "店",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -1962,45 +1652,8 @@
 		]
 	},
 	{
-		"Id": 113,
-		"Sort": 113,
-		"Char": "病",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"や|む",
-			"やまい"
-		],
-		"Onyomi": [
-			"ビョウ",
-			"ヘイ"
-		],
-		"En": [
-			"ill",
-			"sick"
-		]
-	},
-	{
-		"Id": 114,
-		"Sort": 114,
-		"Char": "屋",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"や"
-		],
-		"Onyomi": [
-			"オク"
-		],
-		"En": [
-			"roof",
-			"house",
-			"shop",
-			"dealer",
-			"seller"
-		]
-	},
-	{
-		"Id": 115,
-		"Sort": 115,
+		"Id": 96,
+		"Sort": 96,
 		"Char": "国",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -2014,29 +1667,8 @@
 		]
 	},
 	{
-		"Id": 116,
-		"Sort": 116,
-		"Char": "回",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"まわ|る",
-			"まわ|す"
-		],
-		"Onyomi": [
-			"カイ",
-			"エ"
-		],
-		"En": [
-			"times",
-			"round",
-			"game",
-			"revolve",
-			"counter for occurrences"
-		]
-	},
-	{
-		"Id": 117,
-		"Sort": 117,
+		"Id": 97,
+		"Sort": 97,
 		"Char": "困",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -2053,43 +1685,8 @@
 		]
 	},
 	{
-		"Id": 118,
-		"Sort": 118,
-		"Char": "開",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"あ|ける",
-			"ひら|く"
-		],
-		"Onyomi": [
-			"カイ"
-		],
-		"En": [
-			"open",
-			"unfold",
-			"unseal"
-		]
-	},
-	{
-		"Id": 119,
-		"Sort": 119,
-		"Char": "閉",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"と|じる",
-			"し|める"
-		],
-		"Onyomi": [
-			"ヘイ"
-		],
-		"En": [
-			"close",
-			"shut"
-		]
-	},
-	{
-		"Id": 120,
-		"Sort": 120,
+		"Id": 98,
+		"Sort": 98,
 		"Char": "友",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -2103,8 +1700,8 @@
 		]
 	},
 	{
-		"Id": 121,
-		"Sort": 121,
+		"Id": 99,
+		"Sort": 99,
 		"Char": "父",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -2118,8 +1715,8 @@
 		]
 	},
 	{
-		"Id": 122,
-		"Sort": 122,
+		"Id": 100,
+		"Sort": 100,
 		"Char": "母",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -2133,71 +1730,8 @@
 		]
 	},
 	{
-		"Id": 123,
-		"Sort": 123,
-		"Char": "姉",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"あね"
-		],
-		"Onyomi": [
-			"シ"
-		],
-		"En": [
-			"elder sister"
-		]
-	},
-	{
-		"Id": 124,
-		"Sort": 124,
-		"Char": "兄",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"あに"
-		],
-		"Onyomi": [
-			"ケイ",
-			"キョウ"
-		],
-		"En": [
-			"elder brother"
-		]
-	},
-	{
-		"Id": 125,
-		"Sort": 125,
-		"Char": "妹",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"いもうと"
-		],
-		"Onyomi": [
-			"マイ"
-		],
-		"En": [
-			"younger sister"
-		]
-	},
-	{
-		"Id": 126,
-		"Sort": 126,
-		"Char": "弟",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"おとうと"
-		],
-		"Onyomi": [
-			"テイ",
-			"ダイ",
-			"デ"
-		],
-		"En": [
-			"younger brother"
-		]
-	},
-	{
-		"Id": 127,
-		"Sort": 127,
+		"Id": 101,
+		"Sort": 101,
 		"Char": "妻",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -2212,8 +1746,8 @@
 		]
 	},
 	{
-		"Id": 128,
-		"Sort": 128,
+		"Id": 102,
+		"Sort": 102,
 		"Char": "彼",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -2229,8 +1763,8 @@
 		]
 	},
 	{
-		"Id": 129,
-		"Sort": 129,
+		"Id": 103,
+		"Sort": 103,
 		"Char": "主",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -2250,76 +1784,8 @@
 		]
 	},
 	{
-		"Id": 130,
-		"Sort": 130,
-		"Char": "地",
-		"Jlpt": 5,
-		"Kunyomi": [],
-		"Onyomi": [
-			"チ",
-			"ジ"
-		],
-		"En": [
-			"ground",
-			"earth"
-		]
-	},
-	{
-		"Id": 131,
-		"Sort": 131,
-		"Char": "工",
-		"Jlpt": 5,
-		"Kunyomi": [],
-		"Onyomi": [
-			"コウ",
-			"ク"
-		],
-		"En": [
-			"craft",
-			"construction"
-		]
-	},
-	{
-		"Id": 132,
-		"Sort": 132,
-		"Char": "図",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"はか|る"
-		],
-		"Onyomi": [
-			"ズ",
-			"ト"
-		],
-		"En": [
-			"map",
-			"drawing",
-			"plan",
-			"extraordinary",
-			"audacious"
-		]
-	},
-	{
-		"Id": 133,
-		"Sort": 133,
-		"Char": "館",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"やかた"
-		],
-		"Onyomi": [
-			"カン"
-		],
-		"En": [
-			"building",
-			"mansion",
-			"large building",
-			"palace"
-		]
-	},
-	{
-		"Id": 134,
-		"Sort": 134,
+		"Id": 104,
+		"Sort": 104,
 		"Char": "公",
 		"Jlpt": 5,
 		"Kunyomi": [
@@ -2336,10 +1802,138 @@
 		]
 	},
 	{
-		"Id": 135,
-		"Sort": 135,
+		"Id": 105,
+		"Sort": 1,
+		"Char": "番",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"バン"
+		],
+		"En": [
+			"turn",
+			"number in a series"
+		]
+	},
+	{
+		"Id": 106,
+		"Sort": 2,
+		"Char": "号",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ゴウ"
+		],
+		"En": [
+			"nickname",
+			"number",
+			"item",
+			"title",
+			"pseudonym",
+			"name",
+			"call"
+		]
+	},
+	{
+		"Id": 107,
+		"Sort": 3,
+		"Char": "京",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"キョウ",
+			"ケイ"
+		],
+		"En": [
+			"capital"
+		]
+	},
+	{
+		"Id": 108,
+		"Sort": 4,
+		"Char": "都",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"みやこ"
+		],
+		"Onyomi": [
+			"ト",
+			"ツ"
+		],
+		"En": [
+			"metropolis",
+			"capital",
+			"all",
+			"everything"
+		]
+	},
+	{
+		"Id": 109,
+		"Sort": 5,
+		"Char": "県",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ケン"
+		],
+		"En": [
+			"prefecture"
+		]
+	},
+	{
+		"Id": 110,
+		"Sort": 6,
+		"Char": "市",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"いち"
+		],
+		"Onyomi": [
+			"シ"
+		],
+		"En": [
+			"market",
+			"city",
+			"town"
+		]
+	},
+	{
+		"Id": 111,
+		"Sort": 7,
+		"Char": "町",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"まち"
+		],
+		"Onyomi": [
+			"チョウ"
+		],
+		"En": [
+			"town",
+			"village",
+			"block",
+			"street"
+		]
+	},
+	{
+		"Id": 112,
+		"Sort": 8,
+		"Char": "区",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ク"
+		],
+		"En": [
+			"ward",
+			"district"
+		]
+	},
+	{
+		"Id": 113,
+		"Sort": 9,
 		"Char": "住",
-		"Jlpt": 5,
+		"Jlpt": 4,
 		"Kunyomi": [
 			"す|む"
 		],
@@ -2354,26 +1948,10 @@
 		]
 	},
 	{
-		"Id": 136,
-		"Sort": 136,
-		"Char": "場",
-		"Jlpt": 5,
-		"Kunyomi": [
-			"ば"
-		],
-		"Onyomi": [
-			"ジョウ"
-		],
-		"En": [
-			"location",
-			"place"
-		]
-	},
-	{
-		"Id": 137,
-		"Sort": 137,
+		"Id": 114,
+		"Sort": 10,
 		"Char": "所",
-		"Jlpt": 5,
+		"Jlpt": 4,
 		"Kunyomi": [
 			"ところ"
 		],
@@ -2386,199 +1964,127 @@
 		]
 	},
 	{
-		"Id": 138,
-		"Sort": 138,
-		"Char": "番",
-		"Jlpt": 5,
-		"Kunyomi": [],
+		"Id": 115,
+		"Sort": 11,
+		"Char": "座",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"すわ|る"
+		],
 		"Onyomi": [
-			"バン"
+			"ザ"
 		],
 		"En": [
-			"turn",
-			"number in a series"
+			"squat",
+			"seat",
+			"cushion",
+			"gathering",
+			"sit"
 		]
 	},
 	{
-		"Id": 139,
-		"Sort": 139,
-		"Char": "薬",
+		"Id": 116,
+		"Sort": 12,
+		"Char": "貸",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"くすり"
+			"か|す"
 		],
 		"Onyomi": [
-			"ヤク"
+			"タイ"
 		],
 		"En": [
-			"medicine",
-			"chemical",
-			"enamel",
-			"gunpowder",
-			"benefit"
+			"lend"
 		]
 	},
 	{
-		"Id": 140,
-		"Sort": 140,
-		"Char": "歌",
+		"Id": 117,
+		"Sort": 13,
+		"Char": "借",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"うた",
-			"うた|う"
+			"か|りる"
 		],
 		"Onyomi": [
-			"カ"
+			"シャク"
 		],
 		"En": [
-			"song",
-			"sing"
+			"borrow",
+			"rent"
 		]
 	},
 	{
-		"Id": 141,
-		"Sort": 141,
-		"Char": "曇",
+		"Id": 118,
+		"Sort": 14,
+		"Char": "習",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"くも"
+			"なら|う"
 		],
 		"Onyomi": [
-			"ウン"
+			"シュウ"
 		],
 		"En": [
-			"cloud"
+			"learn"
 		]
 	},
 	{
-		"Id": 142,
-		"Sort": 142,
-		"Char": "売",
+		"Id": 119,
+		"Sort": 15,
+		"Char": "教",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"う|る",
-			"う|れる"
+			"おし|える",
+			"おそ|わる"
 		],
 		"Onyomi": [
-			"バイ"
+			"キョウ"
 		],
 		"En": [
-			"sell"
+			"teach",
+			"faith",
+			"doctrine"
 		]
 	},
 	{
-		"Id": 143,
-		"Sort": 143,
-		"Char": "遠",
+		"Id": 120,
+		"Sort": 16,
+		"Char": "室",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"とお|い"
+			"むろ"
 		],
 		"Onyomi": [
-			"エン",
-			"オン"
+			"シツ"
 		],
 		"En": [
-			"distant",
-			"far"
+			"room",
+			"apartment",
+			"chamber",
+			"greenhouse",
+			"cellar"
 		]
 	},
 	{
-		"Id": 144,
-		"Sort": 144,
-		"Char": "近",
+		"Id": 121,
+		"Sort": 17,
+		"Char": "答",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"ちか|い"
+			"こた|える",
+			"こた|え"
 		],
 		"Onyomi": [
-			"キン"
-		],
-		"En": [
-			"near",
-			"early",
-			"akin",
-			"tantamount"
-		]
-	},
-	{
-		"Id": 145,
-		"Sort": 145,
-		"Char": "道",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"みち"
-		],
-		"Onyomi": [
-			"ドウ",
 			"トウ"
 		],
 		"En": [
-			"road-way",
-			"street",
-			"district",
-			"journey",
-			"course",
-			"moral",
-			"teachings"
+			"solution",
+			"answer"
 		]
 	},
 	{
-		"Id": 146,
-		"Sort": 146,
-		"Char": "遅",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"おく|れる",
-			"おく|らす",
-			"おそ|い"
-		],
-		"Onyomi": [
-			"チ"
-		],
-		"En": [
-			"slow",
-			"late",
-			"back",
-			"later"
-		]
-	},
-	{
-		"Id": 147,
-		"Sort": 147,
-		"Char": "青",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"あお",
-			"あお|い"
-		],
-		"Onyomi": [
-			"セイ",
-			"ショウ"
-		],
-		"En": [
-			"blue"
-		]
-	},
-	{
-		"Id": 148,
-		"Sort": 148,
-		"Char": "持",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"も|つ"
-		],
-		"Onyomi": [
-			"ジ"
-		],
-		"En": [
-			"hold",
-			"have"
-		]
-	},
-	{
-		"Id": 149,
-		"Sort": 149,
+		"Id": 122,
+		"Sort": 18,
 		"Char": "待",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -2593,58 +2099,113 @@
 		]
 	},
 	{
-		"Id": 150,
-		"Sort": 150,
-		"Char": "作",
+		"Id": 123,
+		"Sort": 19,
+		"Char": "英",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"つく|る"
-		],
-		"Onyomi": [
-			"サク",
-			"サ"
-		],
-		"En": [
-			"make",
-			"production",
-			"prepare",
-			"build"
-		]
-	},
-	{
-		"Id": 151,
-		"Sort": 151,
-		"Char": "泳",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"およ|ぐ"
+			"はなぶさ"
 		],
 		"Onyomi": [
 			"エイ"
 		],
 		"En": [
-			"swim"
+			"England",
+			"English",
+			"hero",
+			"outstanding"
 		]
 	},
 	{
-		"Id": 152,
-		"Sort": 152,
-		"Char": "海",
+		"Id": 124,
+		"Sort": 20,
+		"Char": "送",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"うみ"
+			"おく|る"
 		],
 		"Onyomi": [
-			"カイ"
+			"ソウ"
 		],
 		"En": [
-			"sea",
-			"ocean"
+			"escort",
+			"send"
 		]
 	},
 	{
-		"Id": 153,
-		"Sort": 153,
+		"Id": 125,
+		"Sort": 21,
+		"Char": "音",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"おと",
+			"ね"
+		],
+		"Onyomi": [
+			"オン",
+			"イン"
+		],
+		"En": [
+			"sound",
+			"noise"
+		]
+	},
+	{
+		"Id": 126,
+		"Sort": 22,
+		"Char": "楽",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"たの|しい",
+			"たの|しむ"
+		],
+		"Onyomi": [
+			"ガク",
+			"ラク"
+		],
+		"En": [
+			"music",
+			"comfort",
+			"ease"
+		]
+	},
+	{
+		"Id": 127,
+		"Sort": 23,
+		"Char": "映",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"うつ|る",
+			"うつ|す",
+			"はえ|る"
+		],
+		"Onyomi": [
+			"エイ"
+		],
+		"En": [
+			"reflect",
+			"reflection",
+			"projection"
+		]
+	},
+	{
+		"Id": 128,
+		"Sort": 24,
+		"Char": "画",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ガ",
+			"カク"
+		],
+		"En": [
+			"brush-stroke",
+			"picture"
+		]
+	},
+	{
+		"Id": 129,
+		"Sort": 25,
 		"Char": "酒",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -2660,264 +2221,314 @@
 		]
 	},
 	{
-		"Id": 154,
-		"Sort": 154,
-		"Char": "校",
+		"Id": 130,
+		"Sort": 26,
+		"Char": "茶",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"コウ"
+			"チャ",
+			"サ"
 		],
 		"En": [
-			"exam",
-			"school",
-			"printing",
-			"proof",
-			"correction"
+			"tea"
 		]
 	},
 	{
-		"Id": 155,
-		"Sort": 155,
-		"Char": "言",
+		"Id": 131,
+		"Sort": 27,
+		"Char": "鳥",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"い|う",
-			"こと"
+			"とり"
 		],
 		"Onyomi": [
-			"ゲン",
-			"ゴン"
+			"チョウ"
 		],
 		"En": [
-			"say",
+			"bird",
+			"chicken"
+		]
+	},
+	{
+		"Id": 132,
+		"Sort": 28,
+		"Char": "犬",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"いぬ"
+		],
+		"Onyomi": [
+			"ケン"
+		],
+		"En": [
+			"dog"
+		]
+	},
+	{
+		"Id": 133,
+		"Sort": 29,
+		"Char": "歌",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"うた",
+			"うた|う"
+		],
+		"Onyomi": [
+			"カ"
+		],
+		"En": [
+			"song",
+			"sing"
+		]
+	},
+	{
+		"Id": 134,
+		"Sort": 30,
+		"Char": "集",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あつ|まる",
+			"あつ|める",
+			"つど|う"
+		],
+		"Onyomi": [
+			"シュウ"
+		],
+		"En": [
+			"gather",
+			"meet",
+			"congregate",
+			"swarm",
+			"flock"
+		]
+	},
+	{
+		"Id": 135,
+		"Sort": 31,
+		"Char": "葉",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"は"
+		],
+		"Onyomi": [
+			"ヨウ"
+		],
+		"En": [
+			"leaf",
+			"plane",
+			"lobe",
+			"needle",
+			"blade",
+			"spear",
+			"counter for flat thing",
+			"fragment",
+			"piece"
+		]
+	},
+	{
+		"Id": 136,
+		"Sort": 32,
+		"Char": "漢",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"カン"
+		],
+		"En": [
+			"Sino-",
+			"China"
+		]
+	},
+	{
+		"Id": 137,
+		"Sort": 33,
+		"Char": "字",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あざ"
+		],
+		"Onyomi": [
+			"ジ"
+		],
+		"En": [
+			"character",
+			"letter",
 			"word"
 		]
 	},
 	{
-		"Id": 156,
-		"Sort": 156,
-		"Char": "計",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"はか|る",
-			"はか|らう"
-		],
-		"Onyomi": [
-			"ケイ"
-		],
-		"En": [
-			"plot",
-			"plan",
-			"scheme",
-			"measure"
-		]
-	},
-	{
-		"Id": 157,
-		"Sort": 157,
-		"Char": "語",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"かた|る",
-			"かた|らう"
-		],
-		"Onyomi": [
-			"ゴ"
-		],
-		"En": [
-			"word",
-			"speech",
-			"language"
-		]
-	},
-	{
-		"Id": 158,
-		"Sort": 158,
-		"Char": "飯",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"めし"
-		],
-		"Onyomi": [
-			"ハン"
-		],
-		"En": [
-			"meal",
-			"boiled rice"
-		]
-	},
-	{
-		"Id": 159,
-		"Sort": 159,
-		"Char": "電",
+		"Id": 138,
+		"Sort": 34,
+		"Char": "発",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"デン"
+			"ハツ",
+			"ホツ"
 		],
 		"En": [
-			"electricity"
+			"departure",
+			"discharge",
+			"publish",
+			"emit",
+			"start from",
+			"disclose",
+			"counter for gunshots"
 		]
 	},
 	{
-		"Id": 160,
-		"Sort": 160,
-		"Char": "元",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"もと"
-		],
-		"Onyomi": [
-			"ゲン",
-			"ガン"
-		],
-		"En": [
-			"beginning",
-			"former time",
-			"origin"
-		]
-	},
-	{
-		"Id": 161,
-		"Sort": 161,
-		"Char": "気",
+		"Id": 139,
+		"Sort": 35,
+		"Char": "勉",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"キ",
-			"ケ"
+			"ベン"
 		],
 		"En": [
-			"spirit",
+			"exertion",
+			"endeavour",
+			"encourage",
+			"strive",
+			"make effort",
+			"diligent"
+		]
+	},
+	{
+		"Id": 140,
+		"Sort": 36,
+		"Char": "意",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"イ"
+		],
+		"En": [
+			"idea",
 			"mind",
-			"air",
-			"atmosphere",
-			"mood"
+			"heart",
+			"taste",
+			"thought",
+			"desire",
+			"care",
+			"liking"
 		]
 	},
 	{
-		"Id": 162,
-		"Sort": 162,
-		"Char": "親",
+		"Id": 141,
+		"Sort": 37,
+		"Char": "味",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"おや",
-			"した|しい",
-			"した|しむ"
+			"あじ",
+			"あじ|わる"
 		],
 		"Onyomi": [
-			"シン"
+			"ミ"
 		],
 		"En": [
-			"parent",
-			"intimacy",
-			"relative",
-			"familiarity",
-			"dealer (cards)"
+			"flavour",
+			"taste"
 		]
 	},
 	{
-		"Id": 163,
-		"Sort": 163,
-		"Char": "切",
+		"Id": 142,
+		"Sort": 38,
+		"Char": "質",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"シツ",
+			"シチ",
+			"チ"
+		],
+		"En": [
+			"substance",
+			"quality",
+			"matter",
+			"temperament"
+		]
+	},
+	{
+		"Id": 143,
+		"Sort": 39,
+		"Char": "問",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"き|る",
-			"き|れる"
+			"と|う",
+			"と|い",
+			"と|ん"
 		],
 		"Onyomi": [
-			"セツ",
-			"サイ"
+			"モン"
 		],
 		"En": [
-			"cut",
-			"cutoff",
-			"be sharp"
+			"question",
+			"ask",
+			"problem"
 		]
 	},
 	{
-		"Id": 164,
-		"Sort": 164,
-		"Char": "若",
+		"Id": 144,
+		"Sort": 40,
+		"Char": "文",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"わか|い",
-			"も|しくない"
+			"ふみ"
 		],
 		"Onyomi": [
-			"ジャク",
-			"ニャク"
+			"ブン",
+			"モン"
 		],
 		"En": [
-			"young",
-			"if",
-			"perhaps",
-			"possibility",
-			"low number",
-			"immature"
+			"sentence",
+			"literature",
+			"style",
+			"art",
+			"decoration",
+			"figures",
+			"plan"
 		]
 	},
 	{
-		"Id": 165,
-		"Sort": 165,
-		"Char": "早",
+		"Id": 145,
+		"Sort": 41,
+		"Char": "低",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"はや|い",
-			"はや|まる",
-			"はや|める"
+			"ひく|い"
 		],
 		"Onyomi": [
-			"ソウ",
-			"サ"
+			"テイ"
 		],
 		"En": [
-			"early",
-			"fast"
+			"lower",
+			"short",
+			"humble"
 		]
 	},
 	{
-		"Id": 166,
-		"Sort": 166,
-		"Char": "便",
+		"Id": 146,
+		"Sort": 42,
+		"Char": "短",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"たよ|り"
+			"みじか|い"
 		],
 		"Onyomi": [
-			"ベン",
-			"ビン"
+			"タン"
 		],
 		"En": [
-			"convenience",
-			"facility",
-			"excrement",
-			"feces",
-			"letter",
-			"chance"
+			"short",
+			"fault",
+			"defect",
+			"weak point"
 		]
 	},
 	{
-		"Id": 167,
-		"Sort": 167,
-		"Char": "忙",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"いそが|しい"
-		],
-		"Onyomi": [
-			"ボウ"
-		],
-		"En": [
-			"busy",
-			"occupied",
-			"restless"
-		]
-	},
-	{
-		"Id": 168,
-		"Sort": 168,
+		"Id": 147,
+		"Sort": 43,
 		"Char": "軽",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -2934,8 +2545,8 @@
 		]
 	},
 	{
-		"Id": 169,
-		"Sort": 169,
+		"Id": 148,
+		"Sort": 44,
 		"Char": "重",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -2956,8 +2567,8 @@
 		]
 	},
 	{
-		"Id": 170,
-		"Sort": 170,
+		"Id": 149,
+		"Sort": 45,
 		"Char": "弱",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -2975,562 +2586,8 @@
 		]
 	},
 	{
-		"Id": 171,
-		"Sort": 171,
-		"Char": "簡",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"カン"
-		],
-		"En": [
-			"simplicity",
-			"brevity"
-		]
-	},
-	{
-		"Id": 172,
-		"Sort": 172,
-		"Char": "右",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"みぎ"
-		],
-		"Onyomi": [
-			"ウ",
-			"ユウ"
-		],
-		"En": [
-			"right"
-		]
-	},
-	{
-		"Id": 173,
-		"Sort": 173,
-		"Char": "左",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"ひだり"
-		],
-		"Onyomi": [
-			"サ"
-		],
-		"En": [
-			"left"
-		]
-	},
-	{
-		"Id": 174,
-		"Sort": 174,
-		"Char": "北",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"きた"
-		],
-		"Onyomi": [
-			"ホク"
-		],
-		"En": [
-			"north"
-		]
-	},
-	{
-		"Id": 175,
-		"Sort": 175,
-		"Char": "東",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"ひがし"
-		],
-		"Onyomi": [
-			"トウ"
-		],
-		"En": [
-			"east"
-		]
-	},
-	{
-		"Id": 176,
-		"Sort": 176,
-		"Char": "南",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"みなみ"
-		],
-		"Onyomi": [
-			"ナン",
-			"ナ"
-		],
-		"En": [
-			"south"
-		]
-	},
-	{
-		"Id": 177,
-		"Sort": 177,
-		"Char": "西",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"にし"
-		],
-		"Onyomi": [
-			"セイ",
-			"サイ"
-		],
-		"En": [
-			"west"
-		]
-	},
-	{
-		"Id": 178,
-		"Sort": 178,
-		"Char": "外",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"そと",
-			"ほか",
-			"はず|す",
-			"はず|れる"
-		],
-		"Onyomi": [
-			"ガイ",
-			"ゲ"
-		],
-		"En": [
-			"outside"
-		]
-	},
-	{
-		"Id": 179,
-		"Sort": 179,
-		"Char": "部",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"ブ"
-		],
-		"En": [
-			"section",
-			"bureau",
-			"dept",
-			"class",
-			"copy",
-			"part",
-			"portion",
-			"counter for copies of a newspaper or magazine"
-		]
-	},
-	{
-		"Id": 180,
-		"Sort": 180,
-		"Char": "院",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"イン"
-		],
-		"En": [
-			"institution",
-			"temple",
-			"mansion",
-			"school"
-		]
-	},
-	{
-		"Id": 181,
-		"Sort": 181,
-		"Char": "駅",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"エキ"
-		],
-		"En": [
-			"station"
-		]
-	},
-	{
-		"Id": 182,
-		"Sort": 182,
-		"Char": "社",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"やしろ"
-		],
-		"Onyomi": [
-			"シャ"
-		],
-		"En": [
-			"company",
-			"firm",
-			"office",
-			"association",
-			"shrine"
-		]
-	},
-	{
-		"Id": 183,
-		"Sort": 183,
-		"Char": "出",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"で|る",
-			"だ|す"
-		],
-		"Onyomi": [
-			"シュツ",
-			"スイ"
-		],
-		"En": [
-			"exit",
-			"leave",
-			"go out",
-			"come out",
-			"put out",
-			"protrude"
-		]
-	},
-	{
-		"Id": 184,
-		"Sort": 184,
-		"Char": "入",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"はい|る",
-			"い|る",
-			"い|れる"
-		],
-		"Onyomi": [
-			"ニュウ"
-		],
-		"En": [
-			"enter",
-			"insert"
-		]
-	},
-	{
-		"Id": 185,
-		"Sort": 185,
-		"Char": "着",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"き|る",
-			"き|せる",
-			"つ|く",
-			"つ|ける"
-		],
-		"Onyomi": [
-			"チャク",
-			"ジャク"
-		],
-		"En": [
-			"arrive",
-			"wear",
-			"don",
-			"counter for suits of clothing"
-		]
-	},
-	{
-		"Id": 186,
-		"Sort": 186,
-		"Char": "乗",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"の|る",
-			"の|せる"
-		],
-		"Onyomi": [
-			"ジョウ"
-		],
-		"En": [
-			"ride",
-			"power",
-			"multiplication",
-			"record",
-			"board",
-			"mount",
-			"join",
-			"counter fo vehicles"
-		]
-	},
-	{
-		"Id": 187,
-		"Sort": 187,
-		"Char": "渡",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"わた|る",
-			"わた|す"
-		],
-		"Onyomi": [
-			"ト"
-		],
-		"En": [
-			"transit",
-			"ford",
-			"ferry",
-			"cross",
-			"import",
-			"deliver",
-			"diameter",
-			"migrate"
-		]
-	},
-	{
-		"Id": 188,
-		"Sort": 189,
-		"Char": "通",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"とお|る",
-			"とお|す",
-			"かよ|う"
-		],
-		"Onyomi": [
-			"ツウ",
-			"シ"
-		],
-		"En": [
-			"traffic",
-			"pass through",
-			"avenue",
-			"commute"
-		]
-	},
-	{
-		"Id": 189,
-		"Sort": 189,
-		"Char": "歩",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"ある|く",
-			"あゆ|む"
-		],
-		"Onyomi": [
-			"ホ",
-			"ブ",
-			"フ"
-		],
-		"En": [
-			"walk",
-			"counter for steps"
-		]
-	},
-	{
-		"Id": 190,
-		"Sort": 190,
-		"Char": "走",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"はし|る"
-		],
-		"Onyomi": [
-			"ソウ"
-		],
-		"En": [
-			"run"
-		]
-	},
-	{
-		"Id": 191,
-		"Sort": 191,
-		"Char": "止",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"と|まる",
-			"と|める"
-		],
-		"Onyomi": [
-			"シ"
-		],
-		"En": [
-			"stop",
-			"halt"
-		]
-	},
-	{
-		"Id": 192,
-		"Sort": 192,
-		"Char": "動",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"うご|く",
-			"うご|かす"
-		],
-		"Onyomi": [
-			"ドウ"
-		],
-		"En": [
-			"move",
-			"motion",
-			"change",
-			"confusion",
-			"shift",
-			"shake"
-		]
-	},
-	{
-		"Id": 193,
-		"Sort": 193,
-		"Char": "働",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"はたら|く"
-		],
-		"Onyomi": [
-			"ドウ"
-		],
-		"En": [
-			"work"
-		]
-	},
-	{
-		"Id": 194,
-		"Sort": 194,
-		"Char": "村",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"むら"
-		],
-		"Onyomi": [
-			"ソン"
-		],
-		"En": [
-			"village",
-			"town"
-		]
-	},
-	{
-		"Id": 195,
-		"Sort": 195,
-		"Char": "町",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"まち"
-		],
-		"Onyomi": [
-			"チョウ"
-		],
-		"En": [
-			"town",
-			"village",
-			"block",
-			"street"
-		]
-	},
-	{
-		"Id": 196,
-		"Sort": 196,
-		"Char": "市",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"いち"
-		],
-		"Onyomi": [
-			"シ"
-		],
-		"En": [
-			"market",
-			"city",
-			"town"
-		]
-	},
-	{
-		"Id": 197,
-		"Sort": 197,
-		"Char": "京",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"キョウ",
-			"ケイ"
-		],
-		"En": [
-			"capital"
-		]
-	},
-	{
-		"Id": 198,
-		"Sort": 198,
-		"Char": "都",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"みやこ"
-		],
-		"Onyomi": [
-			"ト",
-			"ツ"
-		],
-		"En": [
-			"metropolis",
-			"capital",
-			"all",
-			"everything"
-		]
-	},
-	{
-		"Id": 199,
-		"Sort": 199,
-		"Char": "区",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"ク"
-		],
-		"En": [
-			"ward",
-			"district"
-		]
-	},
-	{
-		"Id": 200,
-		"Sort": 200,
-		"Char": "県",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"ケン"
-		],
-		"En": [
-			"prefecture"
-		]
-	},
-	{
-		"Id": 201,
-		"Sort": 201,
-		"Char": "習",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"なら|う"
-		],
-		"Onyomi": [
-			"シュウ"
-		],
-		"En": [
-			"learn"
-		]
-	},
-	{
-		"Id": 202,
-		"Sort": 202,
-		"Char": "勉",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"ベン"
-		],
-		"En": [
-			"exertion",
-			"endeavour",
-			"encourage",
-			"strive",
-			"make effort",
-			"diligent"
-		]
-	},
-	{
-		"Id": 203,
-		"Sort": 203,
+		"Id": 150,
+		"Sort": 46,
 		"Char": "強",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -3548,429 +2605,401 @@
 		]
 	},
 	{
-		"Id": 204,
-		"Sort": 204,
-		"Char": "研",
+		"Id": 151,
+		"Sort": 47,
+		"Char": "暑",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"と|ぐ"
+			"あつ|い"
 		],
 		"Onyomi": [
-			"ケン"
+			"ショ"
 		],
 		"En": [
-			"polish",
-			"study of",
-			"sharpen"
+			"sultry",
+			"hot",
+			"summer heat"
 		]
 	},
 	{
-		"Id": 205,
-		"Sort": 205,
-		"Char": "究",
+		"Id": 152,
+		"Sort": 48,
+		"Char": "暗",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"きわ|める"
+			"くら|い"
 		],
 		"Onyomi": [
-			"キュウ"
+			"アン"
 		],
 		"En": [
-			"research",
-			"study"
+			"darkness",
+			"disappear",
+			"shade",
+			"informal",
+			"grow dark",
+			"be blinded"
 		]
 	},
 	{
-		"Id": 206,
-		"Sort": 206,
-		"Char": "留",
+		"Id": 153,
+		"Sort": 49,
+		"Char": "寒",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"と|める",
-			"と|まる"
+			"さむ|い"
 		],
 		"Onyomi": [
-			"リュウ",
-			"リ"
+			"カン"
 		],
 		"En": [
-			"detain",
-			"fasten",
-			"halt",
-			"stop"
+			"cold"
 		]
 	},
 	{
-		"Id": 207,
-		"Sort": 207,
-		"Char": "医",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"イ"
-		],
-		"En": [
-			"doctor",
-			"medicine"
-		]
-	},
-	{
-		"Id": 208,
-		"Sort": 208,
-		"Char": "質",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"シツ",
-			"シチ",
-			"チ"
-		],
-		"En": [
-			"substance",
-			"quality",
-			"matter",
-			"temperament"
-		]
-	},
-	{
-		"Id": 209,
-		"Sort": 209,
-		"Char": "問",
+		"Id": 154,
+		"Sort": 50,
+		"Char": "明",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"と|う",
-			"と|い",
-			"と|ん"
+			"あか|るい",
+			"あき|らか"
 		],
 		"Onyomi": [
-			"モン"
+			"メイ",
+			"ミョウ"
 		],
 		"En": [
-			"question",
-			"ask",
-			"problem"
+			"bright",
+			"light"
 		]
 	},
 	{
-		"Id": 210,
-		"Sort": 210,
-		"Char": "題",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"ダイ"
-		],
-		"En": [
-			"topic",
-			"subject"
-		]
-	},
-	{
-		"Id": 211,
-		"Sort": 211,
-		"Char": "洗",
+		"Id": 155,
+		"Sort": 51,
+		"Char": "有",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"あら|う"
+			"あ|る"
 		],
 		"Onyomi": [
-			"セン"
+			"ユウ",
+			"ウ"
 		],
 		"En": [
-			"wash",
-			"inquire into",
-			"probe"
+			"possess",
+			"have",
+			"exist",
+			"happen",
+			"occur",
+			"approx"
 		]
 	},
 	{
-		"Id": 212,
-		"Sort": 212,
-		"Char": "答",
+		"Id": 156,
+		"Sort": 52,
+		"Char": "元",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"こた|える",
-			"こた|え"
+			"もと"
 		],
 		"Onyomi": [
-			"トウ"
+			"ゲン",
+			"ガン"
 		],
 		"En": [
-			"solution",
-			"answer"
+			"beginning",
+			"former time",
+			"origin"
 		]
 	},
 	{
-		"Id": 213,
-		"Sort": 213,
-		"Char": "理",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"リ"
-		],
-		"En": [
-			"logic",
-			"arrangement",
-			"reason",
-			"justice",
-			"truth"
-		]
-	},
-	{
-		"Id": 214,
-		"Sort": 214,
-		"Char": "宿",
+		"Id": 157,
+		"Sort": 53,
+		"Char": "同",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"やど",
-			"やど|る",
-			"やど|す"
+			"おな|じ"
 		],
 		"Onyomi": [
-			"シュク"
+			"ドウ"
 		],
 		"En": [
-			"inn",
-			"lodging",
-			"relay station",
-			"dwell",
-			"lodge",
-			"be pregnant",
-			"home",
-			"dwelling"
+			"same",
+			"agree",
+			"equal"
 		]
 	},
 	{
-		"Id": 215,
-		"Sort": 215,
-		"Char": "起",
+		"Id": 158,
+		"Sort": 54,
+		"Char": "親",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"おき|る",
-			"おこ|る",
-			"おこ|す"
-		],
-		"Onyomi": [
-			"キ"
-		],
-		"En": [
-			"rouse",
-			"wake up",
-			"get up"
-		]
-	},
-	{
-		"Id": 216,
-		"Sort": 216,
-		"Char": "寝",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"ね|る",
-			"ね|かす"
+			"おや",
+			"した|しい",
+			"した|しむ"
 		],
 		"Onyomi": [
 			"シン"
 		],
 		"En": [
-			"lie down",
-			"sleep",
-			"rest",
-			"bed",
-			"remain unsold"
+			"parent",
+			"intimacy",
+			"relative",
+			"familiarity",
+			"dealer (cards)"
 		]
 	},
 	{
-		"Id": 217,
-		"Sort": 217,
-		"Char": "送",
+		"Id": 159,
+		"Sort": 55,
+		"Char": "切",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"おく|る"
+			"き|る",
+			"き|れる"
 		],
 		"Onyomi": [
-			"ソウ"
+			"セツ",
+			"サイ"
 		],
 		"En": [
-			"escort",
-			"send"
+			"cut",
+			"cutoff",
+			"be sharp"
 		]
 	},
 	{
-		"Id": 218,
-		"Sort": 218,
-		"Char": "使",
+		"Id": 160,
+		"Sort": 56,
+		"Char": "便",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"つか|う"
+			"たよ|り"
 		],
 		"Onyomi": [
-			"シ"
+			"ベン",
+			"ビン"
 		],
 		"En": [
-			"use",
-			"send on a mission",
-			"oder",
-			"messenger",
-			"envoy",
-			"ambassador",
-			"cause"
+			"convenience",
+			"facility",
+			"excrement",
+			"feces",
+			"letter",
+			"chance"
 		]
 	},
 	{
-		"Id": 219,
-		"Sort": 219,
-		"Char": "座",
+		"Id": 161,
+		"Sort": 57,
+		"Char": "利",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"すわ|る"
+			"き|く"
 		],
 		"Onyomi": [
-			"ザ"
+			"リ"
 		],
 		"En": [
-			"squat",
-			"seat",
-			"cushion",
-			"gathering",
-			"sit"
+			"profit",
+			"advantage",
+			"benefit"
 		]
 	},
 	{
-		"Id": 220,
-		"Sort": 220,
-		"Char": "立",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"た|つ",
-			"た|てる"
-		],
-		"Onyomi": [
-			"リツ",
-			"リュウ"
-		],
-		"En": [
-			"stand up",
-			"rise",
-			"set up",
-			"erect"
-		]
-	},
-	{
-		"Id": 221,
-		"Sort": 221,
-		"Char": "始",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"はじ|める",
-			"はじ|まる"
-		],
-		"Onyomi": [
-			"シ"
-		],
-		"En": [
-			"commence",
-			"begin"
-		]
-	},
-	{
-		"Id": 222,
-		"Sort": 222,
-		"Char": "終",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"お|わる",
-			"お|える"
-		],
-		"Onyomi": [
-			"シュウ"
-		],
-		"En": [
-			"end",
-			"finish"
-		]
-	},
-	{
-		"Id": 223,
-		"Sort": 223,
-		"Char": "借",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"か|りる"
-		],
-		"Onyomi": [
-			"シャク"
-		],
-		"En": [
-			"borrow",
-			"rent"
-		]
-	},
-	{
-		"Id": 224,
-		"Sort": 224,
-		"Char": "貸",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"か|す"
-		],
-		"Onyomi": [
-			"タイ"
-		],
-		"En": [
-			"lend"
-		]
-	},
-	{
-		"Id": 225,
-		"Sort": 225,
-		"Char": "映",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"うつ|る",
-			"うつ|す",
-			"はえ|る"
-		],
-		"Onyomi": [
-			"エイ"
-		],
-		"En": [
-			"reflect",
-			"reflection",
-			"projection"
-		]
-	},
-	{
-		"Id": 226,
-		"Sort": 226,
-		"Char": "画",
+		"Id": 162,
+		"Sort": 58,
+		"Char": "不",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"ガ",
-			"カク"
+			"フ",
+			"ブ"
 		],
 		"En": [
-			"brush-stroke",
-			"picture"
+			"negative",
+			"non-",
+			"bad",
+			"ugly",
+			"clumsy"
 		]
 	},
 	{
-		"Id": 227,
-		"Sort": 227,
-		"Char": "料",
+		"Id": 163,
+		"Sort": 59,
+		"Char": "静",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"しず",
+			"しず|か",
+			"しず|まる",
+			"しず|める"
+		],
+		"Onyomi": [
+			"セイ",
+			"ジョウ"
+		],
+		"En": [
+			"quiet"
+		]
+	},
+	{
+		"Id": 164,
+		"Sort": 60,
+		"Char": "好",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"この|む",
+			"す|く"
+		],
+		"Onyomi": [
+			"コウ"
+		],
+		"En": [
+			"fond",
+			"pleasing",
+			"like something"
+		]
+	},
+	{
+		"Id": 165,
+		"Sort": 61,
+		"Char": "鉄",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"リョウ"
+			"テツ"
 		],
 		"En": [
-			"fee",
-			"materials"
+			"iron"
 		]
 	},
 	{
-		"Id": 228,
-		"Sort": 228,
+		"Id": 166,
+		"Sort": 62,
+		"Char": "飛",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"と|ぶ",
+			"と|ばす"
+		],
+		"Onyomi": [
+			"ヒ"
+		],
+		"En": [
+			"fly",
+			"skip (pages)",
+			"scatter"
+		]
+	},
+	{
+		"Id": 167,
+		"Sort": 63,
+		"Char": "機",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はた"
+		],
+		"Onyomi": [
+			"キ"
+		],
+		"En": [
+			"loom",
+			"mechanism",
+			"machine",
+			"airplane",
+			"opportunity",
+			"potency",
+			"efficacy",
+			"occasion"
+		]
+	},
+	{
+		"Id": 168,
+		"Sort": 64,
+		"Char": "旅",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"たび"
+		],
+		"Onyomi": [
+			"リョ"
+		],
+		"En": [
+			"trip",
+			"travel"
+		]
+	},
+	{
+		"Id": 169,
+		"Sort": 65,
+		"Char": "館",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"やかた"
+		],
+		"Onyomi": [
+			"カン"
+		],
+		"En": [
+			"building",
+			"mansion",
+			"large building",
+			"palace"
+		]
+	},
+	{
+		"Id": 170,
+		"Sort": 66,
+		"Char": "持",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"も|つ"
+		],
+		"Onyomi": [
+			"ジ"
+		],
+		"En": [
+			"hold",
+			"have"
+		]
+	},
+	{
+		"Id": 171,
+		"Sort": 67,
+		"Char": "予",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ヨ"
+		],
+		"En": [
+			"beforehand",
+			"previous",
+			"myself",
+			"I"
+		]
+	},
+	{
+		"Id": 172,
+		"Sort": 68,
+		"Char": "約",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ヤク"
+		],
+		"En": [
+			"promise",
+			"approximately",
+			"shrink"
+		]
+	},
+	{
+		"Id": 173,
+		"Sort": 69,
 		"Char": "写",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -3987,8 +3016,8 @@
 		]
 	},
 	{
-		"Id": 229,
-		"Sort": 229,
+		"Id": 174,
+		"Sort": 70,
 		"Char": "真",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -4004,483 +3033,41 @@
 		]
 	},
 	{
-		"Id": 230,
-		"Sort": 230,
-		"Char": "音",
+		"Id": 175,
+		"Sort": 71,
+		"Char": "洗",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"おと",
-			"ね"
+			"あら|う"
 		],
 		"Onyomi": [
-			"オン",
-			"イン"
+			"セン"
 		],
 		"En": [
-			"sound",
-			"noise"
+			"wash",
+			"inquire into",
+			"probe"
 		]
 	},
 	{
-		"Id": 231,
-		"Sort": 231,
-		"Char": "楽",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"たの|しい",
-			"たの|しむ"
-		],
-		"Onyomi": [
-			"ガク",
-			"ラク"
-		],
-		"En": [
-			"music",
-			"comfort",
-			"ease"
-		]
-	},
-	{
-		"Id": 232,
-		"Sort": 232,
-		"Char": "思",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"おも|う"
-		],
-		"Onyomi": [
-			"シ"
-		],
-		"En": [
-			"think"
-		]
-	},
-	{
-		"Id": 233,
-		"Sort": 233,
-		"Char": "色",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"いろ"
-		],
-		"Onyomi": [
-			"ショク",
-			"シキ"
-		],
-		"En": [
-			"color"
-		]
-	},
-	{
-		"Id": 234,
-		"Sort": 234,
-		"Char": "赤",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"あか",
-			"あか|い",
-			"あか|らす",
-			"あか|らめる"
-		],
-		"Onyomi": [
-			"セキ",
-			"シャク"
-		],
-		"En": [
-			"red"
-		]
-	},
-	{
-		"Id": 235,
-		"Sort": 235,
-		"Char": "黒",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"くろ",
-			"くろ|い"
-		],
-		"Onyomi": [
-			"コク"
-		],
-		"En": [
-			"black"
-		]
-	},
-	{
-		"Id": 236,
-		"Sort": 236,
-		"Char": "白",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"しろ",
-			"しら",
-			"しろ|い"
-		],
-		"Onyomi": [
-			"ハク",
-			"ビャク"
-		],
-		"En": [
-			"black"
-		]
-	},
-	{
-		"Id": 237,
-		"Sort": 237,
-		"Char": "冬",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"ふゆ"
-		],
-		"Onyomi": [
-			"トウ"
-		],
-		"En": [
-			"winter"
-		]
-	},
-	{
-		"Id": 238,
-		"Sort": 238,
-		"Char": "春",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"はる"
-		],
-		"Onyomi": [
-			"シュン"
-		],
-		"En": [
-			"springtime",
-			"spring (season)"
-		]
-	},
-	{
-		"Id": 239,
-		"Sort": 239,
-		"Char": "夏",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"なつ"
-		],
-		"Onyomi": [
-			"カ",
-			"ゲ"
-		],
-		"En": [
-			"summer"
-		]
-	},
-	{
-		"Id": 240,
-		"Sort": 240,
-		"Char": "秋",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"あき"
-		],
-		"Onyomi": [
-			"シュウ"
-		],
-		"En": [
-			"autumn"
-		]
-	},
-	{
-		"Id": 241,
-		"Sort": 241,
-		"Char": "寒",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"さむ|い"
-		],
-		"Onyomi": [
-			"カン"
-		],
-		"En": [
-			"cold"
-		]
-	},
-	{
-		"Id": 242,
-		"Sort": 242,
-		"Char": "涼",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"すず|しい",
-			"すず|む"
-		],
-		"Onyomi": [
-			"リョウ"
-		],
-		"En": [
-			"refreshing",
-			"nice and cool"
-		]
-	},
-	{
-		"Id": 243,
-		"Sort": 243,
-		"Char": "暑",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"あつ|い"
-		],
-		"Onyomi": [
-			"ショ"
-		],
-		"En": [
-			"sultry",
-			"hot",
-			"summer heat"
-		]
-	},
-	{
-		"Id": 244,
-		"Sort": 244,
-		"Char": "天",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"あめ",
-			"あま"
-		],
-		"Onyomi": [
-			"テン"
-		],
-		"En": [
-			"heavens",
-			"sky",
-			"imperial"
-		]
-	},
-	{
-		"Id": 245,
-		"Sort": 245,
-		"Char": "仕",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"つか|える"
-		],
-		"Onyomi": [
-			"シ",
-			"ジ"
-		],
-		"En": [
-			"attend",
-			"doing",
-			"official",
-			"serve"
-		]
-	},
-	{
-		"Id": 246,
-		"Sort": 246,
-		"Char": "事",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"こと"
-		],
-		"Onyomi": [
-			"ジ",
-			"ズ"
-		],
-		"En": [
-			"matter",
-			"thing",
-			"fact",
-			"business",
-			"reason",
-			"possibility"
-		]
-	},
-	{
-		"Id": 247,
-		"Sort": 247,
-		"Char": "業",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"わざ"
-		],
-		"Onyomi": [
-			"ギョウ",
-			"ゴウ"
-		],
-		"En": [
-			"business",
-			"vocation",
-			"arts",
-			"performance"
-		]
-	},
-	{
-		"Id": 248,
-		"Sort": 248,
-		"Char": "者",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"もの"
-		],
-		"Onyomi": [
-			"シャ"
-		],
-		"En": [
-			"someone",
-			"person"
-		]
-	},
-	{
-		"Id": 249,
-		"Sort": 249,
-		"Char": "員",
+		"Id": 176,
+		"Sort": 72,
+		"Char": "濯",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"イン"
+			"タク"
 		],
 		"En": [
-			"employee",
-			"member",
-			"number",
-			"the one in charge"
+			"laundry",
+			"wash",
+			"pour on",
+			"rinse"
 		]
 	},
 	{
-		"Id": 250,
-		"Sort": 250,
-		"Char": "運",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"はこ|ぶ"
-		],
-		"Onyomi": [
-			"ウン"
-		],
-		"En": [
-			"carry",
-			"luck",
-			"destiny",
-			"fate",
-			"lot",
-			"transport",
-			"progress",
-			"advance"
-		]
-	},
-	{
-		"Id": 251,
-		"Sort": 251,
-		"Char": "転",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"ころ|がる",
-			"ころ|げる",
-			"ころ|がす",
-			"ころ|ぶ"
-		],
-		"Onyomi": [
-			"テン"
-		],
-		"En": [
-			"resolve",
-			"turn around",
-			"change"
-		]
-	},
-	{
-		"Id": 252,
-		"Sort": 252,
-		"Char": "正",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"ただ|しい",
-			"ただ|す",
-			"まさ"
-		],
-		"Onyomi": [
-			"セイ",
-			"ショウ"
-		],
-		"En": [
-			"correct",
-			"justice",
-			"righteous"
-		]
-	},
-	{
-		"Id": 253,
-		"Sort": 253,
-		"Char": "悪",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"わる|い"
-		],
-		"Onyomi": [
-			"アク",
-			"オ"
-		],
-		"En": [
-			"bad",
-			"vice",
-			"rascal",
-			"false",
-			"evil",
-			"wrong"
-		]
-	},
-	{
-		"Id": 254,
-		"Sort": 254,
-		"Char": "同",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"おな|じ"
-		],
-		"Onyomi": [
-			"ドウ"
-		],
-		"En": [
-			"same",
-			"agree",
-			"equal"
-		]
-	},
-	{
-		"Id": 255,
-		"Sort": 255,
-		"Char": "違",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"ちが|う",
-			"ちが|える"
-		],
-		"Onyomi": [
-			"ドウ"
-		],
-		"En": [
-			"difference",
-			"differ"
-		]
-	},
-	{
-		"Id": 256,
-		"Sort": 256,
-		"Char": "適",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"テキ"
-		],
-		"En": [
-			"suitable",
-			"occasional",
-			"rare",
-			"qualified",
-			"capable"
-		]
-	},
-	{
-		"Id": 257,
-		"Sort": 257,
+		"Id": 177,
+		"Sort": 73,
 		"Char": "注",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -4501,393 +3088,273 @@
 		]
 	},
 	{
-		"Id": 258,
-		"Sort": 258,
-		"Char": "試",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"こころ|みる",
-			"ため|す"
-		],
-		"Onyomi": [
-			"シ"
-		],
-		"En": [
-			"test",
-			"try",
-			"attempt",
-			"experiment",
-			"ordeal"
-		]
-	},
-	{
-		"Id": 259,
-		"Sort": 259,
-		"Char": "験",
+		"Id": 178,
+		"Sort": 74,
+		"Char": "服",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"ケン",
-			"ゲン"
+			"フク"
 		],
 		"En": [
-			"verification",
-			"effect",
-			"testing"
+			"clothes",
+			"admit",
+			"obey",
+			"discharge"
 		]
 	},
 	{
-		"Id": 260,
-		"Sort": 260,
-		"Char": "難",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"かた|い",
-			"むずか|しい"
-		],
-		"Onyomi": [
-			"ナン"
-		],
-		"En": [
-			"difficult",
-			"impossible",
-			"trouble",
-			"accident",
-			"defect"
-		]
-	},
-	{
-		"Id": 261,
-		"Sort": 261,
-		"Char": "接",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"つ|ぐ"
-		],
-		"Onyomi": [
-			"セツ"
-		],
-		"En": [
-			"touch",
-			"contact",
-			"adjoin",
-			"piece",
-			"together"
-		]
-	},
-	{
-		"Id": 262,
-		"Sort": 262,
-		"Char": "説",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"と|く"
-		],
-		"Onyomi": [
-			"セツ",
-			"ゼイ"
-		],
-		"En": [
-			"opinion",
-			"theory",
-			"explanation",
-			"rumor"
-		]
-	},
-	{
-		"Id": 263,
-		"Sort": 263,
-		"Char": "格",
+		"Id": 179,
+		"Sort": 75,
+		"Char": "料",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"カク",
-			"コウ"
+			"リョウ"
 		],
 		"En": [
-			"status",
-			"rank",
-			"capacity",
-			"character",
-			"case (law, grammar)"
+			"fee",
+			"materials"
 		]
 	},
 	{
-		"Id": 264,
-		"Sort": 264,
-		"Char": "合",
+		"Id": 180,
+		"Sort": 76,
+		"Char": "理",
 		"Jlpt": 4,
-		"Kunyomi": [
-			"あ|う",
-			"あ|わす",
-			"あ|わせる"
-		],
+		"Kunyomi": [],
 		"Onyomi": [
-			"ゴウ"
+			"リ"
 		],
 		"En": [
-			"fit",
-			"suit",
-			"join"
+			"logic",
+			"arrangement",
+			"reason",
+			"justice",
+			"truth"
 		]
 	},
 	{
-		"Id": 265,
-		"Sort": 265,
-		"Char": "心",
+		"Id": 181,
+		"Sort": 77,
+		"Char": "寝",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"こころ"
+			"ね|る",
+			"ね|かす"
 		],
 		"Onyomi": [
 			"シン"
 		],
 		"En": [
-			"heart",
-			"mind",
-			"spirit"
+			"lie down",
+			"sleep",
+			"rest",
+			"bed",
+			"remain unsold"
 		]
 	},
 	{
-		"Id": 266,
-		"Sort": 266,
-		"Char": "頭",
+		"Id": 182,
+		"Sort": 78,
+		"Char": "起",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"あたま",
-			"かしら"
+			"おき|る",
+			"おこ|る",
+			"おこ|す"
 		],
 		"Onyomi": [
-			"トウ",
-			"ズ",
-			"ト"
+			"キ"
 		],
 		"En": [
-			"head",
-			"counter for large animals"
+			"rouse",
+			"wake up",
+			"get up"
 		]
 	},
 	{
-		"Id": 267,
-		"Sort": 267,
-		"Char": "考",
+		"Id": 183,
+		"Sort": 79,
+		"Char": "用",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"かんが|える"
+			"もち|いる"
 		],
 		"Onyomi": [
-			"コウ"
+			"ヨウ"
 		],
 		"En": [
-			"consider",
-			"think over"
+			"utilise",
+			"business",
+			"service",
+			"use",
+			"empty"
 		]
 	},
 	{
-		"Id": 268,
-		"Sort": 268,
-		"Char": "忘",
+		"Id": 184,
+		"Sort": 80,
+		"Char": "事",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"わす|れる"
+			"こと"
 		],
 		"Onyomi": [
-			"ボウ"
+			"ジ",
+			"ズ"
 		],
 		"En": [
-			"forget"
+			"matter",
+			"thing",
+			"fact",
+			"business",
+			"reason",
+			"possibility"
 		]
 	},
 	{
-		"Id": 269,
-		"Sort": 269,
-		"Char": "笑",
+		"Id": 185,
+		"Sort": 81,
+		"Char": "逃",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"わら|う",
-			"え|む"
+			"に|げる",
+			"に|がす",
+			"のが|す",
+			"のが|れる"
+		],
+		"Onyomi": [
+			"トウ"
+		],
+		"En": [
+			"escape",
+			"flee",
+			"shirk",
+			"evade",
+			"set free"
+		]
+	},
+	{
+		"Id": 186,
+		"Sort": 82,
+		"Char": "危",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あぶ|ない",
+			"あや|うい",
+			"あや|ぶむ"
+		],
+		"Onyomi": [
+			"キ"
+		],
+		"En": [
+			"dangerous",
+			"fear",
+			"uneasy"
+		]
+	},
+	{
+		"Id": 187,
+		"Sort": 83,
+		"Char": "険",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"けわ|しい"
+		],
+		"Onyomi": [
+			"ケン"
+		],
+		"En": [
+			"precipitous",
+			"inaccessible place",
+			"impregnable position",
+			"steep place",
+			"sharp eyes"
+		]
+	},
+	{
+		"Id": 188,
+		"Sort": 84,
+		"Char": "走",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はし|る"
+		],
+		"Onyomi": [
+			"ソウ"
+		],
+		"En": [
+			"run"
+		]
+	},
+	{
+		"Id": 189,
+		"Sort": 85,
+		"Char": "窓",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"まど"
+		],
+		"Onyomi": [
+			"ソウ"
+		],
+		"En": [
+			"window",
+			"pane"
+		]
+	},
+	{
+		"Id": 190,
+		"Sort": 86,
+		"Char": "階",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"カイ"
+		],
+		"En": [
+			"storey",
+			"stair",
+			"counter for storeys of a building"
+		]
+	},
+	{
+		"Id": 191,
+		"Sort": 87,
+		"Char": "段",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ダン"
+		],
+		"En": [
+			"grade",
+			"steps",
+			"stairs"
+		]
+	},
+	{
+		"Id": 192,
+		"Sort": 88,
+		"Char": "消",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"き|える",
+			"け|す"
 		],
 		"Onyomi": [
 			"ショウ"
 		],
 		"En": [
-			"laugh"
+			"grade",
+			"steps",
+			"stairs"
 		]
 	},
 	{
-		"Id": 270,
-		"Sort": 270,
-		"Char": "泣",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"な|く"
-		],
-		"Onyomi": [
-			"キュウ"
-		],
-		"En": [
-			"cry",
-			"weep",
-			"moan"
-		]
-	},
-	{
-		"Id": 271,
-		"Sort": 271,
-		"Char": "払",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"はら|う"
-		],
-		"Onyomi": [
-			"フツ"
-		],
-		"En": [
-			"pay",
-			"clear out",
-			"prune",
-			"banish",
-			"dispose of"
-		]
-	},
-	{
-		"Id": 272,
-		"Sort": 272,
-		"Char": "案",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"アン"
-		],
-		"En": [
-			"plan",
-			"suggestion",
-			"draft",
-			"ponder",
-			"fear",
-			"proposition",
-			"idea",
-			"expectation",
-			"worry",
-			"table",
-			"bench"
-		]
-	},
-	{
-		"Id": 273,
-		"Sort": 273,
-		"Char": "旅",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"たび"
-		],
-		"Onyomi": [
-			"リョ"
-		],
-		"En": [
-			"trip",
-			"travel"
-		]
-	},
-	{
-		"Id": 274,
-		"Sort": 274,
-		"Char": "代",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"か|わる",
-			"か|える",
-			"よ",
-			"しろ"
-		],
-		"Onyomi": [
-			"ダイ",
-			"タイ"
-		],
-		"En": [
-			"call",
-			"call out to",
-			"invite"
-		]
-	},
-	{
-		"Id": 275,
-		"Sort": 275,
-		"Char": "急",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"いそ|ぐ"
-		],
-		"Onyomi": [
-			"キュウ"
-		],
-		"En": [
-			"hurry",
-			"emergency",
-			"sudden",
-			"steep"
-		]
-	},
-	{
-		"Id": 276,
-		"Sort": 276,
-		"Char": "発",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"ハツ",
-			"ホツ"
-		],
-		"En": [
-			"departure",
-			"discharge",
-			"publish",
-			"emit",
-			"start from",
-			"disclose",
-			"counter for gunshots"
-		]
-	},
-	{
-		"Id": 278,
-		"Sort": 278,
-		"Char": "意",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"イ"
-		],
-		"En": [
-			"idea",
-			"mind",
-			"heart",
-			"taste",
-			"thought",
-			"desire",
-			"care",
-			"liking"
-		]
-	},
-	{
-		"Id": 279,
-		"Sort": 279,
-		"Char": "味",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"あじ",
-			"あじ|わる"
-		],
-		"Onyomi": [
-			"ミ"
-		],
-		"En": [
-			"flavour",
-			"taste"
-		]
-	},
-	{
-		"Id": 280,
-		"Sort": 280,
+		"Id": 193,
+		"Sort": 89,
 		"Char": "押",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -4912,8 +3379,8 @@
 		]
 	},
 	{
-		"Id": 281,
-		"Sort": 281,
+		"Id": 194,
+		"Sort": 90,
 		"Char": "引",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -4934,98 +3401,273 @@
 		]
 	},
 	{
-		"Id": 282,
-		"Sort": 282,
-		"Char": "自",
+		"Id": 195,
+		"Sort": 91,
+		"Char": "開",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"みずか|ら"
+			"あ|ける",
+			"ひら|く"
 		],
 		"Onyomi": [
-			"ジ",
-			"シ"
+			"カイ"
 		],
 		"En": [
-			"oneself"
+			"open",
+			"unfold",
+			"unseal"
 		]
 	},
 	{
-		"Id": 283,
-		"Sort": 283,
-		"Char": "知",
+		"Id": 196,
+		"Sort": 92,
+		"Char": "閉",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"し|る"
+			"と|じる",
+			"し|める"
+		],
+		"Onyomi": [
+			"ヘイ"
+		],
+		"En": [
+			"close",
+			"shut"
+		]
+	},
+	{
+		"Id": 197,
+		"Sort": 93,
+		"Char": "置",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"お|く"
 		],
 		"Onyomi": [
 			"チ"
 		],
 		"En": [
-			"know",
-			"wisdom"
+			"placement",
+			"put",
+			"set",
+			"deposit",
+			"leave behind",
+			"keep",
+			"employ",
+			"pawn"
 		]
 	},
 	{
-		"Id": 284,
-		"Sort": 284,
-		"Char": "空",
+		"Id": 198,
+		"Sort": 94,
+		"Char": "止",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"そら",
-			"あ|く",
-			"あ|ける",
-			"から"
+			"と|まる",
+			"と|める"
 		],
 		"Onyomi": [
-			"クウ"
+			"シ"
 		],
 		"En": [
-			"empty",
-			"sky",
-			"void",
-			"vacant",
-			"vacuum"
+			"stop",
+			"halt"
 		]
 	},
 	{
-		"Id": 285,
-		"Sort": 285,
-		"Char": "風",
+		"Id": 199,
+		"Sort": 95,
+		"Char": "始",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"かぜ",
-			"かざ"
+			"はじ|める",
+			"はじ|まる"
 		],
 		"Onyomi": [
-			"フウ",
-			"フ"
+			"シ"
 		],
 		"En": [
-			"wind",
-			"air",
-			"style",
-			"manner"
+			"commence",
+			"begin"
 		]
 	},
 	{
-		"Id": 286,
-		"Sort": 286,
-		"Char": "野",
+		"Id": 200,
+		"Sort": 96,
+		"Char": "着",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"き|る",
+			"き|せる",
+			"つ|く",
+			"つ|ける"
+		],
+		"Onyomi": [
+			"チャク",
+			"ジャク"
+		],
+		"En": [
+			"arrive",
+			"wear",
+			"don",
+			"counter for suits of clothing"
+		]
+	},
+	{
+		"Id": 201,
+		"Sort": 97,
+		"Char": "乗",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"の|る",
+			"の|せる"
+		],
+		"Onyomi": [
+			"ジョウ"
+		],
+		"En": [
+			"ride",
+			"power",
+			"multiplication",
+			"record",
+			"board",
+			"mount",
+			"join",
+			"counter fo vehicles"
+		]
+	},
+	{
+		"Id": 202,
+		"Sort": 98,
+		"Char": "割",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"わ|る",
+			"わり",
+			"わ|れる",
+			"さ|く"
+		],
+		"Onyomi": [
+			"カツ"
+		],
+		"En": [
+			"proportion",
+			"comparatively",
+			"divide out",
+			"separate",
+			"split"
+		]
+	},
+	{
+		"Id": 203,
+		"Sort": 99,
+		"Char": "落",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"お|ちる",
+			"お|とす"
+		],
+		"Onyomi": [
+			"ラク"
+		],
+		"En": [
+			"fall",
+			"drop",
+			"come down",
+			"village",
+			"hamlet"
+		]
+	},
+	{
+		"Id": 204,
+		"Sort": 100,
+		"Char": "倒",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"たお|れる",
+			"たお|す"
+		],
+		"Onyomi": [
+			"トウ"
+		],
+		"En": [
+			"overthrow",
+			"fall",
+			"collapse",
+			"drop",
+			"break down"
+		]
+	},
+	{
+		"Id": 205,
+		"Sort": 101,
+		"Char": "銀",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"ヤ"
+			"ギン"
 		],
 		"En": [
-			"plants",
-			"field",
-			"rustic",
-			"civilian life"
+			"silver"
 		]
 	},
 	{
-		"Id": 287,
-		"Sort": 287,
+		"Id": 206,
+		"Sort": 102,
+		"Char": "病",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"や|む",
+			"やまい"
+		],
+		"Onyomi": [
+			"ビョウ",
+			"ヘイ"
+		],
+		"En": [
+			"ill",
+			"sick"
+		]
+	},
+	{
+		"Id": 207,
+		"Sort": 103,
+		"Char": "院",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"イン"
+		],
+		"En": [
+			"institution",
+			"temple",
+			"mansion",
+			"school"
+		]
+	},
+	{
+		"Id": 208,
+		"Sort": 104,
+		"Char": "図",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はか|る"
+		],
+		"Onyomi": [
+			"ズ",
+			"ト"
+		],
+		"En": [
+			"map",
+			"drawing",
+			"plan",
+			"extraordinary",
+			"audacious"
+		]
+	},
+	{
+		"Id": 209,
+		"Sort": 105,
 		"Char": "建",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -5041,176 +3683,233 @@
 		]
 	},
 	{
-		"Id": 288,
-		"Sort": 288,
-		"Char": "民",
+		"Id": 210,
+		"Sort": 106,
+		"Char": "物",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"たみ"
+			"もの"
 		],
 		"Onyomi": [
-			"ミン"
+			"ブツ",
+			"モツ"
 		],
 		"En": [
-			"people",
-			"nation",
-			"subjects"
+			"thing",
+			"object",
+			"matter"
 		]
 	},
 	{
-		"Id": 289,
-		"Sort": 289,
-		"Char": "族",
+		"Id": 211,
+		"Sort": 107,
+		"Char": "工",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"ゾク"
+			"コウ",
+			"ク"
 		],
 		"En": [
-			"tribe",
-			"family"
+			"craft",
+			"construction"
 		]
 	},
 	{
-		"Id": 290,
-		"Sort": 290,
-		"Char": "性",
+		"Id": 212,
+		"Sort": 108,
+		"Char": "場",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ば"
+		],
+		"Onyomi": [
+			"ジョウ"
+		],
+		"En": [
+			"location",
+			"place"
+		]
+	},
+	{
+		"Id": 213,
+		"Sort": 109,
+		"Char": "遠",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"とお|い"
+		],
+		"Onyomi": [
+			"エン",
+			"オン"
+		],
+		"En": [
+			"distant",
+			"far"
+		]
+	},
+	{
+		"Id": 214,
+		"Sort": 110,
+		"Char": "近",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ちか|い"
+		],
+		"Onyomi": [
+			"キン"
+		],
+		"En": [
+			"near",
+			"early",
+			"akin",
+			"tantamount"
+		]
+	},
+	{
+		"Id": 215,
+		"Sort": 111,
+		"Char": "遅",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"おく|れる",
+			"おく|らす",
+			"おそ|い"
+		],
+		"Onyomi": [
+			"チ"
+		],
+		"En": [
+			"slow",
+			"late",
+			"back",
+			"later"
+		]
+	},
+	{
+		"Id": 216,
+		"Sort": 112,
+		"Char": "部",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"セイ",
-			"ショウ"
-		],
-		"En": [
-			"sex",
-			"gender",
-			"nature"
-		]
-	},
-	{
-		"Id": 291,
-		"Sort": 291,
-		"Char": "顔",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"かお"
-		],
-		"Onyomi": [
-			"ガン"
-		],
-		"En": [
-			"face",
-			"expression"
-		]
-	},
-	{
-		"Id": 292,
-		"Sort": 292,
-		"Char": "訪",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"おとず|れる",
-			"た|ずれる"
-		],
-		"Onyomi": [
-			"ホウ"
-		],
-		"En": [
-			"call on",
-			"visit",
-			"look up",
-			"offer sympathy"
-		]
-	},
-	{
-		"Id": 293,
-		"Sort": 293,
-		"Char": "賛",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"サン"
-		],
-		"En": [
-			"approve",
-			"praise",
-			"title or inscription on a picture",
-			"assist",
-			"agree with"
-		]
-	},
-	{
-		"Id": 294,
-		"Sort": 294,
-		"Char": "現",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"あらわ|れる",
-			"あらわ|す"
-		],
-		"Onyomi": [
-			"ゲン"
-		],
-		"En": [
-			"present",
-			"existing",
-			"actual"
-		]
-	},
-	{
-		"Id": 295,
-		"Sort": 295,
-		"Char": "無",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"な|い"
-		],
-		"Onyomi": [
-			"ム",
 			"ブ"
 		],
 		"En": [
-			"nothingness",
-			"none",
-			"nothing",
-			"nil",
-			"not"
+			"section",
+			"bureau",
+			"dept",
+			"class",
+			"copy",
+			"part",
+			"portion",
+			"counter for copies of a newspaper or magazine"
 		]
 	},
 	{
-		"Id": 296,
-		"Sort": 296,
-		"Char": "第",
+		"Id": 217,
+		"Sort": 113,
+		"Char": "屋",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"や"
+		],
+		"Onyomi": [
+			"オク"
+		],
+		"En": [
+			"roof",
+			"house",
+			"shop",
+			"dealer",
+			"seller"
+		]
+	},
+	{
+		"Id": 218,
+		"Sort": 114,
+		"Char": "広",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ひろ|い"
+		],
+		"Onyomi": [
+			"コウ"
+		],
+		"En": [
+			"wide",
+			"broad",
+			"spacious"
+		]
+	},
+	{
+		"Id": 219,
+		"Sort": 115,
+		"Char": "地",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"ダイ"
+			"チ",
+			"ジ"
 		],
 		"En": [
-			"number",
-			"residence"
+			"ground",
+			"earth"
 		]
 	},
 	{
-		"Id": 297,
-		"Sort": 297,
-		"Char": "呼",
+		"Id": 220,
+		"Sort": 116,
+		"Char": "箱",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"チ",
+			"ジ"
+		],
+		"En": [
+			"box",
+			"chest",
+			"case",
+			"bin",
+			"railway car"
+		]
+	},
+	{
+		"Id": 221,
+		"Sort": 117,
+		"Char": "紙",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"よ|ぶ"
+			"かみ"
 		],
 		"Onyomi": [
-			"コ"
+			"シ"
 		],
 		"En": [
-			"call",
-			"call out to",
-			"invite"
+			"paper"
 		]
 	},
 	{
-		"Id": 298,
-		"Sort": 298,
+		"Id": 222,
+		"Sort": 118,
+		"Char": "湯",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ゆ"
+		],
+		"Onyomi": [
+			"トウ"
+		],
+		"En": [
+			"hot water",
+			"bath",
+			"hot spring"
+		]
+	},
+	{
+		"Id": 223,
+		"Sort": 119,
 		"Char": "特",
 		"Jlpt": 4,
 		"Kunyomi": [],
@@ -5222,8 +3921,8 @@
 		]
 	},
 	{
-		"Id": 299,
-		"Sort": 299,
+		"Id": 224,
+		"Sort": 120,
 		"Char": "別",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -5243,211 +3942,101 @@
 		]
 	},
 	{
-		"Id": 300,
-		"Sort": 300,
-		"Char": "集",
+		"Id": 225,
+		"Sort": 121,
+		"Char": "代",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"あつ|まる",
-			"あつ|める",
-			"つど|う"
+			"か|わる",
+			"か|える",
+			"よ",
+			"しろ"
 		],
 		"Onyomi": [
-			"シュウ"
+			"ダイ",
+			"タイ"
 		],
 		"En": [
-			"gather",
-			"meet",
-			"congregate",
-			"swarm",
-			"flock"
+			"call",
+			"call out to",
+			"invite"
 		]
 	},
 	{
-		"Id": 301,
-		"Sort": 301,
-		"Char": "増",
+		"Id": 226,
+		"Sort": 122,
+		"Char": "世",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"ます",
-			"ふ|える",
-			"ふ|やす"
-		],
-		"Onyomi": [
-			"ゾウ"
-		],
-		"En": [
-			"increase",
-			"add",
-			"augment",
-			"gain",
-			"promote"
-		]
-	},
-	{
-		"Id": 302,
-		"Sort": 302,
-		"Char": "進",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"すす|む",
-			"すす|める"
-		],
-		"Onyomi": [
-			"シン"
-		],
-		"En": [
-			"advance",
-			"proceed",
-			"progress",
-			"promote"
-		]
-	},
-	{
-		"Id": 303,
-		"Sort": 303,
-		"Char": "以",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"イ"
-		],
-		"En": [
-			"by means of",
-			"because",
-			"in view of",
-			"compared with"
-		]
-	},
-	{
-		"Id": 304,
-		"Sort": 304,
-		"Char": "並",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"な|み",
-			"なら|べる",
-			"なら|ぶ",
-			"なら|びに"
-		],
-		"Onyomi": [
-			"ヘイ"
-		],
-		"En": [
-			"row",
-			"and",
-			"besides",
-			"as well as",
-			"line up",
-			"rank with",
-			"rival",
-			"equal"
-		]
-	},
-	{
-		"Id": 305,
-		"Sort": 305,
-		"Char": "有",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"あ|る"
-		],
-		"Onyomi": [
-			"ユウ",
-			"ウ"
-		],
-		"En": [
-			"possess",
-			"have",
-			"exist",
-			"happen",
-			"occur",
-			"approx"
-		]
-	},
-	{
-		"Id": 306,
-		"Sort": 306,
-		"Char": "名",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"な"
-		],
-		"Onyomi": [
-			"メイ",
-			"ミョウ"
-		],
-		"En": [
-			"name",
-			"noted",
-			"distinguished",
-			"reputation"
-		]
-	},
-	{
-		"Id": 307,
-		"Sort": 307,
-		"Char": "請",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"こ|う",
-			"う|ける"
+			"よ"
 		],
 		"Onyomi": [
 			"セイ",
-			"シン"
+			"セ"
 		],
 		"En": [
-			"solicit",
-			"invite",
-			"ask"
+			"generation",
+			"world",
+			"society",
+			"public"
 		]
 	},
 	{
-		"Id": 308,
-		"Sort": 308,
-		"Char": "下",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"した",
-			"しも",
-			"さ|げる",
-			"さ|がる",
-			"く|だる",
-			"く|だす",
-			"く|さる",
-			"お|ろす",
-			"お|りる"
-		],
-		"Onyomi": [
-			"カ",
-			"ゲ"
-		],
-		"En": [
-			"below",
-			"down",
-			"descend",
-			"give",
-			"low",
-			"inferior"
-		]
-	},
-	{
-		"Id": 309,
-		"Sort": 309,
-		"Char": "婚",
+		"Id": 227,
+		"Sort": 123,
+		"Char": "界",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"コン"
+			"カイ"
 		],
 		"En": [
-			"marriage"
+			"world",
+			"boundary"
 		]
 	},
 	{
-		"Id": 310,
-		"Sort": 310,
+		"Id": 228,
+		"Sort": 124,
+		"Char": "太",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ふと|い",
+			"ふと|る"
+		],
+		"Onyomi": [
+			"タイ",
+			"ア"
+		],
+		"En": [
+			"plump",
+			"big around",
+			"thick"
+		]
+	},
+	{
+		"Id": 229,
+		"Sort": 125,
+		"Char": "平",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"たい|ら",
+			"たい|らげる",
+			"ひら"
+		],
+		"Onyomi": [
+			"ヘイ",
+			"ビョウ"
+		],
+		"En": [
+			"even",
+			"flat",
+			"peace"
+		]
+	},
+	{
+		"Id": 230,
+		"Sort": 126,
 		"Char": "洋",
 		"Jlpt": 4,
 		"Kunyomi": [],
@@ -5462,101 +4051,1094 @@
 		]
 	},
 	{
-		"Id": 311,
-		"Sort": 311,
-		"Char": "台",
+		"Id": 231,
+		"Sort": 127,
+		"Char": "和",
 		"Jlpt": 4,
 		"Kunyomi": [],
-		"Onyomi": [
-			"ダイ",
-			"タイ"
-		],
-		"En": [
-			"pedestal",
-			"a stand",
-			"counter for machines and vehicles"
-		]
-	},
-	{
-		"Id": 312,
-		"Sort": 312,
-		"Char": "用",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"もち|いる"
-		],
 		"Onyomi": [
 			"ヨウ"
 		],
 		"En": [
-			"utilise",
-			"business",
-			"service",
-			"use",
-			"empty"
+			"ocean",
+			"sea",
+			"foreign",
+			"Western style"
 		]
 	},
 	{
-		"Id": 313,
-		"Sort": 313,
-		"Char": "服",
+		"Id": 232,
+		"Sort": 128,
+		"Char": "経",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"へ|る"
+		],
+		"Onyomi": [
+			"ケイ",
+			"キョウ"
+		],
+		"En": [
+			"sutra",
+			"longitude",
+			"pass thru",
+			"expire",
+			"warp"
+		]
+	},
+	{
+		"Id": 233,
+		"Sort": 129,
+		"Char": "済",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"す|む",
+			"す|ます"
+		],
+		"Onyomi": [
+			"サイ"
+		],
+		"En": [
+			"settle (debt. etc.)",
+			"relieve (burden)",
+			"finish",
+			"come to en end",
+			"excusable",
+			"need not"
+		]
+	},
+	{
+		"Id": 234,
+		"Sort": 130,
+		"Char": "議",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"フク"
+			"ギ"
 		],
 		"En": [
-			"clothes",
-			"admit",
-			"obey",
-			"discharge"
+			"deliberation",
+			"consultation",
+			"debate",
+			"consideration"
 		]
 	},
 	{
-		"Id": 314,
-		"Sort": 314,
-		"Char": "紙",
+		"Id": 235,
+		"Sort": 131,
+		"Char": "達",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"かみ"
+			"たち"
+		],
+		"Onyomi": [
+			"タツ"
+		],
+		"En": [
+			"accomplished",
+			"reach",
+			"arrive",
+			"attain"
+		]
+	},
+	{
+		"Id": 236,
+		"Sort": 132,
+		"Char": "顔",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"かお"
+		],
+		"Onyomi": [
+			"ガン"
+		],
+		"En": [
+			"face",
+			"expression"
+		]
+	},
+	{
+		"Id": 237,
+		"Sort": 133,
+		"Char": "頭",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あたま",
+			"かしら"
+		],
+		"Onyomi": [
+			"トウ",
+			"ズ",
+			"ト"
+		],
+		"En": [
+			"head",
+			"counter for large animals"
+		]
+	},
+	{
+		"Id": 238,
+		"Sort": 134,
+		"Char": "医",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"イ"
+		],
+		"En": [
+			"doctor",
+			"medicine"
+		]
+	},
+	{
+		"Id": 239,
+		"Sort": 135,
+		"Char": "者",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"もの"
+		],
+		"Onyomi": [
+			"シャ"
+		],
+		"En": [
+			"someone",
+			"person"
+		]
+	},
+	{
+		"Id": 240,
+		"Sort": 136,
+		"Char": "首",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"くび"
+		],
+		"Onyomi": [
+			"シュ"
+		],
+		"En": [
+			"neck"
+		]
+	},
+	{
+		"Id": 241,
+		"Sort": 137,
+		"Char": "声",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"こえ",
+			"こわ"
+		],
+		"Onyomi": [
+			"セイ",
+			"ショウ"
+		],
+		"En": [
+			"voice"
+		]
+	},
+	{
+		"Id": 242,
+		"Sort": 138,
+		"Char": "薬",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"くすり"
+		],
+		"Onyomi": [
+			"ヤク"
+		],
+		"En": [
+			"medicine",
+			"chemical",
+			"enamel",
+			"gunpowder",
+			"benefit"
+		]
+	},
+	{
+		"Id": 243,
+		"Sort": 139,
+		"Char": "心",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"こころ"
+		],
+		"Onyomi": [
+			"シン"
+		],
+		"En": [
+			"heart",
+			"mind",
+			"spirit"
+		]
+	},
+	{
+		"Id": 244,
+		"Sort": 140,
+		"Char": "野",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ヤ"
+		],
+		"En": [
+			"plants",
+			"field",
+			"rustic",
+			"civilian life"
+		]
+	},
+	{
+		"Id": 245,
+		"Sort": 141,
+		"Char": "菜",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"な"
+		],
+		"Onyomi": [
+			"サイ"
+		],
+		"En": [
+			"vegetable",
+			"side dish",
+			"greens"
+		]
+	},
+	{
+		"Id": 246,
+		"Sort": 142,
+		"Char": "降",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"お|りる",
+			"お|ろす",
+			"ふ|る"
+		],
+		"Onyomi": [
+			"コウ"
+		],
+		"En": [
+			"descend",
+			"precipitate",
+			"fall",
+			"surrender"
+		]
+	},
+	{
+		"Id": 247,
+		"Sort": 143,
+		"Char": "運",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はこ|ぶ"
+		],
+		"Onyomi": [
+			"ウン"
+		],
+		"En": [
+			"carry",
+			"luck",
+			"destiny",
+			"fate",
+			"lot",
+			"transport",
+			"progress",
+			"advance"
+		]
+	},
+	{
+		"Id": 248,
+		"Sort": 144,
+		"Char": "道",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"みち"
+		],
+		"Onyomi": [
+			"ドウ",
+			"トウ"
+		],
+		"En": [
+			"road-way",
+			"street",
+			"district",
+			"journey",
+			"course",
+			"moral",
+			"teachings"
+		]
+	},
+	{
+		"Id": 249,
+		"Sort": 145,
+		"Char": "通",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"とお|る",
+			"とお|す",
+			"かよ|う"
+		],
+		"Onyomi": [
+			"ツウ",
+			"シ"
+		],
+		"En": [
+			"traffic",
+			"pass through",
+			"avenue",
+			"commute"
+		]
+	},
+	{
+		"Id": 250,
+		"Sort": 146,
+		"Char": "動",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"うご|く",
+			"うご|かす"
+		],
+		"Onyomi": [
+			"ドウ"
+		],
+		"En": [
+			"move",
+			"motion",
+			"change",
+			"confusion",
+			"shift",
+			"shake"
+		]
+	},
+	{
+		"Id": 251,
+		"Sort": 147,
+		"Char": "転",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ころ|がる",
+			"ころ|げる",
+			"ころ|がす",
+			"ころ|ぶ"
+		],
+		"Onyomi": [
+			"テン"
+		],
+		"En": [
+			"resolve",
+			"turn around",
+			"change"
+		]
+	},
+	{
+		"Id": 252,
+		"Sort": 148,
+		"Char": "自",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"みずか|ら"
+		],
+		"Onyomi": [
+			"ジ",
+			"シ"
+		],
+		"En": [
+			"oneself"
+		]
+	},
+	{
+		"Id": 253,
+		"Sort": 149,
+		"Char": "急",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"いそ|ぐ"
+		],
+		"Onyomi": [
+			"キュウ"
+		],
+		"En": [
+			"hurry",
+			"emergency",
+			"sudden",
+			"steep"
+		]
+	},
+	{
+		"Id": 254,
+		"Sort": 150,
+		"Char": "回",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"まわ|る",
+			"まわ|す"
+		],
+		"Onyomi": [
+			"カイ",
+			"エ"
+		],
+		"En": [
+			"times",
+			"round",
+			"game",
+			"revolve",
+			"counter for occurrences"
+		]
+	},
+	{
+		"Id": 255,
+		"Sort": 151,
+		"Char": "売",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"う|る",
+			"う|れる"
+		],
+		"Onyomi": [
+			"バイ"
+		],
+		"En": [
+			"sell"
+		]
+	},
+	{
+		"Id": 256,
+		"Sort": 152,
+		"Char": "取",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"と|る"
+		],
+		"Onyomi": [
+			"シュ"
+		],
+		"En": [
+			"take",
+			"fetch",
+			"take up"
+		]
+	},
+	{
+		"Id": 257,
+		"Sort": 153,
+		"Char": "思",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"おも|う"
 		],
 		"Onyomi": [
 			"シ"
 		],
 		"En": [
-			"paper"
+			"think"
 		]
 	},
 	{
-		"Id": 315,
-		"Sort": 315,
-		"Char": "雑",
+		"Id": 258,
+		"Sort": 154,
+		"Char": "考",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"かんが|える"
+		],
+		"Onyomi": [
+			"コウ"
+		],
+		"En": [
+			"consider",
+			"think over"
+		]
+	},
+	{
+		"Id": 259,
+		"Sort": 155,
+		"Char": "使",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"つか|う"
+		],
+		"Onyomi": [
+			"シ"
+		],
+		"En": [
+			"use",
+			"send on a mission",
+			"oder",
+			"messenger",
+			"envoy",
+			"ambassador",
+			"cause"
+		]
+	},
+	{
+		"Id": 260,
+		"Sort": 156,
+		"Char": "作",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"つく|る"
+		],
+		"Onyomi": [
+			"サク",
+			"サ"
+		],
+		"En": [
+			"make",
+			"production",
+			"prepare",
+			"build"
+		]
+	},
+	{
+		"Id": 261,
+		"Sort": 157,
+		"Char": "知",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"し|る"
+		],
+		"Onyomi": [
+			"チ"
+		],
+		"En": [
+			"know",
+			"wisdom"
+		]
+	},
+	{
+		"Id": 262,
+		"Sort": 158,
+		"Char": "試",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"こころ|みる",
+			"ため|す"
+		],
+		"Onyomi": [
+			"シ"
+		],
+		"En": [
+			"test",
+			"try",
+			"attempt",
+			"experiment",
+			"ordeal"
+		]
+	},
+	{
+		"Id": 263,
+		"Sort": 159,
+		"Char": "験",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"ザツ",
-			"ゾウ"
+			"ケン",
+			"ゲン"
 		],
 		"En": [
-			"miscellaneous"
+			"verification",
+			"effect",
+			"testing"
 		]
 	},
 	{
-		"Id": 316,
-		"Sort": 316,
-		"Char": "銀",
+		"Id": 264,
+		"Sort": 160,
+		"Char": "記",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"しる|す"
+		],
+		"Onyomi": [
+			"キ"
+		],
+		"En": [
+			"scribe",
+			"account",
+			"narrative"
+		]
+	},
+	{
+		"Id": 265,
+		"Sort": 161,
+		"Char": "終",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"お|わる",
+			"お|える"
+		],
+		"Onyomi": [
+			"シュウ"
+		],
+		"En": [
+			"end",
+			"finish"
+		]
+	},
+	{
+		"Id": 266,
+		"Sort": 162,
+		"Char": "題",
 		"Jlpt": 4,
 		"Kunyomi": [],
 		"Onyomi": [
-			"ギン"
+			"ダイ"
 		],
 		"En": [
-			"silver"
+			"topic",
+			"subject"
 		]
 	},
 	{
-		"Id": 317,
-		"Sort": 317,
+		"Id": 267,
+		"Sort": 163,
+		"Char": "春",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はる"
+		],
+		"Onyomi": [
+			"シュン"
+		],
+		"En": [
+			"springtime",
+			"spring (season)"
+		]
+	},
+	{
+		"Id": 268,
+		"Sort": 164,
+		"Char": "夏",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"なつ"
+		],
+		"Onyomi": [
+			"カ",
+			"ゲ"
+		],
+		"En": [
+			"summer"
+		]
+	},
+	{
+		"Id": 269,
+		"Sort": 165,
+		"Char": "秋",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あき"
+		],
+		"Onyomi": [
+			"シュウ"
+		],
+		"En": [
+			"autumn"
+		]
+	},
+	{
+		"Id": 270,
+		"Sort": 166,
+		"Char": "冬",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ふゆ"
+		],
+		"Onyomi": [
+			"トウ"
+		],
+		"En": [
+			"winter"
+		]
+	},
+	{
+		"Id": 271,
+		"Sort": 167,
+		"Char": "森",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"もり"
+		],
+		"Onyomi": [
+			"シン"
+		],
+		"En": [
+			"forest",
+			"woods"
+		]
+	},
+	{
+		"Id": 272,
+		"Sort": 168,
+		"Char": "林",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はやし"
+		],
+		"Onyomi": [
+			"リン"
+		],
+		"En": [
+			"grove",
+			"forest"
+		]
+	},
+	{
+		"Id": 273,
+		"Sort": 169,
+		"Char": "季",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"キ"
+		],
+		"En": [
+			"seasons"
+		]
+	},
+	{
+		"Id": 274,
+		"Sort": 170,
+		"Char": "節",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ふし"
+		],
+		"Onyomi": [
+			"セツ",
+			"セチ"
+		],
+		"En": [
+			"node",
+			"season",
+			"period",
+			"occasion",
+			"verse",
+			"clause",
+			"stanza",
+			"honour",
+			"joint",
+			"knuckle",
+			"knob",
+			"knot",
+			"tune",
+			"melody"
+		]
+	},
+	{
+		"Id": 275,
+		"Sort": 171,
+		"Char": "池",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"いけ"
+		],
+		"Onyomi": [
+			"チ"
+		],
+		"En": [
+			"pond",
+			"cistern",
+			"pool",
+			"reservoir"
+		]
+	},
+	{
+		"Id": 276,
+		"Sort": 172,
+		"Char": "雪",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ゆき"
+		],
+		"Onyomi": [
+			"セツ"
+		],
+		"En": [
+			"snow"
+		]
+	},
+	{
+		"Id": 277,
+		"Sort": 173,
+		"Char": "曇",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"くも"
+		],
+		"Onyomi": [
+			"ウン"
+		],
+		"En": [
+			"cloud"
+		]
+	},
+	{
+		"Id": 278,
+		"Sort": 174,
+		"Char": "弟",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"おとうと"
+		],
+		"Onyomi": [
+			"テイ",
+			"ダイ",
+			"デ"
+		],
+		"En": [
+			"younger brother"
+		]
+	},
+	{
+		"Id": 279,
+		"Sort": 175,
+		"Char": "兄",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あに"
+		],
+		"Onyomi": [
+			"ケイ",
+			"キョウ"
+		],
+		"En": [
+			"elder brother"
+		]
+	},
+	{
+		"Id": 280,
+		"Sort": 176,
+		"Char": "妹",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"いもうと"
+		],
+		"Onyomi": [
+			"マイ"
+		],
+		"En": [
+			"younger sister"
+		]
+	},
+	{
+		"Id": 281,
+		"Sort": 177,
+		"Char": "姉",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あね"
+		],
+		"Onyomi": [
+			"シ"
+		],
+		"En": [
+			"elder sister"
+		]
+	},
+	{
+		"Id": 282,
+		"Sort": 178,
+		"Char": "家",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"いえ",
+			"や",
+			"うち"
+		],
+		"Onyomi": [
+			"カ",
+			"ケ"
+		],
+		"En": [
+			"house",
+			"home",
+			"family",
+			"professional",
+			"expert",
+			"performer"
+		]
+	},
+	{
+		"Id": 283,
+		"Sort": 179,
+		"Char": "族",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ゾク"
+		],
+		"En": [
+			"tribe",
+			"family"
+		]
+	},
+	{
+		"Id": 284,
+		"Sort": 180,
+		"Char": "黒",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"くろ",
+			"くろ|い"
+		],
+		"Onyomi": [
+			"コク"
+		],
+		"En": [
+			"black"
+		]
+	},
+	{
+		"Id": 285,
+		"Sort": 181,
+		"Char": "白",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"しろ",
+			"しら",
+			"しろ|い"
+		],
+		"Onyomi": [
+			"ハク",
+			"ビャク"
+		],
+		"En": [
+			"white"
+		]
+	},
+	{
+		"Id": 286,
+		"Sort": 182,
+		"Char": "赤",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あか",
+			"あか|い",
+			"あか|らす",
+			"あか|らめる"
+		],
+		"Onyomi": [
+			"セキ",
+			"シャク"
+		],
+		"En": [
+			"red"
+		]
+	},
+	{
+		"Id": 287,
+		"Sort": 183,
+		"Char": "黄",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"き",
+			"こ"
+		],
+		"Onyomi": [
+			"コウ",
+			"オウ"
+		],
+		"En": [
+			"yellow"
+		]
+	},
+	{
+		"Id": 288,
+		"Sort": 184,
+		"Char": "青",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"あお",
+			"あお|い"
+		],
+		"Onyomi": [
+			"セイ",
+			"ショウ"
+		],
+		"En": [
+			"blue"
+		]
+	},
+	{
+		"Id": 289,
+		"Sort": 185,
+		"Char": "活",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"カツ"
+		],
+		"En": [
+			"lively",
+			"resuscitation",
+			"being",
+			"helped",
+			"living"
+		]
+	},
+	{
+		"Id": 290,
+		"Sort": 186,
+		"Char": "主",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ぬし",
+			"おも"
+		],
+		"Onyomi": [
+			"シュ",
+			"ス"
+		],
+		"En": [
+			"lord",
+			"chief",
+			"master",
+			"main thing",
+			"principal"
+		]
+	},
+	{
+		"Id": 291,
+		"Sort": 187,
+		"Char": "色",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"いろ"
+		],
+		"Onyomi": [
+			"ショク",
+			"シキ"
+		],
+		"En": [
+			"color"
+		]
+	},
+	{
+		"Id": 292,
+		"Sort": 188,
+		"Char": "形",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"かた",
+			"かたち"
+		],
+		"Onyomi": [
+			"ケイ",
+			"ギョウ"
+		],
+		"En": [
+			"shape",
+			"form",
+			"style"
+		]
+	},
+	{
+		"Id": 293,
+		"Sort": 189,
 		"Char": "品",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -5574,8 +5156,344 @@
 		]
 	},
 	{
-		"Id": 318,
-		"Sort": 318,
+		"Id": 294,
+		"Sort": 190,
+		"Char": "民",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"たみ"
+		],
+		"Onyomi": [
+			"ミン"
+		],
+		"En": [
+			"people",
+			"nation",
+			"subjects"
+		]
+	},
+	{
+		"Id": 295,
+		"Sort": 191,
+		"Char": "両",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"リョウ"
+		],
+		"En": [
+			"both",
+			"old Japanese coin",
+			"counter for carriages (e.g. in a train)",
+			"two"
+		]
+	},
+	{
+		"Id": 296,
+		"Sort": 192,
+		"Char": "信",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"シン"
+		],
+		"En": [
+			"faith",
+			"truth",
+			"fidelity",
+			"trust"
+		]
+	},
+	{
+		"Id": 297,
+		"Sort": 193,
+		"Char": "計",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はか|る",
+			"はか|らう"
+		],
+		"Onyomi": [
+			"ケイ"
+		],
+		"En": [
+			"plot",
+			"plan",
+			"scheme",
+			"measure"
+		]
+	},
+	{
+		"Id": 298,
+		"Sort": 194,
+		"Char": "光",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ひか|る",
+			"ひかり"
+		],
+		"Onyomi": [
+			"コウ"
+		],
+		"En": [
+			"ray",
+			"light"
+		]
+	},
+	{
+		"Id": 299,
+		"Sort": 195,
+		"Char": "進",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"すす|む",
+			"すす|める"
+		],
+		"Onyomi": [
+			"シン"
+		],
+		"En": [
+			"advance",
+			"proceed",
+			"progress",
+			"promote"
+		]
+	},
+	{
+		"Id": 300,
+		"Sort": 196,
+		"Char": "返",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"かえ|す",
+			"かえ|る"
+		],
+		"Onyomi": [
+			"ヘン"
+		],
+		"En": [
+			"return",
+			"answer",
+			"fade",
+			"repay"
+		]
+	},
+	{
+		"Id": 301,
+		"Sort": 197,
+		"Char": "風",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"かぜ",
+			"かざ"
+		],
+		"Onyomi": [
+			"フウ",
+			"フ"
+		],
+		"En": [
+			"wind",
+			"air",
+			"style",
+			"manner"
+		]
+	},
+	{
+		"Id": 302,
+		"Sort": 198,
+		"Char": "研",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"と|ぐ"
+		],
+		"Onyomi": [
+			"ケン"
+		],
+		"En": [
+			"polish",
+			"study of",
+			"sharpen"
+		]
+	},
+	{
+		"Id": 303,
+		"Sort": 199,
+		"Char": "究",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"きわ|める"
+		],
+		"Onyomi": [
+			"キュウ"
+		],
+		"En": [
+			"research",
+			"study"
+		]
+	},
+	{
+		"Id": 304,
+		"Sort": 200,
+		"Char": "変",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"か|わる",
+			"か|える"
+		],
+		"Onyomi": [
+			"ヘン"
+		],
+		"En": [
+			"research",
+			"study"
+		]
+	},
+	{
+		"Id": 305,
+		"Sort": 201,
+		"Char": "良",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"よ|い"
+		],
+		"Onyomi": [
+			"リョウ"
+		],
+		"En": [
+			"good",
+			"pleasing",
+			"skilled"
+		]
+	},
+	{
+		"Id": 306,
+		"Sort": 202,
+		"Char": "悪",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"わる|い"
+		],
+		"Onyomi": [
+			"アク",
+			"オ"
+		],
+		"En": [
+			"bad",
+			"vice",
+			"rascal",
+			"false",
+			"evil",
+			"wrong"
+		]
+	},
+	{
+		"Id": 307,
+		"Sort": 203,
+		"Char": "正",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ただ|しい",
+			"ただ|す",
+			"まさ"
+		],
+		"Onyomi": [
+			"セイ",
+			"ショウ"
+		],
+		"En": [
+			"correct",
+			"justice",
+			"righteous"
+		]
+	},
+	{
+		"Id": 308,
+		"Sort": 204,
+		"Char": "全",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"まった|く",
+			"すべ|て"
+		],
+		"Onyomi": [
+			"ゼン"
+		],
+		"En": [
+			"whole",
+			"entire",
+			"all",
+			"complete",
+			"fulfill"
+		]
+	},
+	{
+		"Id": 309,
+		"Sort": 205,
+		"Char": "度",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"たび",
+			"た|い"
+		],
+		"Onyomi": [
+			"ド",
+			"ト",
+			"タク"
+		],
+		"En": [
+			"degrees",
+			"occurrence",
+			"time",
+			"counter for occurrences"
+		]
+	},
+	{
+		"Id": 310,
+		"Sort": 206,
+		"Char": "初",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"はじ|め",
+			"はじ|めて",
+			"はつ",
+			"うい",
+			"そ|める"
+		],
+		"Onyomi": [
+			"ショ"
+		],
+		"En": [
+			"first time",
+			"beginning"
+		]
+	},
+	{
+		"Id": 311,
+		"Sort": 207,
+		"Char": "細",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"ほそ|い",
+			"ほそ|る",
+			"こま|か",
+			"こま|かい"
+		],
+		"Onyomi": [
+			"サイ"
+		],
+		"En": [
+			"dainty",
+			"get thin",
+			"taper",
+			"slender",
+			"narrow",
+			"detailed",
+			"precise"
+		]
+	},
+	{
+		"Id": 312,
+		"Sort": 208,
 		"Char": "産",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -5597,89 +5515,45 @@
 		]
 	},
 	{
-		"Id": 319,
-		"Sort": 319,
-		"Char": "価",
+		"Id": 313,
+		"Sort": 209,
+		"Char": "業",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"あたい"
+			"わざ"
 		],
 		"Onyomi": [
-			"カ"
+			"ギョウ",
+			"ゴウ"
 		],
 		"En": [
-			"value",
-			"price"
+			"business",
+			"vocation",
+			"arts",
+			"performance"
 		]
 	},
 	{
-		"Id": 320,
-		"Sort": 320,
-		"Char": "犬",
+		"Id": 314,
+		"Sort": 210,
+		"Char": "温",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"いぬ"
+			"あたた|か",
+			"あたた|かい",
+			"あたた|まる",
+			"あたた|める"
 		],
 		"Onyomi": [
-			"ケン"
+			"オン"
 		],
 		"En": [
-			"dog"
+			"warm"
 		]
 	},
 	{
-		"Id": 321,
-		"Sort": 321,
-		"Char": "犬",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"ふと|い",
-			"ふと|る"
-		],
-		"Onyomi": [
-			"タイ",
-			"タ"
-		],
-		"En": [
-			"dog"
-		]
-	},
-	{
-		"Id": 322,
-		"Sort": 322,
-		"Char": "世",
-		"Jlpt": 4,
-		"Kunyomi": [
-			"よ"
-		],
-		"Onyomi": [
-			"セイ",
-			"セ"
-		],
-		"En": [
-			"generation",
-			"world",
-			"society",
-			"public"
-		]
-	},
-	{
-		"Id": 323,
-		"Sort": 323,
-		"Char": "界",
-		"Jlpt": 4,
-		"Kunyomi": [],
-		"Onyomi": [
-			"カイ"
-		],
-		"En": [
-			"world",
-			"boundary"
-		]
-	},
-	{
-		"Id": 324,
-		"Sort": 324,
+		"Id": 315,
+		"Sort": 211,
 		"Char": "死",
 		"Jlpt": 4,
 		"Kunyomi": [
@@ -5694,25 +5568,66 @@
 		]
 	},
 	{
-		"Id": 325,
-		"Sort": 325,
-		"Char": "去",
+		"Id": 316,
+		"Sort": 212,
+		"Char": "交",
 		"Jlpt": 4,
 		"Kunyomi": [
-			"さ|る"
+			"まじ|わる",
+			"まじ|える",
+			"ま|じる",
+			"ま|ざる",
+			"ま|ぜる",
+			"か|う",
+			"か|わす"
 		],
 		"Onyomi": [
-			"キョ",
-			"コ"
+			"コウ"
 		],
 		"En": [
-			"gone",
-			"quit",
-			"leave",
-			"elapse",
-			"eliminate",
-			"divorce",
-			"past"
+			"mingle",
+			"mixing",
+			"association",
+			"coming",
+			"&",
+			"going"
+		]
+	},
+	{
+		"Id": 317,
+		"Sort": 213,
+		"Char": "的",
+		"Jlpt": 4,
+		"Kunyomi": [
+			"まと"
+		],
+		"Onyomi": [
+			"テキ"
+		],
+		"En": [
+			"bull's eye",
+			"mark",
+			"target",
+			"object",
+			"adjective ending"
+		]
+	},
+	{
+		"Id": 318,
+		"Sort": 214,
+		"Char": "然",
+		"Jlpt": 4,
+		"Kunyomi": [],
+		"Onyomi": [
+			"ゼン",
+			"ネン"
+		],
+		"En": [
+			"sort of thing",
+			"so",
+			"if so",
+			"in that case",
+			"well"
 		]
 	}
 ]
