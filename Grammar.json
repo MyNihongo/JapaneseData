@@ -3747,7 +3747,6 @@
 		],
 		"SearchEN": [
 			"particles",
-			"wo",
 			"object",
 			"transitive verb"
 		]
@@ -3760,7 +3759,10 @@
 		"Jlpt": 5,
 		"Form": "で",
 		"Search": [
-			"で",
+			"で"
+		],
+		"SearchEN": [
+			"particles",
 			"location of event",
 			"event",
 			"method",
@@ -3768,10 +3770,6 @@
 			"total",
 			"time spent",
 			"quantity"
-		],
-		"SearchEN": [
-			"particles",
-			"de"
 		]
 	},
 	{
@@ -3782,16 +3780,15 @@
 		"Jlpt": 5,
 		"Form": "に",
 		"Search": [
-			"に",
+			"に"
+		],
+		"SearchEN": [
+			"particles",
 			"location",
 			"time and date",
 			"time",
 			"date",
 			"direction"
-		],
-		"SearchEN": [
-			"particles",
-			"ni"
 		]
 	},
 	{
@@ -3806,7 +3803,6 @@
 		],
 		"SearchEN": [
 			"particles",
-			"he",
 			"direction"
 		]
 	},
@@ -3822,7 +3818,6 @@
 		],
 		"SearchEN": [
 			"particles",
-			"ka",
 			"or"
 		]
 	},
@@ -3838,7 +3833,6 @@
 		],
 		"SearchEN": [
 			"particles",
-			"no",
 			"possession",
 			"belongs"
 		]
@@ -3855,7 +3849,6 @@
 		],
 		"SearchEN": [
 			"particles",
-			"to",
 			"and",
 			"together",
 			"with"
@@ -3874,7 +3867,6 @@
 		],
 		"SearchEN": [
 			"particles",
-			"ya",
 			"and",
 			"stuff like that"
 		]
