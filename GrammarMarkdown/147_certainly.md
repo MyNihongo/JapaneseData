@@ -1,2 +1,0 @@
-In order to say a word *"certainly"* or *"without fail"* a Japanese word `是非 (ぜひ)` is used. The word can be used in any place within its clause except at the end.
->今年は**是非**日本語能力試験を受ける。This year I will certainly take the JLPT.

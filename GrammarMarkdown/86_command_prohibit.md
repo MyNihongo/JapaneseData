@@ -1,2 +1,0 @@
-In order to order someone not to do something an expression `verb + な` is used. This is quite a strict command, therefore, it is allowed only in the casual situation when the speaker has a higher or at least equal hierarchical level. A common example of when this expression is used is when a mother orders a child not to do something. In English an equivalent of the expression is *"Don't ..."*.
->暗くなった後で、出かける**な**。Don't go outside after it is dark.

@@ -1,0 +1,2 @@
+In order to say that something is not mandatory to do or that there is no need to do something, a [てもいい-form](47) is used after a verb in the negative *て-form*.
+>お皿を掃除しなくてもいいです。It is not necessary to wash dishes.

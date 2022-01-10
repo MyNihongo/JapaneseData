@@ -1,2 +1,0 @@
-In order to say that the speaker is sorry for something a pattern `verbて + すいません` is used. There is no typo. In books *す**み**ません* is often taught, but in Japanese people often say *す**い**ません*. This pattern consists of a verb in its [て-form] and a word *すいません* which is used for apologising, so literally the expression can be translated as *"I did this and I am sorry"*.
->綾子ちゃん先にパーティーに行っ**てすいません**。Sorry that I went to the party without you.
