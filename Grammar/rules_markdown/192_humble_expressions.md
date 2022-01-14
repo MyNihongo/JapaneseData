@@ -1,7 +1,8 @@
-Humble expressions (謙譲語) are expressions which are used to describe the speaker's actions which are done out of respect to someone else (teacher, boss, customer, etc.), therefore, the humble expressions are never used to describe someone else's actions (see the [honorific expressions](67) to describe actions of someone else).
-In the following example the first sentence is correct (OK) since it describes an action of the speaker, but the second sentence is wrong (✕) since it describes an action of another person.
+Humble expressions (謙譲語) are expressions which are used to describe the speaker's (or the *speaker's family's*) actions which are done out of respect to someone else (teacher, boss, customer, etc.), therefore, the humble expressions are never used to describe someone else's actions (see the [honorific expressions](67) to describe actions of someone else).
+In the following example the first and second sentences are correct (OK) since they describe an action of the speaker or family, but the third sentence is wrong (✕) since it describes an action of another person.
 
->**私**はお待ちします。(OK) I wait.
+>**私**はお待ちします。(OK) I wait.  
+>**母**はお待ちします。(OK) My mother waits.
 >
 >**先生**はお待ちします。(✕) Teacher waits.
 
