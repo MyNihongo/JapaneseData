@@ -1,4 +1,11 @@
-### Formal (てはいけない)
+The form `てはいけません` means that something is not allowed to be done. It is used only with verbs.
+
+### Formal (はいけません or てはいけない)
+|Usage|Example|
+|-|-|
+|TE form + てはいけません|食べて**はいけません**|
+|TE form + てはいけません|食べて**てはいけない**|
+
 In order to formally say that something must not be done a `てはいけない` is used. The grammar structure is created of a verb in the [て-form](52) and a verb *いく* in the negative potential conjugation, so an approximate translation of the grammar point could be: "if one does something it can't go like this".
 >電話を使っ**てはいけません**。You must not use a phone.
 >電話を使っ**てはいけない**です。You must not use a phone.
@@ -6,6 +13,13 @@ In order to formally say that something must not be done a `てはいけない` 
 The two sentences above have the same level of politeness, however, the *いけません* is better for writing while *けないです* is better for speaking.
 
 ### Casual (ちゃいけない / じゃいけない)
+|Usage|Example|
+|-|-|
+|TE form + ちゃいけません|食べ**ちゃいけません**|
+|TE form + ちゃダメ|食べ**ちゃダメ**|
+|TE form + じゃいけません|飲ん**じゃいけません**|
+|TE form + じゃダメ|飲ん**じゃダメ**|
+
 In a less formal situation this form may be converted into `ちゃいけない` or `じゃいけない`, as well as `ちゃダメ` or `じゃダメ`. This form is also based on the *て-form* of the verb, but the final *て* or *で* is dropped. Distinction between *～ちゃ* and *～じゃ* is determined by the alternation of the *て-form*. The rule is the following:
 - `ちゃ` if て-form ends with て
 - `じゃ` if て-form ends with で

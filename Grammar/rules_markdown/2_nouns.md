@@ -2,10 +2,10 @@ If a noun is a final object of a sentence `です` (in the formal context) and `
 
 |Tense|Form|Example|
 |-|-|-|
-|Present affirmative|～です|日本人**です**|
-|Present negative|～じゃないです|日本人**じゃないです**|
-|Past affirmative|～でした|日本人**でした**|
-|Past negative|～じゃなかったです|日本人**じゃなかったです**|
+|Present affirmative|N + です|日本人**です**|
+|Present negative|N + じゃないです|日本人**じゃないです**|
+|Past affirmative|N + でした|日本人**でした**|
+|Past negative|N + じゃなかったです|日本人**じゃなかったです**|
 
 ### Present affirmative form
 Let's take a look at the sentence *"I am Japanese"*.
@@ -26,6 +26,7 @@ Let's take a look at the sentence *"I am not Japanese"*.
 
 *じゃないです* is the polite form which is used in speaking. *ではありません* is the polite form which is used in writing. *じゃない* is the casual form which is used in speaking. *ではない* is the casual form which is used in writing.
 Remember that `じゃ` is used for speaking. It is replaced by `では` in writing.
+Even though we are talking about nouns, *じゃない* and *ではない* are actually adjectives and they conjugate as regular い-adjectives. We will talk about い-adjectives lates in [this article](13).
 
 ### Past affirmative form
 Let's take a look at the sentence *"I was Japanese"*.

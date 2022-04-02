@@ -15,6 +15,6 @@ Contrary to the previous example, the *が* particle would also be fine (see [�
 #### Two particles
 >東京**には**日本人がいます。There are Japanese people in Tokyo. (lit. As for what there is in Tokyo, there are Japanese people)
 
-First of all `が` is not used in combination with other particles, therefore, it is definitely `は`. Secondly, a clause *"日本人がいます"* is not performed by Tokyo, but rather it is related to Tokyo, therefore, *"東京に"* is an introduction of what there is in Tokyo.
+First of all `が` is not used in combination with other particles, therefore, `が` cannot be used after *東京*, so it is definitely `は`. Secondly, a clause *"日本人がいます"* is not performed by Tokyo, but rather it is related to Tokyo, therefore, *"東京に"* is an introduction of what there is in Tokyo.
 
 The difference might be subtle at first, but with practice it will become all right. Let us cover some usages of the [が particle](171) next.
