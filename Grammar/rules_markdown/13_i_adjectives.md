@@ -7,12 +7,12 @@ The first and very simple explanation of `い-adjectives` is that these are adje
 |Past|～かった (～かったです)|～くなかった (～くなかったです)|
 
 Present tense:
->安い。安いです。It is cheap. (No changes of the dictionary form)
->安くない。安くないです。It is not cheap. (Replace the final い with くない)
+>新し**い**。新し**いです**。It is new. (No changes of the dictionary form)
+>新し**くない**。新し**くない**です。It is not new. (Replace the final い with くない)
 
 Past tense:
->安かった。安かったです。It was cheap. (Replace the final い with かった)
->安くなかった。安くなかったです。It was not cheap. (Replace the final い with くない, and replace the new final い with かった)
+>新し**かった**。新し**かった**です。It was new. (Replace the final い with かった)
+>新し**くなかった**。新し**くなかった**です。It was not new. (Replace the final い with くない, and replace the new final い with かった)
 
 Except one case all い-adjectives are regular and follow the aforecited pattern, however, the only exception is the `いい-adjectives` (*いい* means *good* in Japanese). Basically the only difference is that the first い is replaced with よ, otherwise the pattern remains the same. The pattern for *いい-adjectives* is described below.
 Present tense:
@@ -20,8 +20,8 @@ Present tense:
 >よくない。よくないです。It is not good. (Change the first い to よ, replace the final い with くない)
 
 Past tense:
->よかった。よかったです。It was good. (Change the first い to よ, replace the final い with かった)
->よくなかった。よくなかったです。It was not good. (Change the first い to よ, replace the final い with くない, and replace the new final い with かった)
+>よ**かった**。よ**かった**です。It was good. (Change the first い to よ, replace the final い with かった)
+>よ**くなかった**。よ**くなかった**です。It was not good. (Change the first い to よ, replace the final い with くない, and replace the new final い with かった)
 
 In order to use a verb with a な-adjective a dictionary form of this verb must be connected with an adjective by a `の particle`.
 >日本語を勉強する**のが**難しいです。Studying Japanese is difficult.
