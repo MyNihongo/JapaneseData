@@ -69,7 +69,7 @@
 		"Title": "Probably (almost certain)",
 		"Text": "4_probably_darou",
 		"Jlpt": 5,
-		"Form": "でしょう",
+		"Form": "でしょう (だろう)",
 		"Search": [
 			"でしょう",
 			"だろう"
@@ -374,7 +374,8 @@
 		],
 		"SearchEN": [
 			"still",
-			"not yet"
+			"not yet",
+			"yet"
 		]
 	},
 	{

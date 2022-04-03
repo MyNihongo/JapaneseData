@@ -1,4 +1,4 @@
-|Usage||
+|Usage|Example|
 |-|-|
 |V (dic.) + ので|食べるので|
 |A (i) + ので|新しいので|
