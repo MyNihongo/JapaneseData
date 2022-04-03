@@ -1,4 +1,4 @@
 |Usage|Example|
 |-|-|
-|TE form (neg.)|食べないで|
-|N form + ずに|食べずに|
+|V te-form (neg.)|食べないで|
+|V n-form + ずに|食べずに|

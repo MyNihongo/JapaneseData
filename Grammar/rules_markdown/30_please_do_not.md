@@ -1,4 +1,10 @@
 In order to make a request that something must not be done a form `ないでくださいませんか` is used. In more casual conversations just `ないでください` is all right.
+
+|Usage|Example|
+|-|-|
+|V nai-form + でください|食べないでください|
+|V nai-form + でくださいませんか|食べないでくださいませんか|
+
 This form is only used for public requests (e.g. in public speech, rules, etc.), so using *ないでくださいませんか* in a conversation is considered to be **rude**, therefore, use the [てくれる-form](118) instead.
 This form is a negative counterpart of [てくださいませんか](46).
 
