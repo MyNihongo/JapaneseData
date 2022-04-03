@@ -12,5 +12,5 @@ Note that it is not used for frequent actions (every day, every weekend, etc.) o
 >昼ご飯を食べました。
 #### Present tense
 If a verb is used in the casual form of the past tense is followed by `事がある` it means that the speaker talks about something what he or she usually does. In order to say that someone never does something the verb *ある* is conjugated into the negative form.
->自転車に乗る**事がある**。Sometimes I ride a bicycle.
->自転車に乗る**事がない**。I never ride a bicycle.
+>自転車に乗る**事があります**。Sometimes I ride a bicycle.
+>自転車に乗る**事がありません**。I never ride a bicycle.

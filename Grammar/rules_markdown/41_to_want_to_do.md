@@ -4,12 +4,22 @@ The *たい-form* is conjugated as a regular い-adjective as it can be observed
 
 |Form|Translation|
 |-|-|
-|～たい|want to|
-|～たくない|don't want to|
-|～たかった|wanted to|
-|～たくなかった|didn't want to|
+|～たいです|want to|
+|～たくないです|don't want to|
+|～たかったです|wanted to|
+|～たくなかったです|didn't want to|
 
->東京に行き**たい**。I want to go to Tokyo.
->東京に行き**たくない**。I don't want to go to Tokyo.
->(✕)綾子ちゃんは東京に行き**たい**。Ayako wants to go to Tokyo. (**WRONG!!!**)
->綾子ちゃんは東京に行き**たい**と言った。Ayako said that she wanted to go to Tokyo.
+>東京に行き**たい**です。I want to go to Tokyo.
+>東京に行き**たくない**です。I don't want to go to Tokyo.
+
+The *たい-form* is quite direct in expressing your wants, so appending [と思います](133) makes the statement not so direct. For example it is often used by teachers when they want to introduce a new task during a class.
+>連絡し**たい**と**思います**。I want to address you.
+
+### Another person's want
+>(✕)綾子ちゃんは東京に行き**たい**です。Ayako wants to go to Tokyo. (**WRONG!!!**)
+>綾子ちゃんは東京に行き**たい**と言っていました。Ayako said that she wanted to go to Tokyo.
+
+Please note *たい* cannot be used to describe another person's want, but it is all right to ask a question with *たい*. But be careful because it does not have the same meaning as in English, because in English it is often used as a proposal to do something, but in Japanese it simply conveys a meaning of desire without any actions.
+
+>A: おすしを食べたいですか。Do you want to eat sushi?
+>B: ええ、食べたいです。Yes, I do (but I am not going to eat it now)
