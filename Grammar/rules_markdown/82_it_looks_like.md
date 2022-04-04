@@ -2,15 +2,12 @@ In order to say that something looks like something a pattern `object1は + obje
 
 |Structure|Form|Example|
 |-|-|-|
-|Verb|casual form + みたいだ|日本に行った**みたいだ**|
-|Noun|noun + みたいだ|日本人**みたいだ**|
-|い-adjective|casual form + みたいだ|寒い**みたいだ**|
-|な-adjective|casual form + みたいだ|安全**みたいだ**|
+|Verb|casual form + みたいだ|日本に行った**みたい**です|
+|い-adjective|casual form + みたいだ|寒い**みたい**です|
+|な-adjective|casual form + みたいだ|安全**みたい**です|
+|Noun|noun + みたいだ|日本人**みたい**です|
 
->綾子ちゃんは日本に行った**みたいだ**。It seems Ayako went to Japan.
-
->日本人**みたいだ**。It looks like he is Japanese.
-
->高い**みたいだ**。It seems expensive.
-
->静かな**みたいだ**。It seems quiet.
+>綾子ちゃんは日本に行った**みたい**です。It seems Ayako went to Japan.
+>日本人**みたい**です。It looks like he is Japanese.
+>高い**みたい**です。It seems expensive.
+>静かな**みたい**です。It seems quiet.

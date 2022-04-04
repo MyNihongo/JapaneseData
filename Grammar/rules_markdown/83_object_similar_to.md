@@ -6,5 +6,4 @@ In order to modify a noun with a clause which means *"it is similar to"* in term
 |Noun|noun + みたいな + noun|
 
 >綾子ちゃんが持ってる**みたいな**自転車だ。Bicycle which is similar to one that Ayako has.
-
 >日本人**みたいな**人がいる。There is a person like Japanese.
