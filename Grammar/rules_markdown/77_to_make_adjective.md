@@ -6,6 +6,5 @@ In order to say that something is made as an adjective describes an expression `
 |な-adjective|～に|
 
 The verb *する* determines the tense and context of the whole clause.
->そのパソコンを速**くした**。This computer was made fast.
-
+>そのパソコンを速**くしました**。This computer was made fast.
 >部屋をきれい**にしましょうか**。Let me help you make this room clean?
