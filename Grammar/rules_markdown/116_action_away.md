@@ -10,10 +10,10 @@ This usage means that the speaker has left his or her current place, went to ano
 >友達の家にゲームをし**ていきました**。I went to my friend to play games (and stayed there).
 #### Something went away
 When an action is described with verbs for movement (e.g. to run, to drive, to fly, to fall, etc.) and a direction of the movement is away from the speaker the verb is supplemented with *ていく*.
->彼女は走っ**ていった**。A girl ran away from me.
+>彼女は走っ**ていきました**。A girl ran away from me.
 #### Constantly do from now on
 If an action was not performed in the past and this moment on the speaker is committed to doing this action in the future the verb is supplemented with *ていく*.
->日本に行く為に、これから日本語を頑張っ**ていく**。In order to go to Japan from now on I will do my best in Japanese.
+>日本に行く為に、これから日本語を頑張っ**ていきます**。In order to go to Japan from now on I will do my best in Japanese.
 #### Gradual change of the state
 In English an example could be "it will get hotter and hotter". Before the state of something started to change the speaker anticipates that it will start to change in the future (action away from present), this change can be expressed with the verb `なっていく`.
->夏が来ると、暖かくなって**いく**。When summer comes, it becomes warmer and warmer.
+>夏が来ると、暖かくなって**いきます**。When summer comes, it becomes warmer and warmer.
