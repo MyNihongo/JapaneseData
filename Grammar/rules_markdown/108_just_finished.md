@@ -2,6 +2,6 @@ In order to say that something has just finished, i.e. the time span between pre
 
 |Pattern|Example|
 |-|-|
-|past casual + ばかり|食べた**ばかり**(です)|
+|past casual + ばかり|食べた**ばかり**です|
 
->今なら、いい。起きた**ばかり**。If now it's OK. I just woke up.
+>今なら、いいです。起きた**ばかり**です。If now it's OK. I just woke up.

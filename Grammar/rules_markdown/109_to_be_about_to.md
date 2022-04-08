@@ -8,7 +8,5 @@ In order to say that an action occurs close to present (either in past or future
 
 When a verb is in the past the meaning of the *ところ-form* becomes the same as the meaning of [たばかり](108).
 >まだ食べていなくて、食べる**ところ**です。I have not eaten yet, I am just about to eat.
-
->食べた**ところ**だから、今すぐ働きたくない。I don't want to work right now because I've had a lunch.
-
+>食べた**ところ**だから、今すぐ働きたくないです。I don't want to work right now because I've had a lunch.
 >食べている**ところ**ですから、会議に行けません。I cannot go to a meeting because currently I am eating.

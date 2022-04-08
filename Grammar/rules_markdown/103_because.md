@@ -9,5 +9,4 @@ The particle is used differently with verbs, nouns and adjectives, so it is show
 |Noun|noun + だ + し|日本人だ**し**|
 
 >先生は心のたさしい**し**、うまく説明する**し**、クラスがすごい面白い。Classes are very interesting because the teacher is kind and explains very good.
-
 >クラスメートの中で友達がいない**し**、学校を休む。I don't go to school because there are no friends. (and possibly something else)

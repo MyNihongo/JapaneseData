@@ -5,8 +5,6 @@ Similarly as [みたいに](84) and [ように](143) a `そうに` particle is u
 |Verbs|stem + そうに|食べ**そうに**|
 |い-adjectives|without い + そうに|強**そうに**|
 |な-adjectives|without な + そうに|大変**そうに**|
-|Nouns|**NOT USED**||
 
->その人は働き**そうに**眠ってる。That person is sleeping, but it looks like he is working.
-
->寒**そうに**痙攣してる。I'm trembling as if it looks cold.
+>その人は働き**そうに**眠っています。That person is sleeping, but it looks like he is working.
+>寒**そうに**痙攣しています。I'm trembling as if it looks cold.
