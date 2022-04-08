@@ -2,8 +2,8 @@ In order to ask to do something a form `てくださいませんか` is used in 
 
 |Usage|Example|
 |-|-|
-|Vて + ください|食べ**てください**|
-|Vて + くださいませんか|食べ**てくださいませんか**|
+|V (て) + ください|食べ**てください**|
+|V (て) + くださいませんか|食べ**てくださいませんか**|
 
 The form is created from a verb in the [て-form](52) + *くださいませんか*. This structure is **only** used in requests to the audience or unknown number of people (e.g. in exercise texts, public speech, etc.), so using *てくださいませんか* in a dialog is considered to be **rude**, therefore, [てくれる-form](118) must be used instead.
 This form is a negative counterpart of [ないでくださいませんか](30).

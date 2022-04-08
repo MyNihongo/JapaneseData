@@ -1,6 +1,6 @@
 |Usage|Example|
 |-|-|
-|V (て) + あげます|食べてあげます|
+|V (て) + あげる|食べてあげます|
 
 - Do something and come back
 - Something came

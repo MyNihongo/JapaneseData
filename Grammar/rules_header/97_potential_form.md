@@ -1,6 +1,6 @@
 |Group|Usage|Example|
 |-|-|-|
-|1 group|V + える|買える|
+|1 group|V + える|買えます|
 |2 group|V (stem) + られる|食べられます|
-|3 group|する|できる|
-|3 group|くる|こられる|
+|3 group|する|できます|
+|3 group|くる|こられます|

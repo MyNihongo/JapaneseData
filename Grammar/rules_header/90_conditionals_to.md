@@ -1,8 +1,8 @@
 |Usage|Example|
 |-|-|
 |V (dic.) + と|食べると|
-|A (i) + と|新しいと|
-|A (na) + と|きれいと|
+|イA + と|新しいと|
+|ナA + と|きれいと|
 
 - machine functions
 - directions

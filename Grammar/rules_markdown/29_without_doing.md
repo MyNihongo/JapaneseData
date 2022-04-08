@@ -2,8 +2,8 @@ In order to say that something is done without doing something else a form `な�
 
 |Usage|Example|
 |-|-|
-|V nai-form + で|食べないで|
-|V n-form + ずに|食べずに|
+|V (ない) + で|食べないで|
+|V (ん) + ずに|食べずに|
 
 *ないで* is created from the negative verb in the present tense with a syllable *で* (行く → 行かない → 行かないで). *ずに* is also created from the negative verb in the present tense, but the last *ない* is replaced with *ずに* (行く → 行かない → 行かずに).
 
