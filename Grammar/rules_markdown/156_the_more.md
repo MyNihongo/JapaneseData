@@ -23,5 +23,4 @@ Examples of the grammatical structure are in the tables below.
 |Negative|～ければ～ほど|静かじゃな**ければ**静かじゃない**ほど**|
 
 >日本語を勉強す**れば**する**ほど**、日本語能力試験に受けようになる。The more I study Japanese, the more I am able to pass the JLPT.
-
 >暑く**れば**暑い**ほど**、喉が渇く。The hotter, the more thirsty I become.

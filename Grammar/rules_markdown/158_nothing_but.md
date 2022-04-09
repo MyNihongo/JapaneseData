@@ -4,7 +4,7 @@ Examples of how this pattern is used are in the table below.
 |Structure|Pattern|Example|
 |-|-|-|
 |Verb|dictionary form + ばかりで|食べる**ばかりで**|
-|い-adjective|dictionary form + ばかりで|寒い**ばかりで**|
-|な-adjective|dictionary form + ばかりで|静かな**ばかりで**|
+|い-adjective|adjective + ばかりで|寒い**ばかりで**|
+|な-adjective|adjective + **な**ばかりで|静か**なばかりで**|
 
 >ゲームをしてる**ばかりで**、日本語を勉強しない。He only plays games and doesn't study Japanese.
