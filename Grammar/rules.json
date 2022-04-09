@@ -1702,24 +1702,6 @@
 		]
 	},
 	{
-		"Id": 86,
-		"Sort": 64,
-		"Title": "Strict command to prohibit",
-		"Text": "86_command_prohibit",
-		"Jlpt": 4,
-		"Form": "な",
-		"Search": [
-			"な"
-		],
-		"SearchEN": [
-			"order",
-			"don't",
-			"do not",
-			"prohibit",
-			"restrict"
-		]
-	},
-	{
 		"Id": 87,
 		"Sort": 44,
 		"Title": "Things like",
@@ -3875,11 +3857,11 @@
 	},
 	{
 		"Id": 181,
-		"Sort": 108,
+		"Sort": 64,
 		"Title": "Imperative form",
 		"Text": "181_imperative_form",
 		"Jlpt": 4,
-		"Form": "",
+		"Form": "け、な",
 		"Search": [
 			"命令形",
 			"めいれいけい"
