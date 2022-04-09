@@ -1,3 +1,4 @@
+**Used by another person**
 |Usage|Example|
 |-|-|
 |お + V (stem) + になる|お待ちになります|

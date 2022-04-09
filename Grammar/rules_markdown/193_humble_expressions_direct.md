@@ -24,7 +24,6 @@ In the table below there are special verbs for direct humble expressions.
 A direct humble expression for verbs 行く (to go) and 来る (to come) is a single う-verb `うかがう`.
 
 >今から教室に**うかがいます**。I go to the classroom.
->
 >９時に教室に**うかがいました**。I came to the classroom at 9 o'clock.
 
 ##### おります
@@ -36,7 +35,6 @@ A direct humble expression for a verb いる (to be) is an う-verb `おる`.
 A direct humble expression of a verb する (to do) is an う-verb `いたす`. This verb can be used for all する-verbs (e.g. 勉強する ➝ お勉強いたす).
 
 >先生にプレゼントを**いたします**。I make a present for the teacher.
->
 >先生にご連絡**いたします**。I contact the teacher.
 
 ##### 申し上げます
@@ -58,7 +56,6 @@ A direct humble expression for a verb 見せる (to show) is a る-verb `お目�
 A direct humble expression of verbs 食べる (to eat) and 飲む (to drink) is one う-verb `いただく`. Do you remember what Japanese people say before meal? It is `いただきます`, the humble verb for 食べる and 飲む.
 
 >先生とおにぎりを**いただきます**。I eat a rice ball with the teacher.
->
 >先生とお水を**いただきます**。I drink water with the teacher.
 
 ##### 存じております
