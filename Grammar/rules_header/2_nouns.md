@@ -1,6 +1,6 @@
 |Form|Usage|
 |-|-|
-|Present aff.|です|
-|Present neg.|じゃないです|
-|Past aff.|でした|
-|Past neg.|じゃなかったです|
+|Present aff.|日本人です|
+|Present neg.|日本人じゃないです|
+|Past aff.|日本人でした|
+|Past neg.|日本人じゃなかったです|

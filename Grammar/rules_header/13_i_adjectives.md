@@ -1,6 +1,6 @@
 |Form|Usage|
 |-|-|
-|Present aff.|いです|
-|Present neg.|くないです|
-|Past aff.|かったです|
-|Past neg.|くなかったです|
+|Present aff.|新しいです|
+|Present neg.|新しくないです|
+|Past aff.|新しかったです|
+|Past neg.|新しくなかったです|

@@ -1,3 +1,3 @@
 In order to quote someone else's words `clause + と言いています` is used. Note that the verb 言う is in the [prolonged tense](44). If for example present tense is used the meaning of the phrase will not indicate the reported speech and will mean *"called"* as described in [this article](129).
 In the reported speech it is allowed to quote other person's whishes in the [wishful ～たい form](41).
->綾子ちゃんが日本に行きたい**と言いています**。Ayako says that she want to go to Japan.
+>綾子ちゃんが日本に行きたい**と言っています**。Ayako says that she want to go to Japan.
