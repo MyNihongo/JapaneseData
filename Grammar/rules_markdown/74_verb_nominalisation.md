@@ -11,7 +11,7 @@ The main rule of using the *の particle* is the fact that both clauses (1 - whe
 >学校を休む**こと**先生に伝えてくれます。
 - A nominalised verb is followed by *だ*, *です** or *である*. It simply states a fact, so there is no meaning of time or place.
 >趣味は日本語を勉強する**こと**です。My hobby is learning Japanese.
-#### ように
+#### Using ように
 Verb nominalisation with *ように* is usually used in conjunction with the verb *なる (to become)* as it is described in [this article](144) and it means the change of being able to do something which was not possible before. In this context other verb nominalization particles cannot be used since [ことになる](76) means that *"something has been decided for me"*, so the meaning is completely different. And のになる is ungrammatical.
 >そのレストランでおすしを食べる**ように**なりました。Now I eat sushi at that restaurant.
 

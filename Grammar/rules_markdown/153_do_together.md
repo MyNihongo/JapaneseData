@@ -2,6 +2,6 @@ In order to modify a verb with a meaning of *doing something together* a `verb s
 
 |Verb|Form|
 |-|-|
-|話す (to task)|話し合う (to discuss)|
+|話す (to talk)|話し合う (to discuss)|
 |助ける (to help out)|助け合う (to help each other)|
 |付く (to be attached)|付き合い (to get along with)|
