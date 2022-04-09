@@ -4,8 +4,8 @@ If another noun is used before *ような* it means *"looks like"*, but verbs an
 |Form|Pattern|Example|
 |-|-|-|
 |Verb|casual form + ような + noun|食べる**ような**人|
-|Noun|noun + のような + noun|日本人**のような**人|
 |い-adjective|casual form + ような + noun|厳しい**ような**人|
 |な-adjective|adjective + なような + noun|親切**なような**人|
+|Noun|noun + のような + noun|日本人**のような**人|
 
 >あの日本語師が厳しい**ような**人ですが、日本語うを説明が上手です。That teacher looks strict, but he explains well.

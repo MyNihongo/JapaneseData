@@ -4,27 +4,24 @@ It has the same meaning as [みたいだ](82) and [に見える](92), but the di
 |Structure|Form|Example|
 |-|-|-|
 |Verb|verb + ようです|行く**ようです**|
-|Noun|noun + **の** + ようです|日本人**のようです**|
 |い-adjective|casual form + ようです|寒い**ようです**|
-|な-adjective|casual form + **な** + ようです|安全**なようです**|
+|な-adjective|casual form + **な**ようです|安全**なようです**|
+|Noun|noun + **の**ようです|日本人**のようです**|
 
 ##### Sight
 >ジョンさんは日本人**のようです**。It looks like John is Japanese.
->
 >ジョンさんは日本人**のようではありません**。It looks like John is not Japanese.
 
 In this example the speaker saw John and judging by how John looked the speaker made a decision what John were Japanese. Sense of **sight** was used.
 
 ##### Hearing
 >あの人は議論している**ようです**。It looks like those persons are having an argument.
->
 >あの人は議論している**ようではありません**。It looks like those persons are not having an argument.
 
 In this example the speaker was walking by a couple which was talking loudly. The speaker heard it and assumed that they were having an argument. Sense of **hearing** was used.
 
 ##### Smell
 >晩ご飯がおいしい**ようです**。It looks like the dinner is tasty.
->
 >晩ご飯がおいしい**ようではありません**。It looks like the dinner is not tasty.
 
 In this example the speaker smelled the dinner and assumed by the smell that it was tasty. Sense of **smell** was used.

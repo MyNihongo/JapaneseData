@@ -2,7 +2,7 @@ In order to say that the speaker is now able to do something a pattern `verb + �
 
 |Pattern|Example|
 |-|-|
-|potential casual form + ようになる|食べる**ようになる**|
+|potential casual form + ようになる|食べられる**ようになる**|
 
 >日本人を聞き取れる**ようになった**。I'm finally able to understand what Japanese say.
 
