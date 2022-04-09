@@ -6,6 +6,6 @@ Patterns how to create the *ば-form* are explained in [this article](55).
 >東京に行け**ば**、プレセントを買ってきてください。 When you go to Tokyo, please bring me back a present.
 
 #### What to do
->どうすれ**ば**、日本語を話すのが上手になれます？ What should I do in order to improve my speaking?
+>どうすれ**ば**、日本語を話すのが上手になれますか。 What should I do in order to improve my speaking?
 
-In this example the `は` form is used to ask for advice, i.e. `どうすれば` is translated as *"what should I do if A"*. The A clause is usually in the [potential form](97), but the present tense is also fine.
+In this example the `ば` form is used to ask for advice, i.e. `どうすれば` is translated as *"what should I do if A"*. The A clause is usually in the [potential form](97), but the present tense is also fine.
