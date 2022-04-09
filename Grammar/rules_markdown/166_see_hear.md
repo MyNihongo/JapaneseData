@@ -4,8 +4,10 @@ In Japanese there are some potential verbs which have the same translation in En
 |見る|見られる|見える|
 |聞く|聞ける|聞こえる|
 
+#### 見られる vs 見える
 >YouTubeで動画が**見られます**。I can watch videos on YouTube. (I open YouTube and watch).
 >YouTubeはオフラインだから、動画が**見えません**。Since YouTube is offline I cannot watch videos. (I have no control why YouTube is down).
 
+#### 聞ける vs 聞こえる
 >ケイタイで音楽が**聞けます**。I can listen to music on my phone. (I press the play button and listen).
 >ケイタイのスピーカーが壊れたから、音楽が**聞こえません**。Since the loudspeaker is broken, I do not hear any music. (It is broken, so I have no control).
