@@ -1,2 +1,2 @@
 In order to say that something is not possible by any means (e.g. *"not at all"*) a pattern `全然 (ぜんぜん) + verbない` is used where the verb must be in the negative form. The word *全然* can be placed anywhere in its clause except at the end.
->箸で**全然**食べる事ができ**ない**。By all means I'm not able to eat with chopsticks.
+>箸で**全然**食べる事ができ**ません**。By all means I'm not able to eat with chopsticks.
