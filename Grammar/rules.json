@@ -6,7 +6,7 @@
 		"content": "1_must_not_do",
 		"jlpt": 5,
 		"form": "てはいけません",
-		"search": [
+		"jp": [
 			"てはいけません",
 			"てはいけないです",
 			"ちゃいけないです",
@@ -14,7 +14,7 @@
 			"ちゃだめです",
 			"じゃだめです"
 		],
-		"searchEN": [
+		"en": [
 			"must not do"
 		]
 	},
@@ -25,7 +25,7 @@
 		"content": "2_nouns",
 		"jlpt": 5,
 		"form": "名詞",
-		"search": [
+		"jp": [
 			"名詞",
 			"めいし",
 			"です",
@@ -41,7 +41,7 @@
 			"じゃありませんでした",
 			"ではありませんでした"
 		],
-		"searchEN": [
+		"en": [
 			"nouns",
 			"to be",
 			"be"
@@ -54,10 +54,10 @@
 		"content": "3_only_dake",
 		"jlpt": 5,
 		"form": "だけです",
-		"search": [
+		"jp": [
 			"だけです"
 		],
-		"searchEN": [
+		"en": [
 			"only",
 			"just by doing",
 			"as much as"
@@ -70,11 +70,11 @@
 		"content": "4_probably_darou",
 		"jlpt": 5,
 		"form": "でしょう (だろう)",
-		"search": [
+		"jp": [
 			"でしょう",
 			"だろう"
 		],
-		"searchEN": [
+		"en": [
 			"probably",
 			"i think",
 			"it seems",
@@ -88,10 +88,10 @@
 		"content": "5_particle_ha",
 		"jlpt": 5,
 		"form": "",
-		"search": [
+		"jp": [
 			"は"
 		],
-		"searchEN": [
+		"en": [
 			"particles",
 			"ha",
 			"topic maker"
@@ -104,12 +104,12 @@
 		"content": "6_but",
 		"jlpt": 5,
 		"form": "でも",
-		"search": [
+		"jp": [
 			"でも",
 			"それでも",
 			"しかし"
 		],
-		"searchEN": [
+		"en": [
 			"but",
 			"however",
 			"though",
@@ -125,10 +125,10 @@
 		"content": "7_what_kind",
 		"jlpt": 5,
 		"form": "どんな",
-		"search": [
+		"jp": [
 			"どんな"
 		],
-		"searchEN": [
+		"en": [
 			"what kind of",
 			"kind of",
 			"what sort of",
@@ -142,12 +142,12 @@
 		"content": "8_why",
 		"jlpt": 5,
 		"form": "どうして",
-		"search": [
+		"jp": [
 			"なぜ",
 			"どうして",
 			"なんで"
 		],
-		"searchEN": [
+		"en": [
 			"why",
 			"reason",
 			"how"
@@ -160,11 +160,11 @@
 		"content": "9_how",
 		"jlpt": 5,
 		"form": "どうやって",
-		"search": [
+		"jp": [
 			"どうやって",
 			"どうして"
 		],
-		"searchEN": [
+		"en": [
 			"how",
 			"in what way",
 			"what way"
@@ -177,13 +177,13 @@
 		"content": "10_there_is",
 		"jlpt": 5,
 		"form": "あります／います",
-		"search": [
+		"jp": [
 			"ある",
 			"いる",
 			"あります",
 			"います"
 		],
-		"searchEN": [
+		"en": [
 			"there is"
 		]
 	},
@@ -194,13 +194,13 @@
 		"content": "11_to_want_object",
 		"jlpt": 5,
 		"form": "が欲しいです",
-		"search": [
+		"jp": [
 			"が欲しいです",
 			"欲しいです",
 			"がほしいです",
 			"ほしいです"
 		],
-		"searchEN": [
+		"en": [
 			"want",
 			"to want"
 		]
@@ -212,11 +212,11 @@
 		"content": "12_better_to",
 		"jlpt": 5,
 		"form": "ほうがいいです",
-		"search": [
+		"jp": [
 			"ほうがいいです",
 			"方がいいです"
 		],
-		"searchEN": [
+		"en": [
 			"had better",
 			"it would be better",
 			"would be better",
@@ -233,10 +233,10 @@
 		"content": "13_i_adjectives",
 		"jlpt": 5,
 		"form": "",
-		"search": [
+		"jp": [
 			"い形容詞"
 		],
-		"searchEN": [
+		"en": [
 			"i adjectives",
 			"i-adjectives",
 			"adjectives"
@@ -249,13 +249,13 @@
 		"content": "14_best",
 		"jlpt": 5,
 		"form": "一番",
-		"search": [
+		"jp": [
 			"一番",
 			"いちばん",
 			"最も",
 			"もっとも"
 		],
-		"searchEN": [
+		"en": [
 			"the best",
 			"best",
 			"the most",
@@ -269,11 +269,11 @@
 		"content": "15_together",
 		"jlpt": 5,
 		"form": "一緒に",
-		"search": [
+		"jp": [
 			"一緒に",
 			"いっしょに"
 		],
-		"searchEN": [
+		"en": [
 			"together",
 			"with"
 		]
@@ -285,10 +285,10 @@
 		"content": "16_always",
 		"jlpt": 5,
 		"form": "いつも",
-		"search": [
+		"jp": [
 			"いつも"
 		],
-		"searchEN": [
+		"en": [
 			"always"
 		]
 	},
@@ -299,11 +299,11 @@
 		"content": "17_questions",
 		"jlpt": 5,
 		"form": "",
-		"search": [
+		"jp": [
 			"か",
 			"の"
 		],
-		"searchEN": [
+		"en": [
 			"asking questions",
 			"questions"
 		]
@@ -315,12 +315,12 @@
 		"content": "18_because",
 		"jlpt": 5,
 		"form": "から",
-		"search": [
+		"jp": [
 			"から",
 			"ので",
 			"んで"
 		],
-		"searchEN": [
+		"en": [
 			"because",
 			"from",
 			"since"
@@ -333,11 +333,11 @@
 		"content": "19_way_of_doing",
 		"jlpt": 5,
 		"form": "方",
-		"search": [
+		"jp": [
 			"方",
 			"かた"
 		],
-		"searchEN": [
+		"en": [
 			"way of doing",
 			"how to do",
 			"to do"
@@ -350,13 +350,13 @@
 		"content": "20_however",
 		"jlpt": 5,
 		"form": "けど",
-		"search": [
+		"jp": [
 			"けど",
 			"けれど",
 			"けれども",
 			"が"
 		],
-		"searchEN": [
+		"en": [
 			"but",
 			"however",
 			"although"
@@ -369,10 +369,10 @@
 		"content": "21_still",
 		"jlpt": 5,
 		"form": "まだ",
-		"search": [
+		"jp": [
 			"まだ"
 		],
-		"searchEN": [
+		"en": [
 			"still",
 			"not yet",
 			"yet"
@@ -385,10 +385,10 @@
 		"content": "22_until",
 		"jlpt": 5,
 		"form": "まで",
-		"search": [
+		"jp": [
 			"まで"
 		],
-		"searchEN": [
+		"en": [
 			"until",
 			"till",
 			"as far as",
@@ -402,13 +402,13 @@
 		"content": "23_before",
 		"jlpt": 5,
 		"form": "前に",
-		"search": [
+		"jp": [
 			"前に",
 			"の前に",
 			"まえに",
 			"のまえに"
 		],
-		"searchEN": [
+		"en": [
 			"before",
 			"in front of"
 		]
@@ -420,7 +420,7 @@
 		"content": "24_volitional_form",
 		"jlpt": 5,
 		"form": "ましょう／ませんか",
-		"search": [
+		"jp": [
 			"ませんか",
 			"ないか",
 			"ましょう",
@@ -431,7 +431,7 @@
 			"意向形",
 			"いこうけい"
 		],
-		"searchEN": [
+		"en": [
 			"volitional form",
 			"would you like to",
 			"do you want to",
@@ -448,14 +448,14 @@
 		"content": "25_offer_assistance",
 		"jlpt": 5,
 		"form": "ましょうか",
-		"search": [
+		"jp": [
 			"ましょうか",
 			"おうか",
 			"ようか",
 			"提案",
 			"ていあん"
 		],
-		"searchEN": [
+		"en": [
 			"offer assistance",
 			"assistance",
 			"shall",
@@ -470,10 +470,10 @@
 		"content": "26_already",
 		"jlpt": 5,
 		"form": "もう",
-		"search": [
+		"jp": [
 			"もう"
 		],
-		"searchEN": [
+		"en": [
 			"already",
 			"anymore",
 			"more",
@@ -487,10 +487,10 @@
 		"content": "27_na_adjectives",
 		"jlpt": 5,
 		"form": "",
-		"search": [
+		"jp": [
 			"な形容詞"
 		],
-		"searchEN": [
+		"en": [
 			"na adjectives",
 			"na-adjectives",
 			"adjectives"
@@ -503,10 +503,10 @@
 		"content": "28_sentence_ending_particle_ka",
 		"jlpt": 5,
 		"form": "か",
-		"search": [
+		"jp": [
 			"か"
 		],
-		"searchEN": [
+		"en": [
 			"sentence-ending particles",
 			"sentence ending particles",
 			"ending particles",
@@ -521,11 +521,11 @@
 		"content": "29_without_doing",
 		"jlpt": 5,
 		"form": "ないで／ずに",
-		"search": [
+		"jp": [
 			"ないで",
 			"ずに"
 		],
-		"searchEN": [
+		"en": [
 			"without doing"
 		]
 	},
@@ -536,13 +536,13 @@
 		"content": "30_please_do_not",
 		"jlpt": 5,
 		"form": "ないでくださいませんか",
-		"search": [
+		"jp": [
 			"ないでくださいませんか",
 			"ないで下さいませんか",
 			"ないでくれる",
 			"ないでくれます"
 		],
-		"searchEN": [
+		"en": [
 			"please don't",
 			"please do not",
 			"don't",
@@ -556,7 +556,7 @@
 		"content": "31_must_do",
 		"jlpt": 5,
 		"form": "ないといけません",
-		"search": [
+		"jp": [
 			"ないといけません",
 			"ければいけない",
 			"ければいけません",
@@ -567,7 +567,7 @@
 			"ないと",
 			"なきゃ"
 		],
-		"searchEN": [
+		"en": [
 			"must do"
 		]
 	},
@@ -578,11 +578,11 @@
 		"content": "32_not_have_to_do",
 		"jlpt": 5,
 		"form": "なくてもいいです",
-		"search": [
+		"jp": [
 			"なくてもいいです",
 			"てもいいです"
 		],
-		"searchEN": [
+		"en": [
 			"not have to do",
 			"don't have to do",
 			"no need to do",
@@ -596,7 +596,7 @@
 		"content": "33_become",
 		"jlpt": 5,
 		"form": "なります",
-		"search": [
+		"jp": [
 			"なります",
 			"になります",
 			"くなります",
@@ -606,7 +606,7 @@
 			"ようになる",
 			"ようになります"
 		],
-		"searchEN": [
+		"en": [
 			"to become"
 		]
 	},
@@ -617,7 +617,7 @@
 		"content": "34_explanatory_form",
 		"jlpt": 5,
 		"form": "んです",
-		"search": [
+		"jp": [
 			"のですか",
 			"んですか",
 			"のですね",
@@ -629,7 +629,7 @@
 			"どうした",
 			"なんで"
 		],
-		"searchEN": [
+		"en": [
 			"explanatory form"
 		]
 	},
@@ -640,13 +640,13 @@
 		"content": "35_go_to_in_order_to",
 		"jlpt": 5,
 		"form": "に行きます",
-		"search": [
+		"jp": [
 			"に行きます",
 			"にいきます",
 			"に行く",
 			"にいく"
 		],
-		"searchEN": [
+		"en": [
 			"to go to in order to",
 			"go to in order to",
 			"in order to",
@@ -660,7 +660,7 @@
 		"content": "36_decide",
 		"jlpt": 5,
 		"form": "にします",
-		"search": [
+		"jp": [
 			"にします",
 			"事にします",
 			"ことにします",
@@ -668,7 +668,7 @@
 			"事にする",
 			"ことにする"
 		],
-		"searchEN": [
+		"en": [
 			"to decide on",
 			"decide on"
 		]
@@ -680,13 +680,13 @@
 		"content": "37_best_among",
 		"jlpt": 5,
 		"form": "の中で一番",
-		"search": [
+		"jp": [
 			"の中で一番です",
 			"のなかでいちばんです",
 			"一番です",
 			"いちばんです"
 		],
-		"searchEN": [
+		"en": [
 			"the best amongst",
 			"best amongst",
 			"in",
@@ -700,10 +700,10 @@
 		"content": "38_and_then",
 		"jlpt": 5,
 		"form": "そして",
-		"search": [
+		"jp": [
 			"そして"
 		],
-		"searchEN": [
+		"en": [
 			"and then",
 			"thus",
 			"and now"
@@ -716,11 +716,11 @@
 		"content": "39_too_much",
 		"jlpt": 5,
 		"form": "すぎります",
-		"search": [
+		"jp": [
 			"すぎります",
 			"すぎる"
 		],
-		"searchEN": [
+		"en": [
 			"too much"
 		]
 	},
@@ -731,7 +731,7 @@
 		"content": "40_experience",
 		"jlpt": 5,
 		"form": "事があります",
-		"search": [
+		"jp": [
 			"た事がある",
 			"たことがある",
 			"た事があります",
@@ -749,7 +749,7 @@
 			"事がありません",
 			"ことがありません"
 		],
-		"searchEN": [
+		"en": [
 			"experience",
 			"has been done before",
 			"have done before",
@@ -765,10 +765,10 @@
 		"content": "41_to_want_to_do",
 		"jlpt": 5,
 		"form": "たいです",
-		"search": [
+		"jp": [
 			"たいです"
 		],
-		"searchEN": [
+		"en": [
 			"to want to do",
 			"want to do",
 			"desires",
@@ -782,7 +782,7 @@
 		"content": "42_listing_things",
 		"jlpt": 5,
 		"form": "~たり~たり",
-		"search": [
+		"jp": [
 			"たり",
 			"たりする",
 			"だったり",
@@ -792,7 +792,7 @@
 			"かったりだ",
 			"かったりです"
 		],
-		"searchEN": [
+		"en": [
 			"list things",
 			"listing things",
 			"things"
@@ -805,11 +805,11 @@
 		"content": "43_something_is_done",
 		"jlpt": 5,
 		"form": "てあります",
-		"search": [
+		"jp": [
 			"てある",
 			"てあります"
 		],
-		"searchEN": [
+		"en": [
 			"something is done",
 			"is done",
 			"done",
@@ -823,7 +823,7 @@
 		"content": "44_ongoing_action",
 		"jlpt": 5,
 		"form": "ています",
-		"search": [
+		"jp": [
 			"ている",
 			"ています",
 			"ていない",
@@ -841,7 +841,7 @@
 			"でない",
 			"でません"
 		],
-		"searchEN": [
+		"en": [
 			"ongoing action",
 			"changing a state",
 			"change of a state",
@@ -861,7 +861,7 @@
 		"content": "45_after",
 		"jlpt": 5,
 		"form": "てから",
-		"search": [
+		"jp": [
 			"てから",
 			"でから",
 			"た後で",
@@ -871,7 +871,7 @@
 			"だあとで",
 			"のあとで"
 		],
-		"searchEN": [
+		"en": [
 			"after"
 		]
 	},
@@ -882,11 +882,11 @@
 		"content": "46_please_do",
 		"jlpt": 5,
 		"form": "てくださいませんか",
-		"search": [
+		"jp": [
 			"てくださいませんか",
 			"て下さいませんか"
 		],
-		"searchEN": [
+		"en": [
 			"please do",
 			"do"
 		]
@@ -898,11 +898,11 @@
 		"content": "47_allowed_to_do",
 		"jlpt": 5,
 		"form": "てもいいです",
-		"search": [
+		"jp": [
 			"てもいいです",
 			"でもいいです"
 		],
-		"searchEN": [
+		"en": [
 			"it is allowed to do",
 			"it is ok to do",
 			"allowed to do",
@@ -917,11 +917,11 @@
 		"content": "48_very",
 		"jlpt": 5,
 		"form": "とても",
-		"search": [
+		"jp": [
 			"とても",
 			"とっても"
 		],
-		"searchEN": [
+		"en": [
 			"very",
 			"awfully",
 			"extremely",
@@ -935,10 +935,10 @@
 		"content": "49_to_intend",
 		"jlpt": 5,
 		"form": "つもりです",
-		"search": [
+		"jp": [
 			"つもりです"
 		],
-		"searchEN": [
+		"en": [
 			"to intend to",
 			"intend to",
 			"intent",
@@ -953,12 +953,12 @@
 		"content": "50_than",
 		"jlpt": 5,
 		"form": "より",
-		"search": [
+		"jp": [
 			"より",
 			"の方が",
 			"のほうが"
 		],
-		"searchEN": [
+		"en": [
 			"comparison",
 			"than"
 		]
@@ -970,11 +970,11 @@
 		"content": "51_what_about",
 		"jlpt": 5,
 		"form": "どうですか",
-		"search": [
+		"jp": [
 			"どうですか",
 			"どうでしたか"
 		],
-		"searchEN": [
+		"en": [
 			"what about",
 			"how about",
 			"how is",
@@ -988,7 +988,7 @@
 		"content": "52_te_form",
 		"jlpt": 5,
 		"form": "",
-		"search": [
+		"jp": [
 			"て",
 			"で",
 			"テ形",
@@ -996,7 +996,7 @@
 			"テけい",
 			"てけい"
 		],
-		"searchEN": [
+		"en": [
 			"te-form",
 			"te form"
 		]
@@ -1008,13 +1008,13 @@
 		"content": "53_during",
 		"jlpt": 4,
 		"form": "間",
-		"search": [
+		"jp": [
 			"間",
 			"あいだ",
 			"間に",
 			"あいだに"
 		],
-		"searchEN": [
+		"en": [
 			"during",
 			"while",
 			"when",
@@ -1028,11 +1028,11 @@
 		"content": "54_hardly",
 		"jlpt": 4,
 		"form": "あまり",
-		"search": [
+		"jp": [
 			"あまり",
 			"あんまり"
 		],
-		"searchEN": [
+		"en": [
 			"hardly",
 			"not very",
 			"very",
@@ -1050,14 +1050,14 @@
 		"content": "55_ba_form",
 		"jlpt": 4,
 		"form": "",
-		"search": [
+		"jp": [
 			"ば",
 			"えば",
 			"ければ",
 			"ならば",
 			"であれば"
 		],
-		"searchEN": [
+		"en": [
 			"ba-form",
 			"ba form"
 		]
@@ -1069,11 +1069,11 @@
 		"content": "56_in_the_case",
 		"jlpt": 4,
 		"form": "場合",
-		"search": [
+		"jp": [
 			"場合は",
 			"ばあいは"
 		],
-		"searchEN": [
+		"en": [
 			"in the event of",
 			"in the case that",
 			"in case",
@@ -1088,11 +1088,11 @@
 		"content": "57_nothing_but",
 		"jlpt": 4,
 		"form": "ばかり",
-		"search": [
+		"jp": [
 			"ばかり",
 			"ばっかり"
 		],
-		"searchEN": [
+		"en": [
 			"only",
 			"nothing but"
 		]
@@ -1104,11 +1104,11 @@
 		"content": "58_start_doing_suddenly",
 		"jlpt": 4,
 		"form": "出す",
-		"search": [
+		"jp": [
 			"出す",
 			"だす"
 		],
-		"searchEN": [
+		"en": [
 			"to start doing suddenly",
 			"start doing suddenly",
 			"doing suddenly",
@@ -1126,7 +1126,7 @@
 		"content": "59_humble_expressions_indirect",
 		"jlpt": 4,
 		"form": "謙譲語",
-		"search": [
+		"jp": [
 			"謙譲語",
 			"けんじょうご",
 			"参る",
@@ -1156,7 +1156,7 @@
 			"存じます",
 			"ぞんじます"
 		],
-		"searchEN": [
+		"en": [
 			"humble expressions",
 			"expressions",
 			"polite",
@@ -1171,12 +1171,12 @@
 		"content": "60_confirmation",
 		"jlpt": 4,
 		"form": "じゃないか",
-		"search": [
+		"jp": [
 			"じゃないか",
 			"ではないか",
 			"ではありませんか"
 		],
-		"searchEN": [
+		"en": [
 			"right?",
 			"isn't it?",
 			"isnt it?",
@@ -1191,7 +1191,7 @@
 		"content": "61_necessity",
 		"jlpt": 4,
 		"form": "必要です",
-		"search": [
+		"jp": [
 			"が必要だ",
 			"が必要です",
 			"は必要だ",
@@ -1211,7 +1211,7 @@
 			"ひつようがありません",
 			"ひつようではありません"
 		],
-		"searchEN": [
+		"en": [
 			"necessity",
 			"necessary",
 			"it is a necessity",
@@ -1228,11 +1228,11 @@
 		"content": "62_ga_suru_verbs",
 		"jlpt": 4,
 		"form": "がします",
-		"search": [
+		"jp": [
 			"がする",
 			"がします"
 		],
-		"searchEN": [
+		"en": [
 			"to hear",
 			"to taste",
 			"to smell",
@@ -1248,14 +1248,14 @@
 		"content": "63_tendency",
 		"jlpt": 4,
 		"form": "がり",
-		"search": [
+		"jp": [
 			"がり",
 			"がり屋",
 			"がり屋さん",
 			"がりや",
 			"がりやさん"
 		],
-		"searchEN": [
+		"en": [
 			"personality",
 			"to tend to",
 			"tend to",
@@ -1276,13 +1276,13 @@
 		"content": "64_show_signs",
 		"jlpt": 4,
 		"form": "たがります",
-		"search": [
+		"jp": [
 			"がる",
 			"たがる",
 			"がります",
 			"たがります"
 		],
-		"searchEN": [
+		"en": [
 			"to show signs of",
 			"show signs of",
 			"signs of",
@@ -1301,13 +1301,13 @@
 		"content": "65_to_begin",
 		"jlpt": 4,
 		"form": "始めます",
-		"search": [
+		"jp": [
 			"始める",
 			"はじめる",
 			"始めます",
 			"はじめます"
 		],
-		"searchEN": [
+		"en": [
 			"to begin something",
 			"to start something",
 			"begin something",
@@ -1321,14 +1321,14 @@
 		"content": "66_it_must_be",
 		"jlpt": 4,
 		"form": "はずです",
-		"search": [
+		"jp": [
 			"はずだ",
 			"はずです",
 			"はずがない",
 			"はずがありません",
 			"はずではありません"
 		],
-		"searchEN": [
+		"en": [
 			"must be the case",
 			"must be",
 			"should be",
@@ -1347,13 +1347,13 @@
 		"content": "67_honorific_expressions",
 		"jlpt": 4,
 		"form": "尊敬語",
-		"search": [
+		"jp": [
 			"尊敬語",
 			"そんけいご",
 			"いらっしゃる",
 			"いらっしゃいます"
 		],
-		"searchEN": [
+		"en": [
 			"honorific expressions",
 			"expressions",
 			"polite"
@@ -1366,10 +1366,10 @@
 		"content": "68_whether_or_not",
 		"jlpt": 4,
 		"form": "かどうか",
-		"search": [
+		"jp": [
 			"かどうか"
 		],
-		"searchEN": [
+		"en": [
 			"whether or not",
 			"if",
 			"or"
@@ -1382,11 +1382,11 @@
 		"content": "69_i_wonder",
 		"jlpt": 4,
 		"form": "かな、かしら",
-		"search": [
+		"jp": [
 			"かな",
 			"かしら"
 		],
-		"searchEN": [
+		"en": [
 			"i wonder",
 			"wondering",
 			"i was wondering"
@@ -1399,10 +1399,10 @@
 		"content": "70_yes_no_questions",
 		"jlpt": 4,
 		"form": "かい",
-		"search": [
+		"jp": [
 			"かい"
 		],
-		"searchEN": [
+		"en": [
 			"yes or no questions",
 			"yes no questions"
 		]
@@ -1414,11 +1414,11 @@
 		"content": "71_probably_kamo",
 		"jlpt": 4,
 		"form": "かもしれません",
-		"search": [
+		"jp": [
 			"かもしれない",
 			"かもしれません"
 		],
-		"searchEN": [
+		"en": [
 			"probably",
 			"perhaps",
 			"might",
@@ -1432,7 +1432,7 @@
 		"content": "72_to_be_made_of",
 		"jlpt": 4,
 		"form": "から作ります",
-		"search": [
+		"jp": [
 			"から作る",
 			"からつくる",
 			"から作られる",
@@ -1446,7 +1446,7 @@
 			"作ります",
 			"つくります"
 		],
-		"searchEN": [
+		"en": [
 			"to be made of",
 			"made of"
 		]
@@ -1458,12 +1458,12 @@
 		"content": "73_period_of_time",
 		"jlpt": 4,
 		"form": "頃",
-		"search": [
+		"jp": [
 			"頃",
 			"ころ",
 			"ごろ"
 		],
-		"searchEN": [
+		"en": [
 			"period of time",
 			"days when",
 			"around",
@@ -1477,12 +1477,12 @@
 		"content": "74_verb_nominalisation",
 		"jlpt": 4,
 		"form": "",
-		"search": [
+		"jp": [
 			"の",
 			"事",
 			"こと"
 		],
-		"searchEN": [
+		"en": [
 			"Verb nominalising",
 			"Verb nominaliser",
 			"Verb nominalizing",
@@ -1498,7 +1498,7 @@
 		"content": "75_it_is_possible",
 		"jlpt": 4,
 		"form": "事ができます",
-		"search": [
+		"jp": [
 			"事が出来る",
 			"ことが出来る",
 			"事ができる",
@@ -1508,7 +1508,7 @@
 			"事ができます",
 			"ことができます"
 		],
-		"searchEN": [
+		"en": [
 			"it is possible",
 			"possible",
 			"can",
@@ -1522,7 +1522,7 @@
 		"content": "76_it_turned_out",
 		"jlpt": 4,
 		"form": "ことになります",
-		"search": [
+		"jp": [
 			"事になる",
 			"ことになる",
 			"事になります",
@@ -1532,7 +1532,7 @@
 			"事になりました",
 			"ことになりました"
 		],
-		"searchEN": [
+		"en": [
 			"it turned out",
 			"turned out",
 			"turn out",
@@ -1546,13 +1546,13 @@
 		"content": "77_to_make_adjective",
 		"jlpt": 4,
 		"form": "くなります／になります",
-		"search": [
+		"jp": [
 			"くなる",
 			"になる",
 			"くなります",
 			"になります"
 		],
-		"searchEN": [
+		"en": [
 			"to make",
 			"make",
 			"adjective"
@@ -1565,11 +1565,11 @@
 		"content": "78_suddenly",
 		"jlpt": 4,
 		"form": "急に",
-		"search": [
+		"jp": [
 			"急に",
 			"きゅうに"
 		],
-		"searchEN": [
+		"en": [
 			"suddenly",
 			"quickly",
 			"unexpectedly",
@@ -1583,10 +1583,10 @@
 		"content": "79_by",
 		"jlpt": 4,
 		"form": "までに",
-		"search": [
+		"jp": [
 			"までに"
 		],
-		"searchEN": [
+		"en": [
 			"by"
 		]
 	},
@@ -1597,11 +1597,11 @@
 		"content": "80_as_it_is",
 		"jlpt": 4,
 		"form": "まま",
-		"search": [
+		"jp": [
 			"まま",
 			"そのまま"
 		],
-		"searchEN": [
+		"en": [
 			"as it is",
 			"current state",
 			"without changing"
@@ -1614,11 +1614,11 @@
 		"content": "81_a_or_b",
 		"jlpt": 4,
 		"form": "又は",
-		"search": [
+		"jp": [
 			"又は",
 			"または"
 		],
-		"searchEN": [
+		"en": [
 			"both",
 			"or",
 			"a or b",
@@ -1632,11 +1632,11 @@
 		"content": "82_it_looks_like",
 		"jlpt": 4,
 		"form": "みたいです",
-		"search": [
+		"jp": [
 			"みたいだ",
 			"みたいです"
 		],
-		"searchEN": [
+		"en": [
 			"it is like",
 			"it seems",
 			"like",
@@ -1653,10 +1653,10 @@
 		"content": "83_object_similar_to",
 		"jlpt": 4,
 		"form": "みたいな",
-		"search": [
+		"jp": [
 			"みたいな"
 		],
-		"searchEN": [
+		"en": [
 			"object similar to",
 			"similar to",
 			"like"
@@ -1669,10 +1669,10 @@
 		"content": "84_do_like",
 		"jlpt": 4,
 		"form": "みたいに",
-		"search": [
+		"jp": [
 			"みたいに"
 		],
-		"searchEN": [
+		"en": [
 			"do like",
 			"like",
 			"do similarly",
@@ -1688,11 +1688,11 @@
 		"content": "85_as_many_as_only",
 		"jlpt": 4,
 		"form": "も／しか",
-		"search": [
+		"jp": [
 			"も",
 			"しか"
 		],
-		"searchEN": [
+		"en": [
 			"as many as",
 			"as much as",
 			"up to",
@@ -1708,7 +1708,7 @@
 		"content": "86_causative_passive_short",
 		"jlpt": 4,
 		"form": "～あされる",
-		"search": [
+		"jp": [
 			"あせられる",
 			"させられる",
 			"わせられる",
@@ -1750,7 +1750,7 @@
 			"使役受身形",
 			"しえきうけみけい"
 		],
-		"searchEN": [
+		"en": [
 			"causative passive short form",
 			"causative passive form",
 			"passive form",
@@ -1775,11 +1775,11 @@
 		"content": "87_things_like",
 		"jlpt": 4,
 		"form": "など",
-		"search": [
+		"jp": [
 			"など",
 			"や"
 		],
-		"searchEN": [
+		"en": [
 			"things like",
 			"such as"
 		]
@@ -1791,10 +1791,10 @@
 		"content": "88_during",
 		"jlpt": 4,
 		"form": "ながら",
-		"search": [
+		"jp": [
 			"ながら"
 		],
-		"searchEN": [
+		"en": [
 			"during",
 			"while",
 			"simultaneously",
@@ -1808,10 +1808,10 @@
 		"content": "89_not_easy_to",
 		"jlpt": 4,
 		"form": "なかなか~ない",
-		"search": [
+		"jp": [
 			"なかなか"
 		],
-		"searchEN": [
+		"en": [
 			"not easy to",
 			"struggling to",
 			"not able to",
@@ -1828,10 +1828,10 @@
 		"content": "90_conditionals_to",
 		"jlpt": 4,
 		"form": "",
-		"search": [
+		"jp": [
 			"と"
 		],
-		"searchEN": [
+		"en": [
 			"if",
 			"when",
 			"conditionals",
@@ -1849,10 +1849,10 @@
 		"content": "91_do_this",
 		"jlpt": 4,
 		"form": "なさい",
-		"search": [
+		"jp": [
 			"なさい"
 		],
-		"searchEN": [
+		"en": [
 			"do this",
 			"command",
 			"order"
@@ -1865,13 +1865,13 @@
 		"content": "92_it_seems_like",
 		"jlpt": 4,
 		"form": "に見えます",
-		"search": [
+		"jp": [
 			"に見える",
 			"にみえる",
 			"に見えます",
 			"にみえます"
 		],
-		"searchEN": [
+		"en": [
 			"it is like",
 			"it seems",
 			"like",
@@ -1886,10 +1886,10 @@
 		"content": "93_difficult_to",
 		"jlpt": 4,
 		"form": "にくいです",
-		"search": [
+		"jp": [
 			"にくいです"
 		],
-		"searchEN": [
+		"en": [
 			"it is difficult to",
 			"difficult to",
 			"it is hard to",
@@ -1903,11 +1903,11 @@
 		"content": "94_despite",
 		"jlpt": 4,
 		"form": "のに",
-		"search": [
+		"jp": [
 			"のに",
 			"なのに"
 		],
-		"searchEN": [
+		"en": [
 			"despite",
 			"but",
 			"even though",
@@ -1924,10 +1924,10 @@
 		"content": "95_every_intervals",
 		"jlpt": 4,
 		"form": "おきに",
-		"search": [
+		"jp": [
 			"おきに"
 		],
-		"searchEN": [
+		"en": [
 			"every",
 			"intervals",
 			"repeated"
@@ -1940,13 +1940,13 @@
 		"content": "96_to_finish",
 		"jlpt": 4,
 		"form": "終わります",
-		"search": [
+		"jp": [
 			"終わる",
 			"おわる",
 			"終わります",
 			"おわります"
 		],
-		"searchEN": [
+		"en": [
 			"to end something",
 			"to finish something",
 			"end something",
@@ -1960,7 +1960,7 @@
 		"content": "97_potential_form",
 		"jlpt": 4,
 		"form": "～えます",
-		"search": [
+		"jp": [
 			"られる",
 			"れる",
 			"える",
@@ -1986,7 +1986,7 @@
 			"可能形",
 			"かのうけ"
 		],
-		"searchEN": [
+		"en": [
 			"potential form",
 			"can",
 			"able"
@@ -1999,11 +1999,11 @@
 		"content": "98_similar_to",
 		"jlpt": 4,
 		"form": "らしいです",
-		"search": [
+		"jp": [
 			"らしいです",
 			"らしくないです"
 		],
-		"searchEN": [
+		"en": [
 			"object similar to",
 			"similar to",
 			"like",
@@ -2018,7 +2018,7 @@
 		"content": "99_causative_form",
 		"jlpt": 4,
 		"form": "～あせます",
-		"search": [
+		"jp": [
 			"あせる",
 			"させる",
 			"わせる",
@@ -2042,7 +2042,7 @@
 			"使役形",
 			"しえきけい"
 		],
-		"searchEN": [
+		"en": [
 			"causative form",
 			"make doing",
 			"make someone doing",
@@ -2057,7 +2057,7 @@
 		"content": "100_causative_passive_form",
 		"jlpt": 4,
 		"form": "～あせられる",
-		"search": [
+		"jp": [
 			"あせられる",
 			"させられる",
 			"わせられる",
@@ -2099,7 +2099,7 @@
 			"使役受身形",
 			"しえきうけみけい"
 		],
-		"searchEN": [
+		"en": [
 			"causative passive form",
 			"passive form",
 			"passive voice",
@@ -2122,10 +2122,10 @@
 		"content": "101_adjective_nominalisation",
 		"jlpt": 4,
 		"form": "さ",
-		"search": [
+		"jp": [
 			"さ"
 		],
-		"searchEN": [
+		"en": [
 			"adjective nonimalisation",
 			"adjective nonimaliser",
 			"adjective nonimalization",
@@ -2139,7 +2139,7 @@
 		"content": "102_live_up_to",
 		"jlpt": 4,
 		"form": "さすがです",
-		"search": [
+		"jp": [
 			"さすがに",
 			"さすがの",
 			"さすがです",
@@ -2147,7 +2147,7 @@
 			"流石の",
 			"流石です"
 		],
-		"searchEN": [
+		"en": [
 			"live up to expectations",
 			"as one would expected",
 			"as expected",
@@ -2162,10 +2162,10 @@
 		"content": "103_because",
 		"jlpt": 4,
 		"form": "し",
-		"search": [
+		"jp": [
 			"し"
 		],
-		"searchEN": [
+		"en": [
 			"because",
 			"reason"
 		]
@@ -2177,10 +2177,10 @@
 		"content": "104_that_much",
 		"jlpt": 4,
 		"form": "そんなに",
-		"search": [
+		"jp": [
 			"そんなに"
 		],
-		"searchEN": [
+		"en": [
 			"that much",
 			"so much",
 			"so",
@@ -2194,10 +2194,10 @@
 		"content": "105_in_addition",
 		"jlpt": 4,
 		"form": "それに",
-		"search": [
+		"jp": [
 			"それに"
 		],
-		"searchEN": [
+		"en": [
 			"besides",
 			"in addition",
 			"also",
@@ -2212,12 +2212,12 @@
 		"content": "106_it_looks_like",
 		"jlpt": 4,
 		"form": "そうです",
-		"search": [
+		"jp": [
 			"そうな",
 			"そうだね",
 			"そうですね"
 		],
-		"searchEN": [
+		"en": [
 			"it is like",
 			"it seems",
 			"like",
@@ -2238,10 +2238,10 @@
 		"content": "107_do_like",
 		"jlpt": 4,
 		"form": "そうに",
-		"search": [
+		"jp": [
 			"そうに"
 		],
-		"searchEN": [
+		"en": [
 			"do like",
 			"like",
 			"do similarly",
@@ -2257,7 +2257,7 @@
 		"content": "108_just_finished",
 		"jlpt": 4,
 		"form": "たばかりです",
-		"search": [
+		"jp": [
 			"たばかりです",
 			"ばかりです",
 			"たばっかりです",
@@ -2267,7 +2267,7 @@
 			"たばっかりだ",
 			"ばっかりだ"
 		],
-		"searchEN": [
+		"en": [
 			"just finished",
 			"finished",
 			"just happened",
@@ -2283,7 +2283,7 @@
 		"content": "109_to_be_about_to",
 		"jlpt": 4,
 		"form": "ところです",
-		"search": [
+		"jp": [
 			"ところです",
 			"ところだ",
 			"ているところ",
@@ -2291,7 +2291,7 @@
 			"たところ",
 			"だところ"
 		],
-		"searchEN": [
+		"en": [
 			"to be about to",
 			"about to",
 			"just"
@@ -2304,11 +2304,11 @@
 		"content": "110_heard_that",
 		"jlpt": 4,
 		"form": "そうです",
-		"search": [
+		"jp": [
 			"そうだ",
 			"そうです"
 		],
-		"searchEN": [
+		"en": [
 			"heard that"
 		]
 	},
@@ -2319,7 +2319,7 @@
 		"content": "111_transitive_intransitive_verbs",
 		"jlpt": 4,
 		"form": "",
-		"search": [
+		"jp": [
 			"他動詞",
 			"自動詞",
 			"たどうし",
@@ -2327,7 +2327,7 @@
 			"どうし",
 			"動詞"
 		],
-		"searchEN": [
+		"en": [
 			"transitive verbs",
 			"intransitive verbs",
 			"transitive and intransitive verbs",
@@ -2341,11 +2341,11 @@
 		"content": "112_what_if",
 		"jlpt": 4,
 		"form": "たらどう",
-		"search": [
+		"jp": [
 			"たらどう",
 			"もし"
 		],
-		"searchEN": [
+		"en": [
 			"what if"
 		]
 	},
@@ -2356,13 +2356,13 @@
 		"content": "113_is_it_good_to",
 		"jlpt": 4,
 		"form": "たらいいですか",
-		"search": [
+		"jp": [
 			"たらいいか",
 			"たらいいですか",
 			"だらいいか",
 			"だらいいですか"
 		],
-		"searchEN": [
+		"en": [
 			"is it good to",
 			"seek instructions",
 			"seek confirmation",
@@ -2377,7 +2377,7 @@
 		"content": "114_to_do_for_someone",
 		"jlpt": 4,
 		"form": "てあげます",
-		"search": [
+		"jp": [
 			"てあげる",
 			"であげる",
 			"あげる",
@@ -2385,7 +2385,7 @@
 			"であげます",
 			"あげます"
 		],
-		"searchEN": [
+		"en": [
 			"do for someone",
 			"for someone",
 			"do a favour",
@@ -2401,13 +2401,13 @@
 		"content": "115_to_want_someone_to",
 		"jlpt": 4,
 		"form": "て欲しいです",
-		"search": [
+		"jp": [
 			"て欲しいです",
 			"てほしいです",
 			"で欲しいです",
 			"でほしいです"
 		],
-		"searchEN": [
+		"en": [
 			"to want someone to do",
 			"want someone to do",
 			"someone to do"
@@ -2420,7 +2420,7 @@
 		"content": "116_action_away",
 		"jlpt": 4,
 		"form": "ていきます",
-		"search": [
+		"jp": [
 			"ていく",
 			"て行く",
 			"でいく",
@@ -2434,7 +2434,7 @@
 			"いきます",
 			"行きます"
 		],
-		"searchEN": [
+		"en": [
 			"action away from the speaker",
 			"action away from speaker",
 			"away from the speaker",
@@ -2451,7 +2451,7 @@
 		"content": "117_could_you_please",
 		"jlpt": 4,
 		"form": "てもらえませんか",
-		"search": [
+		"jp": [
 			"てもらえませんか",
 			"でもらえませんか",
 			"て頂けませんか",
@@ -2462,7 +2462,7 @@
 			"いただけませんか",
 			"頂けませんか"
 		],
-		"searchEN": [
+		"en": [
 			"could you please",
 			"request",
 			"help",
@@ -2476,13 +2476,13 @@
 		"content": "118_someone_does_for_us",
 		"jlpt": 4,
 		"form": "てくれます",
-		"search": [
+		"jp": [
 			"てくれる",
 			"てくれます",
 			"でくれる",
 			"でくれます"
 		],
-		"searchEN": [
+		"en": [
 			"someone does for us",
 			"do for us",
 			"for us",
@@ -2496,7 +2496,7 @@
 		"content": "119_action_towards",
 		"jlpt": 4,
 		"form": "てきます",
-		"search": [
+		"jp": [
 			"てくる",
 			"て来る",
 			"でくる",
@@ -2510,7 +2510,7 @@
 			"きます",
 			"来ます"
 		],
-		"searchEN": [
+		"en": [
 			"action towards the speaker",
 			"action towards speaker",
 			"towards the speaker",
@@ -2525,7 +2525,7 @@
 		"content": "120_to_try",
 		"jlpt": 4,
 		"form": "てみます",
-		"search": [
+		"jp": [
 			"てみる",
 			"て見る",
 			"でみる",
@@ -2535,7 +2535,7 @@
 			"でみます",
 			"で見ます"
 		],
-		"searchEN": [
+		"en": [
 			"to try doing",
 			"to try to do",
 			"try doing",
@@ -2554,13 +2554,13 @@
 		"content": "121_someone_does_for_us",
 		"jlpt": 4,
 		"form": "てもらいます",
-		"search": [
+		"jp": [
 			"てもらう",
 			"てもらいます",
 			"でもらう",
 			"でもらいます"
 		],
-		"searchEN": [
+		"en": [
 			"someone does for us",
 			"do for us",
 			"for us",
@@ -2575,13 +2575,13 @@
 		"content": "122_to_do_in_advance",
 		"jlpt": 4,
 		"form": "ておきます",
-		"search": [
+		"jp": [
 			"ておく",
 			"ておきます",
 			"でおく",
 			"でおきます"
 		],
-		"searchEN": [
+		"en": [
 			"to do in advance",
 			"do in advance",
 			"in advance",
@@ -2598,7 +2598,7 @@
 		"content": "123_to_do_by_accident",
 		"jlpt": 4,
 		"form": "てしまいます",
-		"search": [
+		"jp": [
 			"てしまう",
 			"てしまいます",
 			"でしまう",
@@ -2608,7 +2608,7 @@
 			"じゃう",
 			"じゃいます"
 		],
-		"searchEN": [
+		"en": [
 			"to do by accident",
 			"do by accident",
 			"by accident",
@@ -2629,13 +2629,13 @@
 		"content": "124_apologise_for",
 		"jlpt": 4,
 		"form": "てすいません",
-		"search": [
+		"jp": [
 			"てすいません",
 			"てすみません",
 			"すいません",
 			"すみません"
 		],
-		"searchEN": [
+		"en": [
 			"apologise for",
 			"apologize for",
 			"to be sorry for",
@@ -2650,13 +2650,13 @@
 		"content": "125_do_for_someone",
 		"jlpt": 4,
 		"form": "てやります",
-		"search": [
+		"jp": [
 			"てやる",
 			"でやる",
 			"てやります",
 			"でやります"
 		],
-		"searchEN": [
+		"en": [
 			"do for someone",
 			"for someone",
 			"do a favour",
@@ -2672,13 +2672,13 @@
 		"content": "126_i_am_glad",
 		"jlpt": 4,
 		"form": "てよかったです",
-		"search": [
+		"jp": [
 			"てよかったです",
 			"でよかったです",
 			"て良かったです",
 			"で良かったです"
 		],
-		"searchEN": [
+		"en": [
 			"i am glad that",
 			"am glad",
 			"glad",
@@ -2693,12 +2693,12 @@
 		"content": "127_even_if",
 		"jlpt": 4,
 		"form": "ても",
-		"search": [
+		"jp": [
 			"ても",
 			"でもも",
 			"くても"
 		],
-		"searchEN": [
+		"en": [
 			"even if",
 			"no matter what"
 		]
@@ -2710,11 +2710,11 @@
 		"content": "128_it_could_be_said",
 		"jlpt": 4,
 		"form": "と言ってもいいです",
-		"search": [
+		"jp": [
 			"と言ってもいいです",
 			"といってってもいいです"
 		],
-		"searchEN": [
+		"en": [
 			"it could be said that",
 			"you could say that",
 			"one could say that",
@@ -2732,13 +2732,13 @@
 		"content": "129_called_named",
 		"jlpt": 4,
 		"form": "という",
-		"search": [
+		"jp": [
 			"という",
 			"と言う",
 			"といいます",
 			"と言います"
 		],
-		"searchEN": [
+		"en": [
 			"called",
 			"named",
 			"so called"
@@ -2751,13 +2751,13 @@
 		"content": "130_text_nominalisation",
 		"jlpt": 4,
 		"form": "という事",
-		"search": [
+		"jp": [
 			"という事",
 			"と言う事",
 			"ということ",
 			"と言うこと"
 		],
-		"searchEN": [
+		"en": [
 			"phrase nominalisation",
 			"phrase nominalization",
 			"phrase nominalising",
@@ -2773,7 +2773,7 @@
 		"content": "131_it_is_said",
 		"jlpt": 4,
 		"form": "と言われています",
-		"search": [
+		"jp": [
 			"言われている",
 			"いわれている",
 			"言われてる",
@@ -2783,7 +2783,7 @@
 			"言われてます",
 			"いわれてます"
 		],
-		"searchEN": [
+		"en": [
 			"it is said",
 			"is said",
 			"they say",
@@ -2797,7 +2797,7 @@
 		"content": "132_i_heard",
 		"jlpt": 4,
 		"form": "と聞きました",
-		"search": [
+		"jp": [
 			"と聞いた",
 			"ときいた",
 			"聞いた",
@@ -2807,7 +2807,7 @@
 			"聞きました",
 			"ききました"
 		],
-		"searchEN": [
+		"en": [
 			"i heard that",
 			"heard that",
 			"to hear"
@@ -2820,7 +2820,7 @@
 		"content": "133_i_think",
 		"jlpt": 4,
 		"form": "と思います",
-		"search": [
+		"jp": [
 			"と思う",
 			"と思います",
 			"とおもう",
@@ -2838,7 +2838,7 @@
 			"おもっている",
 			"おもっています"
 		],
-		"searchEN": [
+		"en": [
 			"i think",
 			"to think",
 			"think"
@@ -2851,10 +2851,10 @@
 		"content": "134_list_examples",
 		"jlpt": 4,
 		"form": "とか",
-		"search": [
+		"jp": [
 			"とか"
 		],
-		"searchEN": [
+		"en": [
 			"listing examples",
 			"list examples",
 			"examples"
@@ -2867,7 +2867,7 @@
 		"content": "135_to_continue",
 		"jlpt": 4,
 		"form": "続けます",
-		"search": [
+		"jp": [
 			"続ける",
 			"つづける",
 			"つずける",
@@ -2875,7 +2875,7 @@
 			"つづけます",
 			"つずけます"
 		],
-		"searchEN": [
+		"en": [
 			"to continue something",
 			"to continue doing",
 			"continue something",
@@ -2889,11 +2889,11 @@
 		"content": "136_informal_quotation_particle",
 		"jlpt": 4,
 		"form": "って",
-		"search": [
+		"jp": [
 			"って",
 			"と"
 		],
-		"searchEN": [
+		"en": [
 			"informal quotation particle",
 			"quotation particle",
 			"particle"
@@ -2906,7 +2906,7 @@
 		"content": "137_passive_voice",
 		"jlpt": 4,
 		"form": "～あれる",
-		"search": [
+		"jp": [
 			"受身形",
 			"うけみけい",
 			"あれる",
@@ -2934,7 +2934,7 @@
 			"かれます",
 			"がれます"
 		],
-		"searchEN": [
+		"en": [
 			"passive voice",
 			"passive form",
 			"voice"
@@ -2947,10 +2947,10 @@
 		"content": "138_it_is_easy_to",
 		"jlpt": 4,
 		"form": "やすい",
-		"search": [
+		"jp": [
 			"やすいです"
 		],
-		"searchEN": [
+		"en": [
 			"it is easy to",
 			"easy to",
 			"simple"
@@ -2963,10 +2963,10 @@
 		"content": "139_finally",
 		"jlpt": 4,
 		"form": "やっと",
-		"search": [
+		"jp": [
 			"やっと"
 		],
-		"searchEN": [
+		"en": [
 			"finally",
 			"at last"
 		]
@@ -2978,13 +2978,13 @@
 		"content": "140_to_plan",
 		"jlpt": 4,
 		"form": "予定です",
-		"search": [
+		"jp": [
 			"予定だ",
 			"予定です",
 			"よていだ",
 			"よていです"
 		],
-		"searchEN": [
+		"en": [
 			"to intend yo",
 			"intend to",
 			"intent",
@@ -2999,7 +2999,7 @@
 		"content": "141_it_looks_like",
 		"jlpt": 4,
 		"form": "ようです",
-		"search": [
+		"jp": [
 			"ようだ",
 			"ようです",
 			"のようだ",
@@ -3011,7 +3011,7 @@
 			"ようではない",
 			"のようではない"
 		],
-		"searchEN": [
+		"en": [
 			"it is like",
 			"it seems",
 			"like",
@@ -3028,12 +3028,12 @@
 		"content": "142_object_similar_to",
 		"jlpt": 4,
 		"form": "ような",
-		"search": [
+		"jp": [
 			"ような",
 			"のような",
 			"なような"
 		],
-		"searchEN": [
+		"en": [
 			"object similar to",
 			"similar to",
 			"like"
@@ -3046,10 +3046,10 @@
 		"content": "143_do_like",
 		"jlpt": 4,
 		"form": "ように",
-		"search": [
+		"jp": [
 			"ように"
 		],
-		"searchEN": [
+		"en": [
 			"do like",
 			"like",
 			"do similarly",
@@ -3065,14 +3065,14 @@
 		"content": "144_to_be_able_to",
 		"jlpt": 4,
 		"form": "ようになります",
-		"search": [
+		"jp": [
 			"ようになる",
 			"ようになった",
 			"ようになります",
 			"ようになりました",
 			"ようになりたい"
 		],
-		"searchEN": [
+		"en": [
 			"to be able to",
 			"be able to",
 			"able to"
@@ -3085,13 +3085,13 @@
 		"content": "145_to_try",
 		"jlpt": 4,
 		"form": "ようにします",
-		"search": [
+		"jp": [
 			"ようにする",
 			"ようにします",
 			"ようにしている",
 			"ようにしています"
 		],
-		"searchEN": [
+		"en": [
 			"to try doing",
 			"to try to do",
 			"try doing",
@@ -3110,7 +3110,7 @@
 		"content": "146_i_think_i_will_do",
 		"jlpt": 4,
 		"form": "おうと思います",
-		"search": [
+		"jp": [
 			"思う",
 			"おもう",
 			"思います",
@@ -3200,7 +3200,7 @@
 			"ろうとおもっています",
 			"ようとおもっています"
 		],
-		"searchEN": [
+		"en": [
 			"to intend yo",
 			"intend to",
 			"intent",
@@ -3220,11 +3220,11 @@
 		"content": "147_certainly",
 		"jlpt": 4,
 		"form": "是非",
-		"search": [
+		"jp": [
 			"是非",
 			"ぜひ"
 		],
-		"searchEN": [
+		"en": [
 			"certainly",
 			"without fail",
 			"by all means",
@@ -3238,11 +3238,11 @@
 		"content": "148_not_at_all",
 		"jlpt": 4,
 		"form": "全然",
-		"search": [
+		"jp": [
 			"全然",
 			"ぜんぜん"
 		],
-		"searchEN": [
+		"en": [
 			"not at all"
 		]
 	},
@@ -3253,11 +3253,11 @@
 		"content": "149_it_is_difficult_to",
 		"jlpt": 4,
 		"form": "づらい",
-		"search": [
+		"jp": [
 			"づらいです",
 			"ずらいです"
 		],
-		"searchEN": [
+		"en": [
 			"it is difficult to",
 			"difficult to",
 			"it is hard to",
@@ -3271,7 +3271,7 @@
 		"content": "150_finish_doing",
 		"jlpt": 3,
 		"form": "上げます／上がります",
-		"search": [
+		"jp": [
 			"上がる",
 			"上げる",
 			"あがる",
@@ -3281,7 +3281,7 @@
 			"あがります",
 			"あげます"
 		],
-		"searchEN": [
+		"en": [
 			"to finish doing",
 			"finish doing",
 			"to complete",
@@ -3295,10 +3295,10 @@
 		"content": "151_so_much_that",
 		"jlpt": 3,
 		"form": "あまり",
-		"search": [
+		"jp": [
 			"あまり"
 		],
-		"searchEN": [
+		"en": [
 			"so much that",
 			"that much"
 		]
@@ -3310,10 +3310,10 @@
 		"content": "152_too_much",
 		"jlpt": 3,
 		"form": "あまりに(も)",
-		"search": [
+		"jp": [
 			"あまりにも"
 		],
-		"searchEN": [
+		"en": [
 			"so much that",
 			"that much",
 			"too much",
@@ -3327,13 +3327,13 @@
 		"content": "153_do_together",
 		"jlpt": 3,
 		"form": "合います",
-		"search": [
+		"jp": [
 			"合う",
 			"あう",
 			"合います",
 			"あいます"
 		],
-		"searchEN": [
+		"en": [
 			"do something together",
 			"do together",
 			"to do something together",
@@ -3347,10 +3347,10 @@
 		"content": "154_should",
 		"jlpt": 3,
 		"form": "ばいいです",
-		"search": [
+		"jp": [
 			"ばいいです"
 		],
-		"searchEN": [
+		"en": [
 			"should",
 			"can",
 			"it'd be good if",
@@ -3364,11 +3364,11 @@
 		"content": "155_should_have",
 		"jlpt": 3,
 		"form": "ばよかったです",
-		"search": [
+		"jp": [
 			"ばよかったです",
 			"ば良かったです"
 		],
-		"searchEN": [
+		"en": [
 			"should have done",
 			"would have been better if",
 			"whish had done"
@@ -3381,11 +3381,11 @@
 		"content": "156_the_more",
 		"jlpt": 3,
 		"form": "ば~ほど",
-		"search": [
+		"jp": [
 			"ば",
 			"ほど"
 		],
-		"searchEN": [
+		"en": [
 			"the more",
 			"more"
 		]
@@ -3397,11 +3397,11 @@
 		"content": "157_if_only",
 		"jlpt": 3,
 		"form": "は~のに",
-		"search": [
+		"jp": [
 			"ば",
 			"のに"
 		],
-		"searchEN": [
+		"en": [
 			"if only",
 			"would have",
 			"should have",
@@ -3415,11 +3415,11 @@
 		"content": "158_nothing_but",
 		"jlpt": 3,
 		"form": "ばかりで",
-		"search": [
+		"jp": [
 			"ばかりで",
 			"ばっかりで"
 		],
-		"searchEN": [
+		"en": [
 			"only",
 			"just",
 			"nothing but",
@@ -3433,7 +3433,7 @@
 		"content": "159_counters",
 		"jlpt": 5,
 		"form": "助数詞",
-		"search": [
+		"jp": [
 			"助数詞",
 			"じょすうし",
 			"まい",
@@ -3465,7 +3465,7 @@
 			"匹",
 			"足"
 		],
-		"searchEN": [
+		"en": [
 			"counters",
 			"counter suffixes",
 			"suffixes"
@@ -3478,7 +3478,7 @@
 		"content": "160_date_time_suffixes",
 		"jlpt": 5,
 		"form": "助数詞",
-		"search": [
+		"jp": [
 			"助数詞",
 			"じょすうし",
 			"分",
@@ -3494,7 +3494,7 @@
 			"かげつ",
 			"ねん"
 		],
-		"searchEN": [
+		"en": [
 			"counters",
 			"counter suffixes",
 			"suffixes",
@@ -3509,7 +3509,7 @@
 		"content": "161_numbers",
 		"jlpt": 5,
 		"form": "記数法",
-		"search": [
+		"jp": [
 			"記数法",
 			"きすうほう",
 			"一",
@@ -3541,7 +3541,7 @@
 			"せん",
 			"いちまん"
 		],
-		"searchEN": [
+		"en": [
 			"counters",
 			"counter suffixes",
 			"suffixes",
@@ -3555,7 +3555,7 @@
 		"content": "162_verbs",
 		"jlpt": 5,
 		"form": "動詞",
-		"search": [
+		"jp": [
 			"動詞",
 			"どうし",
 			"る",
@@ -3566,7 +3566,7 @@
 			"します",
 			"きます"
 		],
-		"searchEN": [
+		"en": [
 			"verbs",
 			"conjugation"
 		]
@@ -3578,7 +3578,7 @@
 		"content": "163_verbs_short_forms",
 		"jlpt": 5,
 		"form": "動詞",
-		"search": [
+		"jp": [
 			"動詞",
 			"どうし",
 			"る",
@@ -3587,7 +3587,7 @@
 			"来る",
 			"くる"
 		],
-		"searchEN": [
+		"en": [
 			"verbs",
 			"conjugation",
 			"short forms"
@@ -3600,7 +3600,7 @@
 		"content": "164_reported_speech",
 		"jlpt": 4,
 		"form": "と言っています",
-		"search": [
+		"jp": [
 			"と言っています",
 			"といっています",
 			"と言っている",
@@ -3610,7 +3610,7 @@
 			"と言う",
 			"という"
 		],
-		"searchEN": [
+		"en": [
 			"reported speech",
 			"speech",
 			"say that",
@@ -3624,7 +3624,7 @@
 		"content": "165_give_receive",
 		"jlpt": 4,
 		"form": "あげる／くれる／もらう",
-		"search": [
+		"jp": [
 			"あげる",
 			"くれる",
 			"もらう",
@@ -3632,7 +3632,7 @@
 			"くれます",
 			"もらいます"
 		],
-		"searchEN": [
+		"en": [
 			"to give",
 			"to receive",
 			"give",
@@ -3646,7 +3646,7 @@
 		"content": "166_see_hear",
 		"jlpt": 4,
 		"form": "見える／聞こえる",
-		"search": [
+		"jp": [
 			"見える",
 			"見られる",
 			"見えます",
@@ -3666,7 +3666,7 @@
 			"可能形",
 			"かのうけ"
 		],
-		"searchEN": [
+		"en": [
 			"to hear",
 			"hear",
 			"to see",
@@ -3680,13 +3680,13 @@
 		"content": "167_what_about",
 		"jlpt": 4,
 		"form": "～たら",
-		"search": [
+		"jp": [
 			"みたらどうですか",
 			"たらどうですか",
 			"たらどうする",
 			"たらどうしますか"
 		],
-		"searchEN": [
+		"en": [
 			"what if",
 			"advice",
 			"what about",
@@ -3701,13 +3701,13 @@
 		"content": "168_reported_speech_request",
 		"jlpt": 4,
 		"form": "ように言う",
-		"search": [
+		"jp": [
 			"ように言います",
 			"ようにいいます",
 			"ように言う",
 			"ようにいう"
 		],
-		"searchEN": [
+		"en": [
 			"reported speech request",
 			"speech",
 			"request"
@@ -3720,13 +3720,13 @@
 		"content": "169_seek_confirmation",
 		"jlpt": 5,
 		"form": "んですか or んですね",
-		"search": [
+		"jp": [
 			"んですか",
 			"のですか",
 			"んですね",
 			"のですね"
 		],
-		"searchEN": [
+		"en": [
 			"seek confirmation",
 			"confirmation"
 		]
@@ -3738,11 +3738,11 @@
 		"content": "170_request_actions",
 		"jlpt": 5,
 		"form": "んですが",
-		"search": [
+		"jp": [
 			"んですが",
 			"のですが"
 		],
-		"searchEN": [
+		"en": [
 			"emotions",
 			"request actions",
 			"actions",
@@ -3757,10 +3757,10 @@
 		"content": "171_particle_ga",
 		"jlpt": 5,
 		"form": "が",
-		"search": [
+		"jp": [
 			"が"
 		],
-		"searchEN": [
+		"en": [
 			"particles",
 			"ga",
 			"subject maker",
@@ -3775,10 +3775,10 @@
 		"content": "172_particle_mo",
 		"jlpt": 5,
 		"form": "も",
-		"search": [
+		"jp": [
 			"も"
 		],
-		"searchEN": [
+		"en": [
 			"particles",
 			"mo",
 			"too",
@@ -3792,10 +3792,10 @@
 		"content": "173_particle_wo",
 		"jlpt": 5,
 		"form": "を",
-		"search": [
+		"jp": [
 			"を"
 		],
-		"searchEN": [
+		"en": [
 			"particles",
 			"object",
 			"transitive verb"
@@ -3808,10 +3808,10 @@
 		"content": "174_particle_de",
 		"jlpt": 5,
 		"form": "で",
-		"search": [
+		"jp": [
 			"で"
 		],
-		"searchEN": [
+		"en": [
 			"particles",
 			"location of event",
 			"event",
@@ -3829,10 +3829,10 @@
 		"content": "175_particle_ni",
 		"jlpt": 5,
 		"form": "に",
-		"search": [
+		"jp": [
 			"に"
 		],
-		"searchEN": [
+		"en": [
 			"particles",
 			"location",
 			"time and date",
@@ -3848,10 +3848,10 @@
 		"content": "176_particle_he",
 		"jlpt": 5,
 		"form": "へ",
-		"search": [
+		"jp": [
 			"へ"
 		],
-		"searchEN": [
+		"en": [
 			"particles",
 			"direction"
 		]
@@ -3863,10 +3863,10 @@
 		"content": "177_particle_ka",
 		"jlpt": 5,
 		"form": "か",
-		"search": [
+		"jp": [
 			"か"
 		],
-		"searchEN": [
+		"en": [
 			"particles",
 			"or"
 		]
@@ -3878,10 +3878,10 @@
 		"content": "178_particle_no",
 		"jlpt": 5,
 		"form": "の",
-		"search": [
+		"jp": [
 			"の"
 		],
-		"searchEN": [
+		"en": [
 			"particles",
 			"possession",
 			"belongs"
@@ -3894,10 +3894,10 @@
 		"content": "179_particle_to",
 		"jlpt": 5,
 		"form": "と",
-		"search": [
+		"jp": [
 			"と"
 		],
-		"searchEN": [
+		"en": [
 			"particles",
 			"and",
 			"together",
@@ -3911,11 +3911,11 @@
 		"content": "180_particle_ya",
 		"jlpt": 5,
 		"form": "や",
-		"search": [
+		"jp": [
 			"や",
 			"など"
 		],
-		"searchEN": [
+		"en": [
 			"particles",
 			"and",
 			"stuff like that"
@@ -3928,11 +3928,11 @@
 		"content": "181_imperative_form",
 		"jlpt": 4,
 		"form": "け、な",
-		"search": [
+		"jp": [
 			"命令形",
 			"めいれいけい"
 		],
-		"searchEN": [
+		"en": [
 			"imperative form",
 			"requests",
 			"short requests",
@@ -3953,7 +3953,7 @@
 		"content": "182_wishful_conditional",
 		"jlpt": 4,
 		"form": "ば ＋ んですが",
-		"search": [
+		"jp": [
 			"ば",
 			"えば",
 			"ければ",
@@ -3964,7 +3964,7 @@
 			"可能形",
 			"かのうけい"
 		],
-		"searchEN": [
+		"en": [
 			"ba-form",
 			"ba form",
 			"if I had",
@@ -3982,11 +3982,11 @@
 		"content": "183_conditionals_toki",
 		"jlpt": 4,
 		"form": "とき",
-		"search": [
+		"jp": [
 			"時",
 			"とき"
 		],
-		"searchEN": [
+		"en": [
 			"if",
 			"when",
 			"conditionals",
@@ -4000,10 +4000,10 @@
 		"content": "184_conditionals_nara",
 		"jlpt": 4,
 		"form": "なら",
-		"search": [
+		"jp": [
 			"なら"
 		],
-		"searchEN": [
+		"en": [
 			"if",
 			"when",
 			"conditionals",
@@ -4024,10 +4024,10 @@
 		"content": "185_conditionals_tara",
 		"jlpt": 4,
 		"form": "たら",
-		"search": [
+		"jp": [
 			"たら"
 		],
-		"searchEN": [
+		"en": [
 			"if",
 			"when",
 			"conditionals"
@@ -4040,7 +4040,7 @@
 		"content": "186_conditionals_ba",
 		"jlpt": 4,
 		"form": "ば",
-		"search": [
+		"jp": [
 			"ば",
 			"えば",
 			"ければ",
@@ -4048,7 +4048,7 @@
 			"であれば",
 			"どうすれば"
 		],
-		"searchEN": [
+		"en": [
 			"if",
 			"when",
 			"conditionals"
@@ -4061,7 +4061,7 @@
 		"content": "187_honorific_expressions_special_verbs",
 		"jlpt": 4,
 		"form": "尊敬語",
-		"search": [
+		"jp": [
 			"尊敬語",
 			"そんけいご",
 			"いらっしゃる",
@@ -4093,7 +4093,7 @@
 			"くださいます",
 			"くださる"
 		],
-		"searchEN": [
+		"en": [
 			"honorific expressions",
 			"expressions",
 			"special verbs",
@@ -4107,10 +4107,10 @@
 		"content": "188_sentence_ending_particle_ne",
 		"jlpt": 5,
 		"form": "ね",
-		"search": [
+		"jp": [
 			"ね"
 		],
-		"searchEN": [
+		"en": [
 			"sentence-ending particles",
 			"sentence ending particles",
 			"ending particles",
@@ -4126,10 +4126,10 @@
 		"content": "189_sentence_ending_particle_yo",
 		"jlpt": 5,
 		"form": "よ",
-		"search": [
+		"jp": [
 			"よ"
 		],
-		"searchEN": [
+		"en": [
 			"sentence-ending particles",
 			"sentence ending particles",
 			"ending particles",
@@ -4146,10 +4146,10 @@
 		"content": "190_sentence_ending_particle_yone",
 		"jlpt": 5,
 		"form": "よね",
-		"search": [
+		"jp": [
 			"よね"
 		],
-		"searchEN": [
+		"en": [
 			"sentence-ending particles",
 			"sentence ending particles",
 			"ending particles",
@@ -4165,10 +4165,10 @@
 		"content": "191_sentence_ending_particle_naa",
 		"jlpt": 5,
 		"form": "なあ",
-		"search": [
+		"jp": [
 			"なあ"
 		],
-		"searchEN": [
+		"en": [
 			"sentence-ending particles",
 			"sentence ending particles",
 			"ending particles",
@@ -4185,11 +4185,11 @@
 		"content": "192_humble_expressions",
 		"jlpt": 4,
 		"form": "謙譲語",
-		"search": [
+		"jp": [
 			"謙譲語",
 			"けんじょうご"
 		],
-		"searchEN": [
+		"en": [
 			"humble expressions",
 			"expressions",
 			"polite"
@@ -4202,7 +4202,7 @@
 		"content": "193_humble_expressions_direct",
 		"jlpt": 4,
 		"form": "謙譲語",
-		"search": [
+		"jp": [
 			"謙譲語",
 			"けんじょうご",
 			"伺う",
@@ -4244,7 +4244,7 @@
 			"拝借します",
 			"はいしゃくします"
 		],
-		"searchEN": [
+		"en": [
 			"humble expressions",
 			"expressions",
 			"polite",
@@ -4259,7 +4259,7 @@
 		"content": "194_causative_pattern",
 		"jlpt": 4,
 		"form": "～あせます",
-		"search": [
+		"jp": [
 			"あせる",
 			"させる",
 			"わせる",
@@ -4285,7 +4285,7 @@
 			"じどうし",
 			"たどうし"
 		],
-		"searchEN": [
+		"en": [
 			"causative form",
 			"make doing",
 			"make someone doing",
@@ -4303,7 +4303,7 @@
 		"content": "195_ask_for_permission",
 		"jlpt": 4,
 		"form": "～あせてもらえませんか",
-		"search": [
+		"jp": [
 			"てもらえませんか",
 			"でもらえませんか",
 			"あせてもらえませんか",
@@ -4329,7 +4329,7 @@
 			"かせてもらってもいいですか",
 			"がせてもらってもいいですか"
 		],
-		"searchEN": [
+		"en": [
 			"ask for permission",
 			"permission",
 			"it is allowed to do",
@@ -4346,7 +4346,7 @@
 		"content": "196_passive_voice_common",
 		"jlpt": 4,
 		"form": "～あれている",
-		"search": [
+		"jp": [
 			"受身形",
 			"うけみけい",
 			"あれている",
@@ -4374,7 +4374,7 @@
 			"かれています",
 			"がれています"
 		],
-		"searchEN": [
+		"en": [
 			"passive voice",
 			"passive form",
 			"voice"
