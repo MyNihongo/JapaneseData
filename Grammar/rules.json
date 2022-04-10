@@ -1121,7 +1121,7 @@
 	},
 	{
 		"id": 59,
-		"sort": 113,
+		"sort": 114,
 		"title": "Humble expressions - indirect",
 		"form": "謙譲語",
 		"content": "59_humble_expressions_indirect",
@@ -1342,7 +1342,7 @@
 	},
 	{
 		"id": 67,
-		"sort": 109,
+		"sort": 110,
 		"title": "Honorific expressions",
 		"form": "尊敬語",
 		"content": "67_honorific_expressions",
@@ -1627,7 +1627,7 @@
 	},
 	{
 		"id": 82,
-		"sort": 72,
+		"sort": 74,
 		"title": "It looks like",
 		"form": "みたいです",
 		"content": "82_it_looks_like",
@@ -1648,7 +1648,7 @@
 	},
 	{
 		"id": 83,
-		"sort": 73,
+		"sort": 75,
 		"title": "Similar to (by appearance)",
 		"form": "みたいな",
 		"content": "83_object_similar_to",
@@ -1664,7 +1664,7 @@
 	},
 	{
 		"id": 84,
-		"sort": 74,
+		"sort": 76,
 		"title": "Do like",
 		"form": "みたいに",
 		"content": "84_do_like",
@@ -1703,7 +1703,7 @@
 	},
 	{
 		"id": 86,
-		"sort": 0,
+		"sort": 73,
 		"title": "Causative passive short form",
 		"form": "～あされる",
 		"content": "86_causative_passive_short",
@@ -1860,7 +1860,7 @@
 	},
 	{
 		"id": 92,
-		"sort": 80,
+		"sort": 82,
 		"title": "It seems like",
 		"form": "に見えます",
 		"content": "92_it_seems_like",
@@ -1994,7 +1994,7 @@
 	},
 	{
 		"id": 98,
-		"sort": 81,
+		"sort": 83,
 		"title": "Similar to (by characteristic)",
 		"form": "らしいです",
 		"content": "98_similar_to",
@@ -2013,7 +2013,7 @@
 	},
 	{
 		"id": 99,
-		"sort": 68,
+		"sort": 69,
 		"title": "Causative form (make or let do something)",
 		"form": "～あせます",
 		"content": "99_causative_form",
@@ -2052,7 +2052,7 @@
 	},
 	{
 		"id": 100,
-		"sort": 71,
+		"sort": 72,
 		"title": "Causative passive form - to be made or let do something",
 		"form": "～あせられる",
 		"content": "100_causative_passive_form",
@@ -2207,7 +2207,7 @@
 	},
 	{
 		"id": 106,
-		"sort": 78,
+		"sort": 80,
 		"title": "It looks like",
 		"form": "そうです",
 		"content": "106_it_looks_like",
@@ -2233,7 +2233,7 @@
 	},
 	{
 		"id": 107,
-		"sort": 79,
+		"sort": 81,
 		"title": "Do like",
 		"form": "そうに",
 		"content": "107_do_like",
@@ -2278,7 +2278,7 @@
 	},
 	{
 		"id": 109,
-		"sort": 84,
+		"sort": 86,
 		"title": "To be about to",
 		"form": "ところです",
 		"content": "109_to_be_about_to",
@@ -2299,7 +2299,7 @@
 	},
 	{
 		"id": 110,
-		"sort": 82,
+		"sort": 84,
 		"title": "I heard that",
 		"form": "そうです",
 		"content": "110_heard_that",
@@ -2314,7 +2314,7 @@
 	},
 	{
 		"id": 111,
-		"sort": 99,
+		"sort": 101,
 		"title": "Transitive and intransitive verbs",
 		"form": "",
 		"content": "111_transitive_intransitive_verbs",
@@ -2372,7 +2372,7 @@
 	},
 	{
 		"id": 114,
-		"sort": 103,
+		"sort": 105,
 		"title": "To do for someone",
 		"form": "てあげます",
 		"content": "114_to_do_for_someone",
@@ -2415,7 +2415,7 @@
 	},
 	{
 		"id": 116,
-		"sort": 100,
+		"sort": 102,
 		"title": "Action away from the speaker",
 		"form": "ていきます",
 		"content": "116_action_away",
@@ -2446,7 +2446,7 @@
 	},
 	{
 		"id": 117,
-		"sort": 107,
+		"sort": 109,
 		"title": "Could you please",
 		"form": "てもらえませんか",
 		"content": "117_could_you_please",
@@ -2471,7 +2471,7 @@
 	},
 	{
 		"id": 118,
-		"sort": 105,
+		"sort": 107,
 		"title": "Someone does for us",
 		"form": "てくれます",
 		"content": "118_someone_does_for_us",
@@ -2491,7 +2491,7 @@
 	},
 	{
 		"id": 119,
-		"sort": 101,
+		"sort": 103,
 		"title": "Action towards the speaker",
 		"form": "てきます",
 		"content": "119_action_towards",
@@ -2520,7 +2520,7 @@
 	},
 	{
 		"id": 120,
-		"sort": 88,
+		"sort": 90,
 		"title": "To try doing",
 		"form": "てみます",
 		"content": "120_to_try",
@@ -2549,7 +2549,7 @@
 	},
 	{
 		"id": 121,
-		"sort": 106,
+		"sort": 108,
 		"title": "Someone does for us",
 		"form": "てもらいます",
 		"content": "121_someone_does_for_us",
@@ -2570,7 +2570,7 @@
 	},
 	{
 		"id": 122,
-		"sort": 85,
+		"sort": 87,
 		"title": "To do in advance",
 		"form": "ておきます",
 		"content": "122_to_do_in_advance",
@@ -2593,7 +2593,7 @@
 	},
 	{
 		"id": 123,
-		"sort": 86,
+		"sort": 88,
 		"title": "To do by accident / to finish completely",
 		"form": "てしまいます",
 		"content": "123_to_do_by_accident",
@@ -2645,7 +2645,7 @@
 	},
 	{
 		"id": 125,
-		"sort": 104,
+		"sort": 106,
 		"title": "To do for someone",
 		"form": "てやります",
 		"content": "125_do_for_someone",
@@ -2705,7 +2705,7 @@
 	},
 	{
 		"id": 128,
-		"sort": 97,
+		"sort": 99,
 		"title": "It could be said",
 		"form": "と言ってもいいです",
 		"content": "128_it_could_be_said",
@@ -2727,7 +2727,7 @@
 	},
 	{
 		"id": 129,
-		"sort": 93,
+		"sort": 95,
 		"title": "Called or named",
 		"form": "という",
 		"content": "129_called_named",
@@ -2768,7 +2768,7 @@
 	},
 	{
 		"id": 131,
-		"sort": 96,
+		"sort": 98,
 		"title": "It is said",
 		"form": "と言われています",
 		"content": "131_it_is_said",
@@ -2792,7 +2792,7 @@
 	},
 	{
 		"id": 132,
-		"sort": 83,
+		"sort": 85,
 		"title": "I heard that",
 		"form": "と聞きました",
 		"content": "132_i_heard",
@@ -2815,7 +2815,7 @@
 	},
 	{
 		"id": 133,
-		"sort": 87,
+		"sort": 89,
 		"title": "I think",
 		"form": "と思います",
 		"content": "133_i_think",
@@ -2884,7 +2884,7 @@
 	},
 	{
 		"id": 136,
-		"sort": 98,
+		"sort": 100,
 		"title": "Informal quotation particle",
 		"form": "って",
 		"content": "136_informal_quotation_particle",
@@ -2973,7 +2973,7 @@
 	},
 	{
 		"id": 140,
-		"sort": 91,
+		"sort": 93,
 		"title": "To plan",
 		"form": "予定です",
 		"content": "140_to_plan",
@@ -2994,7 +2994,7 @@
 	},
 	{
 		"id": 141,
-		"sort": 75,
+		"sort": 77,
 		"title": "It looks like",
 		"form": "ようです",
 		"content": "141_it_looks_like",
@@ -3023,7 +3023,7 @@
 	},
 	{
 		"id": 142,
-		"sort": 76,
+		"sort": 78,
 		"title": "Object is similar to",
 		"form": "ような",
 		"content": "142_object_similar_to",
@@ -3041,7 +3041,7 @@
 	},
 	{
 		"id": 143,
-		"sort": 77,
+		"sort": 79,
 		"title": "Do like",
 		"form": "ように",
 		"content": "143_do_like",
@@ -3060,7 +3060,7 @@
 	},
 	{
 		"id": 144,
-		"sort": 92,
+		"sort": 94,
 		"title": "To be able to",
 		"form": "ようになります",
 		"content": "144_to_be_able_to",
@@ -3080,7 +3080,7 @@
 	},
 	{
 		"id": 145,
-		"sort": 89,
+		"sort": 91,
 		"title": "To try hard",
 		"form": "ようにします",
 		"content": "145_to_try",
@@ -3105,7 +3105,7 @@
 	},
 	{
 		"id": 146,
-		"sort": 90,
+		"sort": 92,
 		"title": "I think I will do",
 		"form": "おうと思います",
 		"content": "146_i_think_i_will_do",
@@ -3595,7 +3595,7 @@
 	},
 	{
 		"id": 164,
-		"sort": 94,
+		"sort": 96,
 		"title": "Reported speech",
 		"form": "と言っています",
 		"content": "164_reported_speech",
@@ -3619,7 +3619,7 @@
 	},
 	{
 		"id": 165,
-		"sort": 102,
+		"sort": 104,
 		"title": "To give, to receive",
 		"form": "あげる／くれる／もらう",
 		"content": "165_give_receive",
@@ -3696,7 +3696,7 @@
 	},
 	{
 		"id": 168,
-		"sort": 95,
+		"sort": 97,
 		"title": "Reported speech - requests",
 		"form": "ように言う",
 		"content": "168_reported_speech_request",
@@ -4056,7 +4056,7 @@
 	},
 	{
 		"id": 187,
-		"sort": 110,
+		"sort": 111,
 		"title": "Honorific expressions - special verbs",
 		"form": "尊敬語",
 		"content": "187_honorific_expressions_special_verbs",
@@ -4180,7 +4180,7 @@
 	},
 	{
 		"id": 192,
-		"sort": 111,
+		"sort": 112,
 		"title": "Humble expressions",
 		"form": "謙譲語",
 		"content": "192_humble_expressions",
@@ -4197,7 +4197,7 @@
 	},
 	{
 		"id": 193,
-		"sort": 112,
+		"sort": 113,
 		"title": "Humble expressions - direct",
 		"form": "謙譲語",
 		"content": "193_humble_expressions_direct",
@@ -4254,7 +4254,7 @@
 	},
 	{
 		"id": 194,
-		"sort": 69,
+		"sort": 70,
 		"title": "Causative pattern - transitive and intransitive verbs",
 		"form": "～あせます",
 		"content": "194_causative_pattern",
@@ -4298,7 +4298,7 @@
 	},
 	{
 		"id": 195,
-		"sort": 70,
+		"sort": 71,
 		"title": "Ask for permission",
 		"form": "～あせてもらえませんか",
 		"content": "195_ask_for_permission",
@@ -4341,7 +4341,7 @@
 	},
 	{
 		"id": 196,
-		"sort": 0,
+		"sort": 68,
 		"title": "Passive voice + ている",
 		"form": "～あれている",
 		"content": "196_passive_voice_common",
