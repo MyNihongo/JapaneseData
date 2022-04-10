@@ -1,12 +1,12 @@
 [
 	{
-		"Id": 1,
-		"Sort": 58,
-		"Title": "Must not do",
-		"Text": "1_must_not_do",
-		"Jlpt": 5,
-		"Form": "てはいけません",
-		"Search": [
+		"id": 1,
+		"sort": 58,
+		"title": "Must not do",
+		"content": "1_must_not_do",
+		"jlpt": 5,
+		"form": "てはいけません",
+		"search": [
 			"てはいけません",
 			"てはいけないです",
 			"ちゃいけないです",
@@ -14,18 +14,18 @@
 			"ちゃだめです",
 			"じゃだめです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"must not do"
 		]
 	},
 	{
-		"Id": 2,
-		"Sort": 1,
-		"Title": "Nouns",
-		"Text": "2_nouns",
-		"Jlpt": 5,
-		"Form": "名詞",
-		"Search": [
+		"id": 2,
+		"sort": 1,
+		"title": "Nouns",
+		"content": "2_nouns",
+		"jlpt": 5,
+		"form": "名詞",
+		"search": [
 			"名詞",
 			"めいし",
 			"です",
@@ -41,40 +41,40 @@
 			"じゃありませんでした",
 			"ではありませんでした"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"nouns",
 			"to be",
 			"be"
 		]
 	},
 	{
-		"Id": 3,
-		"Sort": 23,
-		"Title": "Only, just, as much as",
-		"Text": "3_only_dake",
-		"Jlpt": 5,
-		"Form": "だけです",
-		"Search": [
+		"id": 3,
+		"sort": 23,
+		"title": "Only, just, as much as",
+		"content": "3_only_dake",
+		"jlpt": 5,
+		"form": "だけです",
+		"search": [
 			"だけです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"only",
 			"just by doing",
 			"as much as"
 		]
 	},
 	{
-		"Id": 4,
-		"Sort": 65,
-		"Title": "Probably (almost certain)",
-		"Text": "4_probably_darou",
-		"Jlpt": 5,
-		"Form": "でしょう (だろう)",
-		"Search": [
+		"id": 4,
+		"sort": 65,
+		"title": "Probably (almost certain)",
+		"content": "4_probably_darou",
+		"jlpt": 5,
+		"form": "でしょう (だろう)",
+		"search": [
 			"でしょう",
 			"だろう"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"probably",
 			"i think",
 			"it seems",
@@ -82,34 +82,34 @@
 		]
 	},
 	{
-		"Id": 5,
-		"Sort": 29,
-		"Title": "Particle は",
-		"Text": "5_particle_ha",
-		"Jlpt": 5,
-		"Form": "",
-		"Search": [
+		"id": 5,
+		"sort": 29,
+		"title": "Particle は",
+		"content": "5_particle_ha",
+		"jlpt": 5,
+		"form": "",
+		"search": [
 			"は"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"particles",
 			"ha",
 			"topic maker"
 		]
 	},
 	{
-		"Id": 6,
-		"Sort": 15,
-		"Title": "But",
-		"Text": "6_but",
-		"Jlpt": 5,
-		"Form": "でも",
-		"Search": [
+		"id": 6,
+		"sort": 15,
+		"title": "But",
+		"content": "6_but",
+		"jlpt": 5,
+		"form": "でも",
+		"search": [
 			"でも",
 			"それでも",
 			"しかし"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"but",
 			"however",
 			"though",
@@ -119,16 +119,16 @@
 		]
 	},
 	{
-		"Id": 7,
-		"Sort": 9,
-		"Title": "What kind of",
-		"Text": "7_what_kind",
-		"Jlpt": 5,
-		"Form": "どんな",
-		"Search": [
+		"id": 7,
+		"sort": 9,
+		"title": "What kind of",
+		"content": "7_what_kind",
+		"jlpt": 5,
+		"form": "どんな",
+		"search": [
 			"どんな"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"what kind of",
 			"kind of",
 			"what sort of",
@@ -136,87 +136,87 @@
 		]
 	},
 	{
-		"Id": 8,
-		"Sort": 10,
-		"Title": "Why, for what reason",
-		"Text": "8_why",
-		"Jlpt": 5,
-		"Form": "どうして",
-		"Search": [
+		"id": 8,
+		"sort": 10,
+		"title": "Why, for what reason",
+		"content": "8_why",
+		"jlpt": 5,
+		"form": "どうして",
+		"search": [
 			"なぜ",
 			"どうして",
 			"なんで"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"why",
 			"reason",
 			"how"
 		]
 	},
 	{
-		"Id": 9,
-		"Sort": 11,
-		"Title": "How, in what way",
-		"Text": "9_how",
-		"Jlpt": 5,
-		"Form": "どうやって",
-		"Search": [
+		"id": 9,
+		"sort": 11,
+		"title": "How, in what way",
+		"content": "9_how",
+		"jlpt": 5,
+		"form": "どうやって",
+		"search": [
 			"どうやって",
 			"どうして"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"how",
 			"in what way",
 			"what way"
 		]
 	},
 	{
-		"Id": 10,
-		"Sort": 47,
-		"Title": "There is",
-		"Text": "10_there_is",
-		"Jlpt": 5,
-		"Form": "あります／います",
-		"Search": [
+		"id": 10,
+		"sort": 47,
+		"title": "There is",
+		"content": "10_there_is",
+		"jlpt": 5,
+		"form": "あります／います",
+		"search": [
 			"ある",
 			"いる",
 			"あります",
 			"います"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"there is"
 		]
 	},
 	{
-		"Id": 11,
-		"Sort": 50,
-		"Title": "To want (object)",
-		"Text": "11_to_want_object",
-		"Jlpt": 5,
-		"Form": "が欲しいです",
-		"Search": [
+		"id": 11,
+		"sort": 50,
+		"title": "To want (object)",
+		"content": "11_to_want_object",
+		"jlpt": 5,
+		"form": "が欲しいです",
+		"search": [
 			"が欲しいです",
 			"欲しいです",
 			"がほしいです",
 			"ほしいです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"want",
 			"to want"
 		]
 	},
 	{
-		"Id": 12,
-		"Sort": 49,
-		"Title": "It would be better to",
-		"Text": "12_better_to",
-		"Jlpt": 5,
-		"Form": "ほうがいいです",
-		"Search": [
+		"id": 12,
+		"sort": 49,
+		"title": "It would be better to",
+		"content": "12_better_to",
+		"jlpt": 5,
+		"form": "ほうがいいです",
+		"search": [
 			"ほうがいいです",
 			"方がいいです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"had better",
 			"it would be better",
 			"would be better",
@@ -227,35 +227,35 @@
 		]
 	},
 	{
-		"Id": 13,
-		"Sort": 3,
-		"Title": "i-adjectives",
-		"Text": "13_i_adjectives",
-		"Jlpt": 5,
-		"Form": "",
-		"Search": [
+		"id": 13,
+		"sort": 3,
+		"title": "i-adjectives",
+		"content": "13_i_adjectives",
+		"jlpt": 5,
+		"form": "",
+		"search": [
 			"い形容詞"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"i adjectives",
 			"i-adjectives",
 			"adjectives"
 		]
 	},
 	{
-		"Id": 14,
-		"Sort": 25,
-		"Title": "The best, the most",
-		"Text": "14_best",
-		"Jlpt": 5,
-		"Form": "一番",
-		"Search": [
+		"id": 14,
+		"sort": 25,
+		"title": "The best, the most",
+		"content": "14_best",
+		"jlpt": 5,
+		"form": "一番",
+		"search": [
 			"一番",
 			"いちばん",
 			"最も",
 			"もっとも"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"the best",
 			"best",
 			"the most",
@@ -263,132 +263,132 @@
 		]
 	},
 	{
-		"Id": 15,
-		"Sort": 24,
-		"Title": "Together",
-		"Text": "15_together",
-		"Jlpt": 5,
-		"Form": "一緒に",
-		"Search": [
+		"id": 15,
+		"sort": 24,
+		"title": "Together",
+		"content": "15_together",
+		"jlpt": 5,
+		"form": "一緒に",
+		"search": [
 			"一緒に",
 			"いっしょに"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"together",
 			"with"
 		]
 	},
 	{
-		"Id": 16,
-		"Sort": 22,
-		"Title": "Always",
-		"Text": "16_always",
-		"Jlpt": 5,
-		"Form": "いつも",
-		"Search": [
+		"id": 16,
+		"sort": 22,
+		"title": "Always",
+		"content": "16_always",
+		"jlpt": 5,
+		"form": "いつも",
+		"search": [
 			"いつも"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"always"
 		]
 	},
 	{
-		"Id": 17,
-		"Sort": 8,
-		"Title": "Asking questions",
-		"Text": "17_questions",
-		"Jlpt": 5,
-		"Form": "",
-		"Search": [
+		"id": 17,
+		"sort": 8,
+		"title": "Asking questions",
+		"content": "17_questions",
+		"jlpt": 5,
+		"form": "",
+		"search": [
 			"か",
 			"の"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"asking questions",
 			"questions"
 		]
 	},
 	{
-		"Id": 18,
-		"Sort": 13,
-		"Title": "Because, from",
-		"Text": "18_because",
-		"Jlpt": 5,
-		"Form": "から",
-		"Search": [
+		"id": 18,
+		"sort": 13,
+		"title": "Because, from",
+		"content": "18_because",
+		"jlpt": 5,
+		"form": "から",
+		"search": [
 			"から",
 			"ので",
 			"んで"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"because",
 			"from",
 			"since"
 		]
 	},
 	{
-		"Id": 19,
-		"Sort": 28,
-		"Title": "Way of doing",
-		"Text": "19_way_of_doing",
-		"Jlpt": 5,
-		"Form": "方",
-		"Search": [
+		"id": 19,
+		"sort": 28,
+		"title": "Way of doing",
+		"content": "19_way_of_doing",
+		"jlpt": 5,
+		"form": "方",
+		"search": [
 			"方",
 			"かた"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"way of doing",
 			"how to do",
 			"to do"
 		]
 	},
 	{
-		"Id": 20,
-		"Sort": 17,
-		"Title": "However",
-		"Text": "20_however",
-		"Jlpt": 5,
-		"Form": "けど",
-		"Search": [
+		"id": 20,
+		"sort": 17,
+		"title": "However",
+		"content": "20_however",
+		"jlpt": 5,
+		"form": "けど",
+		"search": [
 			"けど",
 			"けれど",
 			"けれども",
 			"が"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"but",
 			"however",
 			"although"
 		]
 	},
 	{
-		"Id": 21,
-		"Sort": 18,
-		"Title": "Still, not yet",
-		"Text": "21_still",
-		"Jlpt": 5,
-		"Form": "まだ",
-		"Search": [
+		"id": 21,
+		"sort": 18,
+		"title": "Still, not yet",
+		"content": "21_still",
+		"jlpt": 5,
+		"form": "まだ",
+		"search": [
 			"まだ"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"still",
 			"not yet",
 			"yet"
 		]
 	},
 	{
-		"Id": 22,
-		"Sort": 14,
-		"Title": "Until, to",
-		"Text": "22_until",
-		"Jlpt": 5,
-		"Form": "まで",
-		"Search": [
+		"id": 22,
+		"sort": 14,
+		"title": "Until, to",
+		"content": "22_until",
+		"jlpt": 5,
+		"form": "まで",
+		"search": [
 			"まで"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"until",
 			"till",
 			"as far as",
@@ -396,31 +396,31 @@
 		]
 	},
 	{
-		"Id": 23,
-		"Sort": 21,
-		"Title": "Before",
-		"Text": "23_before",
-		"Jlpt": 5,
-		"Form": "前に",
-		"Search": [
+		"id": 23,
+		"sort": 21,
+		"title": "Before",
+		"content": "23_before",
+		"jlpt": 5,
+		"form": "前に",
+		"search": [
 			"前に",
 			"の前に",
 			"まえに",
 			"のまえに"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"before",
 			"in front of"
 		]
 	},
 	{
-		"Id": 24,
-		"Sort": 66,
-		"Title": "Proposals (volitional form)",
-		"Text": "24_volitional_form",
-		"Jlpt": 5,
-		"Form": "ましょう／ませんか",
-		"Search": [
+		"id": 24,
+		"sort": 66,
+		"title": "Proposals (volitional form)",
+		"content": "24_volitional_form",
+		"jlpt": 5,
+		"form": "ましょう／ませんか",
+		"search": [
 			"ませんか",
 			"ないか",
 			"ましょう",
@@ -431,7 +431,7 @@
 			"意向形",
 			"いこうけい"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"volitional form",
 			"would you like to",
 			"do you want to",
@@ -442,20 +442,20 @@
 		]
 	},
 	{
-		"Id": 25,
-		"Sort": 67,
-		"Title": "Offer assistance",
-		"Text": "25_offer_assistance",
-		"Jlpt": 5,
-		"Form": "ましょうか",
-		"Search": [
+		"id": 25,
+		"sort": 67,
+		"title": "Offer assistance",
+		"content": "25_offer_assistance",
+		"jlpt": 5,
+		"form": "ましょうか",
+		"search": [
 			"ましょうか",
 			"おうか",
 			"ようか",
 			"提案",
 			"ていあん"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"offer assistance",
 			"assistance",
 			"shall",
@@ -464,16 +464,16 @@
 		]
 	},
 	{
-		"Id": 26,
-		"Sort": 16,
-		"Title": "Already",
-		"Text": "26_already",
-		"Jlpt": 5,
-		"Form": "もう",
-		"Search": [
+		"id": 26,
+		"sort": 16,
+		"title": "Already",
+		"content": "26_already",
+		"jlpt": 5,
+		"form": "もう",
+		"search": [
 			"もう"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"already",
 			"anymore",
 			"more",
@@ -481,32 +481,32 @@
 		]
 	},
 	{
-		"Id": 27,
-		"Sort": 2,
-		"Title": "na-adjectives",
-		"Text": "27_na_adjectives",
-		"Jlpt": 5,
-		"Form": "",
-		"Search": [
+		"id": 27,
+		"sort": 2,
+		"title": "na-adjectives",
+		"content": "27_na_adjectives",
+		"jlpt": 5,
+		"form": "",
+		"search": [
 			"な形容詞"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"na adjectives",
 			"na-adjectives",
 			"adjectives"
 		]
 	},
 	{
-		"Id": 28,
-		"Sort": 40,
-		"Title": "Sentence-ending particle",
-		"Text": "28_sentence_ending_particle_ka",
-		"Jlpt": 5,
-		"Form": "か",
-		"Search": [
+		"id": 28,
+		"sort": 40,
+		"title": "Sentence-ending particle",
+		"content": "28_sentence_ending_particle_ka",
+		"jlpt": 5,
+		"form": "か",
+		"search": [
 			"か"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"sentence-ending particles",
 			"sentence ending particles",
 			"ending particles",
@@ -515,34 +515,34 @@
 		]
 	},
 	{
-		"Id": 29,
-		"Sort": 73,
-		"Title": "Without doing",
-		"Text": "29_without_doing",
-		"Jlpt": 5,
-		"Form": "ないで／ずに",
-		"Search": [
+		"id": 29,
+		"sort": 73,
+		"title": "Without doing",
+		"content": "29_without_doing",
+		"jlpt": 5,
+		"form": "ないで／ずに",
+		"search": [
 			"ないで",
 			"ずに"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"without doing"
 		]
 	},
 	{
-		"Id": 30,
-		"Sort": 56,
-		"Title": "Please don't",
-		"Text": "30_please_do_not",
-		"Jlpt": 5,
-		"Form": "ないでくださいませんか",
-		"Search": [
+		"id": 30,
+		"sort": 56,
+		"title": "Please don't",
+		"content": "30_please_do_not",
+		"jlpt": 5,
+		"form": "ないでくださいませんか",
+		"search": [
 			"ないでくださいませんか",
 			"ないで下さいませんか",
 			"ないでくれる",
 			"ないでくれます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"please don't",
 			"please do not",
 			"don't",
@@ -550,13 +550,13 @@
 		]
 	},
 	{
-		"Id": 31,
-		"Sort": 57,
-		"Title": "Must do",
-		"Text": "31_must_do",
-		"Jlpt": 5,
-		"Form": "ないといけません",
-		"Search": [
+		"id": 31,
+		"sort": 57,
+		"title": "Must do",
+		"content": "31_must_do",
+		"jlpt": 5,
+		"form": "ないといけません",
+		"search": [
 			"ないといけません",
 			"ければいけない",
 			"ければいけません",
@@ -567,22 +567,22 @@
 			"ないと",
 			"なきゃ"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"must do"
 		]
 	},
 	{
-		"Id": 32,
-		"Sort": 54,
-		"Title": "Not have to do",
-		"Text": "32_not_have_to_do",
-		"Jlpt": 5,
-		"Form": "なくてもいいです",
-		"Search": [
+		"id": 32,
+		"sort": 54,
+		"title": "Not have to do",
+		"content": "32_not_have_to_do",
+		"jlpt": 5,
+		"form": "なくてもいいです",
+		"search": [
 			"なくてもいいです",
 			"てもいいです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"not have to do",
 			"don't have to do",
 			"no need to do",
@@ -590,13 +590,13 @@
 		]
 	},
 	{
-		"Id": 33,
-		"Sort": 46,
-		"Title": "To become",
-		"Text": "33_become",
-		"Jlpt": 5,
-		"Form": "なります",
-		"Search": [
+		"id": 33,
+		"sort": 46,
+		"title": "To become",
+		"content": "33_become",
+		"jlpt": 5,
+		"form": "なります",
+		"search": [
 			"なります",
 			"になります",
 			"くなります",
@@ -606,18 +606,18 @@
 			"ようになる",
 			"ようになります"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to become"
 		]
 	},
 	{
-		"Id": 34,
-		"Sort": 62,
-		"Title": "Explanatory form",
-		"Text": "34_explanatory_form",
-		"Jlpt": 5,
-		"Form": "んです",
-		"Search": [
+		"id": 34,
+		"sort": 62,
+		"title": "Explanatory form",
+		"content": "34_explanatory_form",
+		"jlpt": 5,
+		"form": "んです",
+		"search": [
 			"のですか",
 			"んですか",
 			"のですね",
@@ -629,24 +629,24 @@
 			"どうした",
 			"なんで"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"explanatory form"
 		]
 	},
 	{
-		"Id": 35,
-		"Sort": 45,
-		"Title": "Go to in order to",
-		"Text": "35_go_to_in_order_to",
-		"Jlpt": 5,
-		"Form": "に行きます",
-		"Search": [
+		"id": 35,
+		"sort": 45,
+		"title": "Go to in order to",
+		"content": "35_go_to_in_order_to",
+		"jlpt": 5,
+		"form": "に行きます",
+		"search": [
 			"に行きます",
 			"にいきます",
 			"に行く",
 			"にいく"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to go to in order to",
 			"go to in order to",
 			"in order to",
@@ -654,13 +654,13 @@
 		]
 	},
 	{
-		"Id": 36,
-		"Sort": 71,
-		"Title": "To decide",
-		"Text": "36_decide",
-		"Jlpt": 5,
-		"Form": "にします",
-		"Search": [
+		"id": 36,
+		"sort": 71,
+		"title": "To decide",
+		"content": "36_decide",
+		"jlpt": 5,
+		"form": "にします",
+		"search": [
 			"にします",
 			"事にします",
 			"ことにします",
@@ -668,25 +668,25 @@
 			"事にする",
 			"ことにする"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to decide on",
 			"decide on"
 		]
 	},
 	{
-		"Id": 37,
-		"Sort": 26,
-		"Title": "The best among",
-		"Text": "37_best_among",
-		"Jlpt": 5,
-		"Form": "の中で一番",
-		"Search": [
+		"id": 37,
+		"sort": 26,
+		"title": "The best among",
+		"content": "37_best_among",
+		"jlpt": 5,
+		"form": "の中で一番",
+		"search": [
 			"の中で一番です",
 			"のなかでいちばんです",
 			"一番です",
 			"いちばんです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"the best amongst",
 			"best amongst",
 			"in",
@@ -694,44 +694,44 @@
 		]
 	},
 	{
-		"Id": 38,
-		"Sort": 20,
-		"Title": "And then",
-		"Text": "38_and_then",
-		"Jlpt": 5,
-		"Form": "そして",
-		"Search": [
+		"id": 38,
+		"sort": 20,
+		"title": "And then",
+		"content": "38_and_then",
+		"jlpt": 5,
+		"form": "そして",
+		"search": [
 			"そして"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"and then",
 			"thus",
 			"and now"
 		]
 	},
 	{
-		"Id": 39,
-		"Sort": 72,
-		"Title": "Too much",
-		"Text": "39_too_much",
-		"Jlpt": 5,
-		"Form": "すぎります",
-		"Search": [
+		"id": 39,
+		"sort": 72,
+		"title": "Too much",
+		"content": "39_too_much",
+		"jlpt": 5,
+		"form": "すぎります",
+		"search": [
 			"すぎります",
 			"すぎる"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"too much"
 		]
 	},
 	{
-		"Id": 40,
-		"Sort": 48,
-		"Title": "Experience",
-		"Text": "40_experience",
-		"Jlpt": 5,
-		"Form": "事があります",
-		"Search": [
+		"id": 40,
+		"sort": 48,
+		"title": "Experience",
+		"content": "40_experience",
+		"jlpt": 5,
+		"form": "事があります",
+		"search": [
 			"た事がある",
 			"たことがある",
 			"た事があります",
@@ -749,7 +749,7 @@
 			"事がありません",
 			"ことがありません"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"experience",
 			"has been done before",
 			"have done before",
@@ -759,16 +759,16 @@
 		]
 	},
 	{
-		"Id": 41,
-		"Sort": 69,
-		"Title": "To want to do",
-		"Text": "41_to_want_to_do",
-		"Jlpt": 5,
-		"Form": "たいです",
-		"Search": [
+		"id": 41,
+		"sort": 69,
+		"title": "To want to do",
+		"content": "41_to_want_to_do",
+		"jlpt": 5,
+		"form": "たいです",
+		"search": [
 			"たいです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to want to do",
 			"want to do",
 			"desires",
@@ -776,13 +776,13 @@
 		]
 	},
 	{
-		"Id": 42,
-		"Sort": 68,
-		"Title": "Listing things",
-		"Text": "42_listing_things",
-		"Jlpt": 5,
-		"Form": "~たり~たり",
-		"Search": [
+		"id": 42,
+		"sort": 68,
+		"title": "Listing things",
+		"content": "42_listing_things",
+		"jlpt": 5,
+		"form": "~たり~たり",
+		"search": [
 			"たり",
 			"たりする",
 			"だったり",
@@ -792,24 +792,24 @@
 			"かったりだ",
 			"かったりです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"list things",
 			"listing things",
 			"things"
 		]
 	},
 	{
-		"Id": 43,
-		"Sort": 60,
-		"Title": "Something is done",
-		"Text": "43_something_is_done",
-		"Jlpt": 5,
-		"Form": "てあります",
-		"Search": [
+		"id": 43,
+		"sort": 60,
+		"title": "Something is done",
+		"content": "43_something_is_done",
+		"jlpt": 5,
+		"form": "てあります",
+		"search": [
 			"てある",
 			"てあります"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"something is done",
 			"is done",
 			"done",
@@ -817,13 +817,13 @@
 		]
 	},
 	{
-		"Id": 44,
-		"Sort": 59,
-		"Title": "Ongoing action, changing a state",
-		"Text": "44_ongoing_action",
-		"Jlpt": 5,
-		"Form": "ています",
-		"Search": [
+		"id": 44,
+		"sort": 59,
+		"title": "Ongoing action, changing a state",
+		"content": "44_ongoing_action",
+		"jlpt": 5,
+		"form": "ています",
+		"search": [
 			"ている",
 			"ています",
 			"ていない",
@@ -841,7 +841,7 @@
 			"でない",
 			"でません"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"ongoing action",
 			"changing a state",
 			"change of a state",
@@ -855,13 +855,13 @@
 		]
 	},
 	{
-		"Id": 45,
-		"Sort": 61,
-		"Title": "After",
-		"Text": "45_after",
-		"Jlpt": 5,
-		"Form": "てから",
-		"Search": [
+		"id": 45,
+		"sort": 61,
+		"title": "After",
+		"content": "45_after",
+		"jlpt": 5,
+		"form": "てから",
+		"search": [
 			"てから",
 			"でから",
 			"た後で",
@@ -871,38 +871,38 @@
 			"だあとで",
 			"のあとで"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"after"
 		]
 	},
 	{
-		"Id": 46,
-		"Sort": 55,
-		"Title": "Please do",
-		"Text": "46_please_do",
-		"Jlpt": 5,
-		"Form": "てくださいませんか",
-		"Search": [
+		"id": 46,
+		"sort": 55,
+		"title": "Please do",
+		"content": "46_please_do",
+		"jlpt": 5,
+		"form": "てくださいませんか",
+		"search": [
 			"てくださいませんか",
 			"て下さいませんか"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"please do",
 			"do"
 		]
 	},
 	{
-		"Id": 47,
-		"Sort": 53,
-		"Title": "It is allowed to do",
-		"Text": "47_allowed_to_do",
-		"Jlpt": 5,
-		"Form": "てもいいです",
-		"Search": [
+		"id": 47,
+		"sort": 53,
+		"title": "It is allowed to do",
+		"content": "47_allowed_to_do",
+		"jlpt": 5,
+		"form": "てもいいです",
+		"search": [
 			"てもいいです",
 			"でもいいです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"it is allowed to do",
 			"it is ok to do",
 			"allowed to do",
@@ -911,17 +911,17 @@
 		]
 	},
 	{
-		"Id": 48,
-		"Sort": 19,
-		"Title": "Very",
-		"Text": "48_very",
-		"Jlpt": 5,
-		"Form": "とても",
-		"Search": [
+		"id": 48,
+		"sort": 19,
+		"title": "Very",
+		"content": "48_very",
+		"jlpt": 5,
+		"form": "とても",
+		"search": [
 			"とても",
 			"とっても"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"very",
 			"awfully",
 			"extremely",
@@ -929,16 +929,16 @@
 		]
 	},
 	{
-		"Id": 49,
-		"Sort": 70,
-		"Title": "To intend",
-		"Text": "49_to_intend",
-		"Jlpt": 5,
-		"Form": "つもりです",
-		"Search": [
+		"id": 49,
+		"sort": 70,
+		"title": "To intend",
+		"content": "49_to_intend",
+		"jlpt": 5,
+		"form": "つもりです",
+		"search": [
 			"つもりです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to intend to",
 			"intend to",
 			"intent",
@@ -947,34 +947,34 @@
 		]
 	},
 	{
-		"Id": 50,
-		"Sort": 27,
-		"Title": "Than",
-		"Text": "50_than",
-		"Jlpt": 5,
-		"Form": "より",
-		"Search": [
+		"id": 50,
+		"sort": 27,
+		"title": "Than",
+		"content": "50_than",
+		"jlpt": 5,
+		"form": "より",
+		"search": [
 			"より",
 			"の方が",
 			"のほうが"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"comparison",
 			"than"
 		]
 	},
 	{
-		"Id": 51,
-		"Sort": 12,
-		"Title": "What about",
-		"Text": "51_what_about",
-		"Jlpt": 5,
-		"Form": "どうですか",
-		"Search": [
+		"id": 51,
+		"sort": 12,
+		"title": "What about",
+		"content": "51_what_about",
+		"jlpt": 5,
+		"form": "どうですか",
+		"search": [
 			"どうですか",
 			"どうでしたか"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"what about",
 			"how about",
 			"how is",
@@ -982,13 +982,13 @@
 		]
 	},
 	{
-		"Id": 52,
-		"Sort": 51,
-		"Title": "te-form",
-		"Text": "52_te_form",
-		"Jlpt": 5,
-		"Form": "",
-		"Search": [
+		"id": 52,
+		"sort": 51,
+		"title": "te-form",
+		"content": "52_te_form",
+		"jlpt": 5,
+		"form": "",
+		"search": [
 			"て",
 			"で",
 			"テ形",
@@ -996,25 +996,25 @@
 			"テけい",
 			"てけい"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"te-form",
 			"te form"
 		]
 	},
 	{
-		"Id": 53,
-		"Sort": 17,
-		"Title": "During",
-		"Text": "53_during",
-		"Jlpt": 4,
-		"Form": "間",
-		"Search": [
+		"id": 53,
+		"sort": 17,
+		"title": "During",
+		"content": "53_during",
+		"jlpt": 4,
+		"form": "間",
+		"search": [
 			"間",
 			"あいだ",
 			"間に",
 			"あいだに"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"during",
 			"while",
 			"when",
@@ -1022,17 +1022,17 @@
 		]
 	},
 	{
-		"Id": 54,
-		"Sort": 1,
-		"Title": "Hardly",
-		"Text": "54_hardly",
-		"Jlpt": 4,
-		"Form": "あまり",
-		"Search": [
+		"id": 54,
+		"sort": 1,
+		"title": "Hardly",
+		"content": "54_hardly",
+		"jlpt": 4,
+		"form": "あまり",
+		"search": [
 			"あまり",
 			"あんまり"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"hardly",
 			"not very",
 			"very",
@@ -1044,36 +1044,36 @@
 		]
 	},
 	{
-		"Id": 55,
-		"Sort": 24,
-		"Title": "ba-form",
-		"Text": "55_ba_form",
-		"Jlpt": 4,
-		"Form": "",
-		"Search": [
+		"id": 55,
+		"sort": 24,
+		"title": "ba-form",
+		"content": "55_ba_form",
+		"jlpt": 4,
+		"form": "",
+		"search": [
 			"ば",
 			"えば",
 			"ければ",
 			"ならば",
 			"であれば"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"ba-form",
 			"ba form"
 		]
 	},
 	{
-		"Id": 56,
-		"Sort": 9,
-		"Title": "In the case",
-		"Text": "56_in_the_case",
-		"Jlpt": 4,
-		"Form": "場合",
-		"Search": [
+		"id": 56,
+		"sort": 9,
+		"title": "In the case",
+		"content": "56_in_the_case",
+		"jlpt": 4,
+		"form": "場合",
+		"search": [
 			"場合は",
 			"ばあいは"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"in the event of",
 			"in the case that",
 			"in case",
@@ -1082,33 +1082,33 @@
 		]
 	},
 	{
-		"Id": 57,
-		"Sort": 11,
-		"Title": "Nothing but",
-		"Text": "57_nothing_but",
-		"Jlpt": 4,
-		"Form": "ばかり",
-		"Search": [
+		"id": 57,
+		"sort": 11,
+		"title": "Nothing but",
+		"content": "57_nothing_but",
+		"jlpt": 4,
+		"form": "ばかり",
+		"search": [
 			"ばかり",
 			"ばっかり"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"only",
 			"nothing but"
 		]
 	},
 	{
-		"Id": 58,
-		"Sort": 6,
-		"Title": "To start doing suddenly",
-		"Text": "58_start_doing_suddenly",
-		"Jlpt": 4,
-		"Form": "出す",
-		"Search": [
+		"id": 58,
+		"sort": 6,
+		"title": "To start doing suddenly",
+		"content": "58_start_doing_suddenly",
+		"jlpt": 4,
+		"form": "出す",
+		"search": [
 			"出す",
 			"だす"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to start doing suddenly",
 			"start doing suddenly",
 			"doing suddenly",
@@ -1120,13 +1120,13 @@
 		]
 	},
 	{
-		"Id": 59,
-		"Sort": 113,
-		"Title": "Humble expressions - indirect",
-		"Text": "59_humble_expressions_indirect",
-		"Jlpt": 4,
-		"Form": "謙譲語",
-		"Search": [
+		"id": 59,
+		"sort": 113,
+		"title": "Humble expressions - indirect",
+		"content": "59_humble_expressions_indirect",
+		"jlpt": 4,
+		"form": "謙譲語",
+		"search": [
 			"謙譲語",
 			"けんじょうご",
 			"参る",
@@ -1156,7 +1156,7 @@
 			"存じます",
 			"ぞんじます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"humble expressions",
 			"expressions",
 			"polite",
@@ -1165,18 +1165,18 @@
 		]
 	},
 	{
-		"Id": 60,
-		"Sort": 7,
-		"Title": "Confirmation",
-		"Text": "60_confirmation",
-		"Jlpt": 4,
-		"Form": "じゃないか",
-		"Search": [
+		"id": 60,
+		"sort": 7,
+		"title": "Confirmation",
+		"content": "60_confirmation",
+		"jlpt": 4,
+		"form": "じゃないか",
+		"search": [
 			"じゃないか",
 			"ではないか",
 			"ではありませんか"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"right?",
 			"isn't it?",
 			"isnt it?",
@@ -1185,13 +1185,13 @@
 		]
 	},
 	{
-		"Id": 61,
-		"Sort": 8,
-		"Title": "Necessity",
-		"Text": "61_necessity",
-		"Jlpt": 4,
-		"Form": "必要です",
-		"Search": [
+		"id": 61,
+		"sort": 8,
+		"title": "Necessity",
+		"content": "61_necessity",
+		"jlpt": 4,
+		"form": "必要です",
+		"search": [
 			"が必要だ",
 			"が必要です",
 			"は必要だ",
@@ -1211,7 +1211,7 @@
 			"ひつようがありません",
 			"ひつようではありません"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"necessity",
 			"necessary",
 			"it is a necessity",
@@ -1222,17 +1222,17 @@
 		]
 	},
 	{
-		"Id": 62,
-		"Sort": 35,
-		"Title": "Hear, taste, smell",
-		"Text": "62_ga_suru_verbs",
-		"Jlpt": 4,
-		"Form": "がします",
-		"Search": [
+		"id": 62,
+		"sort": 35,
+		"title": "Hear, taste, smell",
+		"content": "62_ga_suru_verbs",
+		"jlpt": 4,
+		"form": "がします",
+		"search": [
 			"がする",
 			"がします"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to hear",
 			"to taste",
 			"to smell",
@@ -1242,20 +1242,20 @@
 		]
 	},
 	{
-		"Id": 63,
-		"Sort": 33,
-		"Title": "Tendency or sensitivity",
-		"Text": "63_tendency",
-		"Jlpt": 4,
-		"Form": "がり",
-		"Search": [
+		"id": 63,
+		"sort": 33,
+		"title": "Tendency or sensitivity",
+		"content": "63_tendency",
+		"jlpt": 4,
+		"form": "がり",
+		"search": [
 			"がり",
 			"がり屋",
 			"がり屋さん",
 			"がりや",
 			"がりやさん"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"personality",
 			"to tend to",
 			"tend to",
@@ -1270,19 +1270,19 @@
 		]
 	},
 	{
-		"Id": 64,
-		"Sort": 32,
-		"Title": "To show signs of",
-		"Text": "64_show_signs",
-		"Jlpt": 4,
-		"Form": "たがります",
-		"Search": [
+		"id": 64,
+		"sort": 32,
+		"title": "To show signs of",
+		"content": "64_show_signs",
+		"jlpt": 4,
+		"form": "たがります",
+		"search": [
 			"がる",
 			"たがる",
 			"がります",
 			"たがります"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to show signs of",
 			"show signs of",
 			"signs of",
@@ -1295,19 +1295,19 @@
 		]
 	},
 	{
-		"Id": 65,
-		"Sort": 52,
-		"Title": "To begin",
-		"Text": "65_to_begin",
-		"Jlpt": 4,
-		"Form": "始めます",
-		"Search": [
+		"id": 65,
+		"sort": 52,
+		"title": "To begin",
+		"content": "65_to_begin",
+		"jlpt": 4,
+		"form": "始めます",
+		"search": [
 			"始める",
 			"はじめる",
 			"始めます",
 			"はじめます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to begin something",
 			"to start something",
 			"begin something",
@@ -1315,20 +1315,20 @@
 		]
 	},
 	{
-		"Id": 66,
-		"Sort": 42,
-		"Title": "It must (not) be",
-		"Text": "66_it_must_be",
-		"Jlpt": 4,
-		"Form": "はずです",
-		"Search": [
+		"id": 66,
+		"sort": 42,
+		"title": "It must (not) be",
+		"content": "66_it_must_be",
+		"jlpt": 4,
+		"form": "はずです",
+		"search": [
 			"はずだ",
 			"はずです",
 			"はずがない",
 			"はずがありません",
 			"はずではありません"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"must be the case",
 			"must be",
 			"should be",
@@ -1341,84 +1341,84 @@
 		]
 	},
 	{
-		"Id": 67,
-		"Sort": 109,
-		"Title": "Honorific expressions",
-		"Text": "67_honorific_expressions",
-		"Jlpt": 4,
-		"Form": "尊敬語",
-		"Search": [
+		"id": 67,
+		"sort": 109,
+		"title": "Honorific expressions",
+		"content": "67_honorific_expressions",
+		"jlpt": 4,
+		"form": "尊敬語",
+		"search": [
 			"尊敬語",
 			"そんけいご",
 			"いらっしゃる",
 			"いらっしゃいます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"honorific expressions",
 			"expressions",
 			"polite"
 		]
 	},
 	{
-		"Id": 68,
-		"Sort": 36,
-		"Title": "Whether or not",
-		"Text": "68_whether_or_not",
-		"Jlpt": 4,
-		"Form": "かどうか",
-		"Search": [
+		"id": 68,
+		"sort": 36,
+		"title": "Whether or not",
+		"content": "68_whether_or_not",
+		"jlpt": 4,
+		"form": "かどうか",
+		"search": [
 			"かどうか"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"whether or not",
 			"if",
 			"or"
 		]
 	},
 	{
-		"Id": 69,
-		"Sort": 37,
-		"Title": "I wonder",
-		"Text": "69_i_wonder",
-		"Jlpt": 4,
-		"Form": "かな、かしら",
-		"Search": [
+		"id": 69,
+		"sort": 37,
+		"title": "I wonder",
+		"content": "69_i_wonder",
+		"jlpt": 4,
+		"form": "かな、かしら",
+		"search": [
 			"かな",
 			"かしら"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"i wonder",
 			"wondering",
 			"i was wondering"
 		]
 	},
 	{
-		"Id": 70,
-		"Sort": 39,
-		"Title": "Yes or no questions",
-		"Text": "70_yes_no_questions",
-		"Jlpt": 4,
-		"Form": "かい",
-		"Search": [
+		"id": 70,
+		"sort": 39,
+		"title": "Yes or no questions",
+		"content": "70_yes_no_questions",
+		"jlpt": 4,
+		"form": "かい",
+		"search": [
 			"かい"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"yes or no questions",
 			"yes no questions"
 		]
 	},
 	{
-		"Id": 71,
-		"Sort": 41,
-		"Title": "Probably (not certain)",
-		"Text": "71_probably_kamo",
-		"Jlpt": 4,
-		"Form": "かもしれません",
-		"Search": [
+		"id": 71,
+		"sort": 41,
+		"title": "Probably (not certain)",
+		"content": "71_probably_kamo",
+		"jlpt": 4,
+		"form": "かもしれません",
+		"search": [
 			"かもしれない",
 			"かもしれません"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"probably",
 			"perhaps",
 			"might",
@@ -1426,13 +1426,13 @@
 		]
 	},
 	{
-		"Id": 72,
-		"Sort": 38,
-		"Title": "To be made of",
-		"Text": "72_to_be_made_of",
-		"Jlpt": 4,
-		"Form": "から作ります",
-		"Search": [
+		"id": 72,
+		"sort": 38,
+		"title": "To be made of",
+		"content": "72_to_be_made_of",
+		"jlpt": 4,
+		"form": "から作ります",
+		"search": [
 			"から作る",
 			"からつくる",
 			"から作られる",
@@ -1446,24 +1446,24 @@
 			"作ります",
 			"つくります"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to be made of",
 			"made of"
 		]
 	},
 	{
-		"Id": 73,
-		"Sort": 19,
-		"Title": "Period of time",
-		"Text": "73_period_of_time",
-		"Jlpt": 4,
-		"Form": "頃",
-		"Search": [
+		"id": 73,
+		"sort": 19,
+		"title": "Period of time",
+		"content": "73_period_of_time",
+		"jlpt": 4,
+		"form": "頃",
+		"search": [
 			"頃",
 			"ころ",
 			"ごろ"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"period of time",
 			"days when",
 			"around",
@@ -1471,18 +1471,18 @@
 		]
 	},
 	{
-		"Id": 74,
-		"Sort": 58,
-		"Title": "Verb nominalisation",
-		"Text": "74_verb_nominalisation",
-		"Jlpt": 4,
-		"Form": "",
-		"Search": [
+		"id": 74,
+		"sort": 58,
+		"title": "Verb nominalisation",
+		"content": "74_verb_nominalisation",
+		"jlpt": 4,
+		"form": "",
+		"search": [
 			"の",
 			"事",
 			"こと"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"Verb nominalising",
 			"Verb nominaliser",
 			"Verb nominalizing",
@@ -1492,13 +1492,13 @@
 		]
 	},
 	{
-		"Id": 75,
-		"Sort": 61,
-		"Title": "It is possible",
-		"Text": "75_it_is_possible",
-		"Jlpt": 4,
-		"Form": "事ができます",
-		"Search": [
+		"id": 75,
+		"sort": 61,
+		"title": "It is possible",
+		"content": "75_it_is_possible",
+		"jlpt": 4,
+		"form": "事ができます",
+		"search": [
 			"事が出来る",
 			"ことが出来る",
 			"事ができる",
@@ -1508,7 +1508,7 @@
 			"事ができます",
 			"ことができます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"it is possible",
 			"possible",
 			"can",
@@ -1516,13 +1516,13 @@
 		]
 	},
 	{
-		"Id": 76,
-		"Sort": 62,
-		"Title": "It turned out",
-		"Text": "76_it_turned_out",
-		"Jlpt": 4,
-		"Form": "ことになります",
-		"Search": [
+		"id": 76,
+		"sort": 62,
+		"title": "It turned out",
+		"content": "76_it_turned_out",
+		"jlpt": 4,
+		"form": "ことになります",
+		"search": [
 			"事になる",
 			"ことになる",
 			"事になります",
@@ -1532,7 +1532,7 @@
 			"事になりました",
 			"ことになりました"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"it turned out",
 			"turned out",
 			"turn out",
@@ -1540,36 +1540,36 @@
 		]
 	},
 	{
-		"Id": 77,
-		"Sort": 40,
-		"Title": "To make + adjective",
-		"Text": "77_to_make_adjective",
-		"Jlpt": 4,
-		"Form": "くなります／になります",
-		"Search": [
+		"id": 77,
+		"sort": 40,
+		"title": "To make + adjective",
+		"content": "77_to_make_adjective",
+		"jlpt": 4,
+		"form": "くなります／になります",
+		"search": [
 			"くなる",
 			"になる",
 			"くなります",
 			"になります"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to make",
 			"make",
 			"adjective"
 		]
 	},
 	{
-		"Id": 78,
-		"Sort": 5,
-		"Title": "Suddenly",
-		"Text": "78_suddenly",
-		"Jlpt": 4,
-		"Form": "急に",
-		"Search": [
+		"id": 78,
+		"sort": 5,
+		"title": "Suddenly",
+		"content": "78_suddenly",
+		"jlpt": 4,
+		"form": "急に",
+		"search": [
 			"急に",
 			"きゅうに"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"suddenly",
 			"quickly",
 			"unexpectedly",
@@ -1577,48 +1577,48 @@
 		]
 	},
 	{
-		"Id": 79,
-		"Sort": 16,
-		"Title": "By",
-		"Text": "79_by",
-		"Jlpt": 4,
-		"Form": "までに",
-		"Search": [
+		"id": 79,
+		"sort": 16,
+		"title": "By",
+		"content": "79_by",
+		"jlpt": 4,
+		"form": "までに",
+		"search": [
 			"までに"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"by"
 		]
 	},
 	{
-		"Id": 80,
-		"Sort": 10,
-		"Title": "As it is",
-		"Text": "80_as_it_is",
-		"Jlpt": 4,
-		"Form": "まま",
-		"Search": [
+		"id": 80,
+		"sort": 10,
+		"title": "As it is",
+		"content": "80_as_it_is",
+		"jlpt": 4,
+		"form": "まま",
+		"search": [
 			"まま",
 			"そのまま"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"as it is",
 			"current state",
 			"without changing"
 		]
 	},
 	{
-		"Id": 81,
-		"Sort": 43,
-		"Title": "A or B",
-		"Text": "81_a_or_b",
-		"Jlpt": 4,
-		"Form": "又は",
-		"Search": [
+		"id": 81,
+		"sort": 43,
+		"title": "A or B",
+		"content": "81_a_or_b",
+		"jlpt": 4,
+		"form": "又は",
+		"search": [
 			"又は",
 			"または"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"both",
 			"or",
 			"a or b",
@@ -1626,17 +1626,17 @@
 		]
 	},
 	{
-		"Id": 82,
-		"Sort": 72,
-		"Title": "It looks like",
-		"Text": "82_it_looks_like",
-		"Jlpt": 4,
-		"Form": "みたいです",
-		"Search": [
+		"id": 82,
+		"sort": 72,
+		"title": "It looks like",
+		"content": "82_it_looks_like",
+		"jlpt": 4,
+		"form": "みたいです",
+		"search": [
 			"みたいだ",
 			"みたいです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"it is like",
 			"it seems",
 			"like",
@@ -1647,32 +1647,32 @@
 		]
 	},
 	{
-		"Id": 83,
-		"Sort": 73,
-		"Title": "Similar to (by appearance)",
-		"Text": "83_object_similar_to",
-		"Jlpt": 4,
-		"Form": "みたいな",
-		"Search": [
+		"id": 83,
+		"sort": 73,
+		"title": "Similar to (by appearance)",
+		"content": "83_object_similar_to",
+		"jlpt": 4,
+		"form": "みたいな",
+		"search": [
 			"みたいな"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"object similar to",
 			"similar to",
 			"like"
 		]
 	},
 	{
-		"Id": 84,
-		"Sort": 74,
-		"Title": "Do like",
-		"Text": "84_do_like",
-		"Jlpt": 4,
-		"Form": "みたいに",
-		"Search": [
+		"id": 84,
+		"sort": 74,
+		"title": "Do like",
+		"content": "84_do_like",
+		"jlpt": 4,
+		"form": "みたいに",
+		"search": [
 			"みたいに"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"do like",
 			"like",
 			"do similarly",
@@ -1682,17 +1682,17 @@
 		]
 	},
 	{
-		"Id": 85,
-		"Sort": 13,
-		"Title": "As many as / As few as",
-		"Text": "85_as_many_as_only",
-		"Jlpt": 4,
-		"Form": "も／しか",
-		"Search": [
+		"id": 85,
+		"sort": 13,
+		"title": "As many as / As few as",
+		"content": "85_as_many_as_only",
+		"jlpt": 4,
+		"form": "も／しか",
+		"search": [
 			"も",
 			"しか"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"as many as",
 			"as much as",
 			"up to",
@@ -1702,13 +1702,13 @@
 		]
 	},
 	{
-		"Id": 86,
-		"Sort": 0,
-		"Title": "Causative passive short form",
-		"Text": "86_causative_passive_short",
-		"Jlpt": 4,
-		"Form": "～あされる",
-		"Search": [
+		"id": 86,
+		"sort": 0,
+		"title": "Causative passive short form",
+		"content": "86_causative_passive_short",
+		"jlpt": 4,
+		"form": "～あされる",
+		"search": [
 			"あせられる",
 			"させられる",
 			"わせられる",
@@ -1750,7 +1750,7 @@
 			"使役受身形",
 			"しえきうけみけい"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"causative passive short form",
 			"causative passive form",
 			"passive form",
@@ -1769,32 +1769,32 @@
 		]
 	},
 	{
-		"Id": 87,
-		"Sort": 44,
-		"Title": "Things like",
-		"Text": "87_things_like",
-		"Jlpt": 4,
-		"Form": "など",
-		"Search": [
+		"id": 87,
+		"sort": 44,
+		"title": "Things like",
+		"content": "87_things_like",
+		"jlpt": 4,
+		"form": "など",
+		"search": [
 			"など",
 			"や"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"things like",
 			"such as"
 		]
 	},
 	{
-		"Id": 88,
-		"Sort": 18,
-		"Title": "While, during",
-		"Text": "88_during",
-		"Jlpt": 4,
-		"Form": "ながら",
-		"Search": [
+		"id": 88,
+		"sort": 18,
+		"title": "While, during",
+		"content": "88_during",
+		"jlpt": 4,
+		"form": "ながら",
+		"search": [
 			"ながら"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"during",
 			"while",
 			"simultaneously",
@@ -1802,16 +1802,16 @@
 		]
 	},
 	{
-		"Id": 89,
-		"Sort": 51,
-		"Title": "Not easy to",
-		"Text": "89_not_easy_to",
-		"Jlpt": 4,
-		"Form": "なかなか~ない",
-		"Search": [
+		"id": 89,
+		"sort": 51,
+		"title": "Not easy to",
+		"content": "89_not_easy_to",
+		"jlpt": 4,
+		"form": "なかなか~ない",
+		"search": [
 			"なかなか"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"not easy to",
 			"struggling to",
 			"not able to",
@@ -1822,16 +1822,16 @@
 		]
 	},
 	{
-		"Id": 90,
-		"Sort": 20,
-		"Title": "Conditionals (と)",
-		"Text": "90_conditionals_to",
-		"Jlpt": 4,
-		"Form": "",
-		"Search": [
+		"id": 90,
+		"sort": 20,
+		"title": "Conditionals (と)",
+		"content": "90_conditionals_to",
+		"jlpt": 4,
+		"form": "",
+		"search": [
 			"と"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"if",
 			"when",
 			"conditionals",
@@ -1843,35 +1843,35 @@
 		]
 	},
 	{
-		"Id": 91,
-		"Sort": 63,
-		"Title": "Do this",
-		"Text": "91_do_this",
-		"Jlpt": 4,
-		"Form": "なさい",
-		"Search": [
+		"id": 91,
+		"sort": 63,
+		"title": "Do this",
+		"content": "91_do_this",
+		"jlpt": 4,
+		"form": "なさい",
+		"search": [
 			"なさい"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"do this",
 			"command",
 			"order"
 		]
 	},
 	{
-		"Id": 92,
-		"Sort": 80,
-		"Title": "It seems like",
-		"Text": "92_it_seems_like",
-		"Jlpt": 4,
-		"Form": "に見えます",
-		"Search": [
+		"id": 92,
+		"sort": 80,
+		"title": "It seems like",
+		"content": "92_it_seems_like",
+		"jlpt": 4,
+		"form": "に見えます",
+		"search": [
 			"に見える",
 			"にみえる",
 			"に見えます",
 			"にみえます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"it is like",
 			"it seems",
 			"like",
@@ -1880,16 +1880,16 @@
 		]
 	},
 	{
-		"Id": 93,
-		"Sort": 54,
-		"Title": "It is difficult to",
-		"Text": "93_difficult_to",
-		"Jlpt": 4,
-		"Form": "にくいです",
-		"Search": [
+		"id": 93,
+		"sort": 54,
+		"title": "It is difficult to",
+		"content": "93_difficult_to",
+		"jlpt": 4,
+		"form": "にくいです",
+		"search": [
 			"にくいです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"it is difficult to",
 			"difficult to",
 			"it is hard to",
@@ -1897,17 +1897,17 @@
 		]
 	},
 	{
-		"Id": 94,
-		"Sort": 30,
-		"Title": "Despite, even though",
-		"Text": "94_despite",
-		"Jlpt": 4,
-		"Form": "のに",
-		"Search": [
+		"id": 94,
+		"sort": 30,
+		"title": "Despite, even though",
+		"content": "94_despite",
+		"jlpt": 4,
+		"form": "のに",
+		"search": [
 			"のに",
 			"なのに"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"despite",
 			"but",
 			"even though",
@@ -1918,35 +1918,35 @@
 		]
 	},
 	{
-		"Id": 95,
-		"Sort": 46,
-		"Title": "Every (equal intervals)",
-		"Text": "95_every_intervals",
-		"Jlpt": 4,
-		"Form": "おきに",
-		"Search": [
+		"id": 95,
+		"sort": 46,
+		"title": "Every (equal intervals)",
+		"content": "95_every_intervals",
+		"jlpt": 4,
+		"form": "おきに",
+		"search": [
 			"おきに"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"every",
 			"intervals",
 			"repeated"
 		]
 	},
 	{
-		"Id": 96,
-		"Sort": 57,
-		"Title": "To finish",
-		"Text": "96_to_finish",
-		"Jlpt": 4,
-		"Form": "終わります",
-		"Search": [
+		"id": 96,
+		"sort": 57,
+		"title": "To finish",
+		"content": "96_to_finish",
+		"jlpt": 4,
+		"form": "終わります",
+		"search": [
 			"終わる",
 			"おわる",
 			"終わります",
 			"おわります"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to end something",
 			"to finish something",
 			"end something",
@@ -1954,13 +1954,13 @@
 		]
 	},
 	{
-		"Id": 97,
-		"Sort": 65,
-		"Title": "Potential form (can)",
-		"Text": "97_potential_form",
-		"Jlpt": 4,
-		"Form": "～えます",
-		"Search": [
+		"id": 97,
+		"sort": 65,
+		"title": "Potential form (can)",
+		"content": "97_potential_form",
+		"jlpt": 4,
+		"form": "～えます",
+		"search": [
 			"られる",
 			"れる",
 			"える",
@@ -1986,24 +1986,24 @@
 			"可能形",
 			"かのうけ"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"potential form",
 			"can",
 			"able"
 		]
 	},
 	{
-		"Id": 98,
-		"Sort": 81,
-		"Title": "Similar to (by characteristic)",
-		"Text": "98_similar_to",
-		"Jlpt": 4,
-		"Form": "らしいです",
-		"Search": [
+		"id": 98,
+		"sort": 81,
+		"title": "Similar to (by characteristic)",
+		"content": "98_similar_to",
+		"jlpt": 4,
+		"form": "らしいです",
+		"search": [
 			"らしいです",
 			"らしくないです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"object similar to",
 			"similar to",
 			"like",
@@ -2012,13 +2012,13 @@
 		]
 	},
 	{
-		"Id": 99,
-		"Sort": 68,
-		"Title": "Causative form (make or let do something)",
-		"Text": "99_causative_form",
-		"Jlpt": 4,
-		"Form": "～あせます",
-		"Search": [
+		"id": 99,
+		"sort": 68,
+		"title": "Causative form (make or let do something)",
+		"content": "99_causative_form",
+		"jlpt": 4,
+		"form": "～あせます",
+		"search": [
 			"あせる",
 			"させる",
 			"わせる",
@@ -2042,7 +2042,7 @@
 			"使役形",
 			"しえきけい"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"causative form",
 			"make doing",
 			"make someone doing",
@@ -2051,13 +2051,13 @@
 		]
 	},
 	{
-		"Id": 100,
-		"Sort": 71,
-		"Title": "Causative passive form - to be made or let do something",
-		"Text": "100_causative_passive_form",
-		"Jlpt": 4,
-		"Form": "～あせられる",
-		"Search": [
+		"id": 100,
+		"sort": 71,
+		"title": "Causative passive form - to be made or let do something",
+		"content": "100_causative_passive_form",
+		"jlpt": 4,
+		"form": "～あせられる",
+		"search": [
 			"あせられる",
 			"させられる",
 			"わせられる",
@@ -2099,7 +2099,7 @@
 			"使役受身形",
 			"しえきうけみけい"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"causative passive form",
 			"passive form",
 			"passive voice",
@@ -2116,16 +2116,16 @@
 		]
 	},
 	{
-		"Id": 101,
-		"Sort": 59,
-		"Title": "Adjective nominalisation",
-		"Text": "101_adjective_nominalisation",
-		"Jlpt": 4,
-		"Form": "さ",
-		"Search": [
+		"id": 101,
+		"sort": 59,
+		"title": "Adjective nominalisation",
+		"content": "101_adjective_nominalisation",
+		"jlpt": 4,
+		"form": "さ",
+		"search": [
 			"さ"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"adjective nonimalisation",
 			"adjective nonimaliser",
 			"adjective nonimalization",
@@ -2133,13 +2133,13 @@
 		]
 	},
 	{
-		"Id": 102,
-		"Sort": 48,
-		"Title": "Live up to",
-		"Text": "102_live_up_to",
-		"Jlpt": 4,
-		"Form": "さすがです",
-		"Search": [
+		"id": 102,
+		"sort": 48,
+		"title": "Live up to",
+		"content": "102_live_up_to",
+		"jlpt": 4,
+		"form": "さすがです",
+		"search": [
 			"さすがに",
 			"さすがの",
 			"さすがです",
@@ -2147,7 +2147,7 @@
 			"流石の",
 			"流石です"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"live up to expectations",
 			"as one would expected",
 			"as expected",
@@ -2156,31 +2156,31 @@
 		]
 	},
 	{
-		"Id": 103,
-		"Sort": 15,
-		"Title": "Because",
-		"Text": "103_because",
-		"Jlpt": 4,
-		"Form": "し",
-		"Search": [
+		"id": 103,
+		"sort": 15,
+		"title": "Because",
+		"content": "103_because",
+		"jlpt": 4,
+		"form": "し",
+		"search": [
 			"し"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"because",
 			"reason"
 		]
 	},
 	{
-		"Id": 104,
-		"Sort": 14,
-		"Title": "That much",
-		"Text": "104_that_much",
-		"Jlpt": 4,
-		"Form": "そんなに",
-		"Search": [
+		"id": 104,
+		"sort": 14,
+		"title": "That much",
+		"content": "104_that_much",
+		"jlpt": 4,
+		"form": "そんなに",
+		"search": [
 			"そんなに"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"that much",
 			"so much",
 			"so",
@@ -2188,16 +2188,16 @@
 		]
 	},
 	{
-		"Id": 105,
-		"Sort": 47,
-		"Title": "In addition",
-		"Text": "105_in_addition",
-		"Jlpt": 4,
-		"Form": "それに",
-		"Search": [
+		"id": 105,
+		"sort": 47,
+		"title": "In addition",
+		"content": "105_in_addition",
+		"jlpt": 4,
+		"form": "それに",
+		"search": [
 			"それに"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"besides",
 			"in addition",
 			"also",
@@ -2206,18 +2206,18 @@
 		]
 	},
 	{
-		"Id": 106,
-		"Sort": 78,
-		"Title": "It looks like",
-		"Text": "106_it_looks_like",
-		"Jlpt": 4,
-		"Form": "そうです",
-		"Search": [
+		"id": 106,
+		"sort": 78,
+		"title": "It looks like",
+		"content": "106_it_looks_like",
+		"jlpt": 4,
+		"form": "そうです",
+		"search": [
 			"そうな",
 			"そうだね",
 			"そうですね"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"it is like",
 			"it seems",
 			"like",
@@ -2232,16 +2232,16 @@
 		]
 	},
 	{
-		"Id": 107,
-		"Sort": 79,
-		"Title": "Do like",
-		"Text": "107_do_like",
-		"Jlpt": 4,
-		"Form": "そうに",
-		"Search": [
+		"id": 107,
+		"sort": 79,
+		"title": "Do like",
+		"content": "107_do_like",
+		"jlpt": 4,
+		"form": "そうに",
+		"search": [
 			"そうに"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"do like",
 			"like",
 			"do similarly",
@@ -2251,13 +2251,13 @@
 		]
 	},
 	{
-		"Id": 108,
-		"Sort": 12,
-		"Title": "Just finished",
-		"Text": "108_just_finished",
-		"Jlpt": 4,
-		"Form": "たばかりです",
-		"Search": [
+		"id": 108,
+		"sort": 12,
+		"title": "Just finished",
+		"content": "108_just_finished",
+		"jlpt": 4,
+		"form": "たばかりです",
+		"search": [
 			"たばかりです",
 			"ばかりです",
 			"たばっかりです",
@@ -2267,7 +2267,7 @@
 			"たばっかりだ",
 			"ばっかりだ"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"just finished",
 			"finished",
 			"just happened",
@@ -2277,13 +2277,13 @@
 		]
 	},
 	{
-		"Id": 109,
-		"Sort": 84,
-		"Title": "To be about to",
-		"Text": "109_to_be_about_to",
-		"Jlpt": 4,
-		"Form": "ところです",
-		"Search": [
+		"id": 109,
+		"sort": 84,
+		"title": "To be about to",
+		"content": "109_to_be_about_to",
+		"jlpt": 4,
+		"form": "ところです",
+		"search": [
 			"ところです",
 			"ところだ",
 			"ているところ",
@@ -2291,35 +2291,35 @@
 			"たところ",
 			"だところ"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to be about to",
 			"about to",
 			"just"
 		]
 	},
 	{
-		"Id": 110,
-		"Sort": 82,
-		"Title": "I heard that",
-		"Text": "110_heard_that",
-		"Jlpt": 4,
-		"Form": "そうです",
-		"Search": [
+		"id": 110,
+		"sort": 82,
+		"title": "I heard that",
+		"content": "110_heard_that",
+		"jlpt": 4,
+		"form": "そうです",
+		"search": [
 			"そうだ",
 			"そうです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"heard that"
 		]
 	},
 	{
-		"Id": 111,
-		"Sort": 99,
-		"Title": "Transitive and intransitive verbs",
-		"Text": "111_transitive_intransitive_verbs",
-		"Jlpt": 4,
-		"Form": "",
-		"Search": [
+		"id": 111,
+		"sort": 99,
+		"title": "Transitive and intransitive verbs",
+		"content": "111_transitive_intransitive_verbs",
+		"jlpt": 4,
+		"form": "",
+		"search": [
 			"他動詞",
 			"自動詞",
 			"たどうし",
@@ -2327,7 +2327,7 @@
 			"どうし",
 			"動詞"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"transitive verbs",
 			"intransitive verbs",
 			"transitive and intransitive verbs",
@@ -2335,34 +2335,34 @@
 		]
 	},
 	{
-		"Id": 112,
-		"Sort": 28,
-		"Title": "What if",
-		"Text": "112_what_if",
-		"Jlpt": 4,
-		"Form": "たらどう",
-		"Search": [
+		"id": 112,
+		"sort": 28,
+		"title": "What if",
+		"content": "112_what_if",
+		"jlpt": 4,
+		"form": "たらどう",
+		"search": [
 			"たらどう",
 			"もし"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"what if"
 		]
 	},
 	{
-		"Id": 113,
-		"Sort": 29,
-		"Title": "Is it good to (seek instructions)",
-		"Text": "113_is_it_good_to",
-		"Jlpt": 4,
-		"Form": "たらいいですか",
-		"Search": [
+		"id": 113,
+		"sort": 29,
+		"title": "Is it good to (seek instructions)",
+		"content": "113_is_it_good_to",
+		"jlpt": 4,
+		"form": "たらいいですか",
+		"search": [
 			"たらいいか",
 			"たらいいですか",
 			"だらいいか",
 			"だらいいですか"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"is it good to",
 			"seek instructions",
 			"seek confirmation",
@@ -2371,13 +2371,13 @@
 		]
 	},
 	{
-		"Id": 114,
-		"Sort": 103,
-		"Title": "To do for someone",
-		"Text": "114_to_do_for_someone",
-		"Jlpt": 4,
-		"Form": "てあげます",
-		"Search": [
+		"id": 114,
+		"sort": 103,
+		"title": "To do for someone",
+		"content": "114_to_do_for_someone",
+		"jlpt": 4,
+		"form": "てあげます",
+		"search": [
 			"てあげる",
 			"であげる",
 			"あげる",
@@ -2385,7 +2385,7 @@
 			"であげます",
 			"あげます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"do for someone",
 			"for someone",
 			"do a favour",
@@ -2395,32 +2395,32 @@
 		]
 	},
 	{
-		"Id": 115,
-		"Sort": 34,
-		"Title": "To want someone to do",
-		"Text": "115_to_want_someone_to",
-		"Jlpt": 4,
-		"Form": "て欲しいです",
-		"Search": [
+		"id": 115,
+		"sort": 34,
+		"title": "To want someone to do",
+		"content": "115_to_want_someone_to",
+		"jlpt": 4,
+		"form": "て欲しいです",
+		"search": [
 			"て欲しいです",
 			"てほしいです",
 			"で欲しいです",
 			"でほしいです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to want someone to do",
 			"want someone to do",
 			"someone to do"
 		]
 	},
 	{
-		"Id": 116,
-		"Sort": 100,
-		"Title": "Action away from the speaker",
-		"Text": "116_action_away",
-		"Jlpt": 4,
-		"Form": "ていきます",
-		"Search": [
+		"id": 116,
+		"sort": 100,
+		"title": "Action away from the speaker",
+		"content": "116_action_away",
+		"jlpt": 4,
+		"form": "ていきます",
+		"search": [
 			"ていく",
 			"て行く",
 			"でいく",
@@ -2434,7 +2434,7 @@
 			"いきます",
 			"行きます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"action away from the speaker",
 			"action away from speaker",
 			"away from the speaker",
@@ -2445,13 +2445,13 @@
 		]
 	},
 	{
-		"Id": 117,
-		"Sort": 107,
-		"Title": "Could you please",
-		"Text": "117_could_you_please",
-		"Jlpt": 4,
-		"Form": "てもらえませんか",
-		"Search": [
+		"id": 117,
+		"sort": 107,
+		"title": "Could you please",
+		"content": "117_could_you_please",
+		"jlpt": 4,
+		"form": "てもらえませんか",
+		"search": [
 			"てもらえませんか",
 			"でもらえませんか",
 			"て頂けませんか",
@@ -2462,7 +2462,7 @@
 			"いただけませんか",
 			"頂けませんか"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"could you please",
 			"request",
 			"help",
@@ -2470,19 +2470,19 @@
 		]
 	},
 	{
-		"Id": 118,
-		"Sort": 105,
-		"Title": "Someone does for us",
-		"Text": "118_someone_does_for_us",
-		"Jlpt": 4,
-		"Form": "てくれます",
-		"Search": [
+		"id": 118,
+		"sort": 105,
+		"title": "Someone does for us",
+		"content": "118_someone_does_for_us",
+		"jlpt": 4,
+		"form": "てくれます",
+		"search": [
 			"てくれる",
 			"てくれます",
 			"でくれる",
 			"でくれます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"someone does for us",
 			"do for us",
 			"for us",
@@ -2490,13 +2490,13 @@
 		]
 	},
 	{
-		"Id": 119,
-		"Sort": 101,
-		"Title": "Action towards the speaker",
-		"Text": "119_action_towards",
-		"Jlpt": 4,
-		"Form": "てきます",
-		"Search": [
+		"id": 119,
+		"sort": 101,
+		"title": "Action towards the speaker",
+		"content": "119_action_towards",
+		"jlpt": 4,
+		"form": "てきます",
+		"search": [
 			"てくる",
 			"て来る",
 			"でくる",
@@ -2510,7 +2510,7 @@
 			"きます",
 			"来ます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"action towards the speaker",
 			"action towards speaker",
 			"towards the speaker",
@@ -2519,13 +2519,13 @@
 		]
 	},
 	{
-		"Id": 120,
-		"Sort": 88,
-		"Title": "To try doing",
-		"Text": "120_to_try",
-		"Jlpt": 4,
-		"Form": "てみます",
-		"Search": [
+		"id": 120,
+		"sort": 88,
+		"title": "To try doing",
+		"content": "120_to_try",
+		"jlpt": 4,
+		"form": "てみます",
+		"search": [
 			"てみる",
 			"て見る",
 			"でみる",
@@ -2535,7 +2535,7 @@
 			"でみます",
 			"で見ます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to try doing",
 			"to try to do",
 			"try doing",
@@ -2548,19 +2548,19 @@
 		]
 	},
 	{
-		"Id": 121,
-		"Sort": 106,
-		"Title": "Someone does for us",
-		"Text": "121_someone_does_for_us",
-		"Jlpt": 4,
-		"Form": "てもらいます",
-		"Search": [
+		"id": 121,
+		"sort": 106,
+		"title": "Someone does for us",
+		"content": "121_someone_does_for_us",
+		"jlpt": 4,
+		"form": "てもらいます",
+		"search": [
 			"てもらう",
 			"てもらいます",
 			"でもらう",
 			"でもらいます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"someone does for us",
 			"do for us",
 			"for us",
@@ -2569,19 +2569,19 @@
 		]
 	},
 	{
-		"Id": 122,
-		"Sort": 85,
-		"Title": "To do in advance",
-		"Text": "122_to_do_in_advance",
-		"Jlpt": 4,
-		"Form": "ておきます",
-		"Search": [
+		"id": 122,
+		"sort": 85,
+		"title": "To do in advance",
+		"content": "122_to_do_in_advance",
+		"jlpt": 4,
+		"form": "ておきます",
+		"search": [
 			"ておく",
 			"ておきます",
 			"でおく",
 			"でおきます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to do in advance",
 			"do in advance",
 			"in advance",
@@ -2592,13 +2592,13 @@
 		]
 	},
 	{
-		"Id": 123,
-		"Sort": 86,
-		"Title": "To do by accident / to finish completely",
-		"Text": "123_to_do_by_accident",
-		"Jlpt": 4,
-		"Form": "てしまいます",
-		"Search": [
+		"id": 123,
+		"sort": 86,
+		"title": "To do by accident / to finish completely",
+		"content": "123_to_do_by_accident",
+		"jlpt": 4,
+		"form": "てしまいます",
+		"search": [
 			"てしまう",
 			"てしまいます",
 			"でしまう",
@@ -2608,7 +2608,7 @@
 			"じゃう",
 			"じゃいます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to do by accident",
 			"do by accident",
 			"by accident",
@@ -2623,19 +2623,19 @@
 		]
 	},
 	{
-		"Id": 124,
-		"Sort": 49,
-		"Title": "Apologise for",
-		"Text": "124_apologise_for",
-		"Jlpt": 4,
-		"Form": "てすいません",
-		"Search": [
+		"id": 124,
+		"sort": 49,
+		"title": "Apologise for",
+		"content": "124_apologise_for",
+		"jlpt": 4,
+		"form": "てすいません",
+		"search": [
 			"てすいません",
 			"てすみません",
 			"すいません",
 			"すみません"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"apologise for",
 			"apologize for",
 			"to be sorry for",
@@ -2644,19 +2644,19 @@
 		]
 	},
 	{
-		"Id": 125,
-		"Sort": 104,
-		"Title": "To do for someone",
-		"Text": "125_do_for_someone",
-		"Jlpt": 4,
-		"Form": "てやります",
-		"Search": [
+		"id": 125,
+		"sort": 104,
+		"title": "To do for someone",
+		"content": "125_do_for_someone",
+		"jlpt": 4,
+		"form": "てやります",
+		"search": [
 			"てやる",
 			"でやる",
 			"てやります",
 			"でやります"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"do for someone",
 			"for someone",
 			"do a favour",
@@ -2666,19 +2666,19 @@
 		]
 	},
 	{
-		"Id": 126,
-		"Sort": 50,
-		"Title": "I am glad",
-		"Text": "126_i_am_glad",
-		"Jlpt": 4,
-		"Form": "てよかったです",
-		"Search": [
+		"id": 126,
+		"sort": 50,
+		"title": "I am glad",
+		"content": "126_i_am_glad",
+		"jlpt": 4,
+		"form": "てよかったです",
+		"search": [
 			"てよかったです",
 			"でよかったです",
 			"て良かったです",
 			"で良かったです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"i am glad that",
 			"am glad",
 			"glad",
@@ -2687,34 +2687,34 @@
 		]
 	},
 	{
-		"Id": 127,
-		"Sort": 31,
-		"Title": "Even if",
-		"Text": "127_even_if",
-		"Jlpt": 4,
-		"Form": "ても",
-		"Search": [
+		"id": 127,
+		"sort": 31,
+		"title": "Even if",
+		"content": "127_even_if",
+		"jlpt": 4,
+		"form": "ても",
+		"search": [
 			"ても",
 			"でもも",
 			"くても"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"even if",
 			"no matter what"
 		]
 	},
 	{
-		"Id": 128,
-		"Sort": 97,
-		"Title": "It could be said",
-		"Text": "128_it_could_be_said",
-		"Jlpt": 4,
-		"Form": "と言ってもいいです",
-		"Search": [
+		"id": 128,
+		"sort": 97,
+		"title": "It could be said",
+		"content": "128_it_could_be_said",
+		"jlpt": 4,
+		"form": "と言ってもいいです",
+		"search": [
 			"と言ってもいいです",
 			"といってってもいいです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"it could be said that",
 			"you could say that",
 			"one could say that",
@@ -2726,38 +2726,38 @@
 		]
 	},
 	{
-		"Id": 129,
-		"Sort": 93,
-		"Title": "Called or named",
-		"Text": "129_called_named",
-		"Jlpt": 4,
-		"Form": "という",
-		"Search": [
+		"id": 129,
+		"sort": 93,
+		"title": "Called or named",
+		"content": "129_called_named",
+		"jlpt": 4,
+		"form": "という",
+		"search": [
 			"という",
 			"と言う",
 			"といいます",
 			"と言います"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"called",
 			"named",
 			"so called"
 		]
 	},
 	{
-		"Id": 130,
-		"Sort": 60,
-		"Title": "Phrase nominalisation",
-		"Text": "130_text_nominalisation",
-		"Jlpt": 4,
-		"Form": "という事",
-		"Search": [
+		"id": 130,
+		"sort": 60,
+		"title": "Phrase nominalisation",
+		"content": "130_text_nominalisation",
+		"jlpt": 4,
+		"form": "という事",
+		"search": [
 			"という事",
 			"と言う事",
 			"ということ",
 			"と言うこと"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"phrase nominalisation",
 			"phrase nominalization",
 			"phrase nominalising",
@@ -2767,13 +2767,13 @@
 		]
 	},
 	{
-		"Id": 131,
-		"Sort": 96,
-		"Title": "It is said",
-		"Text": "131_it_is_said",
-		"Jlpt": 4,
-		"Form": "と言われています",
-		"Search": [
+		"id": 131,
+		"sort": 96,
+		"title": "It is said",
+		"content": "131_it_is_said",
+		"jlpt": 4,
+		"form": "と言われています",
+		"search": [
 			"言われている",
 			"いわれている",
 			"言われてる",
@@ -2783,7 +2783,7 @@
 			"言われてます",
 			"いわれてます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"it is said",
 			"is said",
 			"they say",
@@ -2791,13 +2791,13 @@
 		]
 	},
 	{
-		"Id": 132,
-		"Sort": 83,
-		"Title": "I heard that",
-		"Text": "132_i_heard",
-		"Jlpt": 4,
-		"Form": "と聞きました",
-		"Search": [
+		"id": 132,
+		"sort": 83,
+		"title": "I heard that",
+		"content": "132_i_heard",
+		"jlpt": 4,
+		"form": "と聞きました",
+		"search": [
 			"と聞いた",
 			"ときいた",
 			"聞いた",
@@ -2807,20 +2807,20 @@
 			"聞きました",
 			"ききました"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"i heard that",
 			"heard that",
 			"to hear"
 		]
 	},
 	{
-		"Id": 133,
-		"Sort": 87,
-		"Title": "I think",
-		"Text": "133_i_think",
-		"Jlpt": 4,
-		"Form": "と思います",
-		"Search": [
+		"id": 133,
+		"sort": 87,
+		"title": "I think",
+		"content": "133_i_think",
+		"jlpt": 4,
+		"form": "と思います",
+		"search": [
 			"と思う",
 			"と思います",
 			"とおもう",
@@ -2838,36 +2838,36 @@
 			"おもっている",
 			"おもっています"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"i think",
 			"to think",
 			"think"
 		]
 	},
 	{
-		"Id": 134,
-		"Sort": 45,
-		"Title": "Listing examples",
-		"Text": "134_list_examples",
-		"Jlpt": 4,
-		"Form": "とか",
-		"Search": [
+		"id": 134,
+		"sort": 45,
+		"title": "Listing examples",
+		"content": "134_list_examples",
+		"jlpt": 4,
+		"form": "とか",
+		"search": [
 			"とか"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"listing examples",
 			"list examples",
 			"examples"
 		]
 	},
 	{
-		"Id": 135,
-		"Sort": 56,
-		"Title": "To continue doing",
-		"Text": "135_to_continue",
-		"Jlpt": 4,
-		"Form": "続けます",
-		"Search": [
+		"id": 135,
+		"sort": 56,
+		"title": "To continue doing",
+		"content": "135_to_continue",
+		"jlpt": 4,
+		"form": "続けます",
+		"search": [
 			"続ける",
 			"つづける",
 			"つずける",
@@ -2875,7 +2875,7 @@
 			"つづけます",
 			"つずけます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to continue something",
 			"to continue doing",
 			"continue something",
@@ -2883,30 +2883,30 @@
 		]
 	},
 	{
-		"Id": 136,
-		"Sort": 98,
-		"Title": "Informal quotation particle",
-		"Text": "136_informal_quotation_particle",
-		"Jlpt": 4,
-		"Form": "って",
-		"Search": [
+		"id": 136,
+		"sort": 98,
+		"title": "Informal quotation particle",
+		"content": "136_informal_quotation_particle",
+		"jlpt": 4,
+		"form": "って",
+		"search": [
 			"って",
 			"と"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"informal quotation particle",
 			"quotation particle",
 			"particle"
 		]
 	},
 	{
-		"Id": 137,
-		"Sort": 67,
-		"Title": "Passive voice",
-		"Text": "137_passive_voice",
-		"Jlpt": 4,
-		"Form": "～あれる",
-		"Search": [
+		"id": 137,
+		"sort": 67,
+		"title": "Passive voice",
+		"content": "137_passive_voice",
+		"jlpt": 4,
+		"form": "～あれる",
+		"search": [
 			"受身形",
 			"うけみけい",
 			"あれる",
@@ -2934,57 +2934,57 @@
 			"かれます",
 			"がれます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"passive voice",
 			"passive form",
 			"voice"
 		]
 	},
 	{
-		"Id": 138,
-		"Sort": 53,
-		"Title": "It is easy to",
-		"Text": "138_it_is_easy_to",
-		"Jlpt": 4,
-		"Form": "やすい",
-		"Search": [
+		"id": 138,
+		"sort": 53,
+		"title": "It is easy to",
+		"content": "138_it_is_easy_to",
+		"jlpt": 4,
+		"form": "やすい",
+		"search": [
 			"やすいです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"it is easy to",
 			"easy to",
 			"simple"
 		]
 	},
 	{
-		"Id": 139,
-		"Sort": 2,
-		"Title": "Finally",
-		"Text": "139_finally",
-		"Jlpt": 4,
-		"Form": "やっと",
-		"Search": [
+		"id": 139,
+		"sort": 2,
+		"title": "Finally",
+		"content": "139_finally",
+		"jlpt": 4,
+		"form": "やっと",
+		"search": [
 			"やっと"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"finally",
 			"at last"
 		]
 	},
 	{
-		"Id": 140,
-		"Sort": 91,
-		"Title": "To plan",
-		"Text": "140_to_plan",
-		"Jlpt": 4,
-		"Form": "予定です",
-		"Search": [
+		"id": 140,
+		"sort": 91,
+		"title": "To plan",
+		"content": "140_to_plan",
+		"jlpt": 4,
+		"form": "予定です",
+		"search": [
 			"予定だ",
 			"予定です",
 			"よていだ",
 			"よていです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to intend yo",
 			"intend to",
 			"intent",
@@ -2993,13 +2993,13 @@
 		]
 	},
 	{
-		"Id": 141,
-		"Sort": 75,
-		"Title": "It looks like",
-		"Text": "141_it_looks_like",
-		"Jlpt": 4,
-		"Form": "ようです",
-		"Search": [
+		"id": 141,
+		"sort": 75,
+		"title": "It looks like",
+		"content": "141_it_looks_like",
+		"jlpt": 4,
+		"form": "ようです",
+		"search": [
 			"ようだ",
 			"ようです",
 			"のようだ",
@@ -3011,7 +3011,7 @@
 			"ようではない",
 			"のようではない"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"it is like",
 			"it seems",
 			"like",
@@ -3022,34 +3022,34 @@
 		]
 	},
 	{
-		"Id": 142,
-		"Sort": 76,
-		"Title": "Object is similar to",
-		"Text": "142_object_similar_to",
-		"Jlpt": 4,
-		"Form": "ような",
-		"Search": [
+		"id": 142,
+		"sort": 76,
+		"title": "Object is similar to",
+		"content": "142_object_similar_to",
+		"jlpt": 4,
+		"form": "ような",
+		"search": [
 			"ような",
 			"のような",
 			"なような"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"object similar to",
 			"similar to",
 			"like"
 		]
 	},
 	{
-		"Id": 143,
-		"Sort": 77,
-		"Title": "Do like",
-		"Text": "143_do_like",
-		"Jlpt": 4,
-		"Form": "ように",
-		"Search": [
+		"id": 143,
+		"sort": 77,
+		"title": "Do like",
+		"content": "143_do_like",
+		"jlpt": 4,
+		"form": "ように",
+		"search": [
 			"ように"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"do like",
 			"like",
 			"do similarly",
@@ -3059,39 +3059,39 @@
 		]
 	},
 	{
-		"Id": 144,
-		"Sort": 92,
-		"Title": "To be able to",
-		"Text": "144_to_be_able_to",
-		"Jlpt": 4,
-		"Form": "ようになります",
-		"Search": [
+		"id": 144,
+		"sort": 92,
+		"title": "To be able to",
+		"content": "144_to_be_able_to",
+		"jlpt": 4,
+		"form": "ようになります",
+		"search": [
 			"ようになる",
 			"ようになった",
 			"ようになります",
 			"ようになりました",
 			"ようになりたい"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to be able to",
 			"be able to",
 			"able to"
 		]
 	},
 	{
-		"Id": 145,
-		"Sort": 89,
-		"Title": "To try hard",
-		"Text": "145_to_try",
-		"Jlpt": 4,
-		"Form": "ようにします",
-		"Search": [
+		"id": 145,
+		"sort": 89,
+		"title": "To try hard",
+		"content": "145_to_try",
+		"jlpt": 4,
+		"form": "ようにします",
+		"search": [
 			"ようにする",
 			"ようにします",
 			"ようにしている",
 			"ようにしています"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to try doing",
 			"to try to do",
 			"try doing",
@@ -3104,13 +3104,13 @@
 		]
 	},
 	{
-		"Id": 146,
-		"Sort": 90,
-		"Title": "I think I will do",
-		"Text": "146_i_think_i_will_do",
-		"Jlpt": 4,
-		"Form": "おうと思います",
-		"Search": [
+		"id": 146,
+		"sort": 90,
+		"title": "I think I will do",
+		"content": "146_i_think_i_will_do",
+		"jlpt": 4,
+		"form": "おうと思います",
+		"search": [
 			"思う",
 			"おもう",
 			"思います",
@@ -3200,7 +3200,7 @@
 			"ろうとおもっています",
 			"ようとおもっています"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to intend yo",
 			"intend to",
 			"intent",
@@ -3214,17 +3214,17 @@
 		]
 	},
 	{
-		"Id": 147,
-		"Sort": 3,
-		"Title": "Certainly",
-		"Text": "147_certainly",
-		"Jlpt": 4,
-		"Form": "是非",
-		"Search": [
+		"id": 147,
+		"sort": 3,
+		"title": "Certainly",
+		"content": "147_certainly",
+		"jlpt": 4,
+		"form": "是非",
+		"search": [
 			"是非",
 			"ぜひ"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"certainly",
 			"without fail",
 			"by all means",
@@ -3232,32 +3232,32 @@
 		]
 	},
 	{
-		"Id": 148,
-		"Sort": 4,
-		"Title": "Not at all",
-		"Text": "148_not_at_all",
-		"Jlpt": 4,
-		"Form": "全然",
-		"Search": [
+		"id": 148,
+		"sort": 4,
+		"title": "Not at all",
+		"content": "148_not_at_all",
+		"jlpt": 4,
+		"form": "全然",
+		"search": [
 			"全然",
 			"ぜんぜん"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"not at all"
 		]
 	},
 	{
-		"Id": 149,
-		"Sort": 55,
-		"Title": "It is difficult to",
-		"Text": "149_it_is_difficult_to",
-		"Jlpt": 4,
-		"Form": "づらい",
-		"Search": [
+		"id": 149,
+		"sort": 55,
+		"title": "It is difficult to",
+		"content": "149_it_is_difficult_to",
+		"jlpt": 4,
+		"form": "づらい",
+		"search": [
 			"づらいです",
 			"ずらいです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"it is difficult to",
 			"difficult to",
 			"it is hard to",
@@ -3265,13 +3265,13 @@
 		]
 	},
 	{
-		"Id": 150,
-		"Sort": 0,
-		"Title": "To finish doing",
-		"Text": "150_finish_doing",
-		"Jlpt": 3,
-		"Form": "上げます／上がります",
-		"Search": [
+		"id": 150,
+		"sort": 0,
+		"title": "To finish doing",
+		"content": "150_finish_doing",
+		"jlpt": 3,
+		"form": "上げます／上がります",
+		"search": [
 			"上がる",
 			"上げる",
 			"あがる",
@@ -3281,7 +3281,7 @@
 			"あがります",
 			"あげます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to finish doing",
 			"finish doing",
 			"to complete",
@@ -3289,31 +3289,31 @@
 		]
 	},
 	{
-		"Id": 151,
-		"Sort": 0,
-		"Title": "So much that",
-		"Text": "151_so_much_that",
-		"Jlpt": 3,
-		"Form": "あまり",
-		"Search": [
+		"id": 151,
+		"sort": 0,
+		"title": "So much that",
+		"content": "151_so_much_that",
+		"jlpt": 3,
+		"form": "あまり",
+		"search": [
 			"あまり"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"so much that",
 			"that much"
 		]
 	},
 	{
-		"Id": 152,
-		"Sort": 0,
-		"Title": "Too much",
-		"Text": "152_too_much",
-		"Jlpt": 3,
-		"Form": "あまりに(も)",
-		"Search": [
+		"id": 152,
+		"sort": 0,
+		"title": "Too much",
+		"content": "152_too_much",
+		"jlpt": 3,
+		"form": "あまりに(も)",
+		"search": [
 			"あまりにも"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"so much that",
 			"that much",
 			"too much",
@@ -3321,19 +3321,19 @@
 		]
 	},
 	{
-		"Id": 153,
-		"Sort": 0,
-		"Title": "Do something together",
-		"Text": "153_do_together",
-		"Jlpt": 3,
-		"Form": "合います",
-		"Search": [
+		"id": 153,
+		"sort": 0,
+		"title": "Do something together",
+		"content": "153_do_together",
+		"jlpt": 3,
+		"form": "合います",
+		"search": [
 			"合う",
 			"あう",
 			"合います",
 			"あいます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"do something together",
 			"do together",
 			"to do something together",
@@ -3341,16 +3341,16 @@
 		]
 	},
 	{
-		"Id": 154,
-		"Sort": 0,
-		"Title": "Should (it'd be good if)",
-		"Text": "154_should",
-		"Jlpt": 3,
-		"Form": "ばいいです",
-		"Search": [
+		"id": 154,
+		"sort": 0,
+		"title": "Should (it'd be good if)",
+		"content": "154_should",
+		"jlpt": 3,
+		"form": "ばいいです",
+		"search": [
 			"ばいいです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"should",
 			"can",
 			"it'd be good if",
@@ -3358,50 +3358,50 @@
 		]
 	},
 	{
-		"Id": 155,
-		"Sort": 0,
-		"Title": "Should have (done)",
-		"Text": "155_should_have",
-		"Jlpt": 3,
-		"Form": "ばよかったです",
-		"Search": [
+		"id": 155,
+		"sort": 0,
+		"title": "Should have (done)",
+		"content": "155_should_have",
+		"jlpt": 3,
+		"form": "ばよかったです",
+		"search": [
 			"ばよかったです",
 			"ば良かったです"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"should have done",
 			"would have been better if",
 			"whish had done"
 		]
 	},
 	{
-		"Id": 156,
-		"Sort": 0,
-		"Title": "the more ... the more",
-		"Text": "156_the_more",
-		"Jlpt": 3,
-		"Form": "ば~ほど",
-		"Search": [
+		"id": 156,
+		"sort": 0,
+		"title": "the more ... the more",
+		"content": "156_the_more",
+		"jlpt": 3,
+		"form": "ば~ほど",
+		"search": [
 			"ば",
 			"ほど"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"the more",
 			"more"
 		]
 	},
 	{
-		"Id": 157,
-		"Sort": 0,
-		"Title": "If only",
-		"Text": "157_if_only",
-		"Jlpt": 3,
-		"Form": "は~のに",
-		"Search": [
+		"id": 157,
+		"sort": 0,
+		"title": "If only",
+		"content": "157_if_only",
+		"jlpt": 3,
+		"form": "は~のに",
+		"search": [
 			"ば",
 			"のに"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"if only",
 			"would have",
 			"should have",
@@ -3409,17 +3409,17 @@
 		]
 	},
 	{
-		"Id": 158,
-		"Sort": 0,
-		"Title": "Nothing but (negative description)",
-		"Text": "158_nothing_but",
-		"Jlpt": 3,
-		"Form": "ばかりで",
-		"Search": [
+		"id": 158,
+		"sort": 0,
+		"title": "Nothing but (negative description)",
+		"content": "158_nothing_but",
+		"jlpt": 3,
+		"form": "ばかりで",
+		"search": [
 			"ばかりで",
 			"ばっかりで"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"only",
 			"just",
 			"nothing but",
@@ -3427,13 +3427,13 @@
 		]
 	},
 	{
-		"Id": 159,
-		"Sort": 6,
-		"Title": "Counter suffixes",
-		"Text": "159_counters",
-		"Jlpt": 5,
-		"Form": "助数詞",
-		"Search": [
+		"id": 159,
+		"sort": 6,
+		"title": "Counter suffixes",
+		"content": "159_counters",
+		"jlpt": 5,
+		"form": "助数詞",
+		"search": [
 			"助数詞",
 			"じょすうし",
 			"まい",
@@ -3465,20 +3465,20 @@
 			"匹",
 			"足"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"counters",
 			"counter suffixes",
 			"suffixes"
 		]
 	},
 	{
-		"Id": 160,
-		"Sort": 7,
-		"Title": "Date and time suffixes",
-		"Text": "160_date_time_suffixes",
-		"Jlpt": 5,
-		"Form": "助数詞",
-		"Search": [
+		"id": 160,
+		"sort": 7,
+		"title": "Date and time suffixes",
+		"content": "160_date_time_suffixes",
+		"jlpt": 5,
+		"form": "助数詞",
+		"search": [
 			"助数詞",
 			"じょすうし",
 			"分",
@@ -3494,7 +3494,7 @@
 			"かげつ",
 			"ねん"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"counters",
 			"counter suffixes",
 			"suffixes",
@@ -3503,13 +3503,13 @@
 		]
 	},
 	{
-		"Id": 161,
-		"Sort": 5,
-		"Title": "Numbers",
-		"Text": "161_numbers",
-		"Jlpt": 5,
-		"Form": "記数法",
-		"Search": [
+		"id": 161,
+		"sort": 5,
+		"title": "Numbers",
+		"content": "161_numbers",
+		"jlpt": 5,
+		"form": "記数法",
+		"search": [
 			"記数法",
 			"きすうほう",
 			"一",
@@ -3541,7 +3541,7 @@
 			"せん",
 			"いちまん"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"counters",
 			"counter suffixes",
 			"suffixes",
@@ -3549,13 +3549,13 @@
 		]
 	},
 	{
-		"Id": 162,
-		"Sort": 4,
-		"Title": "Verbs",
-		"Text": "162_verbs",
-		"Jlpt": 5,
-		"Form": "動詞",
-		"Search": [
+		"id": 162,
+		"sort": 4,
+		"title": "Verbs",
+		"content": "162_verbs",
+		"jlpt": 5,
+		"form": "動詞",
+		"search": [
 			"動詞",
 			"どうし",
 			"る",
@@ -3566,19 +3566,19 @@
 			"します",
 			"きます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"verbs",
 			"conjugation"
 		]
 	},
 	{
-		"Id": 163,
-		"Sort": 52,
-		"Title": "Short forms of verbs",
-		"Text": "163_verbs_short_forms",
-		"Jlpt": 5,
-		"Form": "動詞",
-		"Search": [
+		"id": 163,
+		"sort": 52,
+		"title": "Short forms of verbs",
+		"content": "163_verbs_short_forms",
+		"jlpt": 5,
+		"form": "動詞",
+		"search": [
 			"動詞",
 			"どうし",
 			"る",
@@ -3587,20 +3587,20 @@
 			"来る",
 			"くる"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"verbs",
 			"conjugation",
 			"short forms"
 		]
 	},
 	{
-		"Id": 164,
-		"Sort": 94,
-		"Title": "Reported speech",
-		"Text": "164_reported_speech",
-		"Jlpt": 4,
-		"Form": "と言っています",
-		"Search": [
+		"id": 164,
+		"sort": 94,
+		"title": "Reported speech",
+		"content": "164_reported_speech",
+		"jlpt": 4,
+		"form": "と言っています",
+		"search": [
 			"と言っています",
 			"といっています",
 			"と言っている",
@@ -3610,7 +3610,7 @@
 			"と言う",
 			"という"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"reported speech",
 			"speech",
 			"say that",
@@ -3618,13 +3618,13 @@
 		]
 	},
 	{
-		"Id": 165,
-		"Sort": 102,
-		"Title": "To give, to receive",
-		"Text": "165_give_receive",
-		"Jlpt": 4,
-		"Form": "あげる／くれる／もらう",
-		"Search": [
+		"id": 165,
+		"sort": 102,
+		"title": "To give, to receive",
+		"content": "165_give_receive",
+		"jlpt": 4,
+		"form": "あげる／くれる／もらう",
+		"search": [
 			"あげる",
 			"くれる",
 			"もらう",
@@ -3632,7 +3632,7 @@
 			"くれます",
 			"もらいます"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to give",
 			"to receive",
 			"give",
@@ -3640,13 +3640,13 @@
 		]
 	},
 	{
-		"Id": 166,
-		"Sort": 66,
-		"Title": "To see, to hear (potential)",
-		"Text": "166_see_hear",
-		"Jlpt": 4,
-		"Form": "見える／聞こえる",
-		"Search": [
+		"id": 166,
+		"sort": 66,
+		"title": "To see, to hear (potential)",
+		"content": "166_see_hear",
+		"jlpt": 4,
+		"form": "見える／聞こえる",
+		"search": [
 			"見える",
 			"見られる",
 			"見えます",
@@ -3666,7 +3666,7 @@
 			"可能形",
 			"かのうけ"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"to hear",
 			"hear",
 			"to see",
@@ -3674,19 +3674,19 @@
 		]
 	},
 	{
-		"Id": 167,
-		"Sort": 27,
-		"Title": "What about",
-		"Text": "167_what_about",
-		"Jlpt": 4,
-		"Form": "～たら",
-		"Search": [
+		"id": 167,
+		"sort": 27,
+		"title": "What about",
+		"content": "167_what_about",
+		"jlpt": 4,
+		"form": "～たら",
+		"search": [
 			"みたらどうですか",
 			"たらどうですか",
 			"たらどうする",
 			"たらどうしますか"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"what if",
 			"advice",
 			"what about",
@@ -3695,54 +3695,54 @@
 		]
 	},
 	{
-		"Id": 168,
-		"Sort": 95,
-		"Title": "Reported speech - requests",
-		"Text": "168_reported_speech_request",
-		"Jlpt": 4,
-		"Form": "ように言う",
-		"Search": [
+		"id": 168,
+		"sort": 95,
+		"title": "Reported speech - requests",
+		"content": "168_reported_speech_request",
+		"jlpt": 4,
+		"form": "ように言う",
+		"search": [
 			"ように言います",
 			"ようにいいます",
 			"ように言う",
 			"ようにいう"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"reported speech request",
 			"speech",
 			"request"
 		]
 	},
 	{
-		"Id": 169,
-		"Sort": 63,
-		"Title": "Seek confirmation",
-		"Text": "169_seek_confirmation",
-		"Jlpt": 5,
-		"Form": "んですか or んですね",
-		"Search": [
+		"id": 169,
+		"sort": 63,
+		"title": "Seek confirmation",
+		"content": "169_seek_confirmation",
+		"jlpt": 5,
+		"form": "んですか or んですね",
+		"search": [
 			"んですか",
 			"のですか",
 			"んですね",
 			"のですね"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"seek confirmation",
 			"confirmation"
 		]
 	},
 	{
-		"Id": 170,
-		"Sort": 64,
-		"Title": "Asking for help, request actions",
-		"Text": "170_request_actions",
-		"Jlpt": 5,
-		"Form": "んですが",
-		"Search": [
+		"id": 170,
+		"sort": 64,
+		"title": "Asking for help, request actions",
+		"content": "170_request_actions",
+		"jlpt": 5,
+		"form": "んですが",
+		"search": [
 			"んですが",
 			"のですが"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"emotions",
 			"request actions",
 			"actions",
@@ -3751,16 +3751,16 @@
 		]
 	},
 	{
-		"Id": 171,
-		"Sort": 30,
-		"Title": "Particle",
-		"Text": "171_particle_ga",
-		"Jlpt": 5,
-		"Form": "が",
-		"Search": [
+		"id": 171,
+		"sort": 30,
+		"title": "Particle",
+		"content": "171_particle_ga",
+		"jlpt": 5,
+		"form": "が",
+		"search": [
 			"が"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"particles",
 			"ga",
 			"subject maker",
@@ -3769,16 +3769,16 @@
 		]
 	},
 	{
-		"Id": 172,
-		"Sort": 31,
-		"Title": "Particle",
-		"Text": "172_particle_mo",
-		"Jlpt": 5,
-		"Form": "も",
-		"Search": [
+		"id": 172,
+		"sort": 31,
+		"title": "Particle",
+		"content": "172_particle_mo",
+		"jlpt": 5,
+		"form": "も",
+		"search": [
 			"も"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"particles",
 			"mo",
 			"too",
@@ -3786,32 +3786,32 @@
 		]
 	},
 	{
-		"Id": 173,
-		"Sort": 32,
-		"Title": "Particle",
-		"Text": "173_particle_wo",
-		"Jlpt": 5,
-		"Form": "を",
-		"Search": [
+		"id": 173,
+		"sort": 32,
+		"title": "Particle",
+		"content": "173_particle_wo",
+		"jlpt": 5,
+		"form": "を",
+		"search": [
 			"を"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"particles",
 			"object",
 			"transitive verb"
 		]
 	},
 	{
-		"Id": 174,
-		"Sort": 33,
-		"Title": "Particle",
-		"Text": "174_particle_de",
-		"Jlpt": 5,
-		"Form": "で",
-		"Search": [
+		"id": 174,
+		"sort": 33,
+		"title": "Particle",
+		"content": "174_particle_de",
+		"jlpt": 5,
+		"form": "で",
+		"search": [
 			"で"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"particles",
 			"location of event",
 			"event",
@@ -3823,16 +3823,16 @@
 		]
 	},
 	{
-		"Id": 175,
-		"Sort": 34,
-		"Title": "Particle",
-		"Text": "175_particle_ni",
-		"Jlpt": 5,
-		"Form": "に",
-		"Search": [
+		"id": 175,
+		"sort": 34,
+		"title": "Particle",
+		"content": "175_particle_ni",
+		"jlpt": 5,
+		"form": "に",
+		"search": [
 			"に"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"particles",
 			"location",
 			"time and date",
@@ -3842,62 +3842,62 @@
 		]
 	},
 	{
-		"Id": 176,
-		"Sort": 35,
-		"Title": "Particle",
-		"Text": "176_particle_he",
-		"Jlpt": 5,
-		"Form": "へ",
-		"Search": [
+		"id": 176,
+		"sort": 35,
+		"title": "Particle",
+		"content": "176_particle_he",
+		"jlpt": 5,
+		"form": "へ",
+		"search": [
 			"へ"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"particles",
 			"direction"
 		]
 	},
 	{
-		"Id": 177,
-		"Sort": 36,
-		"Title": "Particle",
-		"Text": "177_particle_ka",
-		"Jlpt": 5,
-		"Form": "か",
-		"Search": [
+		"id": 177,
+		"sort": 36,
+		"title": "Particle",
+		"content": "177_particle_ka",
+		"jlpt": 5,
+		"form": "か",
+		"search": [
 			"か"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"particles",
 			"or"
 		]
 	},
 	{
-		"Id": 178,
-		"Sort": 37,
-		"Title": "Particle",
-		"Text": "178_particle_no",
-		"Jlpt": 5,
-		"Form": "の",
-		"Search": [
+		"id": 178,
+		"sort": 37,
+		"title": "Particle",
+		"content": "178_particle_no",
+		"jlpt": 5,
+		"form": "の",
+		"search": [
 			"の"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"particles",
 			"possession",
 			"belongs"
 		]
 	},
 	{
-		"Id": 179,
-		"Sort": 38,
-		"Title": "Particle",
-		"Text": "179_particle_to",
-		"Jlpt": 5,
-		"Form": "と",
-		"Search": [
+		"id": 179,
+		"sort": 38,
+		"title": "Particle",
+		"content": "179_particle_to",
+		"jlpt": 5,
+		"form": "と",
+		"search": [
 			"と"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"particles",
 			"and",
 			"together",
@@ -3905,34 +3905,34 @@
 		]
 	},
 	{
-		"Id": 180,
-		"Sort": 39,
-		"Title": "Particle",
-		"Text": "180_particle_ya",
-		"Jlpt": 5,
-		"Form": "や",
-		"Search": [
+		"id": 180,
+		"sort": 39,
+		"title": "Particle",
+		"content": "180_particle_ya",
+		"jlpt": 5,
+		"form": "や",
+		"search": [
 			"や",
 			"など"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"particles",
 			"and",
 			"stuff like that"
 		]
 	},
 	{
-		"Id": 181,
-		"Sort": 64,
-		"Title": "Imperative form",
-		"Text": "181_imperative_form",
-		"Jlpt": 4,
-		"Form": "け、な",
-		"Search": [
+		"id": 181,
+		"sort": 64,
+		"title": "Imperative form",
+		"content": "181_imperative_form",
+		"jlpt": 4,
+		"form": "け、な",
+		"search": [
 			"命令形",
 			"めいれいけい"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"imperative form",
 			"requests",
 			"short requests",
@@ -3947,13 +3947,13 @@
 		]
 	},
 	{
-		"Id": 182,
-		"Sort": 26,
-		"Title": "Wishful conditional",
-		"Text": "182_wishful_conditional",
-		"Jlpt": 4,
-		"Form": "ば ＋ んですが",
-		"Search": [
+		"id": 182,
+		"sort": 26,
+		"title": "Wishful conditional",
+		"content": "182_wishful_conditional",
+		"jlpt": 4,
+		"form": "ば ＋ んですが",
+		"search": [
 			"ば",
 			"えば",
 			"ければ",
@@ -3964,7 +3964,7 @@
 			"可能形",
 			"かのうけい"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"ba-form",
 			"ba form",
 			"if I had",
@@ -3976,17 +3976,17 @@
 		]
 	},
 	{
-		"Id": 183,
-		"Sort": 21,
-		"Title": "Conditionals",
-		"Text": "183_conditionals_toki",
-		"Jlpt": 4,
-		"Form": "とき",
-		"Search": [
+		"id": 183,
+		"sort": 21,
+		"title": "Conditionals",
+		"content": "183_conditionals_toki",
+		"jlpt": 4,
+		"form": "とき",
+		"search": [
 			"時",
 			"とき"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"if",
 			"when",
 			"conditionals",
@@ -3994,16 +3994,16 @@
 		]
 	},
 	{
-		"Id": 184,
-		"Sort": 22,
-		"Title": "Conditionals",
-		"Text": "184_conditionals_nara",
-		"Jlpt": 4,
-		"Form": "なら",
-		"Search": [
+		"id": 184,
+		"sort": 22,
+		"title": "Conditionals",
+		"content": "184_conditionals_nara",
+		"jlpt": 4,
+		"form": "なら",
+		"search": [
 			"なら"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"if",
 			"when",
 			"conditionals",
@@ -4018,29 +4018,29 @@
 		]
 	},
 	{
-		"Id": 185,
-		"Sort": 23,
-		"Title": "Conditionals",
-		"Text": "185_conditionals_tara",
-		"Jlpt": 4,
-		"Form": "たら",
-		"Search": [
+		"id": 185,
+		"sort": 23,
+		"title": "Conditionals",
+		"content": "185_conditionals_tara",
+		"jlpt": 4,
+		"form": "たら",
+		"search": [
 			"たら"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"if",
 			"when",
 			"conditionals"
 		]
 	},
 	{
-		"Id": 186,
-		"Sort": 25,
-		"Title": "Conditionals",
-		"Text": "186_conditionals_ba",
-		"Jlpt": 4,
-		"Form": "ば",
-		"Search": [
+		"id": 186,
+		"sort": 25,
+		"title": "Conditionals",
+		"content": "186_conditionals_ba",
+		"jlpt": 4,
+		"form": "ば",
+		"search": [
 			"ば",
 			"えば",
 			"ければ",
@@ -4048,20 +4048,20 @@
 			"であれば",
 			"どうすれば"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"if",
 			"when",
 			"conditionals"
 		]
 	},
 	{
-		"Id": 187,
-		"Sort": 110,
-		"Title": "Honorific expressions - special verbs",
-		"Text": "187_honorific_expressions_special_verbs",
-		"Jlpt": 4,
-		"Form": "尊敬語",
-		"Search": [
+		"id": 187,
+		"sort": 110,
+		"title": "Honorific expressions - special verbs",
+		"content": "187_honorific_expressions_special_verbs",
+		"jlpt": 4,
+		"form": "尊敬語",
+		"search": [
 			"尊敬語",
 			"そんけいご",
 			"いらっしゃる",
@@ -4093,7 +4093,7 @@
 			"くださいます",
 			"くださる"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"honorific expressions",
 			"expressions",
 			"special verbs",
@@ -4101,16 +4101,16 @@
 		]
 	},
 	{
-		"Id": 188,
-		"Sort": 41,
-		"Title": "Sentence-ending particle",
-		"Text": "188_sentence_ending_particle_ne",
-		"Jlpt": 5,
-		"Form": "ね",
-		"Search": [
+		"id": 188,
+		"sort": 41,
+		"title": "Sentence-ending particle",
+		"content": "188_sentence_ending_particle_ne",
+		"jlpt": 5,
+		"form": "ね",
+		"search": [
 			"ね"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"sentence-ending particles",
 			"sentence ending particles",
 			"ending particles",
@@ -4120,16 +4120,16 @@
 		]
 	},
 	{
-		"Id": 189,
-		"Sort": 42,
-		"Title": "Sentence-ending particle",
-		"Text": "189_sentence_ending_particle_yo",
-		"Jlpt": 5,
-		"Form": "よ",
-		"Search": [
+		"id": 189,
+		"sort": 42,
+		"title": "Sentence-ending particle",
+		"content": "189_sentence_ending_particle_yo",
+		"jlpt": 5,
+		"form": "よ",
+		"search": [
 			"よ"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"sentence-ending particles",
 			"sentence ending particles",
 			"ending particles",
@@ -4140,16 +4140,16 @@
 		]
 	},
 	{
-		"Id": 190,
-		"Sort": 43,
-		"Title": "Sentence-ending particle",
-		"Text": "190_sentence_ending_particle_yone",
-		"Jlpt": 5,
-		"Form": "よね",
-		"Search": [
+		"id": 190,
+		"sort": 43,
+		"title": "Sentence-ending particle",
+		"content": "190_sentence_ending_particle_yone",
+		"jlpt": 5,
+		"form": "よね",
+		"search": [
 			"よね"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"sentence-ending particles",
 			"sentence ending particles",
 			"ending particles",
@@ -4159,16 +4159,16 @@
 		]
 	},
 	{
-		"Id": 191,
-		"Sort": 44,
-		"Title": "Sentence-ending particle",
-		"Text": "191_sentence_ending_particle_naa",
-		"Jlpt": 5,
-		"Form": "なあ",
-		"Search": [
+		"id": 191,
+		"sort": 44,
+		"title": "Sentence-ending particle",
+		"content": "191_sentence_ending_particle_naa",
+		"jlpt": 5,
+		"form": "なあ",
+		"search": [
 			"なあ"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"sentence-ending particles",
 			"sentence ending particles",
 			"ending particles",
@@ -4179,30 +4179,30 @@
 		]
 	},
 	{
-		"Id": 192,
-		"Sort": 111,
-		"Title": "Humble expressions",
-		"Text": "192_humble_expressions",
-		"Jlpt": 4,
-		"Form": "謙譲語",
-		"Search": [
+		"id": 192,
+		"sort": 111,
+		"title": "Humble expressions",
+		"content": "192_humble_expressions",
+		"jlpt": 4,
+		"form": "謙譲語",
+		"search": [
 			"謙譲語",
 			"けんじょうご"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"humble expressions",
 			"expressions",
 			"polite"
 		]
 	},
 	{
-		"Id": 193,
-		"Sort": 112,
-		"Title": "Humble expressions - direct",
-		"Text": "193_humble_expressions_direct",
-		"Jlpt": 4,
-		"Form": "謙譲語",
-		"Search": [
+		"id": 193,
+		"sort": 112,
+		"title": "Humble expressions - direct",
+		"content": "193_humble_expressions_direct",
+		"jlpt": 4,
+		"form": "謙譲語",
+		"search": [
 			"謙譲語",
 			"けんじょうご",
 			"伺う",
@@ -4244,7 +4244,7 @@
 			"拝借します",
 			"はいしゃくします"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"humble expressions",
 			"expressions",
 			"polite",
@@ -4253,13 +4253,13 @@
 		]
 	},
 	{
-		"Id": 194,
-		"Sort": 69,
-		"Title": "Causative pattern - transitive and intransitive verbs",
-		"Text": "194_causative_pattern",
-		"Jlpt": 4,
-		"Form": "～あせます",
-		"Search": [
+		"id": 194,
+		"sort": 69,
+		"title": "Causative pattern - transitive and intransitive verbs",
+		"content": "194_causative_pattern",
+		"jlpt": 4,
+		"form": "～あせます",
+		"search": [
 			"あせる",
 			"させる",
 			"わせる",
@@ -4285,7 +4285,7 @@
 			"じどうし",
 			"たどうし"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"causative form",
 			"make doing",
 			"make someone doing",
@@ -4297,13 +4297,13 @@
 		]
 	},
 	{
-		"Id": 195,
-		"Sort": 70,
-		"Title": "Ask for permission",
-		"Text": "195_ask_for_permission",
-		"Jlpt": 4,
-		"Form": "～あせてもらえませんか",
-		"Search": [
+		"id": 195,
+		"sort": 70,
+		"title": "Ask for permission",
+		"content": "195_ask_for_permission",
+		"jlpt": 4,
+		"form": "～あせてもらえませんか",
+		"search": [
 			"てもらえませんか",
 			"でもらえませんか",
 			"あせてもらえませんか",
@@ -4329,7 +4329,7 @@
 			"かせてもらってもいいですか",
 			"がせてもらってもいいですか"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"ask for permission",
 			"permission",
 			"it is allowed to do",
@@ -4340,13 +4340,13 @@
 		]
 	},
 	{
-		"Id": 196,
-		"Sort": 0,
-		"Title": "Passive voice + ている",
-		"Text": "196_passive_voice_common",
-		"Jlpt": 4,
-		"Form": "～あれている",
-		"Search": [
+		"id": 196,
+		"sort": 0,
+		"title": "Passive voice + ている",
+		"content": "196_passive_voice_common",
+		"jlpt": 4,
+		"form": "～あれている",
+		"search": [
 			"受身形",
 			"うけみけい",
 			"あれている",
@@ -4374,7 +4374,7 @@
 			"かれています",
 			"がれています"
 		],
-		"SearchEN": [
+		"searchEN": [
 			"passive voice",
 			"passive form",
 			"voice"
