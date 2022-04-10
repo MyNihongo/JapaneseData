@@ -1,5 +1,4 @@
-In order to express the `looks like` idea in Japanese `そうです` is used, e.g. this expression is often used with the [ね particle](188). *"そうです"* is similar to [ようです](141) which also means *"it looks 
-like"*, however, *"そうです"* is less certain than *"ようです"*.
+In order to express the `looks like` idea in Japanese `そうです` is used, e.g. this expression is often used with the [ね particle](188). *"そうです"* is similar to [ようです](141) which also means *"it looks like"*, however, *"そうです"* is less certain than *"ようです"*.
 Patterns how *"そうです"* is created are shown in the table below.
 
 |Part of speech|Pattern|Example|
@@ -17,7 +16,6 @@ As for the example, imagine that the box is on the verge of a table and the box 
 
 #### Adjectives
 >母が作った晩ご飯はおいし**そうです**。Dinned which my mom cooked looks tasty.
->
 >その文法は簡単**そうです**。This grammar looks easy.
 
 With adjectives `そうです` has the standard meaning of *"looks like"*.
@@ -31,5 +29,4 @@ In this example there is the [ね particle](188) which states that the speaker s
 ### "Heard that" vs "Looks like"
 **Note** that *"そうです"* can also mean [I heard that](110), but the patterns are different. *"I heard that"* uses the casual form while in *"it looks like"* the ending is dropped.
 >雨が降り**そうです**。It will rain in the next instance.
->
 >雨が降る**そうです**。I heard that it would rain.

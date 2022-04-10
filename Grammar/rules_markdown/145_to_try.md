@@ -11,8 +11,8 @@ To recap:
 
 >できるだけタバコを吸わなくて、お酒を飲まない**ようにする**。I will try not to smoke and not to drink alcohol from now on.
 
->日本の大学のために、毎日、日本語を勉強するようにしている。For the sake of Japanese university, I'm doing my best to study Japanese.
+>日本の大学のために、毎日、日本語を勉強する**ようにしている**。For the sake of Japanese university, I'm doing my best to study Japanese.
 
 There are also other ways how to say to try and below are explanations of differences:
 - [てみる](120) - to try something for the first time or despite the fact that it is difficult
-- [ようとする](-1)) - to try something and not achieve the expected result (usually used in the past tense)
+- [ようとする](-1) - to try something and not achieve the expected result (usually used in the past tense)

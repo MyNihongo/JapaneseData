@@ -39,7 +39,6 @@ An indirect humble expression of a verb いる (to be) is an う-verb `おる`.
 An indirect humble expression of a verb する (to do) is an う-verb `いたす`. This verb can be used for all する-verbs (e.g. 勉強する ➝ お勉強いたす).
 
 >アルバイトを**いたします**。I will do this part-time job.
->
 >学校に**ご**電話**いたします**。I will call school.
 
 #### 申します
@@ -51,7 +50,6 @@ An indirect humble expression of a verb 言う (to say) is an う-verb `申す (
 An indirect humble expression of verbs 食べる (to eat) and 飲む (to drink) is one う-verb `いただく`. Do you remember what Japanese people say before meal? It is `いただきます`, the humble verb for 食べる and 飲む.
 
 >おにぎりを**いただきます**。I eat a rice ball.
->
 >お水を**いただきます**。I drink water.
 
 #### 存じております

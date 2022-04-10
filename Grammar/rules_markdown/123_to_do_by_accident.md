@@ -13,5 +13,4 @@ Depending on the formality of the context different forms are used.
 
 To sum up the table the form *しまう* (informal context) is rarely used in sophisticated Japanese, therefore, in the formal context use *てしまいます* with the *ます* ending, but in the informal context use *ちゃう* or *じゃう*.
 >宿題がたくさんあるのに、友達と遊ん**じゃった**。Even though I have a lot of homework I played with my friends.
-
 >ケータイ壊し**ちゃった**。I broke my phone.

@@ -19,9 +19,7 @@ In order to make honorific forms more respectful (or when the verb stem consists
 The honorific expression of three verbs いる (to be - living), 行く (to go) and 来る (to come) is only one る-verb `いらっしゃる`, so the meaning of the clause (which of the verbs is used) can only be determined by the context.
 
 >先生はまだ**いらっしゃいますか** (いる)。Is the teacher still there?
->
 >明日、先生は外国に**いらっしゃいます** (行く)。Teacher will go abroad tomorrow.
->
 >今日は先生は**いらっしゃいません** (来る)。Today the teacher will not come.
 
 ##### なさる
@@ -73,7 +71,6 @@ The honorific expression of three verbs いる (to be - living), 行く (to go) 
 `お + verb stem + てください` is the honorific counterpart of the form [てください](46) and is used to politely request from the person above the speaker. Like the original form it is not used is speaking, but rather in emails or public speech.
 
 >今、情報がないので、**お待ちください**。Because there is no information, please wait.
->
 >**ご**相談ください。Please give me advice.
 
 It is also possible to say negative requests with [ないでください](30). The pattern is `verb (dictionary form) + のはご遠慮ください`.

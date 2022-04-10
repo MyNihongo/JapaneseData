@@ -4,4 +4,4 @@ In order to say that someone continues doing something a pattern `verb + 続け�
 |-|-|
 |verb stem + 続ける|食べ**続ける**|
 
->日本に来た後で、日本語を勉強し**続ける**。After I came to Japan I continue studying Japanese.
+>日本に来た後で、日本語を勉強し**続けます**。After I came to Japan I continue studying Japanese.

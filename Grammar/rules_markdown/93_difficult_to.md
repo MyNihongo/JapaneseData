@@ -3,8 +3,7 @@ This form is the opposite of [verb + やすいです](138) which means *"it is e
 
 |Pattern|Example|
 |-|-|
-|verb stem + にくい|食べ**にくい**|
+|verb stem + にくい|食べ**にくい**です|
 
->ナイフがないと、野菜を切り**にくい**。If these is no knife it is difficult to cut vegetables.
-
->食べすぎったら、運動し**にくくなる**。If you eat too much it will be difficult to train.
+>ナイフがないと、野菜を切り**にくい**です。If these is no knife it is difficult to cut vegetables.
+>食べすぎったら、運動し**にくく**なります。If you eat too much it will be difficult to train.

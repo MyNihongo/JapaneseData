@@ -7,4 +7,4 @@ In order to say that the speaker heard something a pattern `clause + と聞い�
 |な-adjectives|casual + と聞いた|簡単だ**と聞いた**|
 |Nouns|casual + と聞いた|日本人だ**と聞いた**|
 
->綾子ちゃんが日本に言った**と聞いた**。I heard that Ayako went to Japan.
+>綾子ちゃんが日本に言った**と聞きました**。I heard that Ayako went to Japan.

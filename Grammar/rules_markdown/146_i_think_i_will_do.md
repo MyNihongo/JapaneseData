@@ -9,9 +9,8 @@ This pattern can be used in two tenses which are show below
 >運動し**ようと思ってる**。I've been thinking about doing some exercises.
 
 It should be noted that with this pattern *と思う* can only be used to express thoughts of the speaker while *と思ってる* can express thoughts of both the speaker and third parties.
->綾子ちゃん英語を勉強**しようと思ってる**。Ayako is thinking about studying English.
->
->(✕)綾子ちゃん英語を勉強**しようと思う**。Ayako just thought about studying English. (**WRONG**)
+>綾子ちゃん英語を勉強**しようと思っています**。Ayako is thinking about studying English.
+>(✕)綾子ちゃん英語を勉強**しようと思います**。Ayako just thought about studying English. (**WRONG**)
 
 Here are more examples with verbs in the table below
 

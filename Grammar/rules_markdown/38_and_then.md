@@ -1,2 +1,2 @@
 In order to imply that a next thing happens as a result of another thing a word `そして` can be used only in the beginning of the next sentence.
->日本語を勉強してた。そして日本に行った。I had been studying Japanese. Thus I went to Japan.
+>日本語を勉強してた。**そして**日本に行った。I had been studying Japanese. Thus I went to Japan.

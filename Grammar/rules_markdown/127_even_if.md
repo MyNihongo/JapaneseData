@@ -6,9 +6,9 @@ Meaning of this pattern is similar to [のに](94), but *のに* is used to expr
 |Verb|食べ**ても**|
 |い-adjective|安**くても**|
 |な-adjective|静か**でも**|
+|Noun|日本人**でも**|
 
->早く走っ**ても**、間に合わない。Even if we run fast, we won't make it in time.
-
->車が安く**ても**、買わない。Even if this car is cheap, I won't buy it.
-
->森が静か**でも**、散歩しない。Even if the woods are quiet, I won't go for a walk.
+>早く走っ**ても**、間に合いません。Even if we run fast, we won't make it in time.
+>車が安く**ても**、買えません。Even if this car is cheap, I won't buy it.
+>森が静か**でも**、散歩しません。Even if the woods are quiet, I won't go for a walk.
+>日本人でも、その漢字がわかりません。Even Japanese don't understand this kanji.

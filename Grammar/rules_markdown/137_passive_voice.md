@@ -47,7 +47,7 @@ Example: 食べる➝食べ**ます**➝食べられる
 
 ## Usage
 #### when the speaker is affected
->クラスメート**に**笑**われ**た。I was laughed at by my classmates.
+>クラスメート**に**笑**われ**ました。I was laughed at by my classmates.
 >先生に褒め**られ**ました。I was praised by the teacher.
 
 #### When the speaker's property is affected

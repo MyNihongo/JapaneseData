@@ -6,7 +6,7 @@ In order to say that someone can do something (potential form) the last syllable
 |る-verbs|verb + (ら)れる*|食べ**られる**|
 |う-verbs|verb + える|話**せる**|
 |する|できる|勉強**できる**|
-|来る (くる)|来**られる** (これる)||
+|来る (くる)|来**られる** (こられる)||
 
 \* for る-verbs the *られる* ending is more relevant to writing while in speaking *ら* is omitted, therefore the ending becomes the same as that of う-verbs, i.e. *れる*. Example: *食べ**れる***.
 
@@ -22,4 +22,4 @@ In order to say that someone can do something (potential form) the last syllable
 |～ぐ|急ぐ|急**げる**|
 |～す|話す|話**せる**|
 
->日本語で本や雑誌**が**読**める**。I can read books and magazines in Japanese.
+>日本語で本や雑誌**が**読**めめます**。I can read books and magazines in Japanese.

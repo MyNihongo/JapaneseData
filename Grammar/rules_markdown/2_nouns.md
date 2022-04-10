@@ -1,23 +1,47 @@
 If a noun is a final object of a sentence `です` (in the formal context) and `だ` (casual context) indicate that something is. Actually the usage of *です* is much more ample, but for the time being it is more than enough. The form conjugates based on the tense (present or past) or form (affirmative or negative).
 
-Present affirmative form:
->伊吹**です**。My name is Ibuki. (lit. I am Ibuki)
->これはペン**だ**。This is a pen.
+|Tense|Form|Example|
+|-|-|-|
+|Present affirmative|N + です|日本人**です**|
+|Present negative|N + じゃないです|日本人**じゃないです**|
+|Past affirmative|N + でした|日本人**でした**|
+|Past negative|N + じゃなかったです|日本人**じゃなかったです**|
 
-Present negative form:
->日本人**じゃないです**。I am not Japanese. (Formal speaking)
->日本人**じゃない**。I am not Japanese. (Casual)
->日本人**ではない**。I am not Japanese. (Casual)
->日本人**ではありません**。I am not Japanese. (Formal writing)
+### Present affirmative form
+Let us take a look at the sentence *"I am Japanese"*.
+>日本人**です**。I am Japanese.
+>日本人**である**。The Japanese.
+>日本人**だ**。The Japanese.
 
-Past affirmative form:
->自転車**でした**。It was a bicycle. (Formal)
->自転車**だった**。It was a bicycle. (Casual)
+*です* is the polite form which is used both in speaking in writing. *である* is a casual form which is used in writing (e.g. reports). *だ* is also a casual form which is used in speaking.
 
-Past negative form:
->僕の所為**じゃなかったです**。It wasn't my fault. (Formal speaking)
->僕の所為**じゃなかった**。It wasn't my fault. (Casual)
->僕の所為**ではなかった**。It wasn't my fault. (Casual)
->僕の所為**ではありませんでした**。It wasn't my fault. (Formal writing)
+It may be noted that in the previous sentences a subject of the sentence is omitted (e.g. `日本人です` instead of `私は日本人です`). In a natural Japanese sentence a subject of the sentence is always omitted whenever it is unambiguously clear what or who the subject is. It is important to note and get used to from the very beginning, so the sentence `私は日本人です` is grammatically correct, but does not sound natural at all.
 
-It may be noted that in the previous sentences a subject of the sentence is omitted (e.g. `伊吹です` instead of `僕は伊吹です`). In a natural Japanese sentence a subject of the sentence is always omitted whenever it is unambiguously clear what or who the subject is. It is important to note and get used to from the very beginning, so the sentence `僕は伊吹です` is grammatically correct, but does not sound natural at all.
+### Present negative form
+Let us take a look at the sentence *"I am not Japanese"*.
+>日本人**じゃないです**。
+>日本人**ではありません**。
+>日本人**じゃない**。
+>日本人**ではない**。
+
+*じゃないです* is the polite form which is used in speaking. *ではありません* is the polite form which is used in writing. *じゃない* is the casual form which is used in speaking. *ではない* is the casual form which is used in writing.
+Remember that `じゃ` is used for speaking. It is replaced by `では` in writing.
+Even though we are talking about nouns, *じゃない* and *ではない* are actually adjectives and they conjugate as regular い-adjectives. We will talk about い-adjectives lates in [this article](13).
+
+### Past affirmative form
+Let us take a look at the sentence *"I was Japanese"*.
+>日本人**でした**。It was the Japanese.
+>日本人**だった**。It was the Japanese.
+
+*でした* is the polite form which is used both in writing and speaking. *だった* is the casual form which is used both in writing and speaking.
+
+### Past negative form
+Let us take a look at the sentence *"I was not Japanese"*.
+>日本人**じゃなかったです**。
+>日本人**ではありませんでした**。
+>日本人**じゃなかった**。
+>日本人**ではなかった**。
+
+Difference is the same as it was for the past tense.
+*じゃなかったです* is the polite form which is used in speaking. *ではありませんでした* is the polite form which is used in writing. *じゃなかった* is the casual form which is used in speaking. *ではなかった* is the casual form which is used in writing.
+Remember that `じゃ` is used for speaking. It is replaced by `では` in writing.

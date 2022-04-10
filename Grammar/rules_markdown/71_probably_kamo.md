@@ -2,10 +2,10 @@ Previously there was an expression [でしょう or だろう](4) which indicate
 
 |Structure|Form|Example|
 |-|-|-|
-|Verb|Casual form + かもしれない|行くかもしれない|
-|い-adjective|Casual form + かもしれない|暑いかもしれない|
-|な-adjective|Casual form + かもしれない|静かなかもしれない|
-|Noun|Noun + かもしれない|日本人かもしれない|
+|Verb|Casual form + かもしれない|行く**かもしれません**|
+|い-adjective|Adjective + かもしれない|暑い**かもしれません**|
+|な-adjective|Adjective + **な**かもしれない|静かな**かもしれません**|
+|Noun|Noun + かもしれない|日本人**かもしれません**|
 
 *かもしれない* is a constant expression, therefore, in order to change its tense a preceding structure must change its tense, but the form must be kept **casual**.
 >明日雪が降らない**かもしれない**。It will probably not rain tomorrow.

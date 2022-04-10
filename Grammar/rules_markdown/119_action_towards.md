@@ -13,10 +13,10 @@ This can be used by both the speaker and other persons because a location which 
 >女の人は仕事を終わっ**てきました**。I woman finished her work and came to me.
 #### Something came
 When an action is described with verbs for movement (e.g. to run, to drive, to fly, to fall, etc.) and a direction of the movement is towards the speaker the verb is supplemented with *てくる*.
->彼女は走っ**てきた**。A girl ran to from me.
+>彼女は走っ**てきました**。A girl ran to from me.
 #### Constantly do until now
 Similarly as the present perfect continuous tense if an action was started in the past and is still performed in present the verb is supplemented with *てくる*. Usually the verb *てくる* is in the past tense, e.g. **きた**.
->五年間日本語を勉強し**てきた**。I've been studying Japanese for five years.
+>五年間日本語を勉強し**てきました**。I've been studying Japanese for five years.
 #### Gradual change of the state
 In English an example could be *"it's getting hotter and hotter"*. So when the state of something changes gradually and the speaker is affeced by it (a change towards present), this change can be expressed with the verb `なってきた` (notice the past tense of the verb *来る*). The example implies that it is already hot, but it continues to get even hotter.
->寒くなって**きた**。It's starting to get cold.
+>寒くなって**きました**。It's starting to get cold.

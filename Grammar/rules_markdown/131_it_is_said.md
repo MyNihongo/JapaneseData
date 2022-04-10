@@ -7,4 +7,4 @@ In order to say that the speaker heard something and now reports it to the liste
 |な-adjectives|casual + と言われている|簡単だ**と言われている**|
 |Nouns|casual + と言われている|日本人だ**と言われている**|
 
->日本語能力試験が簡単じゃない**と言われてる**。It's said that the JLPT is not easy.
+>日本語能力試験が簡単じゃない**と言われています**。It's said that the JLPT is not easy.

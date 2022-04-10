@@ -23,7 +23,6 @@ Rule:
 Example: 使う➝使わ**ない**➝使わせる
 
 >母**は**私**に**コーヒーを飲ま**せます**。Mom lets me drink coffee.
->
 >社長**は**私**に**働か**せました**。The boos made me work.
 
 #### Causative form of る-verbs
@@ -45,7 +44,6 @@ Example: 食べる➝食べ**ない**➝食べさせる
 Example: 食べる➝食べ**ます**➝食べさせる
 
 >母**は**私**に**映画を見**させました**。Mom let me watch the movie.
->
 >母**は**私**に**納豆を食べ**させました**。Mom made me eat natto.
 
 #### Causative form of irregular verbs
@@ -55,5 +53,13 @@ Example: 食べる➝食べ**ます**➝食べさせる
 |来る (くる)|来**させる** (こさせる)|
 
 >先生**は**私**に**宿題を**させました**。Teacher made me do the homework.
->
 >母**は**私**に**学校に**来させました**。Mom made me come to school.
+
+#### Important about `を` and `に`
+When the を particle is used for the person it is mandatory that the verb is intransitive, because it is not allowed to use two を particles in the same sentence.
+
+>母**を**学校に行かせました。(OK) My mom made me go to school.
+>母**を**なっとう**を**食べさせました。(✕) My mom made me eat natto.
+>母**に**なっとう**を**食べさせました。(OK) My mom made me eat natto.
+
+In the first sentence the verb 行く is intransitive, therefore, it is all right to use the を particle. However, in the second example the verb 食べる is transitive, as a result there are two を particles. In order to avoid it the causative object (母) must be with the に particle instead.

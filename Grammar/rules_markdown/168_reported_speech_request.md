@@ -5,5 +5,4 @@ In the article about [reported speech](164) how to quote someone's neutral phras
 |Verb|v + ように言う|食べる**ように言う**|
 
 >先生**が**学校に来る**ように言いました**。The teacher said that we had to to go to school.
-
->両親**が**お酒を飲まない**ように言言います**。My parents say that I must not drink alcohol.
+>両親**が**お酒を飲まない**ように言います**。My parents say that I must not drink alcohol.

@@ -2,10 +2,10 @@ In order to say that something is in excess or too much a form `すぎる` is us
 
 |Form|Usage|
 |-|-|
-|い-adjective|寒すぎる|
-|な-adjective|静かすぎる|
-|る-verb|食べすぎる|
-|う-verb|飲みすぎる|
+|る-verb|食べ**すぎます**|
+|う-verb|飲み**すぎます**|
+|い-adjective|寒**すぎます**|
+|な-adjective|静か**すぎます**|
 
 Due to the fact that *すぎる* is a verb (despite the fact that it can modify an adjective) it conjugates like an *る-verb*. Therefore, it is irrelevant of what is modified by *すぎる* the only part which is conjugated is only the *すぎる* verb.
 >東京は高**すぎない**。Tokyo is not too much expensive.

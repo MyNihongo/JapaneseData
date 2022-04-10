@@ -2,7 +2,6 @@ Honorific expressions (尊敬語) are used to describe actions of another person
 In the following example the first sentence is correct (OK) since it describes an action of a teacher, but the second sentence is wrong (✕) since it describes an action of the speaker.
 
 >**先生**はお待ちになります。(OK) Teacher waits.
->
 >**私**はお待ちになります。(✕) I wait.
 
 The common rules are described in this article, but the special verbs are in [this article](187).
@@ -30,7 +29,6 @@ The passive voice form is just an alternative to the standard honorific form, th
 The [passive voice](137) form is created by adding `あれる` to the verb (e.g. 話す➝話される, 食べる➝食べられる, する➝される, etc.). When the honorific form is created the whole sentence is **not** transformed into the passive voice only the verb is. Therefore, it differs from the actual passive voice as shown in the example below.
 
 >**先生は**お茶を飲まれます。Teacher drinks tea (honorific, not passive voice).
->
 >**お茶は**先生に飲まれます。Tea is drunk by a teacher (passive voice, not honorific).
 
 Let us rewrite the example from the standard honorific form into the passive voice form.

@@ -12,7 +12,7 @@ In order to give advice a form `verbて + みたらどうですか` can be used.
 
 ### Asking for advice
 In order ask for advice where the speaker is feeling a bit desperate a form `たら、どうしますか` can be used. It can be translated as *"what should I do if it happens"* or *"what if"*.
->試験に受からなかっ**たら**、どうする。What if I don't pass the exam?
+>試験に受からなかっ**たら**、どうしますか。What if I don't pass the exam?
 
 Another way of asking for advice is by using `たら、いいですか` which can be translated as *"is it good if..."*.
 >バスで行っ**たら、いいですか**。Should I go by bus?

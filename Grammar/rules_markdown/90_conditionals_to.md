@@ -3,12 +3,12 @@ In order to say that *"if A, then B **always** occurs"* the `と` particle is us
 #### Machines
 When machines work as expected (not taking into account defects) their actions are usually expected (e.g. push the button then something happens).
 
->自動販売機のボタンを押す**と**、飲み物が出る。If you push the button on the vending machine, a drink will come out.
+>自動販売機のボタンを押す**と**、飲み物が出ます。If you push the button on the vending machine, a drink will come out.
 
 #### Directions
 Planning of locations does not change often, therefore, it is expected to arrive to a certain destination when following a certain path.
 
->左に曲がって、まっすぐ行く**と**、渋谷駅がある。If you turn left and go straight, there will be the Shibuya station.
+>左に曲がって、まっすぐ行く**と**、渋谷駅があります。If you turn left and go straight, there will be the Shibuya station.
 
 #### Seasons
 If we do not take into account the latest climate changes usually it is expected to meet certain weather in certain seasons (e.g. snow in winter, sunshine in summer, etc.).

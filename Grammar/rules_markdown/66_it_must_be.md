@@ -1,13 +1,13 @@
 In order to say that something must or must not be the case expressions `はずだ`. Usually *はず* is always in the affirmative form, so a verb, noun or adjective before *はず* determines whether the whole sentence is an affirmative or negative.
-A possible negative form is also `はず + はずがありません`. There is no real difference between `ない + はずです` and `はず + はずがありません`.
+A possible negative form is also `はず + がありません`. There is no real difference between `ない + はずです` and `はず + がありません`.
 Usage of the expressions is below.
 
-|Structure|Usage|Example|
+|Form|Usage|Example|
 |-|-|-|
-|Verb|short form + はず|来る**はず**|
-|い-adjective|short form + はず|おいしい**はず**|
-|な-adjective|short form + はず|静かな**はず**|
-|Noun|noun + の + はず|晴れの**はず**|
+|Verb|dic. + はず|来る**はず**です|
+|い-adjective|adj + はず|おいしい**はず**です|
+|な-adjective|adj + **な**はず|静か**なはず**です|
+|Noun|noun + **の**はず|晴れ**のはず**です|
 
 Examples of how to use the *はず*.
 >高いケーキがおいしい**はず**です。An expensive cake is must be tasty.

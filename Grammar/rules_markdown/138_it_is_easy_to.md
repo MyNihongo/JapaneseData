@@ -5,4 +5,4 @@ This form is the opposite of [verb + にくいです](138) which means *"it is d
 |-|-|
 |verb stem + やすい|食べ**やすい**|
 
->日本人と話して、日本語を勉強し**やすい**。It is easy to study Japanese when talking to Japanese people.
+>日本人と話して、日本語を勉強し**やすい**です。It is easy to study Japanese when talking to Japanese people.
