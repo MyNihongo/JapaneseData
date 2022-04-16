@@ -419,7 +419,7 @@
 	},
 	{
 		"id": 24,
-		"sort": 66,
+		"sort": 67,
 		"title": "Proposals (volitional form)",
 		"form": "ましょう／ませんか",
 		"content": "24_volitional_form",
@@ -446,7 +446,7 @@
 	},
 	{
 		"id": 25,
-		"sort": 67,
+		"sort": 68,
 		"title": "Offer assistance",
 		"form": "ましょうか",
 		"content": "25_offer_assistance",
@@ -519,7 +519,7 @@
 	},
 	{
 		"id": 29,
-		"sort": 73,
+		"sort": 74,
 		"title": "Without doing",
 		"form": "ないで／ずに",
 		"content": "29_without_doing",
@@ -658,7 +658,7 @@
 	},
 	{
 		"id": 36,
-		"sort": 71,
+		"sort": 72,
 		"title": "To decide",
 		"form": "ことにする",
 		"content": "36_decide",
@@ -714,7 +714,7 @@
 	},
 	{
 		"id": 39,
-		"sort": 72,
+		"sort": 73,
 		"title": "Too much",
 		"form": "～すぎる",
 		"content": "39_too_much",
@@ -764,7 +764,7 @@
 	},
 	{
 		"id": 41,
-		"sort": 69,
+		"sort": 70,
 		"title": "To want to do",
 		"form": "～たい",
 		"content": "41_to_want_to_do",
@@ -781,7 +781,7 @@
 	},
 	{
 		"id": 42,
-		"sort": 68,
+		"sort": 69,
 		"title": "Listing things",
 		"form": "～たり～たりする",
 		"content": "42_listing_things",
@@ -934,7 +934,7 @@
 	},
 	{
 		"id": 49,
-		"sort": 70,
+		"sort": 71,
 		"title": "To intend",
 		"form": "～つもり",
 		"content": "49_to_intend",
