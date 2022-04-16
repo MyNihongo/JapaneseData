@@ -1,4 +1,4 @@
-In order to relate to a set of instructions of how something is done a grammatical structure `verb stem + 方` is used. The verb stem is a form of a verb in the present affirmative tense (*ます-form*) without the *ます-ending*. Example: *食べる->食べます->食べ*, so in this example "a way of eating" is translated into Japanese as "食べ方".
+In order to relate to a set of instructions of how something is done a grammatical structure `verb stem + 方` is used. The verb stem is a form of a verb in the present affirmative tense (*ます-form*) without the *ます-ending*. Example: *食べる→食べます→食べ*, so in this example "a way of eating" is translated into Japanese as "食べ方".
 
 |Form|Usage|Example|
 |-|-|-|
