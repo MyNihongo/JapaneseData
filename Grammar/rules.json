@@ -3708,7 +3708,7 @@
 		"id": 168,
 		"sort": 97,
 		"title": "Reported speech - requests",
-		"form": "ように言う",
+		"form": "～ように言う",
 		"content": "168_reported_speech_request",
 		"jlpt": 4,
 		"jp": [
@@ -3935,12 +3935,26 @@
 		"id": 181,
 		"sort": 64,
 		"title": "Imperative form",
-		"form": "け、な",
+		"form": "え、ろ and な",
 		"content": "181_imperative_form",
 		"jlpt": 4,
 		"jp": [
 			"命令形",
-			"めいれいけい"
+			"めいれいけい",
+			"な",
+			"ろ",
+			"え",
+			"け",
+			"げ",
+			"せ",
+			"ぜ",
+			"て",
+			"で",
+			"へ",
+			"べ",
+			"ぺ",
+			"め",
+			"れ"
 		],
 		"en": [
 			"imperative form",
@@ -3960,7 +3974,7 @@
 		"id": 182,
 		"sort": 26,
 		"title": "Wishful conditional",
-		"form": "ば ＋ んですが",
+		"form": "～ば ＋ んですが",
 		"content": "182_wishful_conditional",
 		"jlpt": 4,
 		"jp": [
@@ -4031,7 +4045,7 @@
 		"id": 185,
 		"sort": 23,
 		"title": "Conditionals",
-		"form": "たら",
+		"form": "～たら",
 		"content": "185_conditionals_tara",
 		"jlpt": 4,
 		"jp": [
@@ -4047,7 +4061,7 @@
 		"id": 186,
 		"sort": 25,
 		"title": "Conditionals",
-		"form": "ば",
+		"form": "～ば",
 		"content": "186_conditionals_ba",
 		"jlpt": 4,
 		"jp": [
@@ -4266,7 +4280,7 @@
 		"id": 194,
 		"sort": 70,
 		"title": "Causative pattern - transitive and intransitive verbs",
-		"form": "～あせます",
+		"form": "～あせる",
 		"content": "194_causative_pattern",
 		"jlpt": 4,
 		"jp": [
