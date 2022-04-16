@@ -26,28 +26,28 @@ A direct humble expression for verbs 行く (to go) and 来る (to come) is `う
 >今から教室に**うかがいます**。I go to the classroom.
 >９時に教室に**うかがいました**。I came to the classroom at 9 o'clock.
 
-##### おります
+##### おります (いる)
 A direct humble expression for a verb いる (to be) is `おる` (1 group).
 
 >今、教室に**おります**。Now I am in the classroom.
 
-##### いたします
+##### いたします (する)
 A direct humble expression of a verb する (to do) is `いたす` (1 group). This verb can be used for all する-verbs (e.g. 勉強する ➝ お勉強いたす).
 
 >先生にプレゼントを**いたします**。I make a present for the teacher.
 >先生にご連絡**いたします**。I contact the teacher.
 
-##### 申し上げます
+##### 申し上げます (言う)
 A direct humble expression for a verb 言う (to say) is a る-verb `申し上げる (もうしあげる)`.
 
 >お礼を申し上げます.。I thank the teacher.
 
-##### 拝見します
+##### 拝見します (見る)
 A direct humble expression for a verb 見る (to see) is a する-verb `拝見する (はいけんする)`.
 
 >ホワイトボードを拝見します。I look at the whiteboard.
 
-##### お目にかけます
+##### お目にかけます (見せる)
 A direct humble expression for a verb 見せる (to show) is a る-verb `お目にかける (おめにかける)`.
 
 >宿題をお目にかけます。I show my homework.
@@ -58,7 +58,7 @@ A direct humble expression of verbs 食べる (to eat) and 飲む (to drink) is 
 >先生とおにぎりを**いただきます**。I eat a rice ball with the teacher.
 >先生とお水を**いただきます**。I drink water with the teacher.
 
-##### 存じております
+##### 存じております (知っている)
 A direct humble expression of a verb 知っている (to know) is `存じておる (ぞんじております)` (1 group).
 
 >あの先生を**存じております**。I know that teacher.
@@ -68,12 +68,12 @@ A direct humble expression of verbs 質問する (to ask a question) and 聞く 
 
 >先生に**うかがいます**。I ask the teacher.
 
-##### お目にかがります
+##### お目にかがります (会う)
 A direct humble expression of a verb 会う (to meet) is `お目にかがる (おめにかがる)` (1 group).
 
 >学校で先生に**お目にかがります**。I meet with the teacher at school.
 
-##### 拝借します
+##### 拝借します (借りる)
 A direct humble expression of a verb 借りる (to borrow) is a する-verb `拝借する (はいしゃくする)`.
 
 >先生に本を**拝借します**。I borrow a book from the teacher.

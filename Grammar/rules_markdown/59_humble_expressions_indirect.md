@@ -23,40 +23,40 @@ Indirect humble expressions are used in the self-introduction speech (自己紹�
 >コンビニでアルバイトをして**おります**。(しています ➝ しております)
 >よろしくお願い**いたします**。(します ➝ いたします)
 
-#### まいります
+#### まいります (行く, 来る)
 An indirect humble expression of verbs 行く (to go) and 来る (to come) is `まいる` (1 group).
 
 >スーパーに料理を買いに**まいります** (行く)。I will go to the supermarket to buy some food.
 >日本に**まいりました** (来る)。I came to school.
 
-#### おります
+#### おります (いる)
 An indirect humble expression of a verb いる (to be) is `おる` (1 group)
 
 >私は先生がいらっしゃるまで、ここに**おります**。I will be here until the teacher comes.
 
-#### いたします
+#### いたします (する)
 An indirect humble expression of a verb する (to do) is `いたす` (1 group). This verb can be used for all する-verbs (e.g. 勉強する ➝ お勉強いたす).
 
 >アルバイトを**いたします**。I will do this part-time job.
 >学校に**ご**電話**いたします**。I will call school.
 
-#### 申します
+#### 申します (言う)
 An indirect humble expression of a verb 言う (to say) is `申す (もうす)` (1 group).
 
 >ジョンと**申します**。My name is John.
 
-#### いただきます
+#### いただきます (食べる, 飲む)
 An indirect humble expression of verbs 食べる (to eat) and 飲む (to drink) is `いただく` (1 group). Do you remember what Japanese people say before meal? It is `いただきます`, the humble verb for 食べる and 飲む.
 
 >おにぎりを**いただきます**。I eat a rice ball.
 >お水を**いただきます**。I drink water.
 
-#### 存じております
+#### 存じております (知っている)
 An indirect humble expression of a verb 知っている (to know) is `存じておる (ぞんじておる)` (1 group).
 
 >日本語の本を**存じております**。I know this Japanese book.
 
-#### 存じます
+#### 存じます (思う)
 An indirect humble expression of a verb 思う (to think) is `存じる (ぞんじます)` (2 group).
 
 >教室が便利だ**と存じます**。I think that the classroom is convenient.
