@@ -29,7 +29,7 @@ Below is a table of common transitivity pairs in Japanese, but there are a lot m
 >昨日新しいパソコン**が壊れ**ました。Yesterday my new computer broke.
 >昨日新しいパソコンを**壊し**ました。Yesterday I broke my new computer.
 
-One can see in the table that both transitive and intransitive can be either a う- or a る-verb, bet there are still some verb ending patterns (please note that they are **not valid in all cases**) which can be used to memorise pairs:
+One can see in the table that both transitive and intransitive can be a verb of either the 1 group or the 2 group, bet there are still some verb ending patterns (please note that they are **not valid in all cases**) which can be used to memorise pairs:
 
 |Transitive ending|Intransitive ending|
 |-|-|

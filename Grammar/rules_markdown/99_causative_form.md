@@ -1,9 +1,9 @@
-In order to express ideas like *"to make someone do"* or *"to let someone do"* (i.e. the causative form) an `あせる` ending of verbs is used. Below there specific memorisation rules for う- and る-verbs.
+In order to express ideas like *"to make someone do"* or *"to let someone do"* (i.e. the causative form) an `あせる` ending of verbs is used. Below there specific memorisation rules for verbs in the 1 group and the 2 group.
 The complete clause of the causative form is `Aは + Bに(or を) + verbあせる` (see [this article](194) about rules for transitive and intransitive verbs), where:
 - A - subject (the one who makes someone do)
 - B - object (the one who is made doing)
 
-#### Causative form of う-verbs
+#### 1 group
 |Verb|Dictionary form|Causative form|
 |-|-|-|
 |～う|買う|買**わせる**|
@@ -21,11 +21,10 @@ Rule:
 2) replace the *ない* with *せる*
 
 Example: 使う➝使わ**ない**➝使わせる
-
 >母**は**私**に**コーヒーを飲ま**せます**。Mom lets me drink coffee.
 >社長**は**私**に**働か**せました**。The boos made me work.
 
-#### Causative form of る-verbs
+#### 2 group
 |Verb|Causative form|
 |-|-|
 |見る|見**させる**|
@@ -46,7 +45,7 @@ Example: 食べる➝食べ**ます**➝食べさせる
 >母**は**私**に**映画を見**させました**。Mom let me watch the movie.
 >母**は**私**に**納豆を食べ**させました**。Mom made me eat natto.
 
-#### Causative form of irregular verbs
+#### 3 group
 |Irregular verb|Causative form|
 |-|-|
 |する|させる|

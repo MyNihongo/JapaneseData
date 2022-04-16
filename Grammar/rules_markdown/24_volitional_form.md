@@ -8,8 +8,8 @@ When a verb in the present tense and negative form is followed by a sentence-end
 When a verb stem (*ます* form without *ます*) is followed by a `ましょう-form` it also introduces a proposal, however, this form is used for proposals which have already been asked for.
 >レストランに行き**ましょう**。Let's go to a restaurant?
 
-If the form is used in the formal context it does not conjugate, but in the casual context the form is different for *る-verbs* and *う-verbs*.
-For *る-verbs* and exceptional verbs the final `る` is replaced with `よう`. Note a change how a verb *来よう* is pronounced.
+If the form is used in the formal context it does not conjugate, but in the casual context the form is different for the *1 group* and the *2 group*.
+For verbs in the 2 group and the 3 group the final `る` is replaced with `よう`. Note a change how a verb *来よう* is pronounced.
 
 |Verb|Example|
 |-|-|
@@ -17,7 +17,7 @@ For *る-verbs* and exceptional verbs the final `る` is replaced with `よう`.
 |する|しよう|
 |来る (くる)|来よう (こよう)|
 
-For *う-verbs* the final `う` vowel must be replaced with a `～ぉう` where the last consonant and `ぉ` make a syllable. Relate to a conversion table below, but do not try to memorise it, the logic is the same for all verb groups, only a consonant changes.
+For verbs in the 1 group the final `う` vowel must be replaced with a `～ぉう` where the last consonant and `ぉ` make a syllable. Relate to a conversion table below, but do not try to memorise it, the logic is the same for all verb groups, only a consonant changes.
 
 |Verb ending|Proposal ending|Example|
 |-|-|-|

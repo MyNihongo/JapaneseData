@@ -4,21 +4,21 @@ Present affirmative short form is exactly the dictionary form of a verb, i.e. th
 
 |Verb type|Example|
 |-|-|
-|う-verbs|話す➝話す|
-|る-verbs|食べる➝食べる|
+|1 group|話す➝話す|
+|2 group|食べる➝食べる|
 |する|する➝する|
 |来る (くる)|来る (くる)➝来る (くる)|
 
 ### Present negative
-*う-verbs*: replace the final `う-syllable` with its `あ-syllable` (e.g. **う➝わ**, く➝か, す➝さ, etc.) and add the ending `ない`.
-*る-verbs*: replace the final `る` with the ending `ない`.
+*1 group*: replace the final `う-syllable` with its `あ-syllable` (e.g. **う➝わ**, く➝か, す➝さ, etc.) and add the ending `ない`.
+*2 group*: replace the final `る` with the ending `ない`.
 *する*: the verb is `しない`.
 *来る*: the verb is `こない`. The kanji character remains the same.
 
 |Verb type|Example|
 |-|-|
-|う-verbs|話す➝話**さない**|
-|る-verbs|食べる➝食べ**ない**|
+|1 group|話す➝話**さない**|
+|2 group|食べる➝食べ**ない**|
 |する|する➝**しない**|
 |来る (くる)|来る (くる)➝来ない (**こない**)|
 
@@ -27,8 +27,8 @@ First create [て-form](52) of a verb and then replace `て` with `た` or `で`
 
 |Verb type|Example|
 |-|-|
-|う-verbs|話す➝話し**た**|
-|る-verbs|食べる➝食べ**た**|
+|1 group|話す➝話し**た**|
+|2 group|食べる➝食べ**た**|
 |する|する➝**した**|
 |来る (くる)|来る (くる)➝来た (**きた**)|
 
@@ -37,7 +37,7 @@ Use the short present negative form and replace the final `い` with `なかっ�
 
 |Verb type|Example|
 |-|-|
-|う-verbs|話す➝話**さなかった**|
-|る-verbs|食べる➝食べ**なかった**|
+|1 group|話す➝話**さなかった**|
+|2 group|食べる➝食べ**なかった**|
 |する|する➝**しなかった**|
 |来る (くる)|来る (くる)➝来ない (**こなかった**)|

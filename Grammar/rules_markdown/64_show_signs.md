@@ -5,7 +5,7 @@
 |な-adjective|adj + がります|きれい**がります**|
 
 In order to say that another persons shows signs of something a form `がる` is used. The form is constructed by replacing the final *い* with *がる*. This form can only modify *い-adjectives* or other grammatical structures which conjugate like *い-adjectives*, e.g. expressing desires for verbs with a [たい-form](41).
-The *がる-form* becomes an *う-verb* and conjugates accordingly.
+The *がる-form* (1 group) and conjugates accordingly.
 >怖**がります**。He looks afraid.
 
 #### Describing desires of other persons

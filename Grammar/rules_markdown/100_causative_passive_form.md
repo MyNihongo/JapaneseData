@@ -1,4 +1,4 @@
-If the [causative form](99) is combined with the [passive voice](137) expressions as *"to be made doing"* or *"to be let doing"* can be used. Below there specific memorisation rules for う- and る-verbs.
+If the [causative form](99) is combined with the [passive voice](137) expressions as *"to be made doing"* or *"to be let doing"* can be used. Below there specific memorisation rules for verbs in the 1 group and the 2 group.
 The complete clause of the causative passive form is `Aは + Bに + verbあせられる`, where:
 - A - subject (the one who is made doing)
 - B - object (the one who makes someone do)
