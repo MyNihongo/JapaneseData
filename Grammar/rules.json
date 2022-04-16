@@ -2233,7 +2233,7 @@
 		"id": 106,
 		"sort": 80,
 		"title": "It looks like",
-		"form": "そうです",
+		"form": "～そうだ",
 		"content": "106_it_looks_like",
 		"jlpt": 4,
 		"jp": [
@@ -2259,7 +2259,7 @@
 		"id": 107,
 		"sort": 81,
 		"title": "Do like",
-		"form": "そうに",
+		"form": "～そうに",
 		"content": "107_do_like",
 		"jlpt": 4,
 		"jp": [
@@ -2278,7 +2278,7 @@
 		"id": 108,
 		"sort": 12,
 		"title": "Just finished",
-		"form": "たばかりです",
+		"form": "～たばかり",
 		"content": "108_just_finished",
 		"jlpt": 4,
 		"jp": [
@@ -2304,7 +2304,7 @@
 		"id": 109,
 		"sort": 86,
 		"title": "To be about to",
-		"form": "ところです",
+		"form": "～ところだ",
 		"content": "109_to_be_about_to",
 		"jlpt": 4,
 		"jp": [
@@ -2325,7 +2325,7 @@
 		"id": 110,
 		"sort": 84,
 		"title": "I heard that",
-		"form": "そうです",
+		"form": "～そうだ",
 		"content": "110_heard_that",
 		"jlpt": 4,
 		"jp": [
@@ -2340,7 +2340,7 @@
 		"id": 111,
 		"sort": 101,
 		"title": "Transitive and intransitive verbs",
-		"form": "",
+		"form": "他動詞 and 自動詞",
 		"content": "111_transitive_intransitive_verbs",
 		"jlpt": 4,
 		"jp": [
@@ -2355,14 +2355,15 @@
 			"transitive verbs",
 			"intransitive verbs",
 			"transitive and intransitive verbs",
-			"intransitive and transitive verbs"
+			"intransitive and transitive verbs",
+			"verbs"
 		]
 	},
 	{
 		"id": 112,
 		"sort": 28,
 		"title": "What if",
-		"form": "たらどう",
+		"form": "～たらどう",
 		"content": "112_what_if",
 		"jlpt": 4,
 		"jp": [
@@ -2377,7 +2378,7 @@
 		"id": 113,
 		"sort": 29,
 		"title": "Is it good to (seek instructions)",
-		"form": "たらいいですか",
+		"form": "～たらいい",
 		"content": "113_is_it_good_to",
 		"jlpt": 4,
 		"jp": [
@@ -2398,7 +2399,7 @@
 		"id": 114,
 		"sort": 105,
 		"title": "To do for someone",
-		"form": "てあげます",
+		"form": "～てあげる",
 		"content": "114_to_do_for_someone",
 		"jlpt": 4,
 		"jp": [
@@ -2422,7 +2423,7 @@
 		"id": 115,
 		"sort": 34,
 		"title": "To want someone to do",
-		"form": "て欲しいです",
+		"form": "～て欲しい",
 		"content": "115_to_want_someone_to",
 		"jlpt": 4,
 		"jp": [
@@ -2441,7 +2442,7 @@
 		"id": 116,
 		"sort": 102,
 		"title": "Action away from the speaker",
-		"form": "ていきます",
+		"form": "～ていく",
 		"content": "116_action_away",
 		"jlpt": 4,
 		"jp": [
@@ -2472,7 +2473,7 @@
 		"id": 117,
 		"sort": 109,
 		"title": "Could you please",
-		"form": "てもらえませんか",
+		"form": "～てもらえませんか",
 		"content": "117_could_you_please",
 		"jlpt": 4,
 		"jp": [
@@ -2497,7 +2498,7 @@
 		"id": 118,
 		"sort": 107,
 		"title": "Someone does for us",
-		"form": "てくれます",
+		"form": "～てくれる",
 		"content": "118_someone_does_for_us",
 		"jlpt": 4,
 		"jp": [
@@ -2517,7 +2518,7 @@
 		"id": 119,
 		"sort": 103,
 		"title": "Action towards the speaker",
-		"form": "てきます",
+		"form": "～てくる",
 		"content": "119_action_towards",
 		"jlpt": 4,
 		"jp": [
@@ -2546,7 +2547,7 @@
 		"id": 120,
 		"sort": 90,
 		"title": "To try doing",
-		"form": "てみます",
+		"form": "～てみる",
 		"content": "120_to_try",
 		"jlpt": 4,
 		"jp": [
@@ -2575,7 +2576,7 @@
 		"id": 121,
 		"sort": 108,
 		"title": "Someone does for us",
-		"form": "てもらいます",
+		"form": "～てもらう",
 		"content": "121_someone_does_for_us",
 		"jlpt": 4,
 		"jp": [
@@ -2596,7 +2597,7 @@
 		"id": 122,
 		"sort": 87,
 		"title": "To do in advance",
-		"form": "ておきます",
+		"form": "～ておく",
 		"content": "122_to_do_in_advance",
 		"jlpt": 4,
 		"jp": [
@@ -2619,7 +2620,7 @@
 		"id": 123,
 		"sort": 88,
 		"title": "To do by accident / to finish completely",
-		"form": "てしまいます",
+		"form": "～てしまう",
 		"content": "123_to_do_by_accident",
 		"jlpt": 4,
 		"jp": [
@@ -2671,7 +2672,7 @@
 		"id": 125,
 		"sort": 106,
 		"title": "To do for someone",
-		"form": "てやります",
+		"form": "～てやる",
 		"content": "125_do_for_someone",
 		"jlpt": 4,
 		"jp": [
@@ -2693,7 +2694,7 @@
 		"id": 126,
 		"sort": 50,
 		"title": "I am glad",
-		"form": "てよかったです",
+		"form": "～てよかった",
 		"content": "126_i_am_glad",
 		"jlpt": 4,
 		"jp": [
@@ -2714,7 +2715,7 @@
 		"id": 127,
 		"sort": 31,
 		"title": "Even if",
-		"form": "ても",
+		"form": "～ても",
 		"content": "127_even_if",
 		"jlpt": 4,
 		"jp": [
@@ -2731,7 +2732,7 @@
 		"id": 128,
 		"sort": 99,
 		"title": "It could be said",
-		"form": "と言ってもいいです",
+		"form": "～と言ってもいい",
 		"content": "128_it_could_be_said",
 		"jlpt": 4,
 		"jp": [
@@ -2772,7 +2773,7 @@
 		"id": 130,
 		"sort": 60,
 		"title": "Phrase nominalisation",
-		"form": "という事",
+		"form": "ということ",
 		"content": "130_text_nominalisation",
 		"jlpt": 4,
 		"jp": [
@@ -2794,7 +2795,7 @@
 		"id": 131,
 		"sort": 98,
 		"title": "It is said",
-		"form": "と言われています",
+		"form": "と言われている",
 		"content": "131_it_is_said",
 		"jlpt": 4,
 		"jp": [
@@ -2818,7 +2819,7 @@
 		"id": 132,
 		"sort": 85,
 		"title": "I heard that",
-		"form": "と聞きました",
+		"form": "と聞く",
 		"content": "132_i_heard",
 		"jlpt": 4,
 		"jp": [
@@ -2841,7 +2842,7 @@
 		"id": 133,
 		"sort": 89,
 		"title": "I think",
-		"form": "と思います",
+		"form": "と思う",
 		"content": "133_i_think",
 		"jlpt": 4,
 		"jp": [
@@ -2888,7 +2889,7 @@
 		"id": 135,
 		"sort": 56,
 		"title": "To continue doing",
-		"form": "続けます",
+		"form": "～続ける",
 		"content": "135_to_continue",
 		"jlpt": 4,
 		"jp": [
@@ -2968,7 +2969,7 @@
 		"id": 138,
 		"sort": 53,
 		"title": "It is easy to",
-		"form": "やすい",
+		"form": "～やすい",
 		"content": "138_it_is_easy_to",
 		"jlpt": 4,
 		"jp": [
@@ -2999,7 +3000,7 @@
 		"id": 140,
 		"sort": 93,
 		"title": "To plan",
-		"form": "予定です",
+		"form": "～予定だ",
 		"content": "140_to_plan",
 		"jlpt": 4,
 		"jp": [
@@ -3020,7 +3021,7 @@
 		"id": 141,
 		"sort": 77,
 		"title": "It looks like",
-		"form": "ようです",
+		"form": "～ようだ",
 		"content": "141_it_looks_like",
 		"jlpt": 4,
 		"jp": [
@@ -3049,7 +3050,7 @@
 		"id": 142,
 		"sort": 78,
 		"title": "Object is similar to",
-		"form": "ような",
+		"form": "～ような",
 		"content": "142_object_similar_to",
 		"jlpt": 4,
 		"jp": [
@@ -3067,7 +3068,7 @@
 		"id": 143,
 		"sort": 79,
 		"title": "Do like",
-		"form": "ように",
+		"form": "～ように",
 		"content": "143_do_like",
 		"jlpt": 4,
 		"jp": [
@@ -3086,7 +3087,7 @@
 		"id": 144,
 		"sort": 94,
 		"title": "To be able to",
-		"form": "ようになります",
+		"form": "～ようになる",
 		"content": "144_to_be_able_to",
 		"jlpt": 4,
 		"jp": [
@@ -3106,7 +3107,7 @@
 		"id": 145,
 		"sort": 91,
 		"title": "To try hard",
-		"form": "ようにします",
+		"form": "～ようにする",
 		"content": "145_to_try",
 		"jlpt": 4,
 		"jp": [
@@ -3131,7 +3132,7 @@
 		"id": 146,
 		"sort": 92,
 		"title": "I think I will do",
-		"form": "おうと思います",
+		"form": "～おうと思う",
 		"content": "146_i_think_i_will_do",
 		"jlpt": 4,
 		"jp": [
@@ -3274,7 +3275,7 @@
 		"id": 149,
 		"sort": 55,
 		"title": "It is difficult to",
-		"form": "づらい",
+		"form": "～づらい",
 		"content": "149_it_is_difficult_to",
 		"jlpt": 4,
 		"jp": [
@@ -3292,7 +3293,7 @@
 		"id": 150,
 		"sort": 0,
 		"title": "To finish doing",
-		"form": "上げます／上がります",
+		"form": "～上げる／～上がる",
 		"content": "150_finish_doing",
 		"jlpt": 3,
 		"jp": [
@@ -3348,7 +3349,7 @@
 		"id": 153,
 		"sort": 0,
 		"title": "Do something together",
-		"form": "合います",
+		"form": "～合う",
 		"content": "153_do_together",
 		"jlpt": 3,
 		"jp": [
@@ -3368,7 +3369,7 @@
 		"id": 154,
 		"sort": 0,
 		"title": "Should (it'd be good if)",
-		"form": "ばいいです",
+		"form": "～ばいい",
 		"content": "154_should",
 		"jlpt": 3,
 		"jp": [
@@ -3385,7 +3386,7 @@
 		"id": 155,
 		"sort": 0,
 		"title": "Should have (done)",
-		"form": "ばよかったです",
+		"form": "～ばよかった",
 		"content": "155_should_have",
 		"jlpt": 3,
 		"jp": [
@@ -3402,7 +3403,7 @@
 		"id": 156,
 		"sort": 0,
 		"title": "the more ... the more",
-		"form": "ば~ほど",
+		"form": "～ば～ほど",
 		"content": "156_the_more",
 		"jlpt": 3,
 		"jp": [
@@ -3418,7 +3419,7 @@
 		"id": 157,
 		"sort": 0,
 		"title": "If only",
-		"form": "は~のに",
+		"form": "～は～のに",
 		"content": "157_if_only",
 		"jlpt": 3,
 		"jp": [
@@ -3435,7 +3436,7 @@
 	{
 		"id": 158,
 		"sort": 0,
-		"title": "Nothing but (negative description)",
+		"title": "Nothing but - negative description",
 		"form": "ばかりで",
 		"content": "158_nothing_but",
 		"jlpt": 3,
@@ -3621,7 +3622,7 @@
 		"id": 164,
 		"sort": 96,
 		"title": "Reported speech",
-		"form": "と言っています",
+		"form": "と言っている",
 		"content": "164_reported_speech",
 		"jlpt": 4,
 		"jp": [
