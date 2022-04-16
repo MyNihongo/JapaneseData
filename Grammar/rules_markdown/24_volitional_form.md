@@ -1,10 +1,3 @@
-In order to propose doing something in Japanese there are several forms.
-### Negative verb + か
-When a verb in the present tense and negative form is followed by a sentence-ending particle か (indicating a question) then the speaker offers doing something. A nuance of this expression is that the speaker is not completely sure about the response, so usually this form is used for brand-new proposals.
->お茶でもをし**ませんか**。Would you like to drink tea or something? (Formal)
->お茶でもし**ないか**。Would you like to drink tea or something? (Casual)
-***
-### ましょう
 When a verb stem (*ます* form without *ます*) is followed by a `ましょう-form` it also introduces a proposal, however, this form is used for proposals which have already been asked for.
 >レストランに行き**ましょう**。Let's go to a restaurant?
 
@@ -21,7 +14,7 @@ For verbs in the 1 group the final `う` vowel must be replaced with a `～ぉ�
 
 |Verb ending|Proposal ending|Example|
 |-|-|-|
-|～う|～おう|歌う → 歌おう|
+|～う|～おう|買う → 買おう|
 |～く|～こう|行く → 行こう|
 |～す|～そう|話す → 話そう|
 |～つ|～とう|待つ → 待とう|
