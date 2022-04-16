@@ -1,13 +1,13 @@
 In Japanese verbs (just like nouns or adjectives) have polite and casual (short) forms. All verbs are divided into three groups which are described below.
-- う-verbs: dictionary form ends with ～す, ～る, ～く, etc.
-- る-verbs: dictionary form ends with ～いる or ～える.
+- 1 group (godan verbs): dictionary form ends with ～す, ～る, ～く, etc.
+- 2 group (ichidan verbs): dictionary form ends with ～いる or ～える.
 - special verbs: only `する` (to do) and `来る (くる)` (to come).
 
 Conjugation of polite forms of verbs consists of two parts: 1) verb stem; 2) ending. For each group the verb stem is constructed differently, so please refer to each section separately.
 Casual forms require a bit more knowledge about Japanese grammar, therefore, they are described later in [this article](163).
-### う-verbs
+### 1 group
 Examples: `話す (はなす)` (to speak), `作る (つくる)` (to make), `行く (いく)` (to go).
-In order to build the verb stem of う-verbs the last `う-syllable` must be replaced with its `い-syllable` (e.g. う➝い, く➝き, す➝し, etc.) and the ending of each tense must be added to the verb stem.
+In order to build the verb stem of the 1 group the last `う-syllable` must be replaced with its `い-syllable` (e.g. う➝い, く➝き, す➝し, etc.) and the ending of each tense must be added to the verb stem.
 
 |Tense|Type|Ending|Example|
 |-|-|-|-|
@@ -16,10 +16,10 @@ In order to build the verb stem of う-verbs the last `う-syllable` must be rep
 |Past|Affirmative|～ました|話す➝話し**ました**|
 |Past|Negative|～ませんでした|話す➝話し**ませんでした**|
 
-### る-verbs
+### 2 group
 Examples: `食べる (たべる)` (to eat), `起きる (おきる)` (to wake up).
-Exceptions: verbs `帰る (かえる)` (to return home) are う-verbs and conjugate as it is described in the previous section.
-In order to build the verb stem of る-verbs the last `る syllable` must be replaced with the ending of each tense.
+Exceptions: verbs like `帰る (かえる)` (to return home) or `入る (はいる)` (to enter) belong to the 1 group and conjugate as it is described in the previous section.
+In order to build the verb stem of the 2 group the last `る syllable` must be replaced with the ending of each tense.
 
 |Tense|Type|Ending|Example|
 |-|-|-|-|
