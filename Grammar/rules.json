@@ -3,7 +3,7 @@
 		"id": 1,
 		"sort": 58,
 		"title": "Must not do",
-		"form": "てはいけません",
+		"form": "てはいけない",
 		"content": "1_must_not_do",
 		"jlpt": 5,
 		"jp": [
@@ -51,7 +51,7 @@
 		"id": 3,
 		"sort": 23,
 		"title": "Only, just, as much as",
-		"form": "だけです",
+		"form": "だけ",
 		"content": "3_only_dake",
 		"jlpt": 5,
 		"jp": [
@@ -66,8 +66,8 @@
 	{
 		"id": 4,
 		"sort": 65,
-		"title": "Probably (almost certain)",
-		"form": "でしょう (だろう)",
+		"title": "Probably - almost certain",
+		"form": "でしょう／だろう",
 		"content": "4_probably_darou",
 		"jlpt": 5,
 		"jp": [
@@ -139,7 +139,7 @@
 		"id": 8,
 		"sort": 10,
 		"title": "Why, for what reason",
-		"form": "どうして",
+		"form": "どうして、なんで",
 		"content": "8_why",
 		"jlpt": 5,
 		"jp": [
@@ -174,7 +174,7 @@
 		"id": 10,
 		"sort": 47,
 		"title": "There is",
-		"form": "あります／います",
+		"form": "ある／いる",
 		"content": "10_there_is",
 		"jlpt": 5,
 		"jp": [
@@ -184,14 +184,18 @@
 			"います"
 		],
 		"en": [
-			"there is"
+			"there is",
+			"is",
+			"are",
+			"to be",
+			"be"
 		]
 	},
 	{
 		"id": 11,
 		"sort": 50,
-		"title": "To want (object)",
-		"form": "が欲しいです",
+		"title": "To want - object",
+		"form": "が欲しい",
 		"content": "11_to_want_object",
 		"jlpt": 5,
 		"jp": [
@@ -209,7 +213,7 @@
 		"id": 12,
 		"sort": 49,
 		"title": "It would be better to",
-		"form": "ほうがいいです",
+		"form": "ほうがいい",
 		"content": "12_better_to",
 		"jlpt": 5,
 		"jp": [
@@ -230,7 +234,7 @@
 		"id": 13,
 		"sort": 3,
 		"title": "i-adjectives",
-		"form": "",
+		"form": "イ形容詞",
 		"content": "13_i_adjectives",
 		"jlpt": 5,
 		"jp": [
@@ -429,7 +433,8 @@
 			"意志形",
 			"いしけい",
 			"意向形",
-			"いこうけい"
+			"いこうけい",
+			"か"
 		],
 		"en": [
 			"volitional form",
@@ -484,7 +489,7 @@
 		"id": 27,
 		"sort": 2,
 		"title": "na-adjectives",
-		"form": "",
+		"form": "ナ形容詞",
 		"content": "27_na_adjectives",
 		"jlpt": 5,
 		"jp": [
@@ -533,7 +538,7 @@
 		"id": 30,
 		"sort": 56,
 		"title": "Please don't",
-		"form": "ないでくださいませんか",
+		"form": "ないでください",
 		"content": "30_please_do_not",
 		"jlpt": 5,
 		"jp": [
@@ -553,7 +558,7 @@
 		"id": 31,
 		"sort": 57,
 		"title": "Must do",
-		"form": "ないといけません",
+		"form": "なければいけない",
 		"content": "31_must_do",
 		"jlpt": 5,
 		"jp": [
@@ -575,7 +580,7 @@
 		"id": 32,
 		"sort": 54,
 		"title": "Not have to do",
-		"form": "なくてもいいです",
+		"form": "なくてもいい",
 		"content": "32_not_have_to_do",
 		"jlpt": 5,
 		"jp": [
@@ -593,7 +598,7 @@
 		"id": 33,
 		"sort": 46,
 		"title": "To become",
-		"form": "なります",
+		"form": "なる",
 		"content": "33_become",
 		"jlpt": 5,
 		"jp": [
@@ -637,7 +642,7 @@
 		"id": 35,
 		"sort": 45,
 		"title": "Go to in order to",
-		"form": "に行きます",
+		"form": "に行く",
 		"content": "35_go_to_in_order_to",
 		"jlpt": 5,
 		"jp": [
@@ -657,7 +662,7 @@
 		"id": 36,
 		"sort": 71,
 		"title": "To decide",
-		"form": "にします",
+		"form": "ことにする",
 		"content": "36_decide",
 		"jlpt": 5,
 		"jp": [
@@ -713,10 +718,11 @@
 		"id": 39,
 		"sort": 72,
 		"title": "Too much",
-		"form": "すぎります",
+		"form": "～すぎる",
 		"content": "39_too_much",
 		"jlpt": 5,
 		"jp": [
+			"すぎます",
 			"すぎります",
 			"すぎる"
 		],
@@ -728,7 +734,7 @@
 		"id": 40,
 		"sort": 48,
 		"title": "Experience",
-		"form": "事があります",
+		"form": "ことがある",
 		"content": "40_experience",
 		"jlpt": 5,
 		"jp": [
@@ -762,7 +768,7 @@
 		"id": 41,
 		"sort": 69,
 		"title": "To want to do",
-		"form": "たいです",
+		"form": "～たい",
 		"content": "41_to_want_to_do",
 		"jlpt": 5,
 		"jp": [
@@ -779,7 +785,7 @@
 		"id": 42,
 		"sort": 68,
 		"title": "Listing things",
-		"form": "~たり~たり",
+		"form": "～たり～たりする",
 		"content": "42_listing_things",
 		"jlpt": 5,
 		"jp": [
@@ -802,7 +808,7 @@
 		"id": 43,
 		"sort": 60,
 		"title": "Something is done",
-		"form": "てあります",
+		"form": "～てある",
 		"content": "43_something_is_done",
 		"jlpt": 5,
 		"jp": [
@@ -820,7 +826,7 @@
 		"id": 44,
 		"sort": 59,
 		"title": "Ongoing action, changing a state",
-		"form": "ています",
+		"form": "～ている",
 		"content": "44_ongoing_action",
 		"jlpt": 5,
 		"jp": [
@@ -858,7 +864,7 @@
 		"id": 45,
 		"sort": 61,
 		"title": "After",
-		"form": "てから",
+		"form": "～てから",
 		"content": "45_after",
 		"jlpt": 5,
 		"jp": [
@@ -879,7 +885,7 @@
 		"id": 46,
 		"sort": 55,
 		"title": "Please do",
-		"form": "てくださいませんか",
+		"form": "～てください",
 		"content": "46_please_do",
 		"jlpt": 5,
 		"jp": [
@@ -895,7 +901,7 @@
 		"id": 47,
 		"sort": 53,
 		"title": "It is allowed to do",
-		"form": "てもいいです",
+		"form": "～てもいい",
 		"content": "47_allowed_to_do",
 		"jlpt": 5,
 		"jp": [
@@ -932,7 +938,7 @@
 		"id": 49,
 		"sort": 70,
 		"title": "To intend",
-		"form": "つもりです",
+		"form": "～つもり",
 		"content": "49_to_intend",
 		"jlpt": 5,
 		"jp": [
