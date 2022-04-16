@@ -4,11 +4,11 @@ In order to say that someone can do something (potential form) the last syllable
 |Form|Pattern|Example|
 |-|-|-|
 |1 group|verb + える|話**せる**|
-|2 group|verb + (ら)れる*|食べ**られる**|
+|2 group|verb + (ら)れる*|食べ(ら)**れる**|
 |する|できる|勉強**できる**|
-|来る (くる)|来**られる** (こられる)||
+|来る (くる)|来(ら)**れる** (こ(ら)れる)|持って来(ら)**れる**|
 
-\* for verbs in the 2 group the *られる* ending is more relevant to writing while in speaking *ら* is omitted, therefore the ending becomes the same as that of the 1 group, i.e. *れる*. Example: *食べ**れる***.
+\* For formal potential form for the 2 group and for the verb 来る is considered to be *られる*, however, due to the fact that this form is exactly the same as the [passive voice](137) the first *ら* is usually omitted.
 
 |1 group|Dictionary form|Potential form|
 |-|-|-|
