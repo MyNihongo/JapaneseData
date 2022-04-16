@@ -10,11 +10,11 @@ In the table below there are special verbs for direct humble expressions.
 |行く, 来る|うかがう (1 group)|
 |いる|おる (1 group)|
 |する|いたす (1 group)|
-|言う|申し上げる (もうしあげる) (る-verb)|
+|言う|申し上げる (もうしあげる) (2 group)|
 |見る|拝見する (はいけんする)|
-|見せる|お目にかける (おめにかける) (る-verb)|
+|見せる|お目にかける (おめにかける) (2 group)|
 |食べる, 飲む|いただく (1 group)|
-|知っている|存じ上げる (ぞんじあげる) (る-verb)|
+|知っている|存じ上げる (ぞんじあげる) (2 group)|
 |質問する, 聞く|うかがう (1 group)|
 |会う|お目にかがる (おめにかがる) (1 group)|
 |借りる|拝借する (はいしゃくする)|
@@ -38,9 +38,9 @@ A direct humble expression of a verb する (to do) is `いたす` (1 group). Th
 >先生にご連絡**いたします**。I contact the teacher.
 
 ##### 申し上げます (言う)
-A direct humble expression for a verb 言う (to say) is a る-verb `申し上げる (もうしあげる)`.
+A direct humble expression for a verb 言う (to say) is `申し上げる (もうしあげる)` (2 group).
 
->お礼を申し上げます.。I thank the teacher.
+>お礼を申し上げます。I thank the teacher.
 
 ##### 拝見します (見る)
 A direct humble expression for a verb 見る (to see) is a する-verb `拝見する (はいけんする)`.

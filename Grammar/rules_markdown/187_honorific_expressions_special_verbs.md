@@ -2,21 +2,21 @@ In order to make honorific forms more respectful (or when the verb stem consists
 
 |Normal|Honorific|
 |-|-|
-|いる, 行く, 来る|いらっしゃる (る-verb)|
-|する|なさる (る-verb)|
+|いる, 行く, 来る|いらっしゃる (2 group)|
+|する|なさる (2 group)|
 |知っています|ご存じです (ごぞんじです)|
-|知りません|ご存じない|
-|食べる, 飲む|召し上がる (めしあがる) (る-verb)|
-|言う|おっしゃる (る-verb)|
+|知りません|ご存じないです|
+|食べる, 飲む|召し上がる (めしあがる) (2 group)|
+|言う|おっしゃる (2 group)|
 |見る|ごらんになる|
 |寝る|お休みになる|
-|くれる|くださる (る-verb)|
-|verb + ている|verb + ていらっしゃる (る-verb)|
+|くれる|くださる (2 group)|
+|verb + ている|verb + ていらっしゃる (2 group)|
 |verb + てください|お + verb stem + てください|
 |するverb + てください|お + noun + ください|
 
-##### いらっしゃる
-The honorific expression of three verbs いる (to be - living), 行く (to go) and 来る (to come) is only one る-verb `いらっしゃる`, so the meaning of the clause (which of the verbs is used) can only be determined by the context.
+##### いらっしゃる (いる, 行く, 来る)
+The honorific expression of three verbs いる (to be - living), 行く (to go) and 来る (to come) is `いらっしゃる` (2 group), so the meaning of the clause (which of the verbs is used) can only be determined by the context.
 
 >先生はまだ**いらっしゃいますか** (いる)。Is the teacher still there?
 >明日、先生は外国に**いらっしゃいます** (行く)。Teacher will go abroad tomorrow.

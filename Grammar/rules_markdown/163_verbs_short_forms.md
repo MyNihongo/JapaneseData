@@ -11,7 +11,7 @@ Present affirmative short form is exactly the dictionary form of a verb, i.e. th
 
 ### Present negative
 *1 group*: replace the final `う-syllable` with its `あ-syllable` (e.g. **う➝わ**, く➝か, す➝さ, etc.) and add the ending `ない`.
-*る-verbs*: replace the final `る` with the ending `ない`.
+*2 group*: replace the final `る` with the ending `ない`.
 *する*: the verb is `しない`.
 *来る*: the verb is `こない`. The kanji character remains the same.
 

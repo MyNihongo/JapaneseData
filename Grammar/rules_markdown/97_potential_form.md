@@ -8,7 +8,7 @@ In order to say that someone can do something (potential form) the last syllable
 |する|できる|勉強**できる**|
 |来る (くる)|来**られる** (こられる)||
 
-\* for る-verbs the *られる* ending is more relevant to writing while in speaking *ら* is omitted, therefore the ending becomes the same as that of the 1 group, i.e. *れる*. Example: *食べ**れる***.
+\* for verbs in the 2 group the *られる* ending is more relevant to writing while in speaking *ら* is omitted, therefore the ending becomes the same as that of the 1 group, i.e. *れる*. Example: *食べ**れる***.
 
 |1 group|Dictionary form|Potential form|
 |-|-|-|

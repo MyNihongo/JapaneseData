@@ -18,17 +18,26 @@ For い-adjectives the last い is replaced with `くて`, therefore, all adject
 
 ### Verbs
 Verbs have the most complicated rules for creating the *て-form* where all verbs are divided into several groups with the same pattern of the *て-form*.
-*する*, *行く* and *来る* have irregular rules which must be learned by heart. Forms of *る-verbs* and *す-verbs* are created from a verb stem (*ます-form* without *ます*) which is followed by *て*.  Forms of other groups are also created from a verb stem, but one more syllable is dropped and a special *て-ending* is added instead.
+*する*, *行く* and *来る* have irregular rules which must be learned by heart. Forms of す-verbs (1 groups) and verbs in the 2 group are created from a verb stem (*ます-form* without *ます*) which is followed by *て*.  Forms of other groups are also created from a verb stem, but one more syllable is dropped and a special *て-ending* is added instead.
 These groups are listed in the table below.
 
-|Type|Original|て-form|
+###### 1 group
+|Verb|Dictionary form|て-form|
+|-|-|-|
+|～す|話す|話し**て**|
+|～く|聞く|聞**いて**|
+|**行く**|行く|行**って**|
+|～ぐ|急ぐ|急**いで**|
+|～う,～つ,～る|買う, 待つ, 帰る|買**って**, 待**って**, 帰**って**|
+|～む,～ぶ,～ぬ|読む, 遊ぶ, 死ぬ|飲**んで**, 遊**んで**, 死**んで**|
+
+###### 2 group
+|Dictionary form|て-form|
+|-|-|
+|食べる|食べ**て**|
+
+###### 3 group
+|Verb|Dictionary form|て-form|
 |-|-|-|
 |する|する|**して**|
-|行く|行く|行**って**|
 |来る|来る (くる)|来て (**きて**)|
-|る-verbs|食べる|食べ**て**|
-|す-verbs|話す|話し**て**|
-|く-verbs|聞く|聞**いて**|
-|ぐ-verbs|急ぐ|急**いで**|
-|う,つ,る-verbs|買う, 待つ, 帰る|買**って**, 待**って**, 帰**って**|
-|む,ぶ,ぬ-verbs|読む, 遊ぶ, 死ぬ|飲**んで**, 遊**んで**, 死**んで**|

@@ -9,7 +9,7 @@ When a verb stem (*ます* form without *ます*) is followed by a `ましょう
 >レストランに行き**ましょう**。Let's go to a restaurant?
 
 If the form is used in the formal context it does not conjugate, but in the casual context the form is different for the *1 group* and the *2 group*.
-For *る-verbs* and exceptional verbs the final `る` is replaced with `よう`. Note a change how a verb *来よう* is pronounced.
+For verbs in the 2 group and the 3 group the final `る` is replaced with `よう`. Note a change how a verb *来よう* is pronounced.
 
 |Verb|Example|
 |-|-|

@@ -13,7 +13,7 @@ In the table below there are special verbs for indirect humble expressions.
 |言う|申す (もうす) (1 group)|
 |食べる, 飲む|いただく (1 group)|
 |知っている|存じておる (ぞんじておる) (1 group)|
-|思う|存じる (ぞんじる) (**る-verb**)|
+|思う|存じる (ぞんじる) (**2 group**)|
 |verb + ている|verb + ておる (1 group)|
 
 Indirect humble expressions are used in the self-introduction speech (自己紹介) during interviews. An example of such speech could be

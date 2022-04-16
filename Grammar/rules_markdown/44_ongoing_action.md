@@ -1,4 +1,4 @@
-The Japanese form `ている` has many meanings which are listed below. This form is created from the [て-form](52) of a verb which is followed by a *る-verb いる*. In order to conjugate this form only the final *いる* changes its form. In the casual context the *い-vowel* is omitted so the form becomes `てる`.
+The Japanese form `ている` has many meanings which are listed below. This form is created from the [て-form](52) of a verb which is followed by *いる* (2 group). In order to conjugate this form only the final *いる* changes its form. In the casual context the *い-vowel* is omitted so the form becomes `てる`.
 >食べ**ています**。I am eating.
 >食べ**ている**。I am eating.
 >食べ**てる**。I'm eating.

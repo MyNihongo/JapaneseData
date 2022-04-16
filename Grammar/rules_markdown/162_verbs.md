@@ -29,7 +29,7 @@ In order to build the verb stem of the 2 group the last `る syllable` must be r
 |Past|Negative|～ませんでした|食べる➝食べ**ませんでした**|
 
 ### する (to do)
-In order to build the verb stem of する the first `す` must be replaced with `し`, afterwards the verb is conjugated as a る-verb, i.e. the last `る syllable` must be replaced with the ending of each tense.
+In order to build the verb stem of する the first `す` must be replaced with `し`, afterwards the verb is conjugated as verbs in the 2 group, i.e. the last `る syllable` must be replaced with the ending of each tense.
 
 |Tense|Type|Ending|Example|
 |-|-|-|-|
@@ -39,7 +39,7 @@ In order to build the verb stem of する the first `す` must be replaced with 
 |Past|Negative|～ませんでした|する➝**し**ませんでした|
 
 ### 来る (to come)
-In order to build the verb stem of 来る (くる) the first `く` must be replaced with `き`, afterwards the verb is conjugated as a る-verb, i.e. the last `る syllable` must be replaced with the ending of each tense.
+In order to build the verb stem of 来る (くる) the first `く` must be replaced with `き`, afterwards the verb is conjugated as verbs in the 2 group, i.e. the last `る syllable` must be replaced with the ending of each tense.
 But note that the kanji character **remains the same**.
 
 |Tense|Type|Ending|Example|
