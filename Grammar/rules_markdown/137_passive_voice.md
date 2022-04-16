@@ -2,7 +2,7 @@ In order to use the passive voice in Japanese (e.g. *"vegetables are eaten"*) an
 The `に particle` indicates by whom an action is performed.
 *Note* that with る-verbs the passive voice and the [potential form](97) looks exactly the same, i.e. *られる* ending.
 
-#### Passive voice of う-verbs
+#### 1 group
 |Verb|Dictionary form|Passive voice|
 |-|-|-|
 |～う|買う|買**われる**|
@@ -21,7 +21,7 @@ Rule:
 
 Example: 使う➝使わ**ない**➝使われる
 
-#### Passive voice of る-verbs
+#### 2 group
 |Verb|Passive voice|
 |-|-|
 |見る|見**られる**|
@@ -39,7 +39,7 @@ Example: 食べる➝食べ**ない**➝食べられる
 
 Example: 食べる➝食べ**ます**➝食べられる
 
-#### Passive voice of irregular verbs
+#### 3 group
 |Irregular verb|Passive voice|
 |-|-|
 |する|される|

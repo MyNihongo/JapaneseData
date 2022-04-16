@@ -3,14 +3,14 @@ In order to say that someone can do something (potential form) the last syllable
 
 |Form|Pattern|Example|
 |-|-|-|
-|る-verbs|verb + (ら)れる*|食べ**られる**|
-|う-verbs|verb + える|話**せる**|
+|1 group|verb + える|話**せる**|
+|2 group|verb + (ら)れる*|食べ**られる**|
 |する|できる|勉強**できる**|
 |来る (くる)|来**られる** (こられる)||
 
-\* for る-verbs the *られる* ending is more relevant to writing while in speaking *ら* is omitted, therefore the ending becomes the same as that of う-verbs, i.e. *れる*. Example: *食べ**れる***.
+\* for る-verbs the *られる* ending is more relevant to writing while in speaking *ら* is omitted, therefore the ending becomes the same as that of the 1 group, i.e. *れる*. Example: *食べ**れる***.
 
-|う-verb|Dictionary form|Potential form|
+|1 group|Dictionary form|Potential form|
 |-|-|-|
 |～う|買う|買**える**|
 |～つ|待つ|待**てる**|

@@ -2,15 +2,15 @@ Japanese is known for its politeness  and respect when it comes to requests and 
 
 ||Affirmative|Negative|
 |-|-|-|
-|う-verbs|vいます➝vえ|v辞書形 + な|
-|る-verbs|vます➝vろ|v辞書形 + な|
+|1 group|vいます➝vえ|v辞書形 + な|
+|2 group|vます➝vろ|v辞書形 + な|
 |する|しろ|するな|
 |来る(くる)|来い(こい)|来るな(くるな)|
 
 For the negative form the rule is the same for all groups, i.e. add `な` after the dictionary form. For the affirmative form rules are different:
 
-- う-verbs: replace the last *う* vowel with *え*, e.g. (く➝け, す➝せ, む➝め, etc.)
-- る-verbs: replace the last *る* syllable with *る*
+- 1 group: replace the last *う* vowel with *え*, e.g. (く➝け, す➝せ, む➝め, etc.)
+- 2 group: replace the last *る* syllable with *ろ*
 
 ||Affirmative|Negative|
 |-|-|-|

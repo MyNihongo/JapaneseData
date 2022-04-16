@@ -10,8 +10,8 @@ The common rules are described in this article, but the special verbs are in [th
 The rule for う- and る-verbs is the same, i.e. `お + verb stem + になります`, but it becomes difficult with *する* verbs because the prefix can be either `お` or `ご` and there is no rule for that. So the prefix must be memorised. The `ご` prefix is used more often than the `お` prefix.
 ||Dictionary form|Honorific|
 |-|-|-|
-|う-verbs|話す|**お**話し**になります**|
-|る-verbs|食べる|**お**食べ**になります**|
+|1 group|話す|**お**話し**になります**|
+|2 group|食べる|**お**食べ**になります**|
 |する-verbs (1)|散歩する|**お**散歩**になります**|
 |する-verbs (2)|電話する|**ご**電話**になります**|
 

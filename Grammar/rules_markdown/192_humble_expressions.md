@@ -11,8 +11,8 @@ The common rules are described in this article, but there are [indirect](59) and
 The pattern for making a humble expression is `お + verb stem + します` and it applies to both う- and る-verbs, but it becomes difficult with *する* verbs because the prefix can be either `お` or `ご` and there is no rule for that. So the prefix must be memorised. The `ご` prefix is used more often than the `お` prefix.
 ||Dictionary form|Humble|
 |-|-|-|
-|う-verbs|話す|**お**話し**します**|
-|る-verbs|食べる|**お**食べ**します**|
+|1 group|話す|**お**話し**します**|
+|2 group|食べる|**お**食べ**します**|
 |する-verbs (1)|散歩する|**お**散歩**します**|
 |する-verbs (2)|電話する|**ご**電話**します**|
 

@@ -2,7 +2,7 @@ The `ば-form` is not used only by itself, but it is part other grammatical stru
 *Note*: in order to memorise the form for い-adjectives and negative forms, remember that the final *い* is always replaced with *ければ*.
 
 ### Verbs
-For all verbs (う-verbs, る-verbs and exceptional verbs する and 来る) the rule is the same, i.e. for affirmative forms the final *う* vowel is replaced with *えば*, but for negative forms the verb is conjugated into the negative form in the present tense and the final *い* vowel is replaced with *ければ*.
+For all verbs (1 group, 2 group and 3 group) the rule is the same, i.e. for affirmative forms the final *う* vowel is replaced with *えば*, but for negative forms the verb is conjugated into the negative form in the present tense and the final *い* vowel is replaced with *ければ*.
 
 |Tense|ば-suffix|Example|
 |-|-|-|

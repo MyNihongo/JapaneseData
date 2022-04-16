@@ -1,7 +1,7 @@
 In Japanese verbs (just like nouns or adjectives) have polite and casual (short) forms. All verbs are divided into three groups which are described below.
 - 1 group (godan verbs): dictionary form ends with ～す, ～る, ～く, etc.
 - 2 group (ichidan verbs): dictionary form ends with ～いる or ～える.
-- special verbs: only `する` (to do) and `来る (くる)` (to come).
+- 3 group (special verbs): only `する` (to do) and `来る (くる)` (to come).
 
 Conjugation of polite forms of verbs consists of two parts: 1) verb stem; 2) ending. For each group the verb stem is constructed differently, so please refer to each section separately.
 Casual forms require a bit more knowledge about Japanese grammar, therefore, they are described later in [this article](163).
