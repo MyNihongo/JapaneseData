@@ -2360,21 +2360,6 @@
 		]
 	},
 	{
-		"id": 112,
-		"sort": 28,
-		"title": "What if",
-		"form": "～たらどう",
-		"content": "112_what_if",
-		"jlpt": 4,
-		"jp": [
-			"たらどう",
-			"もし"
-		],
-		"en": [
-			"what if"
-		]
-	},
-	{
 		"id": 113,
 		"sort": 29,
 		"title": "Is it good to (seek instructions)",
