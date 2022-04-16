@@ -1,4 +1,4 @@
-In order to express ideas like *"to make someone do"* or *"to let someone do"* (i.e. the causative form) an `あせる` ending of verbs is used. Below there specific memorisation rules for う- and る-verbs.
+In order to express ideas like *"to make someone do"* or *"to let someone do"* (i.e. the causative form) an `あせる` ending of verbs is used. Below there specific memorisation rules for verbs in the 1 group and the 2 group.
 The complete clause of the causative form is `Aは + Bに(or を) + verbあせる` (see [this article](194) about rules for transitive and intransitive verbs), where:
 - A - subject (the one who makes someone do)
 - B - object (the one who is made doing)

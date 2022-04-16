@@ -1,4 +1,4 @@
-In order to use the passive voice in Japanese (e.g. *"vegetables are eaten"*) an `あれる` ending of verbs is used. Below there specific memorisation rules for う- and る-verbs.
+In order to use the passive voice in Japanese (e.g. *"vegetables are eaten"*) an `あれる` ending of verbs is used. Below there specific memorisation rules for verbs in the 1 group and the 2 group.
 The `に particle` indicates by whom an action is performed.
 *Note* that with る-verbs the passive voice and the [potential form](97) looks exactly the same, i.e. *られる* ending.
 

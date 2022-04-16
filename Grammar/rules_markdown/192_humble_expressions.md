@@ -8,7 +8,7 @@ In the following example the first and second sentences are correct (OK) since t
 
 The common rules are described in this article, but there are [indirect](59) and [direct](193) verbs of humble expressions.
 
-The pattern for making a humble expression is `お + verb stem + します` and it applies to both う- and る-verbs, but it becomes difficult with *する* verbs because the prefix can be either `お` or `ご` and there is no rule for that. So the prefix must be memorised. The `ご` prefix is used more often than the `お` prefix.
+The pattern for making a humble expression is `お + verb stem + します` and it applies to verbs in the 1 group and the 2 group, but it becomes difficult with *する* verbs because the prefix can be either `お` or `ご` and there is no rule for that. So the prefix must be memorised. The `ご` prefix is used more often than the `お` prefix.
 ||Dictionary form|Humble|
 |-|-|-|
 |1 group|話す|**お**話し**します**|

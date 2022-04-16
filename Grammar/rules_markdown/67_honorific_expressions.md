@@ -7,7 +7,7 @@ In the following example the first sentence is correct (OK) since it describes a
 The common rules are described in this article, but the special verbs are in [this article](187).
 
 #### Honorific form
-The rule for う- and る-verbs is the same, i.e. `お + verb stem + になります`, but it becomes difficult with *する* verbs because the prefix can be either `お` or `ご` and there is no rule for that. So the prefix must be memorised. The `ご` prefix is used more often than the `お` prefix.
+The rule for verbs in the 1 group and the 2 group is the same, i.e. `お + verb stem + になります`, but it becomes difficult with *する* verbs because the prefix can be either `お` or `ご` and there is no rule for that. So the prefix must be memorised. The `ご` prefix is used more often than the `お` prefix.
 ||Dictionary form|Honorific|
 |-|-|-|
 |1 group|話す|**お**話し**になります**|
