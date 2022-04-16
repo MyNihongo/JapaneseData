@@ -425,8 +425,6 @@
 		"content": "24_volitional_form",
 		"jlpt": 5,
 		"jp": [
-			"ませんか",
-			"ないか",
 			"ましょう",
 			"おう",
 			"よう",
@@ -2357,6 +2355,31 @@
 			"transitive and intransitive verbs",
 			"intransitive and transitive verbs",
 			"verbs"
+		]
+	},
+	{
+		"id": 112,
+		"sort": 66,
+		"title": "Suggestion",
+		"form": "～ませんか",
+		"content": "112_suggest_first_time",
+		"jlpt": 5,
+		"jp": [
+			"ませんか",
+			"ないか",
+			"か"
+		],
+		"en": [
+			"suggestion",
+			"offer",
+			"proposal",
+			"for the first time",
+			"the first time",
+			"first time",
+			"times",
+			"would you like to",
+			"do you want to",
+			"what about"
 		]
 	},
 	{
