@@ -14,7 +14,7 @@ For verbs in the 1 group the final `う` vowel must be replaced with a `～ぉ�
 
 |Verb ending|Proposal ending|Example|
 |-|-|-|
-|～う|～おう|歌う → 歌おう|
+|～う|～おう|買う → 買おう|
 |～く|～こう|行く → 行こう|
 |～す|～そう|話す → 話そう|
 |～つ|～とう|待つ → 待とう|
