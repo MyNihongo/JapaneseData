@@ -4450,5 +4450,25 @@
 			"preceding word",
 			"word"
 		]
+	},
+	{
+		"id": 198,
+		"sort": 2,
+		"title": "While or before",
+		"form": "～うちに",
+		"content": "198_while_or_before",
+		"jlpt": 3,
+		"jp": [
+			"うちに",
+			"ないうちに",
+			"いうちに",
+			"なうちに",
+			"ているうちに"
+		],
+		"en": [
+			"while",
+			"before",
+			"until"
+		]
 	}
 ]
