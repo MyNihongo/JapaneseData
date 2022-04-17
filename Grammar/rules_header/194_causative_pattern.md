@@ -1,6 +1,4 @@
-|Group|Usage|
+|Usage|Example|
 |-|-|
-|他V + let do|N に + V (させる)|
-|他V + make do|N に + V (させる)|
-|自V + let do|N に + V (させる)|
-|自V + make do|N を + V (させる)|
+|N に + 他V|母は私に食べさせた|
+|N を + 自V|母は私を行かせた|
