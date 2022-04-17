@@ -1,4 +1,5 @@
 In order to emphasise the preceding noun a word `こそ` should be added to the noun. In case a noun already has a particle (e.g. 日本に) the word こそ is added after the particle as it is shown in the table below.
+It is also worth mentioning that こそ is used only for positive things, so if the speaker has the negative attitude towards the noun こそ cannot be used.
 
 |Usage|Example|
 |-|-|
