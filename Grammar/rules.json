@@ -4426,5 +4426,29 @@
 			"passive form",
 			"voice"
 		]
+	},
+	{
+		"id": 197,
+		"sort": 1,
+		"title": "Absolutely",
+		"form": "こそ",
+		"content": "197_absolutely",
+		"jlpt": 3,
+		"jp": [
+			"こそ",
+			"絶対に",
+			"ぜったいに",
+			"こちらこそ"
+		],
+		"en": [
+			"absolutely",
+			"for sure",
+			"precisely",
+			"definitely",
+			"emphasize preceding word",
+			"emphasise preceding word",
+			"preceding word",
+			"word"
+		]
 	}
 ]
