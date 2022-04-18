@@ -4504,5 +4504,23 @@
 			"although it might be",
 			"although I say"
 		]
+	},
+	{
+		"id": 201,
+		"sort": 5,
+		"title": "Speaking of with surprise",
+		"form": "といったら",
+		"content": "201_speaking_of_surprise",
+		"jlpt": 3,
+		"jp": [
+			"といったら",
+			"たら"
+		],
+		"en": [
+			"speaking of with surprise",
+			"talking of with surprise",
+			"when you talk of with surprise",
+			"when you say with surprise"
+		]
 	}
 ]
