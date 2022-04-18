@@ -4483,13 +4483,26 @@
 		],
 		"en": [
 			"speaking of",
-			"when you talk of",
-			"you talk of",
-			"talk of",
 			"talking of",
-			"when you say",
-			"you say",
-			"say"
+			"when you talk of",
+			"when you say"
+		]
+	},
+	{
+		"id": 200,
+		"sort": 4,
+		"title": "It might be",
+		"form": "といっても",
+		"content": "200_it_might_be",
+		"jlpt": 3,
+		"jp": [
+			"といっても",
+			"ても"
+		],
+		"en": [
+			"although one might say",
+			"although it might be",
+			"although I say"
 		]
 	}
 ]
