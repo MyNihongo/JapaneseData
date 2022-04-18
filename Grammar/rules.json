@@ -4470,5 +4470,26 @@
 			"before",
 			"until"
 		]
+	},
+	{
+		"id": 199,
+		"sort": 3,
+		"title": "Speaking of",
+		"form": "というと",
+		"content": "199_speaking_of",
+		"jlpt": 3,
+		"jp": [
+			"というと"
+		],
+		"en": [
+			"speaking of",
+			"when you talk of",
+			"you talk of",
+			"talk of",
+			"talking of",
+			"when you say",
+			"you say",
+			"say"
+		]
 	}
 ]
