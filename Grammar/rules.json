@@ -4522,5 +4522,29 @@
 			"when you talk of with surprise",
 			"when you say with surprise"
 		]
+	},
+	{
+		"id": 202,
+		"sort": 6,
+		"title": "Depending on",
+		"form": "によって",
+		"content": "202_depending_on",
+		"jlpt": 3,
+		"jp": [
+			"によって",
+			"違う",
+			"違います",
+			"ちがう",
+			"ちがいます"
+		],
+		"en": [
+			"depending on",
+			"according to",
+			"by the means of",
+			"because of",
+			"due to",
+			"to differ",
+			"different"
+		]
 	}
 ]
