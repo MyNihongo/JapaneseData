@@ -4546,5 +4546,28 @@
 			"to differ",
 			"different"
 		]
+	},
+	{
+		"id": 203,
+		"sort": 7,
+		"title": "Cannot bear",
+		"form": "～てたまらない",
+		"content": "203_cannot_bear",
+		"jlpt": 3,
+		"jp": [
+			"てたまらない",
+			"でたまらない",
+			"てたまらなかったです",
+			"でたまらなかったです",
+			"てたまりません",
+			"でたまりません"
+		],
+		"en": [
+			"cannot bear",
+			"can't bear",
+			"dying to",
+			"extremely",
+			"absolutely"
+		]
 	}
 ]

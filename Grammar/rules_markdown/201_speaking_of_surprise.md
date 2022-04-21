@@ -2,7 +2,7 @@ In order to say *"speaking of"* with the additional surprise feeling `といっ�
 
 |Form|Usage|Example|
 |-|-|-|
-|い-adjective|A~~い~~ + さといったら|新し**さといったら**|
+|い-adjective|A (~~い~~) + さといったら|新し**さといったら**|
 |Noun|N + といったら|日本人**といったら**|
 
 Just like [というと](199) this expression is used to provide additional input from the speaker, but the difference is that the speaker expresses the feeling of surprise.

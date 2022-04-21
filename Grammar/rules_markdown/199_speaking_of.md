@@ -2,7 +2,7 @@ In order to say *"speaking of"* in Japanese `というと` is used as the clause
 
 |Form|Usage|Example|
 |-|-|-|
-|い-adjective|A~~い~~ + さというと|新しさ**というと**|
+|い-adjective|A (~~い~~) + さというと|新しさ**というと**|
 |Noun| + というと|日本人**というと**|
 
 This expression is used to provide further details or just develop a conversation about the the noun which has been brought into the conversation just a short time ago.
