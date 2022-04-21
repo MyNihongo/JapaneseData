@@ -4585,5 +4585,20 @@
 			"cannot help but",
 			"can't be helped"
 		]
+	},
+	{
+		"id": 205,
+		"sort": 9,
+		"title": "Although",
+		"form": "ものの",
+		"content": "205_although",
+		"jlpt": 3,
+		"jp": [
+			"ものの"
+		],
+		"en": [
+			"although",
+			"but"
+		]
 	}
 ]
