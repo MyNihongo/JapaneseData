@@ -4604,5 +4604,21 @@
 			"although",
 			"but"
 		]
+	},
+	{
+		"id": 206,
+		"sort": 10,
+		"title": "Usage of って",
+		"form": "",
+		"content": "206_usage_of_tte",
+		"jlpt": 3,
+		"jp": [
+			"って"
+		],
+		"en": [
+			"usage of",
+			"heard that",
+			"to be"
+		]
 	}
 ]
