@@ -4643,5 +4643,23 @@
 			"like",
 			"comparison"
 		]
+	},
+	{
+		"id": 208,
+		"sort": 12,
+		"title": "Cannot help but",
+		"form": "～ないではいられない／～ずにはいられない",
+		"content": "208_cannot_help_but",
+		"jlpt": 3,
+		"jp": [
+			"ずにはいられないです",
+			"ずにはいられません",
+			"ないではいられないです",
+			"ないではいられません"
+		],
+		"en": [
+			"cannot help but",
+			"can't help but"
+		]
 	}
 ]
