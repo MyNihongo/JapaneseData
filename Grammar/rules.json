@@ -4654,5 +4654,49 @@
 			"cannot help but",
 			"can't help but"
 		]
+	},
+	{
+		"id": 209,
+		"sort": 13,
+		"title": "Indicate the excuse - formal",
+		"form": "もの",
+		"content": "209_indicate_the_excuse_formal",
+		"jlpt": 3,
+		"jp": [
+			"もの",
+			"んですもの",
+			"んだもの",
+			"のですもの",
+			"のだもの"
+		],
+		"en": [
+			"because",
+			"indicate the reason",
+			"indicate the excuse",
+			"indicate the dissatisfaction",
+			"formal"
+		]
+	},
+	{
+		"id": 210,
+		"sort": 13,
+		"title": "Indicate the excuse - casual",
+		"form": "もん",
+		"content": "210_indicate_the_excuse_casual",
+		"jlpt": 3,
+		"jp": [
+			"もん",
+			"んですもん",
+			"んだもん",
+			"のですもん",
+			"のだもん"
+		],
+		"en": [
+			"because",
+			"indicate the reason",
+			"indicate the excuse",
+			"indicate the dissatisfaction",
+			"casual"
+		]
 	}
 ]
