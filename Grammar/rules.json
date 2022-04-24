@@ -2370,8 +2370,6 @@
 			"offer",
 			"proposal",
 			"for the first time",
-			"the first time",
-			"first time",
 			"times",
 			"would you like to",
 			"do you want to",
@@ -2394,9 +2392,7 @@
 		"en": [
 			"is it good to",
 			"seek instructions",
-			"seek confirmation",
-			"instructions",
-			"confirmation"
+			"seek confirmation"
 		]
 	},
 	{
@@ -2416,11 +2412,8 @@
 		],
 		"en": [
 			"do for someone",
-			"for someone",
 			"do a favour",
-			"do a favor",
-			"favour",
-			"favor"
+			"do a favor"
 		]
 	},
 	{
@@ -4636,7 +4629,7 @@
 			"のようではありません",
 			"ようではない",
 			"のようではない",
-			"まるで～ようだ"
+			"まるでようだ"
 		],
 		"en": [
 			"as if",
