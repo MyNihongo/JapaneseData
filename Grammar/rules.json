@@ -4568,7 +4568,7 @@
 		"sort": 8,
 		"title": "Cannot help but",
 		"form": "～てしょうがない",
-		"content": "204_cannot_help_by",
+		"content": "204_cannot_help_but",
 		"jlpt": 3,
 		"jp": [
 			"てしょうがないです",
@@ -4697,6 +4697,28 @@
 			"indicate the excuse",
 			"indicate the dissatisfaction",
 			"casual"
+		]
+	},
+	{
+		"id": 211,
+		"sort": 13,
+		"title": "Regarding",
+		"form": "に対して",
+		"content": "211_regarding",
+		"jlpt": 3,
+		"jp": [
+			"に対して",
+			"に対する",
+			"対して",
+			"対する",
+			"にたいして",
+			"にたいする",
+			"たいして",
+			"たいする"
+		],
+		"en": [
+			"regarding",
+			"towards"
 		]
 	}
 ]
