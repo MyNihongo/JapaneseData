@@ -4720,5 +4720,34 @@
 			"regarding",
 			"towards"
 		]
+	},
+	{
+		"id": 212,
+		"sort": 14,
+		"title": "In contrast to",
+		"form": "のに対して",
+		"content": "212_in_contrast_to",
+		"jlpt": 3,
+		"jp": [
+			"のに対して",
+			"のに対する",
+			"に対して",
+			"に対する",
+			"対して",
+			"対する",
+			"のにたいして",
+			"のにたいする",
+			"にたいして",
+			"にたいする",
+			"たいして",
+			"たいする"
+		],
+		"en": [
+			"in contrast to",
+			"in contrast with",
+			"against",
+			"to the contrary",
+			"but"
+		]
 	}
 ]
