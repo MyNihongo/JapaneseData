@@ -4701,7 +4701,7 @@
 	},
 	{
 		"id": 211,
-		"sort": 13,
+		"sort": 14,
 		"title": "Regarding",
 		"form": "に対して",
 		"content": "211_regarding",
@@ -4723,7 +4723,7 @@
 	},
 	{
 		"id": 212,
-		"sort": 14,
+		"sort": 15,
 		"title": "In contrast to",
 		"form": "のに対して",
 		"content": "212_in_contrast_to",
@@ -4748,6 +4748,25 @@
 			"against",
 			"to the contrary",
 			"but"
+		]
+	},
+	{
+		"id": 213,
+		"sort": 16,
+		"title": "Only after",
+		"form": "～てはじめて",
+		"content": "213_only_after",
+		"jlpt": 3,
+		"jp": [
+			"てはじめて",
+			"ではじめて",
+			"て初めて",
+			"で初めて"
+		],
+		"en": [
+			"only after",
+			"not until",
+			"not before"
 		]
 	}
 ]
