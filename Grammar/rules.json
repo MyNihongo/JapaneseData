@@ -776,7 +776,8 @@
 			"to want to do",
 			"want to do",
 			"desires",
-			"wishes"
+			"wishes",
+			"so"
 		]
 	},
 	{
@@ -4767,6 +4768,23 @@
 			"only after",
 			"not until",
 			"not before"
+		]
+	},
+	{
+		"id": 214,
+		"sort": 17,
+		"title": "To the extent",
+		"form": "ほど",
+		"content": "214_to_the_extent",
+		"jlpt": 3,
+		"jp": [
+			"ほど",
+			"程"
+		],
+		"en": [
+			"to the extent",
+			"to the extend",
+			"to the degree"
 		]
 	}
 ]
