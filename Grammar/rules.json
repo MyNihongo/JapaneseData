@@ -420,8 +420,8 @@
 	{
 		"id": 24,
 		"sort": 67,
-		"title": "Proposals (volitional form)",
-		"form": "ましょう／ませんか",
+		"title": "Volitional form",
+		"form": "ましょう",
 		"content": "24_volitional_form",
 		"jlpt": 5,
 		"jp": [
@@ -4567,9 +4567,9 @@
 	{
 		"id": 204,
 		"sort": 8,
-		"title": "Cannot help but",
+		"title": "Cannot be helped",
 		"form": "～てしょうがない",
-		"content": "204_cannot_help_but",
+		"content": "204_cannot_be_helped",
 		"jlpt": 3,
 		"jp": [
 			"てしょうがないです",
@@ -4785,6 +4785,23 @@
 			"to the extent",
 			"to the extend",
 			"to the degree"
+		]
+	},
+	{
+		"id": 215,
+		"sort": 18,
+		"title": "I would like, but cannot",
+		"form": "～ようにも～できない",
+		"content": "215_would_like_but_cannot",
+		"jlpt": 3,
+		"jp": [
+			"ようにもできない",
+			"にもできない",
+			"できない"
+		],
+		"en": [
+			"i would like but cannot",
+			"i would like but can't"
 		]
 	}
 ]
