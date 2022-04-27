@@ -4803,5 +4803,77 @@
 			"i would like but cannot",
 			"i would like but can't"
 		]
+	},
+	{
+		"id": 216,
+		"sort": 19,
+		"title": "Giving advice",
+		"form": "～たらいいよ",
+		"content": "216_giving_advice",
+		"jlpt": 3,
+		"jp": [
+			"たらいいよ",
+			"たらいいですよ",
+			"だらいいよ",
+			"だらいいですよ",
+			"アドバイス"
+		],
+		"en": [
+			"giving advice",
+			"pieces of advice",
+			"to advise"
+		]
+	},
+	{
+		"id": 217,
+		"sort": 20,
+		"title": "Giving advice",
+		"form": "～ばいいよ",
+		"content": "217_giving_advice",
+		"jlpt": 3,
+		"jp": [
+			"ばいいよ",
+			"ばいいですよ",
+			"アドバイス"
+		],
+		"en": [
+			"giving advice",
+			"pieces of advice",
+			"to advise"
+		]
+	},
+	{
+		"id": 218,
+		"sort": 21,
+		"title": "Hope",
+		"form": "～たらいいな",
+		"content": "218_hope",
+		"jlpt": 3,
+		"jp": [
+			"たらいいな",
+			"たらいいですな",
+			"だらいいな",
+			"だらいいですな",
+			"お願いします"
+		],
+		"en": [
+			"hope"
+		]
+	},
+	{
+		"id": 219,
+		"sort": 22,
+		"title": "Hope",
+		"form": "～ばいいな",
+		"content": "219_hope",
+		"jlpt": 3,
+		"jp": [
+			"ばいいな",
+			"ばいいですな",
+			"お願いします"
+		],
+		"en": [
+			"hope"
+		]
 	}
 ]
