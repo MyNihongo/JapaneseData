@@ -4881,5 +4881,25 @@
 			"hope",
 			"I wish"
 		]
+	},
+	{
+		"id": 220,
+		"sort": 23,
+		"title": "Have to do",
+		"form": "ことだ",
+		"content": "220_have_to_do",
+		"jlpt": 3,
+		"jp": [
+			"ことだ",
+			"ことです"
+		],
+		"en": [
+			"have to do",
+			"must do",
+			"should do",
+			"provide instructions",
+			"give advice",
+			"advise"
+		]
 	}
 ]
