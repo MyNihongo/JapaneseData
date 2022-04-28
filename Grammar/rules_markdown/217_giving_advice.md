@@ -8,6 +8,7 @@ One of several ways of how to give advice is Japanese is the expression `ばい�
 |Noun|N + ならいいよ|日本人**ならいいよ**|
 
 This expression has exactly the same meaning as [たらいいよ](216), but the difference is that ばいいよ is more often used in the formal context or writing while たらいいよ is used in speaking.
+Please also do not confuse it with [ばいいな](219) (note that the ending particle is な) which is used to express the wish.
 
 >漢字を勉強すれ**ばいい**です**よ**。It would be good if you study kanji.
 >パソコンが新しけれ**ばいい**です**よ**。It would be good if the computer is new.
