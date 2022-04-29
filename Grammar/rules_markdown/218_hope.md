@@ -8,7 +8,9 @@ In order to express the wish or hope the expression `たらいいな` is used. I
 |Noun|N + だったらいいな|日本人だっ**たらいいな**|
 
 This expression has exactly the same meaning as [ばいいな](219), but the difference is that ばいいな is more often used in the formal context or writing while たらいいな is used in speaking.
-Please also do not confuse it with [たらいいよ](216) (note that the ending particle is よ) which is used to give advice.
-
 >漢字を勉強し**たらいいな**。I wish I could study kanji.
 >パソコンが新しかっ**たらいいな**。I wish the computer were new.
+
+Please also do not confuse it with [たらいいよ](216) (note that the ending particle is よ) which is used to give advice.
+>漢字を勉強したらいい**な**。I wish I could study kanji.
+>漢字を勉強したらいい**よ**。It would be good if you study kanji.

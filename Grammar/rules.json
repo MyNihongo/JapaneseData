@@ -4933,5 +4933,25 @@
 		"en": [
 			"no other choice"
 		]
+	},
+	{
+		"id": 223,
+		"sort": 26,
+		"title": "Soothing - no need to",
+		"form": "ことはない",
+		"content": "223_soothing",
+		"jlpt": 3,
+		"jp": [
+			"ことはない",
+			"ことはありません"
+		],
+		"en": [
+			"soothing",
+			"soothe",
+			"there is no need to",
+			"there's no need to",
+			"do not worry",
+			"don't worry"
+		]
 	}
 ]
