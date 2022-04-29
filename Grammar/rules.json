@@ -4953,5 +4953,26 @@
 			"do not worry",
 			"don't worry"
 		]
+	},
+	{
+		"id": 224,
+		"sort": 27,
+		"title": "Both A and B",
+		"form": "も～ば、～も",
+		"content": "224_both_a_and_b",
+		"jlpt": 3,
+		"jp": [
+			"もばも",
+			"もならも",
+			"ば",
+			"ければ",
+			"なら"
+		],
+		"en": [
+			"both a and b",
+			"negative connections",
+			"positive connections",
+			"also"
+		]
 	}
 ]
