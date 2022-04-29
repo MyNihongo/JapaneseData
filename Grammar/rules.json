@@ -4901,5 +4901,37 @@
 			"give advice",
 			"advise"
 		]
+	},
+	{
+		"id": 221,
+		"sort": 24,
+		"title": "No other choice",
+		"form": "～しかない",
+		"content": "221_no_other_choice",
+		"jlpt": 3,
+		"jp": [
+			"しかないです",
+			"しきません",
+			"しかません"
+		],
+		"en": [
+			"no other choice"
+		]
+	},
+	{
+		"id": 222,
+		"sort": 25,
+		"title": "No other choice",
+		"form": "～ほかない",
+		"content": "222_no_other_choice",
+		"jlpt": 3,
+		"jp": [
+			"ほかないです",
+			"ほきません",
+			"ほかません"
+		],
+		"en": [
+			"no other choice"
+		]
 	}
 ]
