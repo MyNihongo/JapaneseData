@@ -4974,5 +4974,25 @@
 			"positive connections",
 			"also"
 		]
+	},
+	{
+		"id": 225,
+		"sort": 28,
+		"title": "Full of",
+		"form": "だらけ",
+		"content": "225_full_of",
+		"jlpt": 3,
+		"jp": [
+			"だらけです",
+			"だらけだった",
+			"だらけでした"
+		],
+		"en": [
+			"full of",
+			"covered with",
+			"a lot of",
+			"lots of",
+			"only"
+		]
 	}
 ]
