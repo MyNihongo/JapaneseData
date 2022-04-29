@@ -4994,5 +4994,27 @@
 			"lots of",
 			"only"
 		]
+	},
+	{
+		"id": 226,
+		"sort": 29,
+		"title": "-ish",
+		"form": "～っぽい",
+		"content": "226_ish",
+		"jlpt": 3,
+		"jp": [
+			"っぽいです",
+			"っぽくない",
+			"っぽかったです",
+			"っぽくなかったです"
+		],
+		"en": [
+			"ish",
+			"seems like",
+			"somewhat",
+			"easily does",
+			"often does",
+			"has tendency"
+		]
 	}
 ]
