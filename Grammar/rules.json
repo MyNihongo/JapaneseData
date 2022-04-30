@@ -5048,5 +5048,40 @@
 			"every time",
 			"whenever"
 		]
+	},
+	{
+		"id": 228,
+		"sort": 31,
+		"title": "Not yet finished",
+		"form": "～かけ",
+		"content": "228_not_yet_finished",
+		"jlpt": 3,
+		"jp": [
+			"かけの"
+		],
+		"en": [
+			"not yet finished",
+			"half",
+			"in the middle of"
+		]
+	},
+	{
+		"id": 229,
+		"sort": 32,
+		"title": "Not yet finished",
+		"form": "～かける",
+		"content": "229_not_yet_finished",
+		"jlpt": 3,
+		"jp": [
+			"かける",
+			"かけます",
+			"かけませんでした",
+			"かけました"
+		],
+		"en": [
+			"not yet finished",
+			"half",
+			"in the middle of"
+		]
 	}
 ]
