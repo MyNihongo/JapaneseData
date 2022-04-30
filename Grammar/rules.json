@@ -1863,7 +1863,8 @@
 		"en": [
 			"if",
 			"when",
-			"conditionals",
+			"to conditionals",
+			"conditionals to",
 			"whenever",
 			"machinery",
 			"directions",
@@ -5029,6 +5030,23 @@
 			"easily does",
 			"often does",
 			"has tendency"
+		]
+	},
+	{
+		"id": 227,
+		"sort": 30,
+		"title": "Each time",
+		"form": "たびに",
+		"content": "227_each_time",
+		"jlpt": 3,
+		"jp": [
+			"たびに",
+			"のたびに"
+		],
+		"en": [
+			"each time",
+			"every time",
+			"whenever"
 		]
 	}
 ]
