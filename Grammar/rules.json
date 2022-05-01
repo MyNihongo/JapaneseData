@@ -2626,16 +2626,15 @@
 			"ておく",
 			"ておきます",
 			"でおく",
-			"でおきます"
+			"でおきます",
+			"て置く",
+			"て置きます",
+			"で置く",
+			"で置きます"
 		],
 		"en": [
 			"to do in advance",
-			"do in advance",
-			"in advance",
-			"advance",
-			"to do in preparation for",
-			"in preparation for",
-			"preparation for"
+			"to do in preparation for"
 		]
 	},
 	{
@@ -5130,6 +5129,24 @@
 			"as long as",
 			"if only",
 			"provided that"
+		]
+	},
+	{
+		"id": 232,
+		"sort": 35,
+		"title": "To do in advance",
+		"form": "～とく",
+		"content": "232_to_do_in_advance",
+		"jlpt": 3,
+		"jp": [
+			"とく",
+			"ときます",
+			"とく",
+			"ときます"
+		],
+		"en": [
+			"to do in advance",
+			"to do in preparation for"
 		]
 	}
 ]
