@@ -5108,5 +5108,27 @@
 		"en": [
 			"even"
 		]
+	},
+	{
+		"id": 231,
+		"sort": 34,
+		"title": "As long as",
+		"form": "さえ～ば",
+		"content": "231_as_long_as",
+		"jlpt": 3,
+		"jp": [
+			"さえば",
+			"さえすれば",
+			"さえしなければ",
+			"さえあれば",
+			"さえなければ",
+			"さえいれば",
+			"さえいなければ"
+		],
+		"en": [
+			"as long as",
+			"if only",
+			"provided that"
+		]
 	}
 ]
