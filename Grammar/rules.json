@@ -5215,7 +5215,7 @@
 			"の最中に",
 			"のさいちゅうに"
 		],
-		"en":[
+		"en": [
 			"during formal",
 			"while formal",
 			"formal during",
@@ -5223,6 +5223,26 @@
 			"when",
 			"moment",
 			"in the middle of"
+		]
+	},
+	{
+		"id": 235,
+		"sort": 38,
+		"title": "As soon as",
+		"form": "～たとたん",
+		"content": "235_as_soon_as",
+		"jlpt": 3,
+		"jp": [
+			"たとたんです",
+			"だとたんです",
+			"とたんです",
+			"たとたんだ",
+			"だとたんだ",
+			"とたんだ"
+		],
+		"en": [
+			"as soon as",
+			"just as"
 		]
 	}
 ]
