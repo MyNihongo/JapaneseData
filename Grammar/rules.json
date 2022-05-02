@@ -4050,7 +4050,7 @@
 	{
 		"id": 183,
 		"sort": 21,
-		"title": "Conditionals",
+		"title": "Conditionals - when",
 		"form": "とき",
 		"content": "183_conditionals_toki",
 		"jlpt": 4,
@@ -5155,6 +5155,30 @@
 		"en": [
 			"to do in advance",
 			"to do in preparation for"
+		]
+	},
+	{
+		"id": 233,
+		"sort": 36,
+		"title": "When - formal",
+		"form": "～際",
+		"content": "233_when_formal",
+		"jlpt": 3,
+		"jp": [
+			"さいは",
+			"際は",
+			"た際は",
+			"だ際は",
+			"たさいは",
+			"ださいは",
+			"の際は",
+			"のさいは"
+		],
+		"en": [
+			"when formal",
+			"formal when",
+			"if",
+			"conditionals"
 		]
 	}
 ]
