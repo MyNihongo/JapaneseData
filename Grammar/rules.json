@@ -1038,7 +1038,8 @@
 			"during",
 			"while",
 			"when",
-			"moment"
+			"moment",
+			"in the middle of"
 		]
 	},
 	{
@@ -5172,13 +5173,56 @@
 			"たさいは",
 			"ださいは",
 			"の際は",
-			"のさいは"
+			"のさいは",
+			"さいに",
+			"際に",
+			"た際に",
+			"だ際に",
+			"たさいに",
+			"ださいに",
+			"の際に",
+			"のさいに"
 		],
 		"en": [
 			"when formal",
 			"formal when",
 			"if",
 			"conditionals"
+		]
+	},
+	{
+		"id": 234,
+		"sort": 37,
+		"title": "During - formal",
+		"form": "～最中",
+		"content": "234_during_formal",
+		"jlpt": 3,
+		"jp": [
+			"最中は",
+			"さいちゅうは",
+			"ている最中は",
+			"ているさいちゅうは",
+			"でいる最中は",
+			"でいるさいちゅうは",
+			"の最中は",
+			"のさいちゅうは",
+			"最中に",
+			"さいちゅうに",
+			"ている最中に",
+			"ているさいちゅうに",
+			"でいる最中に",
+			"でいるさいちゅうに",
+			"の最中に",
+			"のさいちゅうに"
+		],
+		"en":[
+			"during formal",
+			"while formal",
+			"formal during",
+			"formal while",
+			"when",
+			"moment",
+			"in the middle of"
 		]
 	}
 ]
