@@ -5244,5 +5244,44 @@
 			"as soon as",
 			"just as"
 		]
+	},
+	{
+		"id": 236,
+		"sort": 39,
+		"title": "Change together",
+		"form": "～と共に",
+		"content": "236_change_together",
+		"jlpt": 3,
+		"jp": [
+			"と共に",
+			"とともに",
+			"共に",
+			"ともに"
+		],
+		"en": [
+			"change together",
+			"change along with",
+			"change alongside",
+			"changes together",
+			"at the same time as",
+			"as well as"
+		]
+	},
+	{
+		"id": 237,
+		"sort": 40,
+		"title": "Together with",
+		"form": "～と共に",
+		"content": "237_together_with",
+		"jlpt": 3,
+		"jp": [
+			"と共に",
+			"とともに",
+			"共に",
+			"ともに"
+		],
+		"en": [
+			"together with"
+		]
 	}
 ]
