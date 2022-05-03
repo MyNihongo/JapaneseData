@@ -5283,5 +5283,39 @@
 		"en": [
 			"together with"
 		]
+	},
+	{
+		"id": 238,
+		"sort": 41,
+		"title": "Nothing is better",
+		"form": "にかぎる",
+		"content": "238_nothing_is_better",
+		"jlpt": 3,
+		"jp": [
+			"にかぎる",
+			"に限る",
+			"ないにかぎる",
+			"ないに限る",
+			"にかぎります",
+			"に限ります",
+			"ないにかぎります",
+			"ないに限ります",
+			"にかぎます",
+			"に限ます",
+			"ないにかぎます",
+			"ないに限ます"
+		],
+		"en": [
+			"nothing is better than",
+			"is the best",
+			"is best",
+			"giving advice",
+			"to give advice",
+			"advise",
+			"giving recommendations",
+			"to give recommendations",
+			"giving strong recommendations",
+			"to give strong recommendations"
+		]
 	}
 ]
