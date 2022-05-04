@@ -5417,5 +5417,22 @@
 			"not as much as",
 			"there is no such"
 		]
+	},
+	{
+		"id": 242,
+		"sort": 45,
+		"title": "Instead of",
+		"form": "にかわって",
+		"content": "242_instead_of",
+		"jlpt": 3,
+		"jp": [
+			"にかわって",
+			"のにかわって"
+		],
+		"en": [
+			"instead of",
+			"replacing",
+			"on behalf of"
+		]
 	}
 ]
