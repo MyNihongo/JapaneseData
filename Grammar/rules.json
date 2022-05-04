@@ -1516,12 +1516,14 @@
 			"よう"
 		],
 		"en": [
-			"Verb nominalising",
-			"Verb nominaliser",
-			"Verb nominalizing",
-			"Verb nominalizer",
-			"Verb nominalisation",
-			"Verb nominalization"
+			"verb nominalising",
+			"verb nominaliser",
+			"verb nominalizing",
+			"verb nominalizer",
+			"verb nominalisation",
+			"verb nominalization",
+			"nominalise verbs",
+			"nominalize verbs"
 		]
 	},
 	{
@@ -5316,6 +5318,28 @@
 			"to give recommendations",
 			"giving strong recommendations",
 			"to give strong recommendations"
+		]
+	},
+	{
+		"id": 239,
+		"sort": 42,
+		"title": "Praising",
+		"form": "にかけて",
+		"content": "239_praising",
+		"jlpt": 3,
+		"jp": [
+			"にかけては",
+			"にかけても",
+			"のにかけては",
+			"のにかけても"
+		],
+		"en": [
+			"praising someone",
+			"boasting the ability",
+			"the best amongst",
+			"concerning",
+			"through",
+			"the best when it comes to"
 		]
 	}
 ]
