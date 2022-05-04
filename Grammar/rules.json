@@ -3445,7 +3445,8 @@
 		"content": "156_the_more",
 		"jlpt": 3,
 		"jp": [
-			"ば",
+			"ばほど",
+			"ば程",
 			"ほど"
 		],
 		"en": [
@@ -5343,6 +5344,78 @@
 			"through",
 			"regarding",
 			"the best when it comes to"
+		]
+	},
+	{
+		"id": 240,
+		"sort": 43,
+		"title": "There is no one like",
+		"form": "ほど～ない",
+		"content": "240_there_is_no_one_like",
+		"jlpt": 3,
+		"jp": [
+			"ほどない",
+			"ほどありません",
+			"ほどいない",
+			"ほどいません",
+			"ほどではありません",
+			"ほどではないです",
+			"ほどじゃないです",
+			"ほどはいない",
+			"ほどはない",
+			"程ない",
+			"程ありません",
+			"程いない",
+			"程いません",
+			"程ではありません",
+			"程ではないです",
+			"程じゃないです",
+			"程はいない",
+			"程はない"
+		],
+		"en": [
+			"there is noone like",
+			"there is no one like",
+			"is not as",
+			"the best",
+			"not as much as",
+			"there is no such"
+		]
+	},
+	{
+		"id": 241,
+		"sort": 44,
+		"title": "There is no one like",
+		"form": "くらい～ない",
+		"content": "241_there_is_no_one_like",
+		"jlpt": 3,
+		"jp": [
+			"くらいない",
+			"くらいありません",
+			"くらいいない",
+			"くらいいません",
+			"くらいではありません",
+			"くらいではないです",
+			"くらいじゃないです",
+			"くらいはいない",
+			"くらいはない",
+			"ぐらいない",
+			"ぐらいありません",
+			"ぐらいいない",
+			"ぐらいいません",
+			"ぐらいではありません",
+			"ぐらいではないです",
+			"ぐらいじゃないです",
+			"ぐらいはいない",
+			"ぐらいはない"
+		],
+		"en": [
+			"there is noone like",
+			"there is no one like",
+			"is not as",
+			"the best",
+			"not as much as",
+			"there is no such"
 		]
 	}
 ]
