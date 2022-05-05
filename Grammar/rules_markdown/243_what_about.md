@@ -2,7 +2,7 @@ The expression `なんかどう` is used to provide suggestions when the speaker
 
 |Form|Usage|Example|
 |-|-|-|
-|Noun|N + なんかどう|日本人なんかどう|
+|Noun|N + なんかどう|日本人**なんかどう**|
 
 >A: 日本食を食べたい。I want to eat Japanese food.
 >B: すし**なんかどう**？ What about sushi?
