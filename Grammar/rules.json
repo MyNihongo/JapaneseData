@@ -5450,5 +5450,23 @@
 			"what about",
 			"for example"
 		]
+	},
+	{
+		"id": 244,
+		"sort": 47,
+		"title": "Regardless of",
+		"form": "にしても",
+		"content": "244_regardless_of",
+		"jlpt": 3,
+		"jp": [
+			"にしても",
+			"ないにしても"
+		],
+		"en": [
+			"either or",
+			"even if",
+			"even though",
+			"regardless of"
+		]
 	}
 ]
