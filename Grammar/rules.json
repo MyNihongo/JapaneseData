@@ -5434,5 +5434,21 @@
 			"replacing",
 			"on behalf of"
 		]
+	},
+	{
+		"id": 243,
+		"sort": 46,
+		"title": "What about",
+		"form": "なんかどう",
+		"content": "243_what_about",
+		"jlpt": 3,
+		"jp": [
+			"なんかどうですか",
+			"どうですか"
+		],
+		"en": [
+			"what about",
+			"for example"
+		]
 	}
 ]
