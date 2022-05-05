@@ -5468,5 +5468,20 @@
 			"even though",
 			"regardless of"
 		]
+	},
+	{
+		"id": 245,
+		"sort": 48,
+		"title": "Many - surprise",
+		"form": "なんて",
+		"content": "245_many",
+		"jlpt": 3,
+		"jp": [
+			"なんて"
+		],
+		"en": [
+			"many surprise",
+			"many surprize"
+		]
 	}
 ]
