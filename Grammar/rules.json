@@ -5538,5 +5538,25 @@
 			"if you don't do you can't do",
 			"if you do not do you can't do"
 		]
+	},
+	{
+		"id": 248,
+		"sort": 51,
+		"title": "To the extent - surprise",
+		"form": "まで",
+		"content": "248_to_the_extent",
+		"jlpt": 3,
+		"jp": [
+			"まで"
+		],
+		"en": [
+			"to the extent",
+			"to the extend",
+			"until the extent",
+			"until the extend",
+			"surprise",
+			"surprize",
+			"even"
+		]
 	}
 ]
