@@ -5483,5 +5483,34 @@
 			"many surprise",
 			"many surprize"
 		]
+	},
+	{
+		"id": 246,
+		"sort": 49,
+		"title": "I bet",
+		"form": "に決まっている",
+		"content": "246_i_bet",
+		"jlpt": 3,
+		"jp": [
+			"に決まっている",
+			"決まっている",
+			"決まってる",
+			"に決まっています",
+			"決まっています",
+			"決まってます",
+			"にきまっている",
+			"きまっている",
+			"きまってる",
+			"にきまっています",
+			"きまっています",
+			"きまってます"
+		],
+		"en": [
+			"i bet",
+			"certainly",
+			"i'm sure that",
+			"i'm certain that",
+			"it must be the case that"
+		]
 	}
 ]
