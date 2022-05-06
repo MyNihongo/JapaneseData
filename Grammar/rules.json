@@ -5512,5 +5512,31 @@
 			"i'm certain that",
 			"it must be the case that"
 		]
+	},
+	{
+		"id": 247,
+		"sort": 50,
+		"title": "Cannot do without",
+		"form": "～てからでないと～できない",
+		"content": "247_cannot_do_without",
+		"jlpt": 3,
+		"jp": [
+			"てからでないとできない",
+			"でからでないとできない",
+			"てからでないとない",
+			"でからでないとない",
+			"からでないとできない",
+			"からでないとない",
+			"でないとできない",
+			"でないとない"
+		],
+		"en": [
+			"must do first",
+			"cannot do without first doing",
+			"if you don't do you cannot do",
+			"if you do not do you cannot do",
+			"if you don't do you can't do",
+			"if you do not do you can't do"
+		]
 	}
 ]
