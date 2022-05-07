@@ -1346,32 +1346,6 @@
 		]
 	},
 	{
-		"id": 66,
-		"sort": 41,
-		"title": "It must (not) be",
-		"form": "～はずだ",
-		"content": "66_it_must_be",
-		"jlpt": 4,
-		"jp": [
-			"はずだ",
-			"はずです",
-			"はずがない",
-			"はずがありません",
-			"はずではありません"
-		],
-		"en": [
-			"must be the case",
-			"must be",
-			"should be",
-			"it's unlikely that",
-			"it is unlikely that",
-			"unlikely that",
-			"must not be",
-			"impossible",
-			"cannot be"
-		]
-	},
-	{
 		"id": 67,
 		"sort": 109,
 		"title": "Honorific expressions",
@@ -5557,6 +5531,39 @@
 			"surprise",
 			"surprize",
 			"even"
+		]
+	},
+	{
+		"id": 249,
+		"sort": 52,
+		"title": "Probably",
+		"form": "はずだ",
+		"content": "249_probably",
+		"jlpt": 4,
+		"jp": [
+			"はずだよ",
+			"はずですよ",
+			"はずがないよ",
+			"はずがありませんよ",
+			"はずではありませんよ",
+			"はずだね",
+			"はずですね",
+			"はずがないね",
+			"はずがありませんね",
+			"はずではありませんね"
+		],
+		"en": [
+			"probably",
+			"consent",
+			"agreement",
+			"must be the case",
+			"should be",
+			"it's unlikely that",
+			"it is unlikely that",
+			"unlikely that",
+			"must not be",
+			"impossible",
+			"cannot be"
 		]
 	}
 ]
