@@ -1,5 +1,6 @@
-The expression `はずだ` is used to express the speaker's belief about a fact that it must be true. はずだ can be translated as *"I think it should be the case"*. It should be noted that in this usage はずだ cannot be used to describe the own actions of the speaker.
+The expression `はずだ` is used to express the speaker's belief about a fact that it must be true, however, the speaker is not completely sure. はずだ can be translated as *"I think it should be the case"*. It should be noted that in this usage はずだ cannot be used to describe the own actions of the speaker.
 Another usage of はずだ is to express the speaker's consent to a certain statement. For example when someone states a fact the speaker can agree by using はずだ (examples will follow).
+When はずだ is converted to the negative [はずがない](250) the meaning changes to *"absolutely not"*.
 
 |Form|Usage|Example|
 |-|-|-|
@@ -8,9 +9,9 @@ Another usage of はずだ is to express the speaker's consent to a certain stat
 |な-adjective|ナA + **な**はずだ|きれいな**はず**です|
 |Noun|N + **の**はずだ|日本人の**はず**です|
 
-Please note that `はず` is usually not used when the speaker expresses his or her actions. Even though the meaning would be clear it sounds a bit unnatural in Japanese.
->金曜日までに、東京に来ない**はず**です。（✕）
->金曜日までに、東京に来ない**かもしれません**。(better)
+Please note that `はずだ` is usually not used when the speaker expresses his or her actions. Even though the meaning would be clear it sounds a bit unnatural in Japanese.
+>金曜日までに、東京に来る**はず**です。（✕）
+>金曜日までに、東京に来る**かもしれません**。(better)
 
 In writing the special である form can be used for な-adjectives and nouns as shown in the table below.
 

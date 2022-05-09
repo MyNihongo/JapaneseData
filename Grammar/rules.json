@@ -5543,14 +5543,8 @@
 		"jp": [
 			"はずだよ",
 			"はずですよ",
-			"はずがないよ",
-			"はずがありませんよ",
-			"はずではありませんよ",
 			"はずだね",
-			"はずですね",
-			"はずがないね",
-			"はずがありませんね",
-			"はずではありませんね"
+			"はずですね"
 		],
 		"en": [
 			"probably",
@@ -5564,6 +5558,24 @@
 			"must not be",
 			"impossible",
 			"cannot be"
+		]
+	},
+	{
+		"id": 250,
+		"sort": 53,
+		"title": "Absolutely not",
+		"form": "はずだがない",
+		"content": "250_absolutely_not",
+		"jlpt": 3,
+		"jp": [
+			"はずがないよ",
+			"はずがありませんよ",
+			"はずではありませんよ"
+		],
+		"en": [
+			"absolutely not the case",
+			"cannot be true",
+			"for sure not"
 		]
 	}
 ]
