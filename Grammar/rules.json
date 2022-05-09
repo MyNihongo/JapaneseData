@@ -5577,5 +5577,34 @@
 			"cannot be true",
 			"for sure not"
 		]
+	},
+	{
+		"id": 251,
+		"sort": 54,
+		"title": "Absolutely different",
+		"form": "わけがない",
+		"content": "251_absolutely_different",
+		"jlpt": 3,
+		"jp": [
+			"わけがないです",
+			"わけないです",
+			"というわけがないです",
+			"というわけないです",
+			"わけがありません",
+			"わけありません",
+			"というわけがありません",
+			"というわけありません"
+		],
+		"en": [
+			"absolutely different",
+			"absolutely not like this",
+			"absolutely not true",
+			"for sure not like this",
+			"cannot be like this",
+			"there is not way that",
+			"there's not way that",
+			"it is impossible to",
+			"it's impossible to"
+		]
 	}
 ]
