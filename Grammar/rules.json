@@ -5606,5 +5606,34 @@
 			"it is impossible to",
 			"it's impossible to"
 		]
+	},
+	{
+		"id": 252,
+		"sort": 55,
+		"title": "Not true that",
+		"form": "わけではない",
+		"content": "252_not_true_that",
+		"jlpt": 3,
+		"jp": [
+			"わけではないです",
+			"わけではありません",
+			"というわけではないです",
+			"というわけではありません"
+		],
+		"en": [
+			"it's not true that",
+			"it isn't true that",
+			"it is not true that",
+			"it doesn't mean that",
+			"it does not mean that",
+			"it's not the case that",
+			"it isn't the case that",
+			"it is not the case that",
+			"I don't mean that",
+			"I do not mean that",
+			"not completely true",
+			"deny something",
+			"disagreement"
+		]
 	}
 ]
