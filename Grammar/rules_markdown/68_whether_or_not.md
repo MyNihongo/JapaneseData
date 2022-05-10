@@ -10,6 +10,9 @@ In order to assess a situation by using the "whether or not" an expression `か�
 >それ出来る**かどうか**わかりません。I don't know whether or not I can do it.
 >その車が高い**かどうか**教えてませんか。Tell me whether or not that car is expensive.
 
+Since かどうか is like a regular noun it is possible to connect かどうか and other nouns with the [の particle](178).
+>映画を見るかどうか**の**決断です。Decision whether or not to watch the movie.
+
 When speaking the ending *どうか* is usually omitted, so only *か* remains.
 >日本語能力試験に受かれる**か**迷っています。I'm not sure if I can pass the JLPT.
 

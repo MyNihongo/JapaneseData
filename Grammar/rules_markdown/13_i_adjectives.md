@@ -14,6 +14,7 @@ Past tense:
 >新し**かった**。新し**かった**です。It was new. (Replace the final い with かった)
 >新し**くなかった**。新し**くなかった**です。It was not new. (Replace the final い with くない, and replace the new final い with かった)
 
+#### い-adjectives
 Except one case all い-adjectives are regular and follow the aforecited pattern, however, the only exception is the `いい-adjectives` (*いい* means *good* in Japanese). Basically the only difference is that the first い is replaced with よ, otherwise the pattern remains the same. The pattern for *いい-adjectives* is described below.
 Present tense:
 >いい。いいです。It is good. (No changes of the dictionary form)
@@ -23,5 +24,14 @@ Past tense:
 >よ**かった**。よ**かった**です。It was good. (Change the first い to よ, replace the final い with かった)
 >よ**くなかった**。よ**くなかった**です。It was not good. (Change the first い to よ, replace the final い with くない, and replace the new final い with かった)
 
-In order to use a verb with a な-adjective a dictionary form of this verb must be connected with an adjective by a `の particle`.
+#### Negative tense for writing
+In writing the words tend to be formal and some special conjugation might apply. It is the case with the negative tense. Let us look at 新しく**ない** (present) and 新しく**なかった** (past). In bold there is the verb ない which is a casual negative form for ある (to be). So in writing ない is replaced by ありません (present) and ありませんでした (past) respectively as shown in the table below.
+
+||Negative|
+|-|-|
+|Present|新しく**ありません**|
+|Past|新しく**ありませんでした**|
+
+#### Verbs and い-adjectives
+In order to use a verb with an い-adjective a dictionary form of this verb must be connected with an adjective by a `の particle`.
 >日本語を勉強する**のが**難しいです。Studying Japanese is difficult.

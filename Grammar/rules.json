@@ -238,7 +238,13 @@
 		"content": "13_i_adjectives",
 		"jlpt": 5,
 		"jp": [
-			"い形容詞"
+			"い形容詞",
+			"いけいようし",
+			"いいです",
+			"くないです",
+			"かったです",
+			"くなかったです",
+			"くありませんでした"
 		],
 		"en": [
 			"i adjectives",
@@ -420,8 +426,8 @@
 	{
 		"id": 24,
 		"sort": 67,
-		"title": "Proposals (volitional form)",
-		"form": "ましょう／ませんか",
+		"title": "Volitional form",
+		"form": "ましょう",
 		"content": "24_volitional_form",
 		"jlpt": 5,
 		"jp": [
@@ -491,7 +497,15 @@
 		"content": "27_na_adjectives",
 		"jlpt": 5,
 		"jp": [
-			"な形容詞"
+			"な形容詞",
+			"なけいようし",
+			"です",
+			"だ",
+			"でした",
+			"だった",
+			"じゃないです",
+			"じゃかなっかです",
+			"ではありませんでした"
 		],
 		"en": [
 			"na adjectives",
@@ -776,7 +790,8 @@
 			"to want to do",
 			"want to do",
 			"desires",
-			"wishes"
+			"wishes",
+			"so"
 		]
 	},
 	{
@@ -855,7 +870,8 @@
 			"continuous action",
 			"have been doing",
 			"present situation",
-			"habitual actions"
+			"habitual actions",
+			"continuous state"
 		]
 	},
 	{
@@ -1022,7 +1038,8 @@
 			"during",
 			"while",
 			"when",
-			"moment"
+			"moment",
+			"in the middle of"
 		]
 	},
 	{
@@ -1285,8 +1302,16 @@
 		"jp": [
 			"がる",
 			"たがる",
+			"だがる",
 			"がります",
-			"たがります"
+			"たがります",
+			"だがります",
+			"がっている",
+			"たがっている",
+			"だがっている",
+			"がってる",
+			"たがってる",
+			"だがってる"
 		],
 		"en": [
 			"to show signs of",
@@ -1318,32 +1343,6 @@
 			"to start something",
 			"begin something",
 			"start something"
-		]
-	},
-	{
-		"id": 66,
-		"sort": 41,
-		"title": "It must (not) be",
-		"form": "～はずだ",
-		"content": "66_it_must_be",
-		"jlpt": 4,
-		"jp": [
-			"はずだ",
-			"はずです",
-			"はずがない",
-			"はずがありません",
-			"はずではありません"
-		],
-		"en": [
-			"must be the case",
-			"must be",
-			"should be",
-			"it's unlikely that",
-			"it is unlikely that",
-			"unlikely that",
-			"must not be",
-			"impossible",
-			"cannot be"
 		]
 	},
 	{
@@ -1491,12 +1490,14 @@
 			"よう"
 		],
 		"en": [
-			"Verb nominalising",
-			"Verb nominaliser",
-			"Verb nominalizing",
-			"Verb nominalizer",
-			"Verb nominalisation",
-			"Verb nominalization"
+			"verb nominalising",
+			"verb nominaliser",
+			"verb nominalizing",
+			"verb nominalizer",
+			"verb nominalisation",
+			"verb nominalization",
+			"nominalise verbs",
+			"nominalize verbs"
 		]
 	},
 	{
@@ -1642,11 +1643,7 @@
 		"jlpt": 4,
 		"jp": [
 			"みたいだ",
-			"みたいです",
-			"のようだ",
-			"のようです",
-			"ようです",
-			"ようだ"
+			"みたいです"
 		],
 		"en": [
 			"it is like",
@@ -1852,7 +1849,8 @@
 		"en": [
 			"if",
 			"when",
-			"conditionals",
+			"to conditionals",
+			"conditionals to",
 			"whenever",
 			"machinery",
 			"directions",
@@ -2151,7 +2149,9 @@
 			"nominalisation",
 			"nominaliser",
 			"nominalization",
-			"nominalizer"
+			"nominalizer",
+			"nominalising adjectives",
+			"nominalizing adjectives"
 		]
 	},
 	{
@@ -2281,12 +2281,16 @@
 		"jlpt": 4,
 		"jp": [
 			"たばかりです",
+			"だばかりです",
 			"ばかりです",
 			"たばっかりです",
+			"だばっかりです",
 			"ばっかりです",
 			"たばかりだ",
+			"だばかりだ",
 			"ばかりだ",
 			"たばっかりだ",
+			"だばっかりだ",
 			"ばっかりだ"
 		],
 		"en": [
@@ -2308,10 +2312,14 @@
 		"jp": [
 			"ところです",
 			"ところだ",
-			"ているところ",
-			"でいるところ",
-			"たところ",
-			"だところ"
+			"ているところです",
+			"ているところだ",
+			"でいるところです",
+			"でいるところだ",
+			"たところです",
+			"たところだ",
+			"だところです",
+			"だところだ"
 		],
 		"en": [
 			"to be about to",
@@ -2374,8 +2382,6 @@
 			"offer",
 			"proposal",
 			"for the first time",
-			"the first time",
-			"first time",
 			"times",
 			"would you like to",
 			"do you want to",
@@ -2398,9 +2404,7 @@
 		"en": [
 			"is it good to",
 			"seek instructions",
-			"seek confirmation",
-			"instructions",
-			"confirmation"
+			"seek confirmation"
 		]
 	},
 	{
@@ -2420,11 +2424,8 @@
 		],
 		"en": [
 			"do for someone",
-			"for someone",
 			"do a favour",
-			"do a favor",
-			"favour",
-			"favor"
+			"do a favor"
 		]
 	},
 	{
@@ -2612,16 +2613,15 @@
 			"ておく",
 			"ておきます",
 			"でおく",
-			"でおきます"
+			"でおきます",
+			"て置く",
+			"て置きます",
+			"で置く",
+			"で置きます"
 		],
 		"en": [
 			"to do in advance",
-			"do in advance",
-			"in advance",
-			"advance",
-			"to do in preparation for",
-			"in preparation for",
-			"preparation for"
+			"to do in preparation for"
 		]
 	},
 	{
@@ -2769,7 +2769,11 @@
 			"という",
 			"と言う",
 			"といいます",
-			"と言います"
+			"と言います",
+			"っていう",
+			"って言う",
+			"っていいます",
+			"って言います"
 		],
 		"en": [
 			"called",
@@ -3415,7 +3419,8 @@
 		"content": "156_the_more",
 		"jlpt": 3,
 		"jp": [
-			"ば",
+			"ばほど",
+			"ば程",
 			"ほど"
 		],
 		"en": [
@@ -4025,7 +4030,7 @@
 	{
 		"id": 183,
 		"sort": 21,
-		"title": "Conditionals",
+		"title": "Conditionals - when",
 		"form": "とき",
 		"content": "183_conditionals_toki",
 		"jlpt": 4,
@@ -4163,7 +4168,8 @@
 			"ending particles",
 			"particles",
 			"seek confirmation",
-			"confirmation"
+			"confirmation",
+			"ne particle"
 		]
 	},
 	{
@@ -4183,7 +4189,8 @@
 			"particles",
 			"emphasis",
 			"stress",
-			"i tell you"
+			"i tell you",
+			"yo particle"
 		]
 	},
 	{
@@ -4202,7 +4209,8 @@
 			"ending particles",
 			"particles",
 			"seek confirmation",
-			"confirmation"
+			"confirmation",
+			"yone particle"
 		]
 	},
 	{
@@ -4222,7 +4230,8 @@
 			"particles",
 			"rhetorical",
 			"seek confirmation",
-			"confirmation"
+			"confirmation",
+			"naa particle"
 		]
 	},
 	{
@@ -4425,6 +4434,1278 @@
 			"passive voice",
 			"passive form",
 			"voice"
+		]
+	},
+	{
+		"id": 197,
+		"sort": 1,
+		"title": "Absolutely",
+		"form": "こそ",
+		"content": "197_absolutely",
+		"jlpt": 3,
+		"jp": [
+			"こそ",
+			"絶対に",
+			"ぜったいに",
+			"こちらこそ"
+		],
+		"en": [
+			"absolutely",
+			"for sure",
+			"precisely",
+			"definitely",
+			"emphasize preceding word",
+			"emphasise preceding word",
+			"preceding word",
+			"word"
+		]
+	},
+	{
+		"id": 198,
+		"sort": 2,
+		"title": "While or before",
+		"form": "～うちに",
+		"content": "198_while_or_before",
+		"jlpt": 3,
+		"jp": [
+			"うちに",
+			"ないうちに",
+			"いうちに",
+			"なうちに",
+			"ているうちに"
+		],
+		"en": [
+			"while",
+			"before",
+			"until"
+		]
+	},
+	{
+		"id": 199,
+		"sort": 3,
+		"title": "Speaking of",
+		"form": "というと",
+		"content": "199_speaking_of",
+		"jlpt": 3,
+		"jp": [
+			"というと"
+		],
+		"en": [
+			"speaking of",
+			"talking of",
+			"when you talk of",
+			"when you say"
+		]
+	},
+	{
+		"id": 200,
+		"sort": 4,
+		"title": "It might be",
+		"form": "といっても",
+		"content": "200_it_might_be",
+		"jlpt": 3,
+		"jp": [
+			"といっても",
+			"ても"
+		],
+		"en": [
+			"although one might say",
+			"although it might be",
+			"although I say"
+		]
+	},
+	{
+		"id": 201,
+		"sort": 5,
+		"title": "Speaking of with surprise",
+		"form": "といったら",
+		"content": "201_speaking_of_surprise",
+		"jlpt": 3,
+		"jp": [
+			"といったら",
+			"たら"
+		],
+		"en": [
+			"speaking of with surprise",
+			"talking of with surprise",
+			"when you talk of with surprise",
+			"when you say with surprise"
+		]
+	},
+	{
+		"id": 202,
+		"sort": 6,
+		"title": "Depending on",
+		"form": "によって",
+		"content": "202_depending_on",
+		"jlpt": 3,
+		"jp": [
+			"によって",
+			"違う",
+			"違います",
+			"ちがう",
+			"ちがいます"
+		],
+		"en": [
+			"depending on",
+			"according to",
+			"by the means of",
+			"because of",
+			"due to",
+			"to differ",
+			"different"
+		]
+	},
+	{
+		"id": 203,
+		"sort": 7,
+		"title": "Cannot bear",
+		"form": "～てたまらない",
+		"content": "203_cannot_bear",
+		"jlpt": 3,
+		"jp": [
+			"てたまらないです",
+			"でたまらないです",
+			"てたまらなかったです",
+			"でたまらなかったです",
+			"てたまりません",
+			"でたまりません"
+		],
+		"en": [
+			"cannot bear",
+			"can't bear",
+			"dying to",
+			"extremely",
+			"absolutely"
+		]
+	},
+	{
+		"id": 204,
+		"sort": 8,
+		"title": "Cannot be helped",
+		"form": "～てしょうがない",
+		"content": "204_cannot_be_helped",
+		"jlpt": 3,
+		"jp": [
+			"てしょうがないです",
+			"でしょうがないです"
+		],
+		"en": [
+			"cannot help but",
+			"can't be helped"
+		]
+	},
+	{
+		"id": 205,
+		"sort": 9,
+		"title": "Although",
+		"form": "ものの",
+		"content": "205_although",
+		"jlpt": 3,
+		"jp": [
+			"ものの"
+		],
+		"en": [
+			"although",
+			"but"
+		]
+	},
+	{
+		"id": 206,
+		"sort": 10,
+		"title": "Usage of って",
+		"form": "",
+		"content": "206_usage_of_tte",
+		"jlpt": 3,
+		"jp": [
+			"って"
+		],
+		"en": [
+			"usage of",
+			"heard that",
+			"to be"
+		]
+	},
+	{
+		"id": 207,
+		"sort": 11,
+		"title": "As if",
+		"form": "まるで～ようだ",
+		"content": "207_as_if",
+		"jlpt": 3,
+		"jp": [
+			"まるで",
+			"ようだ",
+			"ようです",
+			"のようだ",
+			"のようです",
+			"なようだ",
+			"なようです",
+			"ようではありません",
+			"のようではありません",
+			"ようではない",
+			"のようではない",
+			"まるでようだ"
+		],
+		"en": [
+			"as if",
+			"like",
+			"comparison"
+		]
+	},
+	{
+		"id": 208,
+		"sort": 12,
+		"title": "Cannot help but",
+		"form": "～ないではいられない／～ずにはいられない",
+		"content": "208_cannot_help_but",
+		"jlpt": 3,
+		"jp": [
+			"ずにはいられないです",
+			"ずにはいられません",
+			"ないではいられないです",
+			"ないではいられません"
+		],
+		"en": [
+			"cannot help but",
+			"can't help but"
+		]
+	},
+	{
+		"id": 209,
+		"sort": 13,
+		"title": "Indicate the excuse - formal",
+		"form": "もの",
+		"content": "209_indicate_the_excuse_formal",
+		"jlpt": 3,
+		"jp": [
+			"もの",
+			"んですもの",
+			"んだもの",
+			"のですもの",
+			"のだもの"
+		],
+		"en": [
+			"because",
+			"indicate the reason",
+			"indicate the excuse",
+			"indicate the dissatisfaction",
+			"formal"
+		]
+	},
+	{
+		"id": 210,
+		"sort": 13,
+		"title": "Indicate the excuse - casual",
+		"form": "もん",
+		"content": "210_indicate_the_excuse_casual",
+		"jlpt": 3,
+		"jp": [
+			"もん",
+			"んですもん",
+			"んだもん",
+			"のですもん",
+			"のだもん"
+		],
+		"en": [
+			"because",
+			"indicate the reason",
+			"indicate the excuse",
+			"indicate the dissatisfaction",
+			"casual"
+		]
+	},
+	{
+		"id": 211,
+		"sort": 14,
+		"title": "Regarding",
+		"form": "に対して",
+		"content": "211_regarding",
+		"jlpt": 3,
+		"jp": [
+			"に対して",
+			"に対する",
+			"対して",
+			"対する",
+			"にたいして",
+			"にたいする",
+			"たいして",
+			"たいする"
+		],
+		"en": [
+			"regarding",
+			"towards"
+		]
+	},
+	{
+		"id": 212,
+		"sort": 15,
+		"title": "In contrast to",
+		"form": "のに対して",
+		"content": "212_in_contrast_to",
+		"jlpt": 3,
+		"jp": [
+			"のに対して",
+			"のに対する",
+			"に対して",
+			"に対する",
+			"対して",
+			"対する",
+			"のにたいして",
+			"のにたいする",
+			"にたいして",
+			"にたいする",
+			"たいして",
+			"たいする"
+		],
+		"en": [
+			"in contrast to",
+			"in contrast with",
+			"against",
+			"to the contrary",
+			"but"
+		]
+	},
+	{
+		"id": 213,
+		"sort": 16,
+		"title": "Only after",
+		"form": "～てはじめて",
+		"content": "213_only_after",
+		"jlpt": 3,
+		"jp": [
+			"てはじめて",
+			"ではじめて",
+			"て初めて",
+			"で初めて"
+		],
+		"en": [
+			"only after",
+			"not until",
+			"not before"
+		]
+	},
+	{
+		"id": 214,
+		"sort": 17,
+		"title": "To the extent",
+		"form": "ほど",
+		"content": "214_to_the_extent",
+		"jlpt": 3,
+		"jp": [
+			"ほど",
+			"程"
+		],
+		"en": [
+			"to the extent",
+			"to the extend",
+			"to the degree"
+		]
+	},
+	{
+		"id": 215,
+		"sort": 18,
+		"title": "I would like, but cannot",
+		"form": "～ようにも～できない",
+		"content": "215_would_like_but_cannot",
+		"jlpt": 3,
+		"jp": [
+			"ようにもできない",
+			"にもできない",
+			"できない"
+		],
+		"en": [
+			"i would like but cannot",
+			"i would like but can't"
+		]
+	},
+	{
+		"id": 216,
+		"sort": 19,
+		"title": "Giving advice",
+		"form": "～たらいいよ",
+		"content": "216_giving_advice",
+		"jlpt": 3,
+		"jp": [
+			"たらいいよ",
+			"たらいいですよ",
+			"だらいいよ",
+			"だらいいですよ",
+			"アドバイス"
+		],
+		"en": [
+			"giving advice",
+			"pieces of advice",
+			"to advise",
+			"it is good",
+			"it would be good"
+		]
+	},
+	{
+		"id": 217,
+		"sort": 20,
+		"title": "Giving advice",
+		"form": "～ばいいよ",
+		"content": "217_giving_advice",
+		"jlpt": 3,
+		"jp": [
+			"ばいいよ",
+			"ばいいですよ",
+			"アドバイス"
+		],
+		"en": [
+			"giving advice",
+			"pieces of advice",
+			"to advise",
+			"it is good",
+			"it would be good"
+		]
+	},
+	{
+		"id": 218,
+		"sort": 21,
+		"title": "Hope",
+		"form": "～たらいいな",
+		"content": "218_hope",
+		"jlpt": 3,
+		"jp": [
+			"たらいいな",
+			"たらいいですな",
+			"だらいいな",
+			"だらいいですな",
+			"お願いします"
+		],
+		"en": [
+			"hope",
+			"I wish"
+		]
+	},
+	{
+		"id": 219,
+		"sort": 22,
+		"title": "Hope",
+		"form": "～ばいいな",
+		"content": "219_hope",
+		"jlpt": 3,
+		"jp": [
+			"ばいいな",
+			"ばいいですな",
+			"お願いします"
+		],
+		"en": [
+			"hope",
+			"I wish"
+		]
+	},
+	{
+		"id": 220,
+		"sort": 23,
+		"title": "Have to do",
+		"form": "ことだ",
+		"content": "220_have_to_do",
+		"jlpt": 3,
+		"jp": [
+			"ことだ",
+			"ことです"
+		],
+		"en": [
+			"have to do",
+			"must do",
+			"should do",
+			"provide instructions",
+			"give advice",
+			"advise"
+		]
+	},
+	{
+		"id": 221,
+		"sort": 24,
+		"title": "No other choice",
+		"form": "～しかない",
+		"content": "221_no_other_choice",
+		"jlpt": 3,
+		"jp": [
+			"しかないです",
+			"しきません",
+			"しかません"
+		],
+		"en": [
+			"no other choice"
+		]
+	},
+	{
+		"id": 222,
+		"sort": 25,
+		"title": "No other choice",
+		"form": "～ほかない",
+		"content": "222_no_other_choice",
+		"jlpt": 3,
+		"jp": [
+			"ほかないです",
+			"ほきません",
+			"ほかません"
+		],
+		"en": [
+			"no other choice"
+		]
+	},
+	{
+		"id": 223,
+		"sort": 26,
+		"title": "Soothing - no need to",
+		"form": "ことはない",
+		"content": "223_soothing",
+		"jlpt": 3,
+		"jp": [
+			"ことはない",
+			"ことはありません"
+		],
+		"en": [
+			"soothing",
+			"soothe",
+			"there is no need to",
+			"there's no need to",
+			"do not worry",
+			"don't worry"
+		]
+	},
+	{
+		"id": 224,
+		"sort": 27,
+		"title": "Both A and B",
+		"form": "も～ば、～も",
+		"content": "224_both_a_and_b",
+		"jlpt": 3,
+		"jp": [
+			"もばも",
+			"もならも",
+			"ば",
+			"ければ",
+			"なら"
+		],
+		"en": [
+			"both a and b",
+			"negative connections",
+			"positive connections",
+			"also"
+		]
+	},
+	{
+		"id": 225,
+		"sort": 28,
+		"title": "Full of",
+		"form": "だらけ",
+		"content": "225_full_of",
+		"jlpt": 3,
+		"jp": [
+			"だらけです",
+			"だらけだった",
+			"だらけでした"
+		],
+		"en": [
+			"full of",
+			"covered with",
+			"a lot of",
+			"lots of",
+			"only"
+		]
+	},
+	{
+		"id": 226,
+		"sort": 29,
+		"title": "-ish",
+		"form": "～っぽい",
+		"content": "226_ish",
+		"jlpt": 3,
+		"jp": [
+			"っぽいです",
+			"っぽくない",
+			"っぽかったです",
+			"っぽくなかったです"
+		],
+		"en": [
+			"ish",
+			"seems like",
+			"somewhat",
+			"easily does",
+			"often does",
+			"has tendency"
+		]
+	},
+	{
+		"id": 227,
+		"sort": 30,
+		"title": "Each time",
+		"form": "たびに",
+		"content": "227_each_time",
+		"jlpt": 3,
+		"jp": [
+			"たびに",
+			"のたびに"
+		],
+		"en": [
+			"each time",
+			"every time",
+			"whenever"
+		]
+	},
+	{
+		"id": 228,
+		"sort": 31,
+		"title": "Not yet finished",
+		"form": "～かけ",
+		"content": "228_not_yet_finished",
+		"jlpt": 3,
+		"jp": [
+			"かけの"
+		],
+		"en": [
+			"not yet finished",
+			"half",
+			"in the middle of"
+		]
+	},
+	{
+		"id": 229,
+		"sort": 32,
+		"title": "Not yet finished",
+		"form": "～かける",
+		"content": "229_not_yet_finished",
+		"jlpt": 3,
+		"jp": [
+			"かける",
+			"かけます",
+			"かけませんでした",
+			"かけました"
+		],
+		"en": [
+			"not yet finished",
+			"half",
+			"in the middle of"
+		]
+	},
+	{
+		"id": 230,
+		"sort": 33,
+		"title": "Even",
+		"form": "さえ + ない",
+		"content": "230_even",
+		"jlpt": 3,
+		"jp": [
+			"さえ",
+			"へさえ",
+			"とさえ",
+			"にさえ"
+		],
+		"en": [
+			"even"
+		]
+	},
+	{
+		"id": 231,
+		"sort": 34,
+		"title": "As long as",
+		"form": "さえ～ば",
+		"content": "231_as_long_as",
+		"jlpt": 3,
+		"jp": [
+			"さえば",
+			"さえすれば",
+			"さえしなければ",
+			"さえあれば",
+			"さえなければ",
+			"さえいれば",
+			"さえいなければ"
+		],
+		"en": [
+			"as long as",
+			"if only",
+			"provided that"
+		]
+	},
+	{
+		"id": 232,
+		"sort": 35,
+		"title": "To do in advance",
+		"form": "～とく",
+		"content": "232_to_do_in_advance",
+		"jlpt": 3,
+		"jp": [
+			"とく",
+			"ときます",
+			"とく",
+			"ときます"
+		],
+		"en": [
+			"to do in advance",
+			"to do in preparation for"
+		]
+	},
+	{
+		"id": 233,
+		"sort": 36,
+		"title": "When - formal",
+		"form": "～際",
+		"content": "233_when_formal",
+		"jlpt": 3,
+		"jp": [
+			"さいは",
+			"際は",
+			"た際は",
+			"だ際は",
+			"たさいは",
+			"ださいは",
+			"の際は",
+			"のさいは",
+			"さいに",
+			"際に",
+			"た際に",
+			"だ際に",
+			"たさいに",
+			"ださいに",
+			"の際に",
+			"のさいに"
+		],
+		"en": [
+			"when formal",
+			"formal when",
+			"if",
+			"conditionals"
+		]
+	},
+	{
+		"id": 234,
+		"sort": 37,
+		"title": "During - formal",
+		"form": "～最中",
+		"content": "234_during_formal",
+		"jlpt": 3,
+		"jp": [
+			"最中は",
+			"さいちゅうは",
+			"ている最中は",
+			"ているさいちゅうは",
+			"でいる最中は",
+			"でいるさいちゅうは",
+			"の最中は",
+			"のさいちゅうは",
+			"最中に",
+			"さいちゅうに",
+			"ている最中に",
+			"ているさいちゅうに",
+			"でいる最中に",
+			"でいるさいちゅうに",
+			"の最中に",
+			"のさいちゅうに"
+		],
+		"en": [
+			"during formal",
+			"while formal",
+			"formal during",
+			"formal while",
+			"when",
+			"moment",
+			"in the middle of"
+		]
+	},
+	{
+		"id": 235,
+		"sort": 38,
+		"title": "As soon as",
+		"form": "～たとたん",
+		"content": "235_as_soon_as",
+		"jlpt": 3,
+		"jp": [
+			"たとたんです",
+			"だとたんです",
+			"とたんです",
+			"たとたんだ",
+			"だとたんだ",
+			"とたんだ"
+		],
+		"en": [
+			"as soon as",
+			"just as"
+		]
+	},
+	{
+		"id": 236,
+		"sort": 39,
+		"title": "Change together",
+		"form": "～と共に",
+		"content": "236_change_together",
+		"jlpt": 3,
+		"jp": [
+			"と共に",
+			"とともに",
+			"共に",
+			"ともに"
+		],
+		"en": [
+			"change together",
+			"change along with",
+			"change alongside",
+			"changes together",
+			"at the same time as",
+			"as well as"
+		]
+	},
+	{
+		"id": 237,
+		"sort": 40,
+		"title": "Together with",
+		"form": "～と共に",
+		"content": "237_together_with",
+		"jlpt": 3,
+		"jp": [
+			"と共に",
+			"とともに",
+			"共に",
+			"ともに"
+		],
+		"en": [
+			"together with"
+		]
+	},
+	{
+		"id": 238,
+		"sort": 41,
+		"title": "Nothing is better",
+		"form": "にかぎる",
+		"content": "238_nothing_is_better",
+		"jlpt": 3,
+		"jp": [
+			"にかぎる",
+			"に限る",
+			"ないにかぎる",
+			"ないに限る",
+			"にかぎります",
+			"に限ります",
+			"ないにかぎります",
+			"ないに限ります",
+			"にかぎます",
+			"に限ます",
+			"ないにかぎます",
+			"ないに限ます"
+		],
+		"en": [
+			"nothing is better than",
+			"is the best",
+			"is best",
+			"giving advice",
+			"to give advice",
+			"advise",
+			"giving recommendations",
+			"to give recommendations",
+			"giving strong recommendations",
+			"to give strong recommendations"
+		]
+	},
+	{
+		"id": 239,
+		"sort": 42,
+		"title": "Praising",
+		"form": "にかけて",
+		"content": "239_praising",
+		"jlpt": 3,
+		"jp": [
+			"にかけては",
+			"にかけても",
+			"のにかけては",
+			"のにかけても"
+		],
+		"en": [
+			"praising someone",
+			"boasting the ability",
+			"the best amongst",
+			"concerning",
+			"through",
+			"regarding",
+			"the best when it comes to"
+		]
+	},
+	{
+		"id": 240,
+		"sort": 43,
+		"title": "There is no one like",
+		"form": "ほど～ない",
+		"content": "240_there_is_no_one_like",
+		"jlpt": 3,
+		"jp": [
+			"ほどない",
+			"ほどありません",
+			"ほどいない",
+			"ほどいません",
+			"ほどではありません",
+			"ほどではないです",
+			"ほどじゃないです",
+			"ほどはいない",
+			"ほどはない",
+			"程ない",
+			"程ありません",
+			"程いない",
+			"程いません",
+			"程ではありません",
+			"程ではないです",
+			"程じゃないです",
+			"程はいない",
+			"程はない"
+		],
+		"en": [
+			"there is noone like",
+			"there is no one like",
+			"is not as",
+			"the best",
+			"not as much as",
+			"there is no such"
+		]
+	},
+	{
+		"id": 241,
+		"sort": 44,
+		"title": "There is no one like",
+		"form": "くらい～ない",
+		"content": "241_there_is_no_one_like",
+		"jlpt": 3,
+		"jp": [
+			"くらいない",
+			"くらいありません",
+			"くらいいない",
+			"くらいいません",
+			"くらいではありません",
+			"くらいではないです",
+			"くらいじゃないです",
+			"くらいはいない",
+			"くらいはない",
+			"ぐらいない",
+			"ぐらいありません",
+			"ぐらいいない",
+			"ぐらいいません",
+			"ぐらいではありません",
+			"ぐらいではないです",
+			"ぐらいじゃないです",
+			"ぐらいはいない",
+			"ぐらいはない"
+		],
+		"en": [
+			"there is noone like",
+			"there is no one like",
+			"is not as",
+			"the best",
+			"not as much as",
+			"there is no such"
+		]
+	},
+	{
+		"id": 242,
+		"sort": 45,
+		"title": "Instead of",
+		"form": "にかわって",
+		"content": "242_instead_of",
+		"jlpt": 3,
+		"jp": [
+			"にかわって",
+			"のにかわって"
+		],
+		"en": [
+			"instead of",
+			"replacing",
+			"on behalf of"
+		]
+	},
+	{
+		"id": 243,
+		"sort": 46,
+		"title": "What about",
+		"form": "なんかどう",
+		"content": "243_what_about",
+		"jlpt": 3,
+		"jp": [
+			"なんかどうですか",
+			"どうですか"
+		],
+		"en": [
+			"what about",
+			"for example"
+		]
+	},
+	{
+		"id": 244,
+		"sort": 47,
+		"title": "Regardless of",
+		"form": "にしても",
+		"content": "244_regardless_of",
+		"jlpt": 3,
+		"jp": [
+			"にしても",
+			"ないにしても"
+		],
+		"en": [
+			"either or",
+			"even if",
+			"even though",
+			"regardless of"
+		]
+	},
+	{
+		"id": 245,
+		"sort": 48,
+		"title": "Many - surprise",
+		"form": "なんて",
+		"content": "245_many",
+		"jlpt": 3,
+		"jp": [
+			"なんて"
+		],
+		"en": [
+			"many surprise",
+			"many surprize"
+		]
+	},
+	{
+		"id": 246,
+		"sort": 49,
+		"title": "I bet",
+		"form": "に決まっている",
+		"content": "246_i_bet",
+		"jlpt": 3,
+		"jp": [
+			"に決まっている",
+			"決まっている",
+			"決まってる",
+			"に決まっています",
+			"決まっています",
+			"決まってます",
+			"にきまっている",
+			"きまっている",
+			"きまってる",
+			"にきまっています",
+			"きまっています",
+			"きまってます"
+		],
+		"en": [
+			"i bet",
+			"certainly",
+			"i'm sure that",
+			"i'm certain that",
+			"it must be the case that"
+		]
+	},
+	{
+		"id": 247,
+		"sort": 50,
+		"title": "Cannot do without",
+		"form": "～てからでないと～できない",
+		"content": "247_cannot_do_without",
+		"jlpt": 3,
+		"jp": [
+			"てからでないとできない",
+			"でからでないとできない",
+			"てからでないとない",
+			"でからでないとない",
+			"からでないとできない",
+			"からでないとない",
+			"でないとできない",
+			"でないとない"
+		],
+		"en": [
+			"must do first",
+			"cannot do without first doing",
+			"if you don't do you cannot do",
+			"if you do not do you cannot do",
+			"if you don't do you can't do",
+			"if you do not do you can't do"
+		]
+	},
+	{
+		"id": 248,
+		"sort": 51,
+		"title": "To the extent - surprise",
+		"form": "まで",
+		"content": "248_to_the_extent",
+		"jlpt": 3,
+		"jp": [
+			"まで"
+		],
+		"en": [
+			"to the extent",
+			"to the extend",
+			"until the extent",
+			"until the extend",
+			"surprise",
+			"surprize",
+			"even"
+		]
+	},
+	{
+		"id": 249,
+		"sort": 52,
+		"title": "Probably",
+		"form": "はずだ",
+		"content": "249_probably",
+		"jlpt": 4,
+		"jp": [
+			"はずだよ",
+			"はずですよ",
+			"はずだね",
+			"はずですね"
+		],
+		"en": [
+			"probably",
+			"consent",
+			"agreement",
+			"must be the case",
+			"should be",
+			"it's unlikely that",
+			"it is unlikely that",
+			"unlikely that",
+			"must not be",
+			"impossible",
+			"cannot be"
+		]
+	},
+	{
+		"id": 250,
+		"sort": 53,
+		"title": "Absolutely not",
+		"form": "はずがない",
+		"content": "250_absolutely_not",
+		"jlpt": 3,
+		"jp": [
+			"はずがないよ",
+			"はずがありませんよ",
+			"はずではありませんよ"
+		],
+		"en": [
+			"absolutely not the case",
+			"cannot be true",
+			"for sure not"
+		]
+	},
+	{
+		"id": 251,
+		"sort": 54,
+		"title": "Absolutely different",
+		"form": "わけがない",
+		"content": "251_absolutely_different",
+		"jlpt": 3,
+		"jp": [
+			"わけがないです",
+			"わけないです",
+			"というわけがないです",
+			"というわけないです",
+			"わけがありません",
+			"わけありません",
+			"というわけがありません",
+			"というわけありません"
+		],
+		"en": [
+			"absolutely different",
+			"absolutely not like this",
+			"absolutely not true",
+			"for sure not like this",
+			"cannot be like this",
+			"there is not way that",
+			"there's not way that",
+			"it is impossible to",
+			"it's impossible to"
+		]
+	},
+	{
+		"id": 252,
+		"sort": 55,
+		"title": "Not true that",
+		"form": "わけではない",
+		"content": "252_not_true_that",
+		"jlpt": 3,
+		"jp": [
+			"わけではないです",
+			"わけではありません",
+			"というわけではないです",
+			"というわけではありません"
+		],
+		"en": [
+			"it's not true that",
+			"it isn't true that",
+			"it is not true that",
+			"it doesn't mean that",
+			"it does not mean that",
+			"it's not the case that",
+			"it isn't the case that",
+			"it is not the case that",
+			"I don't mean that",
+			"I do not mean that",
+			"not completely true",
+			"deny something",
+			"disagreement"
+		]
+	},
+	{
+		"id": 253,
+		"sort": 56,
+		"title": "Do not want to do, but must",
+		"form": "わけにはいかない",
+		"content": "253_do_not_want_to_do_but_must",
+		"jlpt": 3,
+		"jp": [
+			"わけにはいかないです",
+			"わけにはいきません",
+			"というわけにはいかないです",
+			"というわけにはいきません"
+		],
+		"en": [
+			"I don't want to do but I must",
+			"I do not want to do but I must",
+			"I don't want to do but there is no choice",
+			"I do not want to do but there is no choice",
+			"I don't want to do but must",
+			"I do not want to do but must",
+			"I have no choice but",
+			"cannot afford to",
+			"can't afford to"
+		]
+	},
+	{
+		"id": 254,
+		"sort": 57,
+		"title": "I see",
+		"form": "わけだ",
+		"content": "254_i_see",
+		"jlpt": 3,
+		"jp": [
+			"わけだね",
+			"わけですね",
+			"わけでしたね",
+			"わけだったね",
+			"というわけだね",
+			"というわけですね",
+			"というわけでしたね",
+			"というわけだったね",
+			"わけなんだね",
+			"わけなんですね",
+			"わけなんでしたね",
+			"わけなんだったね",
+			"というわけなんだね",
+			"というわけなんですね",
+			"というわけなんでしたね",
+			"というわけなんだったね"
+		],
+		"en": [
+			"I see",
+			"consent",
+			"understanding the reason",
+			"understanding reason",
+			"understand the reason",
+			"understand reason",
+			"for that reason",
+			"no wonder",
+			"as expected",
+			"as you would expect",
+			"as you'd expect",
+			"the fact is",
+			"so you mean",
+			"that's why",
+			"that is wht"
 		]
 	}
 ]
