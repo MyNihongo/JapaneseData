@@ -4168,7 +4168,8 @@
 			"ending particles",
 			"particles",
 			"seek confirmation",
-			"confirmation"
+			"confirmation",
+			"ne particle"
 		]
 	},
 	{
@@ -4188,7 +4189,8 @@
 			"particles",
 			"emphasis",
 			"stress",
-			"i tell you"
+			"i tell you",
+			"yo particle"
 		]
 	},
 	{
@@ -4207,7 +4209,8 @@
 			"ending particles",
 			"particles",
 			"seek confirmation",
-			"confirmation"
+			"confirmation",
+			"yone particle"
 		]
 	},
 	{
@@ -4227,7 +4230,8 @@
 			"particles",
 			"rhetorical",
 			"seek confirmation",
-			"confirmation"
+			"confirmation",
+			"naa particle"
 		]
 	},
 	{
@@ -5655,7 +5659,53 @@
 			"I don't want to do but there is no choice",
 			"I do not want to do but there is no choice",
 			"I don't want to do but must",
-			"I do not want to do but must"
+			"I do not want to do but must",
+			"I have no choice but",
+			"cannot afford to",
+			"can't afford to"
+		]
+	},
+	{
+		"id": 254,
+		"sort": 57,
+		"title": "I see",
+		"form": "わけだ",
+		"content": "254_i_see",
+		"jlpt": 3,
+		"jp": [
+			"わけだね",
+			"わけですね",
+			"わけでしたね",
+			"わけだったね",
+			"というわけだね",
+			"というわけですね",
+			"というわけでしたね",
+			"というわけだったね",
+			"わけなんだね",
+			"わけなんですね",
+			"わけなんでしたね",
+			"わけなんだったね",
+			"というわけなんだね",
+			"というわけなんですね",
+			"というわけなんでしたね",
+			"というわけなんだったね"
+		],
+		"en": [
+			"I see",
+			"consent",
+			"understanding the reason",
+			"understanding reason",
+			"understand the reason",
+			"understand reason",
+			"for that reason",
+			"no wonder",
+			"as expected",
+			"as you would expect",
+			"as you'd expect",
+			"the fact is",
+			"so you mean",
+			"that's why",
+			"that is wht"
 		]
 	}
 ]
