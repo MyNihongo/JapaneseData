@@ -5635,5 +5635,27 @@
 			"deny something",
 			"disagreement"
 		]
+	},
+	{
+		"id": 253,
+		"sort": 56,
+		"title": "Do not want to do, but must",
+		"form": "わけにはいかない",
+		"content": "253_do_not_want_to_do_but_must",
+		"jlpt": 3,
+		"jp": [
+			"わけにはいかないです",
+			"わけにはいきません",
+			"というわけにはいかないです",
+			"というわけにはいきません"
+		],
+		"en": [
+			"I don't want to do but I must",
+			"I do not want to do but I must",
+			"I don't want to do but there is no choice",
+			"I do not want to do but there is no choice",
+			"I don't want to do but must",
+			"I do not want to do but must"
+		]
 	}
 ]
