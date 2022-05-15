@@ -1713,7 +1713,8 @@
 			"only",
 			"as few as",
 			"want more",
-			"more"
+			"more",
+			"mo particle"
 		]
 	},
 	{
@@ -3799,11 +3800,11 @@
 			"が"
 		],
 		"en": [
-			"particles",
 			"ga",
 			"subject maker",
 			"emphasis",
-			"but"
+			"but",
+			"ga particles"
 		]
 	},
 	{
@@ -3820,7 +3821,8 @@
 			"particles",
 			"mo",
 			"too",
-			"as well"
+			"as well",
+			"mo particle"
 		]
 	},
 	{
@@ -3834,9 +3836,10 @@
 			"を"
 		],
 		"en": [
-			"particles",
 			"object",
-			"transitive verb"
+			"transitive verb",
+			"o particle",
+			"wo particles"
 		]
 	},
 	{
@@ -3850,14 +3853,14 @@
 			"で"
 		],
 		"en": [
-			"particles",
 			"location of event",
 			"event",
 			"method",
 			"means",
 			"total",
 			"time spent",
-			"quantity"
+			"quantity",
+			"de particles"
 		]
 	},
 	{
@@ -3871,12 +3874,12 @@
 			"に"
 		],
 		"en": [
-			"particles",
 			"location",
 			"time and date",
 			"time",
 			"date",
-			"direction"
+			"direction",
+			"ni particles"
 		]
 	},
 	{
@@ -3890,8 +3893,9 @@
 			"へ"
 		],
 		"en": [
-			"particles",
-			"direction"
+			"direction",
+			"he particles",
+			"e particles"
 		]
 	},
 	{
@@ -3905,8 +3909,8 @@
 			"か"
 		],
 		"en": [
-			"particles",
-			"or"
+			"or",
+			"ka particles"
 		]
 	},
 	{
@@ -3920,7 +3924,7 @@
 			"の"
 		],
 		"en": [
-			"particles",
+			"no particles",
 			"possession",
 			"belongs"
 		]
@@ -3936,7 +3940,7 @@
 			"と"
 		],
 		"en": [
-			"particles",
+			"to particles",
 			"and",
 			"together",
 			"with"
@@ -3954,7 +3958,7 @@
 			"など"
 		],
 		"en": [
-			"particles",
+			"ya particles",
 			"and",
 			"stuff like that"
 		]
@@ -5708,6 +5712,20 @@
 			"so you mean",
 			"that's why",
 			"that is wht"
+		]
+	},
+	{
+		"id": 255,
+		"sort": 0,
+		"title": "Not only, but also",
+		"form": "ばかりでなく",
+		"content": "255_not_only_but_also",
+		"jlpt": 3,
+		"jp": [
+			"ばかりでなく"
+		],
+		"en": [
+			"not only but also"
 		]
 	}
 ]
