@@ -1,5 +1,6 @@
 The expression `べきだ` is translated as *"should do"* and introduces the obligation to do something. To the contrary, [なければいけない](31) is more casual and may be used both in speaking and writing while べきだ is meant only for writing (therefore, there is the special usage with な- and い-adjectives).
 べきだ can also be conjugated to the past tense (i.e. `べきだった`) and the meaning would be *"should have done"*.
+This is the counterpart of [べきではない](257) which means *"should not do"*.
 
 |Form|Usage|Example|
 |-|-|-|
