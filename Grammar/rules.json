@@ -365,7 +365,10 @@
 			"けど",
 			"けれど",
 			"けれども",
-			"が"
+			"が",
+			"だけど",
+			"だけれど",
+			"だけれども"
 		],
 		"en": [
 			"but",
@@ -5786,6 +5789,23 @@
 		"en": [
 			"should not do",
 			"should not have done"
+		]
+	},
+	{
+		"id": 258,
+		"sort": 0,
+		"title": "Not in particular",
+		"form": "別に～ない",
+		"content": "258_not_in_particular",
+		"jlpt": 3,
+		"jp": [
+			"別にない",
+			"べつにない"
+		],
+		"en": [
+			"not in particular",
+			"not really",
+			"not particularly"
 		]
 	}
 ]
