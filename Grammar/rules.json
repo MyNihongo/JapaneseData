@@ -5807,5 +5807,20 @@
 			"not really",
 			"not particularly"
 		]
+	},
+	{
+		"id": 259,
+		"sort": 0,
+		"title": "For the first time in",
+		"form": "ぶりに",
+		"content": "259_for_the_first_time_in",
+		"jlpt": 3,
+		"jp": [
+			"ぶりに",
+			"っぶりに"
+		],
+		"en": [
+			"for the first time in a while"
+		]
 	}
 ]
