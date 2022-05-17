@@ -5822,5 +5822,25 @@
 		"en": [
 			"for the first time in a while"
 		]
+	},
+	{
+		"id": 260,
+		"sort": 0,
+		"title": "Currently, during",
+		"form": "中",
+		"content": "260_currently",
+		"jlpt": 3,
+		"jp": [
+			"中",
+			"ちゅう",
+			"じゅう"
+		],
+		"en": [
+			"currently",
+			"during",
+			"throughout",
+			"at some point",
+			"in process of"
+		]
 	}
 ]
