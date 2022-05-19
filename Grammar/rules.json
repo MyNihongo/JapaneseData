@@ -51,7 +51,7 @@
 	{
 		"id": 3,
 		"sort": 23,
-		"title": "Only, just, as much as",
+		"title": "Only, just",
 		"form": "だけ",
 		"content": "3_only_dake",
 		"jlpt": 5,
@@ -60,8 +60,7 @@
 		],
 		"en": [
 			"only",
-			"just by doing",
-			"as much as"
+			"just by doing"
 		]
 	},
 	{
@@ -5841,6 +5840,22 @@
 			"throughout",
 			"at some point",
 			"in process of"
+		]
+	},
+	{
+		"id": 261,
+		"sort": 0,
+		"title": "As much as",
+		"form": "だけ",
+		"content": "261_as_much_as",
+		"jlpt": 3,
+		"jp": [
+			"だけ",
+			"できるだけ",
+			"たいだけ"
+		],
+		"en": [
+			"as much as"
 		]
 	}
 ]
