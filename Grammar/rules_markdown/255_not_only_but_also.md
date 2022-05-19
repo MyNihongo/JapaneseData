@@ -1,4 +1,4 @@
-The expression `A + ばかりでなく、+ B` is used to describe two qualities (A and B) and can be translated as *"Not only A, but also B"*. This expression consists of the [ばかり](57) in the negative tense.
+The expression `A + ばかりでなく、+ B` is used to describe two qualities (A and B) and can be translated as *"not only A, but also B"*. This expression consists of the [ばかり](57) in the negative tense.
 It is important to note that both A and B must be related. Otherwise if B introduces a completely different event it will not make much sense. Therefore, in the B clause the [も particle](172) is often used to indicate this relation.
 
 |Form|Usage|Example|
@@ -7,6 +7,8 @@ It is important to note that both A and B must be related. Otherwise if B introd
 |い-adjective|イA + ばかりでなく|新しい**ばかりでなく**|
 |な-adjective|ナA + **な**ばかりでなく|きれいな**ばかりでなく**|
 |Noun|N + ばかりでなく|日本人**ばかりでなく**|
+
+It may be noted that when using `A + ばかりでなく、+ B` the clause B is considered more important than the clause A. This is the difference from [だけでなく](262) where both clauses have the same level of importance.
 
 >富士山に登った**ばかりでなく**、京都にも行きました。Not only did I climb the mount Fuji, but also went to Kyoto.
 >日本語の勉強が面白い**ばかりでなく**、楽しいです。Not only is studying Japanese interesting, but also enjoyable.

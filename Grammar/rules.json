@@ -5726,7 +5726,8 @@
 		"content": "255_not_only_but_also",
 		"jlpt": 3,
 		"jp": [
-			"ばかりでなく"
+			"ばかりでなくも",
+			"でなくも"
 		],
 		"en": [
 			"not only but also"
@@ -5856,6 +5857,21 @@
 		],
 		"en": [
 			"as much as"
+		]
+	},
+	{
+		"id": 262,
+		"sort": 0,
+		"title": "Not only, but also",
+		"form": "だけでなく",
+		"content": "262_not_only_but_also",
+		"jlpt": 3,
+		"jp": [
+			"だけでなくも",
+			"でなくも"
+		],
+		"en": [
+			"not only but also"
 		]
 	}
 ]
