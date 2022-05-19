@@ -5873,5 +5873,27 @@
 		"en": [
 			"not only but also"
 		]
+	},
+	{
+		"id": 263,
+		"sort": 0,
+		"title": "No matter how much",
+		"form": "どんなに～ても",
+		"content": "263_no_matter_how_much",
+		"jlpt": 3,
+		"jp": [
+			"どんなにても",
+			"どんなにくても",
+			"どんなにでも",
+			"ても",
+			"くても",
+			"でも"
+		],
+		"en": [
+			"no matter how much",
+			"does not matter how much",
+			"doesn't matter how much",
+			"despite"
+		]
 	}
 ]
