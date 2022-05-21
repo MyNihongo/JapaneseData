@@ -5895,5 +5895,21 @@
 			"doesn't matter how much",
 			"despite"
 		]
+	},
+	{
+		"id": 264,
+		"sort": 0,
+		"title": "No matter what",
+		"form": "どうしても",
+		"content": "264_no_matter_what",
+		"jlpt": 3,
+		"jp": [
+			"どうしても"
+		],
+		"en": [
+			"no matter what",
+			"at any cost",
+			"after all"
+		]
 	}
 ]
