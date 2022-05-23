@@ -5911,5 +5911,23 @@
 			"at any cost",
 			"after all"
 		]
+	},
+	{
+		"id": 265,
+		"sort": 0,
+		"title": "To pretend to",
+		"form": "ふりをする",
+		"content": "265_to_pretend_to",
+		"jlpt": 3,
+		"jp": [
+			"ふりをする",
+			"ふりをします",
+			"ふりすり",
+			"ふりします"
+		],
+		"en": [
+			"to pretend to",
+			"to pretend that"
+		]
 	}
 ]
