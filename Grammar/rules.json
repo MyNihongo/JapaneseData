@@ -5970,5 +5970,21 @@
 			"tendency to",
 			"frequently"
 		]
+	},
+	{
+		"id": 268,
+		"sort": 0,
+		"title": "Almost impossible to",
+		"form": "～がたい",
+		"content": "268_almost_impossible_to",
+		"jlpt": 3,
+		"jp": [
+			"がたいです",
+			"かたいです"
+		],
+		"en": [
+			"almost impossible to",
+			"very difficult to"
+		]
 	}
 ]
