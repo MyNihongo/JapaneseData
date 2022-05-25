@@ -5950,5 +5950,25 @@
 			"by surprise",
 			"by chance"
 		]
+	},
+	{
+		"id": 267,
+		"sort": 0,
+		"title": "Prone to",
+		"form": "～がち",
+		"content": "267_prone_to",
+		"jlpt": 3,
+		"jp": [
+			"がちです",
+			"かちです"
+		],
+		"en": [
+			"prone to",
+			"tend to",
+			"tent to",
+			"often",
+			"tendency to",
+			"frequently"
+		]
 	}
 ]
