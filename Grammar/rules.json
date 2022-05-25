@@ -2118,7 +2118,9 @@
 			"がされます",
 			"されます",
 			"使役受身形",
-			"しえきうけみけい"
+			"しえきうけみけい",
+			"使役形",
+			"しえきけい"
 		],
 		"en": [
 			"causative passive form",
@@ -5928,6 +5930,25 @@
 		"en": [
 			"to pretend to",
 			"to pretend that"
+		]
+	},
+	{
+		"id": 266,
+		"sort": 0,
+		"title": "Unexpectedly",
+		"form": "ふと",
+		"content": "266_unexpectedly",
+		"jlpt": 3,
+		"jp": [
+			"ふと"
+		],
+		"en": [
+			"accidentally",
+			"accidently",
+			"suddenly",
+			"unexpectedly",
+			"by surprise",
+			"by chance"
 		]
 	}
 ]
