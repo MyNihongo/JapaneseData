@@ -6002,5 +6002,20 @@
 			"at intervals of",
 			"each"
 		]
+	},
+	{
+		"id": 270,
+		"sort": 0,
+		"title": "At once",
+		"form": "一度に",
+		"content": "270_at_once",
+		"jlpt": 3,
+		"jp": [
+			"一度に",
+			"いちどに"
+		],
+		"en": [
+			"all at once"
+		]
 	}
 ]
