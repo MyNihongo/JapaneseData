@@ -5986,5 +5986,21 @@
 			"almost impossible to",
 			"very difficult to"
 		]
+	},
+	{
+		"id": 269,
+		"sort": 0,
+		"title": "Every, intervals",
+		"form": "ごとに",
+		"content": "269_intervals",
+		"jlpt": 3,
+		"jp": [
+			"ごとに"
+		],
+		"en": [
+			"every",
+			"at intervals of",
+			"each"
+		]
 	}
 ]
