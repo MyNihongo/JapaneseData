@@ -1,4 +1,4 @@
-The expression `どんなに + A + ても、+ B` is used to express that the clause B is still true despite the clause A and is translated as *"no matter how much"*. The clause B can have either the positive feeling or negative. The first clause consists of a word [どんなに](w1009340) and the [ても form](127).
+The expression `どんなに + A + ても、+ B` is used to express that the clause B is still true despite the clause A and is translated as *"no matter how much I try"*. The clause B can have either the positive feeling or negative. The first clause consists of a word [どんなに](w1009340) and the [ても form](127).
 In case of the negative feeling it becomes similar to [のに](94) which expresses the regret of the speaker and inability to complete the clause B.
 
 |Form|Usage|Example|
