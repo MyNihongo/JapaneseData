@@ -6017,5 +6017,27 @@
 		"en": [
 			"all at once"
 		]
+	},
+	{
+		"id": 271,
+		"sort": 0,
+		"title": "No matter how much",
+		"form": "いくら～ても",
+		"content": "271_no_matter_how_much",
+		"jlpt": 3,
+		"jp": [
+			"いくらても",
+			"いくらくても",
+			"いくらでも",
+			"ても",
+			"くても",
+			"でも"
+		],
+		"en": [
+			"no matter how much",
+			"does not matter how much",
+			"doesn't matter how much",
+			"despite"
+		]
 	}
 ]
