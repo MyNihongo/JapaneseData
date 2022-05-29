@@ -6042,5 +6042,22 @@
 			"doesn't matter how many times",
 			"despite"
 		]
+	},
+	{
+		"id": 272,
+		"sort": 0,
+		"title": "What on Earth",
+		"form": "一体",
+		"content": "272_what_on_earth",
+		"jlpt": 3,
+		"jp": [
+			"一体",
+			"いったい"
+		],
+		"en": [
+			"what on earth",
+			"what in the world",
+			"emphasis"
+		]
 	}
 ]
