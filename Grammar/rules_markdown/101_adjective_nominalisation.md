@@ -1,2 +1,2 @@
 Similarly as the [verb nominaliser](74) い-adjectives can also be nominalised, i.e. an い-adjective can be converted to a noun. In English it is an equivalent of the suffix *～ness* (e.g. happy → happiness). In order to nominalise an い-adjective the last *い* must be replaced with *さ*.
->綾子ちゃんのかわい**さ**が好きです。I like cuteness of Ayako. 
+>あさみさんのかわい**さ**が好きです。I like cuteness of Asami. 

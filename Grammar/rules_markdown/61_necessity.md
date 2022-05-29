@@ -7,7 +7,7 @@
 ### が必要です
 In order to say that something is necessary an expression `noun + が必要です` is used. A particle with connects a noun and *必要* may be either *は* or *が*. In most cases the *が particle* is used, but when the speaker wants to emphasise that a noun which is necessary is the only necessity the *は particle* is used.
 In order to use the expression with verbs the *～ing form* of the verb must be created with either `の` or `事`.
->綾子ちゃん**が必要です**。I need Ayako.
+>あさみさん**が必要です**。I need Asami.
 >新しいパソコン**が必要です**。I need a new computer.
 >毎日運動すること**が必要です**。I need to do physical exercises every day.
 

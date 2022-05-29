@@ -3,4 +3,4 @@ The sentence-ending particle `よ` puts the emphasis on the sentence or introduc
 >嘘です**よ**。It is a lie!
 
 >A: 誰の鞄ですか。Whose bag is it?
->B: 綾子ちゃんのです**よ**。It is Ayako's!
+>B: あさみさんのです**よ**。It is Asami's!

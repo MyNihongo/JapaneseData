@@ -13,7 +13,7 @@ When the speaker expresses own thoughts the verb `思う` is used.
 >ご飯を食べる**と思います**。I think that I will eat.
 >料理がおいしい**と思います**。I think that the food is tasty.
 >授業が簡単だ**と思います**。I think that the class is easy.
->綾子ちゃんが日本人だ**と思います**。I think that Ayako is Japanese.
+>あさみさんが日本人だ**と思います**。I think that Asami is Japanese.
 
 #### Other persons
 When the speaker expresses someone else's thoughts the verb `思っている` is used (思う in the [continuous state](44)).
@@ -21,4 +21,4 @@ When the speaker expresses someone else's thoughts the verb `思っている` is
 >ジョン**は**ご飯を食べる**と思っています**。John thinks he will eat.
 >ジョン**は**料理**が**おいしい**と思っています**。John thinks that the food is tasty.
 >ジョン**は**授業**が**簡単だ**と思っています**。John thinks that the class is easy.
->ジョン**は**綾子ちゃん**が**日本人だ**と思っています**。John thinks that Ayako is Japanese.
+>ジョン**は**あさみさん**が**日本人だ**と思っています**。John thinks that Asami is Japanese.

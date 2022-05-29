@@ -16,8 +16,8 @@ The *たい-form* is quite direct in expressing your wants, so appending [と思
 >連絡し**たい**と**思います**。I want to address you.
 
 ### Another person's want
->(✕)綾子ちゃんは東京に行き**たい**です。Ayako wants to go to Tokyo. (**WRONG!!!**)
->綾子ちゃんは東京に行き**たい**と言っていました。Ayako said that she wanted to go to Tokyo.
+>(✕)あさみさんは東京に行き**たい**です。Asami wants to go to Tokyo. (**WRONG!!!**)
+>あさみさんは東京に行き**たい**と言っていました。Asami said that she wanted to go to Tokyo.
 
 Please note *たい* cannot be used to describe another person's want, but it is all right to ask a question with *たい*. But be careful because it does not have the same meaning as in English, because in English it is often used as a proposal to do something, but in Japanese it simply conveys a meaning of desire without any actions.
 

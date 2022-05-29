@@ -7,4 +7,4 @@ In order to say that an action is performed similarly to someone else an express
 >ジョンさんはネイティブ**みたいに**日本語ができます。John can speak Japanese like a native speaker.
 
 This pattern is usually used when expressing an idea that the speaker wants to become like someone else.
->綾子ちゃん**みたいに**なりたいです。I want to become like Ayako.
+>あさみさん**みたいに**なりたいです。I want to become like Asami.

@@ -36,6 +36,6 @@ When one participates in an interview or teaching something it is common to use 
 
 ## Meaning *after*
 Another meaning of *から* is "from" or "since", however in this case *から* is not a sentence-ending particle, but just a particle.
->綾子ちゃん**から**そんな事が聞こえるのはおかしです。It's strange to hear this from Ayako.
+>あさみさん**から**そんな事が聞こえるのはおかしです。It's strange to hear this from Asami.
 >これ**から**一緒に遊びましょう。Let's play together from now on.
 >去年**から**友達です。We've been friends since last year.

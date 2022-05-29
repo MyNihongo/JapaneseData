@@ -1,2 +1,2 @@
 In order to include an expression where the speaker wants to express his or her opinion by saying *"I would say"* a pattern `clause + と言ってもいい` is used which consists the *と particle*, a verb 言う in the [てもいい-form](47) which means *"it is allowed to say that"*. The *と particle* in the pattern acts as a [reported speech](164) connection (word *that*), therefore, the first clause must be in the casual context.
->綾子ちゃんがきれいだ**と言ってもいい**です。I would say that Ayako is beautiful.
+>あさみさんがきれいだ**と言ってもいい**です。I would say that Asami is beautiful.

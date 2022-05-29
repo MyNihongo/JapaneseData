@@ -5,4 +5,4 @@ In order to say that something has turned out to be the case an expression `verb
 ### It has been decided
 Similarly as [ことにする](36) the expression *ことになる* may have a meaning that something has been decided. However, the key difference is that *ことになる* implies it has been decided by someone else beyond the speaker's control, while *ことにする* implies that the speaker decided it by her- or himself.
 >これから運動することに**します**。From now on I decided to do physical exercises.
->両親は綾子ちゃんが好きだから、私は綾子ちゃんと結婚することに**なりました**。Since my parents like Ayako, it was decided that I will marry Ayako.
+>両親はあさみさんが好きだから、私はあさみさんと結婚することに**なりました**。Since my parents like Asami, it was decided that I will marry Asami.
