@@ -1201,7 +1201,9 @@
 		"jp": [
 			"じゃないか",
 			"ではないか",
-			"ではありませんか"
+			"ではありませんか",
+			"じゃん",
+			"じゃないですか"
 		],
 		"en": [
 			"right?",
@@ -6058,6 +6060,22 @@
 			"what on earth",
 			"what in the world",
 			"emphasis"
+		]
+	},
+	{
+		"id": 273,
+		"sort": 0,
+		"title": "Or something",
+		"form": "か何か",
+		"content": "273_or_something",
+		"jlpt": 3,
+		"jp": [
+			"か何か",
+			"かなにか",
+			"かなんか"
+		],
+		"en": [
+			"or something like that"
 		]
 	}
 ]
