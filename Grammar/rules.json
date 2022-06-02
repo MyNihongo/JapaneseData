@@ -5417,7 +5417,9 @@
 		"jlpt": 3,
 		"jp": [
 			"にかわって",
-			"のにかわって"
+			"のにかわって",
+			"に代わって",
+			"のに代わって"
 		],
 		"en": [
 			"instead of",
@@ -6076,6 +6078,27 @@
 		],
 		"en": [
 			"or something like that"
+		]
+	},
+	{
+		"id": 274,
+		"sort": 0,
+		"title": "Instead of",
+		"form": "かわりに",
+		"content": "274_instead_of",
+		"jlpt": 3,
+		"jp": [
+			"かわりに",
+			"のかわりに",
+			"そのかわりに",
+			"代わりに",
+			"の代わりに",
+			"その代わりに"
+		],
+		"en": [
+			"instead of",
+			"in exchange for",
+			"as a substitute for"
 		]
 	}
 ]
