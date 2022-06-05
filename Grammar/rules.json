@@ -6123,5 +6123,23 @@
 			"as the result of",
 			"after"
 		]
+	},
+	{
+		"id": 276,
+		"sort": 0,
+		"title": "After all",
+		"form": "結局",
+		"content": "276_after_all",
+		"jlpt": 3,
+		"jp": [
+			"結局は",
+			"けっきょくは"
+		],
+		"en": [
+			"after all",
+			"in the end",
+			"ultimately",
+			"eventually"
+		]
 	}
 ]
