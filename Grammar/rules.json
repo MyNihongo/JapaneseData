@@ -6100,5 +6100,28 @@
 			"in exchange for",
 			"as a substitute for"
 		]
+	},
+	{
+		"id": 275,
+		"sort": 0,
+		"title": "As a result",
+		"form": "結果",
+		"content": "275_as_a_result",
+		"jlpt": 3,
+		"jp": [
+			"結果",
+			"た結果",
+			"の結果",
+			"その結果",
+			"けっか",
+			"たけっか",
+			"のけっか",
+			"そのけっか"
+		],
+		"en": [
+			"as a result of",
+			"as the result of",
+			"after"
+		]
 	}
 ]

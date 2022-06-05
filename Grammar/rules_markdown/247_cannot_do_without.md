@@ -5,5 +5,5 @@ The expression created of a verb (clause A) in the [て form](52) which is follo
 |-|-|-|
 |Verb|V (て) + からでないと～できない|食べて**からでないと**飲**めません**|
 
->漢字を勉強して**からでないと**JLPTを合格**できません**。If you do not study kanji you cannot pass the JLPT.
+>漢字を勉強して**からでないと**JLPTに合格**できません**。If you do not study kanji you cannot pass the JLPT.
 >お箸で食べて**からでないと**日本のレストランに**行けません**。If you do not eat with chopsticks you cannot go to a Japanese restaurant.
