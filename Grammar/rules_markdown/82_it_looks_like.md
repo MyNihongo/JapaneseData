@@ -7,7 +7,7 @@ In order to say that something looks like something a pattern `object1は + obje
 |な-adjective|casual form + みたいだ|安全**みたい**です|
 |Noun|noun + みたいだ|日本人**みたい**です|
 
->綾子ちゃんは日本に行った**みたい**です。It seems Ayako went to Japan.
+>あさみさんは日本に行った**みたい**です。It seems Asami went to Japan.
 >日本人**みたい**です。It looks like he is Japanese.
 >高い**みたい**です。It seems expensive.
 >静かな**みたい**です。It seems quiet.

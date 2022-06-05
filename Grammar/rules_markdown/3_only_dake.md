@@ -13,6 +13,6 @@ Most common use cases of where *だけ* is used are these sentences:
 >日本語**だけ**で話しましょうか。Let us speak only in Japanese.
 >それ**だけ**で嬉しくなりました。Just by this I have become happy.
 
-Another usage of the *だけ-form* is to say "as much as possible" in conjunction with a verb `できる` (I can), so it implies that a speaker wants to maximise or minimise something to a certain extent.
+Another usage of the *だけ-form* is to say ["as much as possible"](261) in conjunction with a verb `できる` (I can), so it implies that a speaker wants to maximise or minimise something to a certain extent.
 >できる**だけ**日本語を話すの上手になりたいです。I want to speak Japanese as good as I possibly can
 >できる**だけ**新しい漢字を覚えたいです。I want to learn new kanji as much as I possible can

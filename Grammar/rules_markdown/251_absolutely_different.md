@@ -15,7 +15,7 @@ In writing the special である form can be used for な-adjectives and nouns a
 |な-adjective|ナA + **である**わけがない|きれいである**わけがない**|
 |Noun|N + **である**わけがない|日本人である**わけがない**|
 
->日本語がわからないと、JLPTを合格できる**わけがない**です。If you do not understand Japanese there is no way you can pass the JLPT.
+>日本語がわからないと、JLPTに合格できる**わけがない**です。If you do not understand Japanese there is no way you can pass the JLPT.
 >あの人日本人の**わけがない**です。That person is not Japanese.
 
 #### Comparing わけがない and はずがない

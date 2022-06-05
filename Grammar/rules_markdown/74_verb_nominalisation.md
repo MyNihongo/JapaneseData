@@ -3,7 +3,7 @@ Cases when only *の*, *こと* and *ように* may be used are described below.
 #### Only の
 The main rule of using the *の particle* is the fact that both clauses (1 - where a verb is nominalised; 2 - which gives more details about the nominalised verb) occur at the same time or place. So the simplest explanation is that the *の particle* must be used whenever a nominalised clause is modified with an action (e.g. verbs or nouns like 聞こえる, 見える, 待つ, 好き etc.)
 >公園で子供が遊ぶ**の**が見えました。I saw how children were playing in a park.
->綾子ちゃんが宿題を終わる**の**を待っています。I'm waiting for Ayako to finish her homework.
+>あさみさんが宿題を終わる**の**を待っています。I'm waiting for Asami to finish her homework.
 >日本語を勉強する**の**を手伝ってくれます。Help me with studying Japanese.
 #### Only こと
 *こと* does not imply that both clauses take place at the same time. Usages of *こと* are descried below.

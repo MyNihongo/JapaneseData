@@ -1,4 +1,4 @@
 In order to say that someone does something for the speaker a pattern `personは + verbてくれる` is used. Please refer to the くれる (to give) verb in [this article](165) for recap.
 In this pattern a persons for whom an action is performed is **usually not** specified because it is clear from the context that it is done for the speaker, therefore, the person is only specified in [てあげる sentences](114) where the subject of a sentence can do something not only for the speaker.
 The *てくれる-form* is composed of a verb in the [て-form](52) which is followed by the verb *くれる* which literally means *"to receive"*, therefore, the meaning implies that the speaker receives an action from someone else.
->綾子ちゃんは宿題を手伝っ**てくれました**。Ayako helped me with my homework.
+>あさみさんは宿題を手伝っ**てくれました**。Asami helped me with my homework.

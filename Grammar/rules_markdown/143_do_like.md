@@ -4,4 +4,4 @@ In order to say that an action is performed similarly to someone else a pattern 
 |-|-|-|
 |Noun|noun + のように + action|日本人**のように**食べる|
 
->田中さんは綾子ちゃん**のように**料理します。Tanaka cooks like Ayako.
+>田中さんはあさみさん**のように**料理します。Tanaka cooks like Asami.

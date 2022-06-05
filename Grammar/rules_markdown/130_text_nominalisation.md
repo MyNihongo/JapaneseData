@@ -7,5 +7,5 @@ In order to convert the whole clause into a noun a pattern `clause + という�
 |な-adjectives|casual + ということ|簡単だ**ということ**|
 |Nouns|casual + ということ|日本人だ**ということ**|
 
->綾子ちゃんが日本に行ったことがあった**ということ**がわらない。I don't know if Ayako has ever been to Japan.
+>あさみさんが日本に行ったことがあった**ということ**がわらない。I don't know if Asami has ever been to Japan.
 >日本に行って、日本の株式会社で働き始めた。**ということ**です。I went to Japan and started working in a Japanese corporation. That's the story.

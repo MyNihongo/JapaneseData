@@ -18,7 +18,7 @@ Verbs `ある`, `いる` (to be, to have) and `わかる` (to understand) are al
 #### Subject's action (emphasis)
 In this example the `が` particle introduces a subject which is also a topic (so *は* would also be fine here), but the `が` particle adds more emotions to the sentence and puts an emphasis on the subject.
 
->女の人は東京に行きました。Did Ayako go to Tokyo?
+>女の人は東京に行きました。Did Asami go to Tokyo?
 >いや、私**が**（行きました）。No, it was me!
 
 #### But

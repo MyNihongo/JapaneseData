@@ -10,9 +10,9 @@ The *がる-form* (1 group) and conjugates accordingly.
 
 #### Describing desires of other persons
 The [たい-form](41) or [が欲しい-form](11) are used to describe a desire of the speaker and they do not allow describing a desire of other persons. However, due to the fact that both the *たい-form* and the *が欲しい-form* conjugate like い-adjectives*, the *がる-form* is used to describe wishes of other persons.
->綾子ちゃんは日本に行きた**がり**ます。Ayako wants to go to Japan.
->綾子ちゃんは新しいパソコンが欲し**がり**ます。Ayako wants a new computer.
+>あさみさんは日本に行きた**がり**ます。Asami wants to go to Japan.
+>あさみさんは新しいパソコンが欲し**がり**ます。Asami wants a new computer.
 
 When the present tense is used it describes the desire of the speaker at the current moment. In order to express that the speaker always wants something the verb がる must be in the [ている continuous state](44).
->綾子ちゃんはなっとうを食べた**がり**ます。Ayako now wants to eat natto.
->綾子ちゃんはなっとうを食べた**がって**います。Ayako always wants to eat natto.
+>あさみさんはなっとうを食べた**がり**ます。Asami now wants to eat natto.
+>あさみさんはなっとうを食べた**がって**います。Asami always wants to eat natto.
