@@ -3,7 +3,7 @@ As an example this grammar is often used when [常識](w1356000) or *"common sen
 
 |Group|Usage|Example|
 |-|-|-|
-|1 group|V (~~ない~~) + あれている|買わ**られてい**ます|
+|1 group|V (~~ない~~) + れている|買わ**られてい**ます|
 |2 group|V (stem) + られている|食べ**られてい**ます|
 |3 group|する|さ**れてい**ます|
 |3 group|くる|こ**られてい**ます|
