@@ -1,18 +1,28 @@
-In Japanese there are two forms of how to say that one does something after something has been done.
+The form `てから` is constructed from the [て form](52) of a verb which is followed by *から* which means *after*. This form puts more emphasis on the fact that the first action must be finished before the second one can be started, i.e. when the order of actions is important.
 
-|Usage|Example|
-|-|-|
-|verbて + から|食べ**てから**|
-|verbた + 後で|食べ**た後で**|
-|noun + の後で|勉強**の後で**|
+|Form|Usage|Example|
+|-|-|-|
+|Verb|V (て) + から|食べ**てから**|
 
-#### てから
-The form `てから` is constructed from the [て-form](52) of a verb which is followed by *から* which means *after*. This form puts more emphasis on the fact that the first action must be finished before the second one can be started, i.e. when the order of actions is important.
 Another point of *てから* is doing one action right after another.
->仕事を終わっ**てから**パーティーにいく。I must finish my work, then I will go to a party.
+>仕事を終わっ**てから**パーティーに行きます。I must finish my work, then I will go to a party.
 >宿題し**てから**出かけました。I went outside right after finishing my homework.
-#### た後で
-The form `た後で` is constructed from a verb in the casual context in the past affirmative tense which is followed by *後で* which also means after. If a noun is used with *後で* the noun must be connected by the *の particle*.
-This form simply states the fact than one action is performed after another, so there is no obligation to finish the first action before the second one, i.e. when the order of actions is not so important. *後で* does not specify how much time elapsed between to actions.
->日本語の勉強し**た後で**寝ます。After I study Japanese I go to sleep.
->日本語の勉強**の後で**寝ます。After I study Japanese I go to sleep.
+
+#### Only actions
+てから can only be used with actions, e.g. it is incorrect to indicate the result after てから. For this purpose [結果](275) is more appropriate.
+>漢字を覚え**てから**、嬉しかったです。(✕) After I memorised the kanji I was happy.
+>漢字を覚え**て**、嬉しかったです。(OK) After I memorised the kanji I was happy.
+
+The second clause of the sentence is not an action, but an adjective, therefore, this clause cannot be used with てから. To make this sentence correct it would be better to use the plain [て form](52) at the end of the first clause as it shown in the second example.
+
+#### Not used for trivial actions
+てから cannot be used in *"A てから B"* where it is clear that the action B will follow the action A. For example, cooking the meal and eating it, opening the door and leaving, etc.
+>ドアを開け**てから**、外に出ました。(✕) I opened the door and left.
+>ドアを開け**て**、外に出ました。(OK) I opened the door and left.
+
+When two ordinary actions are used it is better to use the plain [て form](52) in order to connect these actions.
+
+#### Cannot use more than one
+Only てから can be used in one sentence. Therefore, if it is necessary list more than two events in the same sentence it is better to use てから for the last action and the [て form](52) the previous actions.
+>日本語を勉強し**てから**、なっとうを食べ**てから**、テレビを見ました。After I studied Japanese, after I ate natto I watched TV.
+>日本語を勉強し**て**、なっとうを食べ**てから**、テレビを見ました。After I studied Japanese and ate natto I watched TV.

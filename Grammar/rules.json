@@ -887,13 +887,7 @@
 		"jlpt": 5,
 		"jp": [
 			"てから",
-			"でから",
-			"た後で",
-			"だ後で",
-			"の後で",
-			"たあとで",
-			"だあとで",
-			"のあとで"
+			"でから"
 		],
 		"en": [
 			"after"
@@ -1349,6 +1343,25 @@
 			"to start something",
 			"begin something",
 			"start something"
+		]
+	},
+	{
+		"id": 66,
+		"sort": 61,
+		"title": "After",
+		"form": "後で",
+		"content": "66_after",
+		"jlpt": 5,
+		"jp": [
+			"た後で",
+			"だ後で",
+			"の後で",
+			"たあとで",
+			"だあとで",
+			"のあとで"
+		],
+		"en": [
+			"right after"
 		]
 	},
 	{
