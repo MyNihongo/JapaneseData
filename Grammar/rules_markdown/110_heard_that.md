@@ -1,18 +1,23 @@
-In order to report that the speaker heard something a pattern `clause + そうです` is used where the clause is in the casual form (both past and present tense are allowed).
+In order to report that the speaker heard something a pattern `そうだ` is used where the clause is in the casual form (both past and present tense are allowed).
+そうです implies that the speaker heard it directly from the person, so the the reported clause is 100% correct.
 
-|Part of speech|Example (present tense)|
-|-|-|
-|verb|食べるそうです|
-|い-adjective|おいしいそうです|
-|な-adjective|静か**だ**そうです|
-|noun|日本人**だ**そうです|
+|Form|Usage|Example|
+|-|-|-|
+|Verb|V (cas.) + そうだ|食べる**そうです**|
+|い-adjective|イA + そうだ|新しい**そうです**|
+|な-adjective|ナA + **だ**そうだ|きれいだ**そうです**|
+|Noun|N + **だ**そうだ|日本人だ**そうです**|
 
 >明日、雨が降る**そうです**。I heard that it would rain tomorrow.
 >日本の料理がおいしいい**そうです**。I heard that Japanese food was delicious.
 >東京が静か**だそうです**。I heard that Tokyo was quiet.
 >ジョンさんは日本人**だそうです**。I heard that John was Japanese.
 
-#### `Heard that` vs `Looks like`
-**Note** that *"そうです"* can also mean [it looks like](106), but the patterns are different. *"I heard that"* uses the casual form while in *"it looks like"* the ending is dropped.
->雨が降り**そうです**。It will rain in the next instance.
->雨が降る**そうです**。I heard that it would rain.
+A similar grammar for expressing the idea of *"I heard that"* is [らしい](277), but the difference is that らしい implies that the speaker heard it from someone else who is not the primary source of information, therefore, the probability is around 80%. そうだ implies that the speaker heard it directly from the original source of information, therefore, the probability for そうだ is 100%.
+
+#### "Heard that" vs "Looks like"
+**Note** that *"そうです"* can also mean [it looks like](106), but the patterns are different. *"I heard that"* uses the casual form while in *"it looks like"* the ending of verbs or adjectives is dropped.
+>雨が降**る**そうです。I heard that it would rain.
+>雨が降**り**そうです。It will rain in the next instance.
+
+The first sentence (*"I heard that"*) has the dictionary form of a verb before it while the second sentence (*"looks like"*) has the verb stem before it.
