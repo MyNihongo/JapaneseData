@@ -1,13 +1,16 @@
-The expression `ことはない` is used to soothe someone by saying *"there is no need to"*.
+The expression `ことはない` is used to imply that there no reason to do something.
 
 |Form|Usage|Example|
 |-|-|-|
-|Verb|V (dic.) + ことはない|食べることはない|
+|Verb|V (dic.) + ことはない|食べる**ことはない**です|
+
+Often it is used to soothe someone by saying *"心配することはない"*, namely *"there is no need to worry"*.
 
 >落ち込む**ことはない**です。There is no need to feel down.
 
-Let us imagine that someone has failed a test and is feeling down. Then the speaker comes and tries to soothe the person by saying the example sentence above. ことはない is used in similar situations.
+Another similar grammar is [なくてもいい](32) which also means *"you don't have to"*. Most people will say that these two forms are interchangeable, but there is a slight nuance. Let us consider the next sentences where the speaker says it to a person B.
+>謝る**ことはない**です。You do not need to apologise.
+>謝ら**なくてもいい**です。There is no need to apologise.
 
-Please do not confuse it with [ことがない](40) (the が particle is used instead of は) which is used to express actions which sometimes happen.
->落ち込むこと**は**ないです。There is no need to feel down.
->落ち込むこと**が**ないです。It is not like sometimes I feel down.
+The first sentence (ことはない) implies that there is literally nothing to apologise for. For example the person B did something (e.g. coughed) and apologised to the speaker. But actually there is really no need to apologise for it. In these cases ことはない is the best option.
+The second sentence (なくてもいい) implies that the person B has done something for which it is better to apologise, but the speaker by saying 謝らなくてもいい states that the person B does not need to worry about it. In other words, なくてもいい is used when there is a valid reason to apologise, but since it is not a big deal it is all right not to apologise.
