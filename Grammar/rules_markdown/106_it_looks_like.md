@@ -6,7 +6,7 @@ Patterns how *"そうです"* is created are shown in the table below.
 |Verb|V (~~ます~~) + そうだ|食べ**そうです**|
 |い-adjective|イA (~~い~~) + そうだ|新し**そうです**|
 |な-adjective|ナA (~~な~~) + そうだ|きれい**そうです**|
-|noun|noun + そうだ|日本人**そうです**|
+|Noun|noun + そうだ|日本人**そうです**|
 
 #### Verbs
 >箱は落ち**そうです**。A box will fall now.
