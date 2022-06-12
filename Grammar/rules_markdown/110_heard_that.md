@@ -1,19 +1,19 @@
-In order to report that the speaker heard something a pattern `そうだ` is used where the clause is in the casual form (both past and present tense are allowed).
-そうです implies that the speaker heard it directly from the person, so the the reported clause is 100% correct.
+In order to report that the speaker heard something `そうだ` is used where the clause is in the casual form (both past and present tense are allowed).
+そうだ implies that the speaker heard it directly from the person, so the the reported clause is 100% correct.
 
 |Form|Usage|Example|
 |-|-|-|
-|Verb|V (cas.) + そうだ|食べる**そうです**|
-|い-adjective|イA + そうだ|新しい**そうです**|
-|な-adjective|ナA + **だ**そうだ|きれいだ**そうです**|
-|Noun|N + **だ**そうだ|日本人だ**そうです**|
+|Verb|V (cas.) + そうだ|食べる**そう**です|
+|い-adjective|イA + そうだ|新しい**そう**です|
+|な-adjective|ナA + **だ**そうだ|きれいだ**そう**です|
+|Noun|N + **だ**そうだ|日本人だ**そう**です|
 
->明日、雨が降る**そうです**。I heard that it would rain tomorrow.
->日本の料理がおいしいい**そうです**。I heard that Japanese food was delicious.
->東京が静か**だそうです**。I heard that Tokyo was quiet.
->ジョンさんは日本人**だそうです**。I heard that John was Japanese.
+>明日、雨が降る**そう**です。I heard that it would rain tomorrow.
+>日本の料理がおいしいい**そう**です。I heard that Japanese food was delicious.
+>東京が静かだ**そう**です。I heard that Tokyo was quiet.
+>ジョンさんは日本人だ**そう**です。I heard that John was Japanese.
 
-A similar grammar for expressing the idea of *"I heard that"* is [らしい](277), but the difference is that らしい implies that the speaker heard it from someone else who is not the primary source of information, therefore, the probability is around 80%. そうだ implies that the speaker heard it directly from the original source of information, therefore, the probability for そうだ is 100%.
+A similar grammar for expressing the idea of *"I heard that"* is [らしい](277), but the difference is that そうだ implies that the speaker heard it directly from the original source of information, therefore, the probability for そうだ is 100%. らしい implies that the speaker heard it from someone else who is not the primary source of information, therefore, the probability is around 80%. 
 
 #### "Heard that" vs "Looks like"
 **Note** that そうだ can also mean [it looks like](106), but the patterns are different. *"I heard that"* uses the casual form while in *"it looks like"* the ending of verbs or adjectives is dropped.

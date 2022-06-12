@@ -2054,10 +2054,8 @@
 		],
 		"en": [
 			"object similar to",
-			"similar to",
-			"like",
 			"by characteristic",
-			"characteristic"
+			"like"
 		]
 	},
 	{
@@ -2375,7 +2373,8 @@
 			"そうです"
 		],
 		"en": [
-			"heard that"
+			"i heard that",
+			"100%"
 		]
 	},
 	{
@@ -6167,6 +6166,22 @@
 			"in the end",
 			"ultimately",
 			"eventually"
+		]
+	},
+	{
+		"id": 277,
+		"sort": 82,
+		"title": "I heard that - 80%",
+		"form": "らしい",
+		"content": "277_heard_that",
+		"jlpt": 4,
+		"jp": [
+			"らしいです",
+			"らしくないです"
+		],
+		"en": [
+			"i heard that",
+			"80%"
 		]
 	}
 ]
