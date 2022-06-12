@@ -16,7 +16,7 @@ In order to report that the speaker heard something a pattern `そうだ` is use
 A similar grammar for expressing the idea of *"I heard that"* is [らしい](277), but the difference is that らしい implies that the speaker heard it from someone else who is not the primary source of information, therefore, the probability is around 80%. そうだ implies that the speaker heard it directly from the original source of information, therefore, the probability for そうだ is 100%.
 
 #### "Heard that" vs "Looks like"
-**Note** that *"そうです"* can also mean [it looks like](106), but the patterns are different. *"I heard that"* uses the casual form while in *"it looks like"* the ending of verbs or adjectives is dropped.
+**Note** that そうだ can also mean [it looks like](106), but the patterns are different. *"I heard that"* uses the casual form while in *"it looks like"* the ending of verbs or adjectives is dropped.
 >雨が降**る**そうです。I heard that it would rain.
 >雨が降**り**そうです。It will rain in the next instance.
 
