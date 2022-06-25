@@ -6208,5 +6208,35 @@
 			"positive connections",
 			"also"
 		]
+	},
+	{
+		"id": 279,
+		"sort": 0,
+		"title": "To have tendency of",
+		"form": "～気味だ",
+		"content": "279_to_have_tendency_of",
+		"jlpt": 3,
+		"jp": [
+			"気味です",
+			"気味だ",
+			"気味である",
+			"ぎみです",
+			"ぎみだ",
+			"ぎみである",
+			"の気味です",
+			"の気味だ",
+			"の気味である",
+			"のぎみです",
+			"のぎみだ",
+			"のぎみである"
+		],
+		"en": [
+			"to have tendency of",
+			"having tendency of",
+			"like",
+			"looking",
+			"tending to",
+			"slightly"
+		]
 	}
 ]
