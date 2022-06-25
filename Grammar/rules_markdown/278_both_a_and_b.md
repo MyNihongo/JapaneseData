@@ -9,5 +9,8 @@ Previously we have learned [も～ば、～も](224) which also has exactly the 
 
 When the form is used with verbs or in case there is a need to use another particle then `も` is placed after another particle.
 
->夏休みは大阪に**も**行った**し**、沖縄に**も**行きます。During my summer holiday I will do to Osaka and to Okinawa.
+>夏休みは大阪に**も**行った**し**、沖縄に**も**行きます。During my summer holiday I will do to Osaka and to Okinawa.  
 >私のアパートは家賃**も**安い**し**、駅から**も**近いです。My apartment has a cheap rent and it is close to the station.
+
+Depending on the situation the past tense can also be used before し and in the final clause.
+>昨日は天気**も**よかった**し**、食事**も**おいしかったです。Yesterday the weather was good and the meal was delicious.
