@@ -6190,5 +6190,23 @@
 			"i heard that",
 			"80%"
 		]
+	},
+	{
+		"id": 278,
+		"sort": 27,
+		"title": "Both A and B",
+		"form": "も～し、～も",
+		"content": "278_both_a_and_b",
+		"jlpt": 3,
+		"jp": [
+			"もしも",
+			"しも"
+		],
+		"en": [
+			"both a and b",
+			"negative connections",
+			"positive connections",
+			"also"
+		]
 	}
 ]
