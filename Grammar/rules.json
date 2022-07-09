@@ -6266,5 +6266,32 @@
 			"never",
 			"by no means"
 		]
+	},
+	{
+		"id": 281,
+		"sort": 0,
+		"title": "Unable to finish",
+		"form": "～きれない",
+		"content": "281_unable_to_finish",
+		"jlpt": 3,
+		"jp": [
+			"きれないです",
+			"きれなかったです",
+			"きれませんでした",
+			"切れないです",
+			"切れなかったです",
+			"切れませんでした",
+			"きられないです",
+			"きられなかったです",
+			"きられませんでした",
+			"切られないです",
+			"切られなかったです",
+			"切られませんでした"
+		],
+		"en": [
+			"unable to finish",
+			"unable to do",
+			"unable to complete"
+		]
 	}
 ]
