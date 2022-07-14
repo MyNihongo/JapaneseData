@@ -6293,5 +6293,29 @@
 			"unable to do",
 			"unable to complete"
 		]
+	},
+	{
+		"id": 282,
+		"sort": 0,
+		"title": "Just, since",
+		"form": "きり",
+		"content": "282_just_since",
+		"jlpt": 3,
+		"jp": [
+			"きり",
+			"たきり",
+			"だきり",
+			"のきり",
+			"っきり",
+			"たっきり",
+			"だっきり",
+			"のっきり"
+		],
+		"en": [
+			"only",
+			"just",
+			"since",
+			"after"
+		]
 	}
 ]
