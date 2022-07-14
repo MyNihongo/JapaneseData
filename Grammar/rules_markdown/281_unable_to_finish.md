@@ -1,4 +1,4 @@
-The expression `～きれない` added to the stem of another verb indicates that has not been able to complete the action to the end (completely). This expression consists of the verb [切る (きる)](w1384830) in the [potential](97) negative tense.
+The expression `～きれない` added to the stem of another verb indicates that someone has not been able to complete the action to the end (completely). This expression consists of the verb [切る (きる)](w1384830) in the [potential](97) negative tense.
 
 |Form|Usage|Example|
 |-|-|-|
