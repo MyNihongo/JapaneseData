@@ -6339,5 +6339,30 @@
 			"to finish completely",
 			"to do till the end"
 		]
+	},
+	{
+		"id":284,
+		"sort":0,
+		"title":"Confirm remembering",
+		"form":"っけ",
+		"content":"284_confirm_remembering",
+		"jlpt":3,
+		"jp":[
+			"だったっけ",
+			"だっけ",
+			"でしたっけ",
+			"んだったっけ",
+			"のだったっけ",
+			"んでしたっけ",
+			"のでしたっけ",
+			"かったっけ",
+			"っけ"
+		],
+		"en":[
+			"casual suffix to confirm remembering",
+			"casual suffix confirming remembering",
+			"casual suffix to confirm something trying to remember",
+			"particle kke"
+		]
 	}
 ]
