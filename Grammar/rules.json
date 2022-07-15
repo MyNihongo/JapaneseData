@@ -6341,13 +6341,13 @@
 		]
 	},
 	{
-		"id":284,
-		"sort":0,
-		"title":"Confirm remembering",
-		"form":"っけ",
-		"content":"284_confirm_remembering",
-		"jlpt":3,
-		"jp":[
+		"id": 284,
+		"sort": 0,
+		"title": "Confirm remembering",
+		"form": "っけ",
+		"content": "284_confirm_remembering",
+		"jlpt": 3,
+		"jp": [
 			"だったっけ",
 			"だっけ",
 			"でしたっけ",
@@ -6358,11 +6358,41 @@
 			"かったっけ",
 			"っけ"
 		],
-		"en":[
+		"en": [
 			"casual suffix to confirm remembering",
 			"casual suffix confirming remembering",
 			"casual suffix to confirm something trying to remember",
 			"particle kke"
+		]
+	},
+	{
+		"id": 285,
+		"sort": 0,
+		"title": "Action inside or long action",
+		"form": "～込む",
+		"content": "285_action_inside",
+		"jlpt": 3,
+		"jp": [
+			"込む",
+			"こむ",
+			"込みます",
+			"こみます",
+			"込まないです",
+			"こまないです",
+			"込みません",
+			"こみません",
+			"込み",
+			"こみ"
+		],
+		"en": [
+			"action inside or long action",
+			"do something for a long time",
+			"do for a long time",
+			"doing for a long time",
+			"move something inside",
+			"moving something inside",
+			"move inside",
+			"moving inside"
 		]
 	}
 ]
