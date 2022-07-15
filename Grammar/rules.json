@@ -6418,5 +6418,39 @@
 		"en": [
 			"from the fact that"
 		]
+	},
+	{
+		"id": 287,
+		"sort": 0,
+		"title": "Rule, custom or plan",
+		"form": "ことになっている",
+		"content": "287_rule_custom_plan",
+		"jlpt": 3,
+		"jp": [
+			"ことになっている",
+			"ことになってる",
+			"ことになっています",
+			"ことになってます",
+			"事になっている",
+			"事になってる",
+			"事になっています",
+			"事になってます",
+			"ということになっている",
+			"ということになってる",
+			"ということになっています",
+			"ということになってます",
+			"という事になっている",
+			"という事になってる",
+			"という事になっています",
+			"という事になってます"
+		],
+		"en": [
+			"rule",
+			"custom",
+			"plan",
+			"to be expected to",
+			"to be scheduled to",
+			"it has been decided as a rule that"
+		]
 	}
 ]
