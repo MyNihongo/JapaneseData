@@ -6394,5 +6394,25 @@
 			"move inside",
 			"moving inside"
 		]
+	},
+	{
+		"id": 286,
+		"sort": 0,
+		"title": "From the fact that",
+		"form": "ことから",
+		"content": "286_from_the_fact_that",
+		"jlpt": 3,
+		"jp": [
+			"ことから",
+			"事から",
+			"たことから",
+			"た事から",
+			"だことから",
+			"だ事から",
+			"から"
+		],
+		"en": [
+			"from the fact that"
+		]
 	}
 ]
