@@ -6468,5 +6468,37 @@
 			"although",
 			"but"
 		]
+	},
+	{
+		"id": 289,
+		"sort": 0,
+		"title": "Could not even think that",
+		"form": "まさか～とは思わなかった",
+		"content": "289_could_not_even_think",
+		"jlpt": 3,
+		"jp": [
+			"まさかとは思わなかった",
+			"まさかとはおもわなかった",
+			"とは思わなかった",
+			"とはおもわなかった",
+			"まさかというのは思わなかった",
+			"まさかというのはおもわなかった",
+			"というのは思わなかった",
+			"というのはおもわなかった",
+			"まさかというは思わなかった",
+			"まさかというはおもわなかった",
+			"というは思わなかった",
+			"というはおもわなかった",
+			"思わなかった",
+			"おもわなかった"
+		],
+		"en": [
+			"could not even think that",
+			"couldn't even think that",
+			"did not even think that",
+			"didn't even think that",
+			"did not expect that outcome",
+			"didn't expect that outcome"
+		]
 	}
 ]
