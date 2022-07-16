@@ -6500,5 +6500,26 @@
 			"did not expect that outcome",
 			"didn't expect that outcome"
 		]
+	},
+	{
+		"id": 290,
+		"sort": 0,
+		"title": "Rarely",
+		"form": "めったに～ない",
+		"content": "290_rarely",
+		"jlpt": 3,
+		"jp": [
+			"めったにない",
+			"はめったにない",
+			"はめったにいない",
+			"滅多にない",
+			"は滅多にない",
+			"は滅多にいない"
+		],
+		"en": [
+			"rarely",
+			"seldom",
+			"hardly"
+		]
 	}
 ]
