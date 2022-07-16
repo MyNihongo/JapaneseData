@@ -6453,5 +6453,20 @@
 			"to be scheduled to",
 			"it has been decided as a rule that"
 		]
+	},
+	{
+		"id": 288,
+		"sort": 0,
+		"title": "Although",
+		"form": "ことは～が",
+		"content": "288_although",
+		"jlpt": 3,
+		"jp": [
+			"ことはが"
+		],
+		"en": [
+			"although",
+			"but"
+		]
 	}
 ]
