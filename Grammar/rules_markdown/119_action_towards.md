@@ -13,7 +13,8 @@ This can be used by both the speaker and other persons because a location which 
 >女の人は仕事を終わっ**てきました**。I woman finished her work and came to me.
 #### Something came
 When an action is described with verbs for movement (e.g. to run, to drive, to fly, to fall, etc.) and a direction of the movement is towards the speaker the verb is supplemented with *てくる*.
->彼女は走っ**てきました**。A girl ran to from me.
+>彼女は走っ**てきました**。A girl ran to from me.  
+>雨が降って**きました**。it started to rain.
 #### Constantly do until now
 Similarly as the present perfect continuous tense if an action was started in the past and is still performed in present the verb is supplemented with *てくる*. Usually the verb *てくる* is in the past tense, e.g. **きた**.
 >五年間日本語を勉強し**てきました**。I've been studying Japanese for five years.
