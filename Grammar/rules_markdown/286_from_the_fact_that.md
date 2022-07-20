@@ -4,7 +4,7 @@ The expression `A + ことから、+ B` is translated as *"from the fact that A,
 |-|-|-|
 |Verb|V (cas.) + ことから|食べる**ことから**|
 |い-adjective|イA + ことから|新しい**ことから**|
-|な-adjective|ナA + **だ**ことから|きれいだ**ことから**|
+|な-adjective|ナA + **な**ことから|きれいな**ことから**|
 |Noun|N + **だ**ことから|日本人だ**ことから**|
 
 >JLPTに合格した**ことから**、就職できます。From the fact that he has passed the JLPT he can work.  

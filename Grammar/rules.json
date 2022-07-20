@@ -6539,5 +6539,25 @@
 			"perchance",
 			"by any chance"
 		]
+	},
+	{
+		"id": 292,
+		"sort": 0,
+		"title": "Supposing",
+		"form": "もしも～たら",
+		"content": "292_supposing",
+		"jlpt": 3,
+		"jp": [
+			"もしもたら",
+			"たら",
+			"もしもだら",
+			"だら"
+		],
+		"en": [
+			"if",
+			"in the case",
+			"in case",
+			"supposing"
+		]
 	}
 ]
