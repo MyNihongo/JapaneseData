@@ -1063,12 +1063,12 @@
 		"id": 54,
 		"sort": 1,
 		"title": "Hardly",
-		"form": "あまり",
+		"form": "あまり～ない",
 		"content": "54_hardly",
 		"jlpt": 4,
 		"jp": [
-			"あまり",
-			"あんまり"
+			"あまりない",
+			"あんまりない"
 		],
 		"en": [
 			"hardly",
