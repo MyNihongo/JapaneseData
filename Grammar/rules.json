@@ -6562,5 +6562,23 @@
 			"in case",
 			"supposing"
 		]
+	},
+	{
+		"id": 293,
+		"sort": 0,
+		"title": "Rather, instead",
+		"form": "むしろ",
+		"content": "293_rather_instead",
+		"jlpt": 3,
+		"jp": [
+			"むしろ",
+			"寧ろ"
+		],
+		"en": [
+			"rather",
+			"better",
+			"instead",
+			"if anything"
+		]
 	}
 ]
