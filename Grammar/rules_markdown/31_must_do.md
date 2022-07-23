@@ -9,9 +9,10 @@ The polite way of saying that something must be done is by using the [え-form](
 In order to say casually that something must be done a `なくてはいけません` is used. This is the same form as [てはいけません](1), but it is in the negative form. The form *ないといけません* is created from the negative verb in the present tense plus *といけない* (meaning: cannot go like this), so an approximate translation into English might be *"if I don't do something then it cannot go like this"*.
 >部屋を掃除し**なくてはいけません**。I must clean my room.
 
-In the spoken context a `なくちゃ`, `ないと` or `なきゃ` might be used. All three ending expressions might be used, but sometimes no ending expression is used at all (making the sentence very casual). One slight difference which might be noted is that *なきゃ* sounds more urgent than *なくちゃ*.
->部屋を掃除し**なくちゃ**(いけない)。I must clean my room.
->部屋を掃除し**ないと**(いけない)。I must clean my room.
+In the spoken context a `なくちゃ`, `ないと` or `なきゃ` might be used. The full form also contains いけない (e.g. なくちゃ + いけない), but it is also common to omit いけない at all.  
+One slight difference which might be noted is that *なきゃ* sounds more urgent than *なくちゃ*.
+>部屋を掃除し**なくちゃ**(いけない)。I must clean my room.  
+>部屋を掃除し**ないと**(いけない)。I must clean my room.  
 >部屋を掃除し**なきゃ**(いけない)。I must clean my room.
 
 `なくちゃ` is the spoken て-form, where the last て is replaced by ちゃ. So *なくて* becomes *なくちゃ*.
