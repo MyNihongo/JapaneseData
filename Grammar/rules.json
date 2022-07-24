@@ -6695,5 +6695,27 @@
 			"wherever practicable",
 			"if possible"
 		]
+	},
+	{
+		"id": 297,
+		"sort": 0,
+		"title": "I heard that",
+		"form": "～んだって",
+		"content": "297_i_heard_that",
+		"jlpt": 3,
+		"jp": [
+			"んだって",
+			"んですって",
+			"のだって",
+			"のですって",
+			"なんだって",
+			"なんですって",
+			"なのだって",
+			"なのですって",
+			"だって"
+		],
+		"en": [
+			"i heard that"
+		]
 	}
 ]
