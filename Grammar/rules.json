@@ -5837,7 +5837,11 @@
 			"するべきではありませんでした",
 			"するべきじゃないです",
 			"するべきじゃなかったです",
-			"するべきじゃありませんでした"
+			"するべきじゃありませんでした",
+			"ないべきだ",
+			"ないべきだった",
+			"ないべきです",
+			"ないべきでした"
 		],
 		"en": [
 			"should not do",
@@ -6422,7 +6426,10 @@
 			"た事から",
 			"だことから",
 			"だ事から",
-			"から"
+			"から",
+			"であることから",
+			"はであることから",
+			"なことから"
 		],
 		"en": [
 			"from the fact that"
@@ -6631,6 +6638,24 @@
 			"to do again",
 			"to do something over",
 			"to do something again"
+		]
+	},
+	{
+		"id": 296,
+		"sort": 0,
+		"title": "As much as possible",
+		"form": "なるべく",
+		"content": "296_as_much_as_possible",
+		"jlpt": 3,
+		"jp": [
+			"なるべく"
+		],
+		"en": [
+			"as much as possible",
+			"as much as one can",
+			"as much as can",
+			"wherever practicable",
+			"if possible"
 		]
 	}
 ]
