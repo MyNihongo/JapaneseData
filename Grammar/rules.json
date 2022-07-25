@@ -6721,5 +6721,44 @@
 		"en": [
 			"i heard that"
 		]
+	},
+	{
+		"id": 298,
+		"sort": 0,
+		"title": "Without doubt",
+		"form": "に違いない",
+		"content": "298_without_doubt",
+		"jlpt": 3,
+		"jp": [
+			"に違いない",
+			"にちがいない",
+			"違いない",
+			"ちがいない",
+			"に違いありません",
+			"にちがいありません",
+			"違いありません",
+			"ちがいありません",
+			"に違いじゃない",
+			"にちがいじゃない",
+			"違いじゃない",
+			"ちがいじゃない",
+			"に違いではない",
+			"にちがいではない",
+			"違いではない",
+			"ちがいではない"
+		],
+		"en": [
+			"i'm sure",
+			"i am sure",
+			"i'm certain",
+			"i am certain",
+			"no mistaking it",
+			"for certain",
+			"without doubt",
+			"to have no doubt that",
+			"i don't doubt",
+			"i do not doubt",
+			"i bet"
+		]
 	}
 ]
