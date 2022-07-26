@@ -218,7 +218,11 @@
 		"jlpt": 5,
 		"jp": [
 			"ほうがいいです",
-			"方がいいです"
+			"方がいいです",
+			"たほうがいいです",
+			"だ方がいいです",
+			"ないほうがいいです",
+			"ない方がいいです"
 		],
 		"en": [
 			"had better",
@@ -584,9 +588,14 @@
 			"ければならない",
 			"ければなりません",
 			"なくてはいけない",
-			"なくちゃ",
-			"ないと",
-			"なきゃ"
+			"なくちゃいけません",
+			"なくちゃいけない",
+			"なくちゃならない",
+			"なくちゃなりません",
+			"なきゃいけません",
+			"なきゃいけない",
+			"なきゃならない",
+			"なきゃなりません"
 		],
 		"en": [
 			"must do"
@@ -885,7 +894,8 @@
 			"have been doing",
 			"present situation",
 			"habitual actions",
-			"continuous state"
+			"continuous state",
+			"prolonged tense"
 		]
 	},
 	{
@@ -1062,12 +1072,12 @@
 		"id": 54,
 		"sort": 1,
 		"title": "Hardly",
-		"form": "あまり",
+		"form": "あまり～ない",
 		"content": "54_hardly",
 		"jlpt": 4,
 		"jp": [
-			"あまり",
-			"あんまり"
+			"あまりない",
+			"あんまりない"
 		],
 		"en": [
 			"hardly",
@@ -1879,8 +1889,8 @@
 	{
 		"id": 90,
 		"sort": 20,
-		"title": "Conditionals - と",
-		"form": "",
+		"title": "Conditionals",
+		"form": "と",
 		"content": "90_conditionals_to",
 		"jlpt": 4,
 		"jp": [
@@ -1895,7 +1905,9 @@
 			"machinery",
 			"directions",
 			"seasons",
-			"feelings"
+			"feelings",
+			"unless",
+			"if you don't do"
 		]
 	},
 	{
@@ -3822,7 +3834,45 @@
 		"jlpt": 5,
 		"jp": [
 			"んですが",
-			"のですが"
+			"のですが",
+			"んだが",
+			"のだが",
+			"んですけど",
+			"のですけど",
+			"んだけど",
+			"のだけど",
+			"と思うんですが",
+			"と思うのですが",
+			"と思うんだが",
+			"と思うのだが",
+			"と思うんですけど",
+			"と思うのですけど",
+			"と思うんだけど",
+			"と思うのだけど",
+			"思うんですが",
+			"思うのですが",
+			"思うんだが",
+			"思うのだが",
+			"思うんですけど",
+			"思うのですけど",
+			"思うんだけど",
+			"思うのだけど",
+			"とおもうんですが",
+			"とおもうのですが",
+			"とおもうんだが",
+			"とおもうのだが",
+			"とおもうんですけど",
+			"とおもうのですけど",
+			"とおもうんだけど",
+			"とおもうのだけど",
+			"おもうんですが",
+			"おもうのですが",
+			"おもうんだが",
+			"おもうのだが",
+			"おもうんですけど",
+			"おもうのですけど",
+			"おもうんだけど",
+			"おもうのだけど"
 		],
 		"en": [
 			"emotions",
@@ -5005,7 +5055,11 @@
 		"jlpt": 3,
 		"jp": [
 			"ことはない",
-			"ことはありません"
+			"ことはありません",
+			"ことではない",
+			"ことではありません",
+			"ことない",
+			"ことありません"
 		],
 		"en": [
 			"soothing",
@@ -5825,7 +5879,11 @@
 			"するべきではありませんでした",
 			"するべきじゃないです",
 			"するべきじゃなかったです",
-			"するべきじゃありませんでした"
+			"するべきじゃありませんでした",
+			"ないべきだ",
+			"ないべきだった",
+			"ないべきです",
+			"ないべきでした"
 		],
 		"en": [
 			"should not do",
@@ -6124,6 +6182,7 @@
 		"jlpt": 3,
 		"jp": [
 			"かわりに",
+			"にかわりに",
 			"のかわりに",
 			"そのかわりに",
 			"代わりに",
@@ -6239,6 +6298,562 @@
 			"looking",
 			"tending to",
 			"slightly"
+		]
+	},
+	{
+		"id": 280,
+		"sort": 0,
+		"title": "Never",
+		"form": "決して～ない",
+		"content": "280_never",
+		"jlpt": 3,
+		"jp": [
+			"決してないです",
+			"けっしてないです",
+			"決してじゃないです",
+			"けっしてじゃないです",
+			"決してではないです",
+			"けっしてではないです",
+			"決してなかったです",
+			"けっしてなかったです",
+			"決してじゃなかったです",
+			"けっしてじゃなかったです",
+			"決してではなかったです",
+			"けっしてではなかったです"
+		],
+		"en": [
+			"never",
+			"by no means"
+		]
+	},
+	{
+		"id": 281,
+		"sort": 0,
+		"title": "Unable to finish",
+		"form": "～きれない",
+		"content": "281_unable_to_finish",
+		"jlpt": 3,
+		"jp": [
+			"きれないです",
+			"きれなかったです",
+			"きれませんでした",
+			"切れないです",
+			"切れなかったです",
+			"切れませんでした",
+			"きられないです",
+			"きられなかったです",
+			"きられませんでした",
+			"切られないです",
+			"切られなかったです",
+			"切られませんでした"
+		],
+		"en": [
+			"unable to finish",
+			"unable to do",
+			"unable to complete"
+		]
+	},
+	{
+		"id": 282,
+		"sort": 0,
+		"title": "Just, since",
+		"form": "きり",
+		"content": "282_just_since",
+		"jlpt": 3,
+		"jp": [
+			"きりです",
+			"たきりです",
+			"だきりです",
+			"のきりです",
+			"っきりです",
+			"たっきりです",
+			"だっきりです",
+			"のっきりです"
+		],
+		"en": [
+			"only",
+			"just",
+			"since",
+			"after"
+		]
+	},
+	{
+		"id": 283,
+		"sort": 0,
+		"title": "To finish",
+		"form": "～きる／～きれる",
+		"content": "283_to_finish",
+		"jlpt": 3,
+		"jp": [
+			"きる",
+			"きります",
+			"きれる",
+			"きれます",
+			"切る",
+			"切ります",
+			"切れる",
+			"切れます"
+		],
+		"en": [
+			"to finish completely",
+			"to do till the end"
+		]
+	},
+	{
+		"id": 284,
+		"sort": 0,
+		"title": "Confirm remembering",
+		"form": "っけ",
+		"content": "284_confirm_remembering",
+		"jlpt": 3,
+		"jp": [
+			"だったっけ",
+			"だっけ",
+			"でしたっけ",
+			"んだったっけ",
+			"のだったっけ",
+			"んでしたっけ",
+			"のでしたっけ",
+			"かったっけ",
+			"っけ"
+		],
+		"en": [
+			"casual suffix to confirm remembering",
+			"casual suffix confirming remembering",
+			"casual suffix to confirm something trying to remember",
+			"particle kke"
+		]
+	},
+	{
+		"id": 285,
+		"sort": 0,
+		"title": "Action inside or long action",
+		"form": "～込む",
+		"content": "285_action_inside",
+		"jlpt": 3,
+		"jp": [
+			"込む",
+			"こむ",
+			"込みます",
+			"こみます",
+			"込まないです",
+			"こまないです",
+			"込みません",
+			"こみません",
+			"込み",
+			"こみ"
+		],
+		"en": [
+			"action inside or long action",
+			"do something for a long time",
+			"do for a long time",
+			"doing for a long time",
+			"move something inside",
+			"moving something inside",
+			"move inside",
+			"moving inside"
+		]
+	},
+	{
+		"id": 286,
+		"sort": 0,
+		"title": "From the fact that",
+		"form": "ことから",
+		"content": "286_from_the_fact_that",
+		"jlpt": 3,
+		"jp": [
+			"ことから",
+			"事から",
+			"たことから",
+			"た事から",
+			"だことから",
+			"だ事から",
+			"から",
+			"であることから",
+			"はであることから",
+			"なことから"
+		],
+		"en": [
+			"from the fact that"
+		]
+	},
+	{
+		"id": 287,
+		"sort": 0,
+		"title": "Rule, custom or plan",
+		"form": "ことになっている",
+		"content": "287_rule_custom_plan",
+		"jlpt": 3,
+		"jp": [
+			"ことになっている",
+			"ことになってる",
+			"ことになっています",
+			"ことになってます",
+			"事になっている",
+			"事になってる",
+			"事になっています",
+			"事になってます",
+			"ということになっている",
+			"ということになってる",
+			"ということになっています",
+			"ということになってます",
+			"という事になっている",
+			"という事になってる",
+			"という事になっています",
+			"という事になってます"
+		],
+		"en": [
+			"rule",
+			"custom",
+			"plan",
+			"to be expected to",
+			"to be scheduled to",
+			"it has been decided as a rule that"
+		]
+	},
+	{
+		"id": 288,
+		"sort": 0,
+		"title": "Although",
+		"form": "ことは～が",
+		"content": "288_although",
+		"jlpt": 3,
+		"jp": [
+			"ことはが",
+			"理解する",
+			"りかいする",
+			"わかる"
+		],
+		"en": [
+			"although",
+			"but"
+		]
+	},
+	{
+		"id": 289,
+		"sort": 0,
+		"title": "Could not even think that",
+		"form": "まさか～とは思わなかった",
+		"content": "289_could_not_even_think",
+		"jlpt": 3,
+		"jp": [
+			"まさかとは思わなかった",
+			"まさかとはおもわなかった",
+			"とは思わなかった",
+			"とはおもわなかった",
+			"まさかというのは思わなかった",
+			"まさかというのはおもわなかった",
+			"というのは思わなかった",
+			"というのはおもわなかった",
+			"まさかというは思わなかった",
+			"まさかというはおもわなかった",
+			"というは思わなかった",
+			"というはおもわなかった",
+			"思わなかった",
+			"おもわなかった"
+		],
+		"en": [
+			"could not even think that",
+			"couldn't even think that",
+			"did not even think that",
+			"didn't even think that",
+			"did not expect that outcome",
+			"didn't expect that outcome"
+		]
+	},
+	{
+		"id": 290,
+		"sort": 0,
+		"title": "Rarely",
+		"form": "めったに～ない",
+		"content": "290_rarely",
+		"jlpt": 3,
+		"jp": [
+			"めったにない",
+			"はめったにない",
+			"はめったにいない",
+			"滅多にない",
+			"は滅多にない",
+			"は滅多にいない"
+		],
+		"en": [
+			"rarely",
+			"seldom",
+			"hardly"
+		]
+	},
+	{
+		"id": 291,
+		"sort": 0,
+		"title": "Perhaps, maybe",
+		"form": "もしかしたら",
+		"content": "291_perhaps",
+		"jlpt": 3,
+		"jp": [
+			"もしかしたらかもしれない",
+			"もしかするとかもしれない"
+		],
+		"en": [
+			"perhaps",
+			"maybe",
+			"perchance",
+			"by any chance"
+		]
+	},
+	{
+		"id": 292,
+		"sort": 0,
+		"title": "Supposing",
+		"form": "もしも～たら",
+		"content": "292_supposing",
+		"jlpt": 3,
+		"jp": [
+			"もしもたら",
+			"たら",
+			"もしもだら",
+			"だら"
+		],
+		"en": [
+			"if",
+			"in the case",
+			"in case",
+			"supposing"
+		]
+	},
+	{
+		"id": 293,
+		"sort": 0,
+		"title": "Rather, instead",
+		"form": "むしろ",
+		"content": "293_rather_instead",
+		"jlpt": 3,
+		"jp": [
+			"むしろ",
+			"寧ろ"
+		],
+		"en": [
+			"rather",
+			"better",
+			"instead",
+			"if anything"
+		]
+	},
+	{
+		"id": 294,
+		"sort": 0,
+		"title": "Rather can do",
+		"form": "～ないことはない",
+		"content": "294_rather_can_do",
+		"jlpt": 3,
+		"jp": [
+			"ないことはない",
+			"ことはない",
+			"くないことはない",
+			"ではないことはない",
+			"じゃないことはない",
+			"ないことはありません",
+			"ことはありません",
+			"くないことはありません",
+			"ではないことはありません",
+			"じゃないことはありません"
+		],
+		"en": [
+			"rather can do",
+			"it is not impossible to"
+		]
+	},
+	{
+		"id": 295,
+		"sort": 0,
+		"title": "To do over",
+		"form": "～直す",
+		"content": "295_to_do_over",
+		"jlpt": 3,
+		"jp": [
+			"直す",
+			"なおす",
+			"直します",
+			"なおします"
+		],
+		"en": [
+			"to do over",
+			"to do again",
+			"to do something over",
+			"to do something again"
+		]
+	},
+	{
+		"id": 296,
+		"sort": 0,
+		"title": "As much as possible",
+		"form": "なるべく",
+		"content": "296_as_much_as_possible",
+		"jlpt": 3,
+		"jp": [
+			"なるべく"
+		],
+		"en": [
+			"as much as possible",
+			"as much as one can",
+			"as much as can",
+			"wherever practicable",
+			"if possible"
+		]
+	},
+	{
+		"id": 297,
+		"sort": 0,
+		"title": "I heard that",
+		"form": "～んだって",
+		"content": "297_i_heard_that",
+		"jlpt": 3,
+		"jp": [
+			"んだって",
+			"んですって",
+			"のだって",
+			"のですって",
+			"なんだって",
+			"なんですって",
+			"なのだって",
+			"なのですって",
+			"だって"
+		],
+		"en": [
+			"i heard that"
+		]
+	},
+	{
+		"id": 298,
+		"sort": 0,
+		"title": "Without doubt",
+		"form": "に違いない",
+		"content": "298_without_doubt",
+		"jlpt": 3,
+		"jp": [
+			"に違いない",
+			"にちがいない",
+			"違いない",
+			"ちがいない",
+			"に違いありません",
+			"にちがいありません",
+			"違いありません",
+			"ちがいありません",
+			"に違いじゃない",
+			"にちがいじゃない",
+			"違いじゃない",
+			"ちがいじゃない",
+			"に違いではない",
+			"にちがいではない",
+			"違いではない",
+			"ちがいではない"
+		],
+		"en": [
+			"i'm sure",
+			"i am sure",
+			"i'm certain",
+			"i am certain",
+			"no mistaking it",
+			"for certain",
+			"without doubt",
+			"to have no doubt that",
+			"i don't doubt",
+			"i do not doubt",
+			"i bet"
+		]
+	},
+	{
+		"id": 299,
+		"sort": 0,
+		"title": "Compared to",
+		"form": "に比べて",
+		"content": "299_compared_to",
+		"jlpt": 3,
+		"jp": [
+			"に比べて",
+			"に比べると",
+			"に比べれば",
+			"と比べて",
+			"と比べると",
+			"と比べれば",
+			"比べて",
+			"比べると",
+			"比べれば",
+			"にくらべて",
+			"にくらべると",
+			"にくらべれば",
+			"とくらべて",
+			"とくらべると",
+			"とくらべれば",
+			"くらべて",
+			"くらべると",
+			"くらべれば",
+			"に比較して",
+			"に比較すると",
+			"に比較すれば",
+			"と比較して",
+			"と比較すると",
+			"と比較すれば",
+			"比較べて",
+			"比較べると",
+			"比較べれば",
+			"にひかくして",
+			"にひかくすると",
+			"にひかくすれば",
+			"とひかくして",
+			"とひかくすると",
+			"とひかくすれば",
+			"ひかくして",
+			"ひかくする",
+			"ひかくすれば"
+		],
+		"en": [
+			"compared to",
+			"in comparison to"
+		]
+	},
+	{
+		"id": 300,
+		"sort": 0,
+		"title": "To get used to",
+		"form": "に慣れる",
+		"content": "300_to_get_used_to",
+		"jlpt": 3,
+		"jp": [
+			"に慣れる",
+			"慣れる",
+			"に慣れます",
+			"慣れます",
+			"に慣れられる",
+			"慣れられる",
+			"に慣れられます",
+			"慣れられます",
+			"になれる",
+			"なれる",
+			"になれます",
+			"なれます",
+			"になれられる",
+			"なれられる",
+			"になれられます",
+			"なれられます",
+			"に慣れない",
+			"慣れない",
+			"に慣れません",
+			"慣れません",
+			"に慣れられない",
+			"慣れられない",
+			"に慣れられません",
+			"慣れられません",
+			"になれない",
+			"なれない",
+			"になれません",
+			"なれません",
+			"になれられない",
+			"なれられない",
+			"になれられません",
+			"なれられません"
+		],
+		"en": [
+			"to get used to"
 		]
 	}
 ]

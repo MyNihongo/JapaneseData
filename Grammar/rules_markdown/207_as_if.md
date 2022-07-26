@@ -2,7 +2,7 @@ In order to use the comparison to an action or noun similar to *"as if"* the exp
 
 |Form||Usage|Example|
 |-|-|-|
-|Verb|まるで + V (dic.) + ようだ|まるで食べる**ようです**|
+|Verb|まるで + V (cas.) + ようだ|まるで食べる**ようです**|
 |Noun|まるで + N + **の**ようだ|まるで日本人の**ようです**|
 
 In most cases this expression is used only with verbs nouns.

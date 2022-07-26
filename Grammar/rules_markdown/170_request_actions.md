@@ -1,4 +1,6 @@
-When asking for help (or assistance) in Japanese there is a sentence-final phrase `んですが`(please see [this article](34) for how to create the *んです* form). So the sentence `A + んですが。` means *"I don't know how to A, so please help me"*. Let us take a look at some examples.
+When asking for help (or assistance) in Japanese there is a sentence-final phrase `んですが`(please see [this article](34) for how to create the *んです* form). So the sentence `A + んですが。` means *"I don't know how to A, so please help me"*. Let us take a look at some examples.  
+In speaking the last が is often replaced with けど so the expression becomes `んですけど`. When there is no need to use polite forms です is replaced with だ so the expression becomes even more simple - `んだけど`.  
+In writing ん must be replaced with の so the expression is `のだが`. Since in writing the casual style is mostly used です is replaced with だ.
 
 #### Ask for help (1)
 >この漢字がわからない**んですが**。I don't understand this kanji.

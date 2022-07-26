@@ -1,4 +1,4 @@
-The expression `ことはない` is used to imply that there no reason to do something.
+The expression `ことはない` is used to imply that there no reason to do something. In the spoken language the は is often omitted so the expression becomes `ことない`.
 
 |Form|Usage|Example|
 |-|-|-|
@@ -6,7 +6,8 @@ The expression `ことはない` is used to imply that there no reason to do som
 
 Often it is used to soothe someone by saying *"心配することはない"*, namely *"there is no need to worry"*.
 
->落ち込む**ことはない**です。There is no need to feel down.
+>落ち込む**ことはない**です。There is no need to feel down.  
+>落ち込む**ことない**です。There is no need to feel down.
 
 Another similar grammar is [なくてもいい](32) which also means *"you don't have to"*. Most people will say that these two forms are interchangeable, but there is a slight nuance. Let us consider the next sentences where the speaker says it to a person B.
 >謝る**ことはない**です。You do not need to apologise.
