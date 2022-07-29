@@ -1,11 +1,12 @@
-In order to compare two objects a pattern `N1のほうが + N2より + A` is used where *"N1 is more + adjective + than N2"*.
+In order to compare two objects a pattern `N1のほうが + N2より + A` is used where *"N1 is more + adjective + than N2"*.  
+Note that when a verb is used before ほうが the form is the same as in [ほうがいい](12) except that the adjective いい may be replaced with another adjective.
 
 |Form|Usage|Example|
 |-|-|-|
-|Verb|V (dic.) + ほうが + V (dic.) + より|食べる**ほうが**飲む**より**|
+|Verb|V (た) + ほうが + V (dic.) + より|食べた**ほうが**飲む**より**|
 |Noun|N + **の**ほうが + N + より|日本の**ほうが**中国**より**|
 
->日本に行く**ほうが**イギリスに行く**より**遠いです。Going to Japan is more distant than going to Great Britain.  
+>日本に行った**ほうが**イギリスに行く**より**遠いです。Going to Japan is more distant than going to Great Britain.  
 >日本**のほうが**イギリス**より**好きです。I like Japan more than Great Britain.
 
 In different circumstances both のほうが and より may be omitted in a sentence provided that it is clear that is compared and how.
