@@ -92,8 +92,7 @@
 			"は"
 		],
 		"en": [
-			"particles",
-			"ha",
+			"ha particles",
 			"topic maker"
 		]
 	},
@@ -3917,7 +3916,6 @@
 		],
 		"en": [
 			"particles",
-			"mo",
 			"too",
 			"as well",
 			"mo particle"
@@ -6859,6 +6857,25 @@
 		],
 		"en": [
 			"to get used to"
+		]
+	},
+	{
+		"id": 301,
+		"sort": 0,
+		"title": "As for",
+		"form": "にとって",
+		"content": "301_as_for",
+		"jlpt": 3,
+		"jp": [
+			"にとっては",
+			"にとっても"
+		],
+		"en": [
+			"as for",
+			"to",
+			"concerning",
+			"as far as concerned",
+			"regarding"
 		]
 	}
 ]
