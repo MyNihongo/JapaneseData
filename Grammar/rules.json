@@ -6893,5 +6893,21 @@
 			"concerning",
 			"regarding"
 		]
+	},
+	{
+		"id": 303,
+		"sort": 0,
+		"title": "As ~ then",
+		"form": "につれて",
+		"content": "303_as_then",
+		"jlpt": 3,
+		"jp": [
+			"につれて"
+		],
+		"en": [
+			"as when",
+			"as then",
+			"with"
+		]
 	}
 ]
