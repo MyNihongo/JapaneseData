@@ -6877,5 +6877,21 @@
 			"as far as concerned",
 			"regarding"
 		]
+	},
+	{
+		"id": 302,
+		"sort": 0,
+		"title": "About",
+		"form": "について",
+		"content": "302_about",
+		"jlpt": 3,
+		"jp": [
+			"についての"
+		],
+		"en": [
+			"about",
+			"concerning",
+			"regarding"
+		]
 	}
 ]
