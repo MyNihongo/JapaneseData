@@ -1905,6 +1905,7 @@
 			"when",
 			"to conditionals",
 			"conditionals to",
+			"conditional to",
 			"whenever",
 			"machinery",
 			"directions",
@@ -6924,6 +6925,21 @@
 			"for the purpose of",
 			"for a purpose of",
 			"in order to"
+		]
+	},
+	{
+		"id": 305,
+		"sort": 0,
+		"title": "According to",
+		"form": "によると",
+		"content": "305_according_to",
+		"jlpt": 3,
+		"jp": [
+			"によると",
+			"によれば"
+		],
+		"en": [
+			"according to"
 		]
 	}
 ]
