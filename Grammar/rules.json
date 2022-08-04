@@ -6909,5 +6909,21 @@
 			"as then",
 			"with"
 		]
+	},
+	{
+		"id": 304,
+		"sort": 0,
+		"title": "For the purpose",
+		"form": "には",
+		"content": "304_for_the_purpose",
+		"jlpt": 3,
+		"jp": [
+			"には"
+		],
+		"en": [
+			"for the purpose of",
+			"for a purpose of",
+			"in order to"
+		]
 	}
 ]
