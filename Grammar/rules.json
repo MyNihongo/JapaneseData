@@ -4641,7 +4641,10 @@
 		"content": "202_depending_on",
 		"jlpt": 3,
 		"jp": [
-			"によって",
+			"によって違う",
+			"によってちがう",
+			"によって違います",
+			"によってちがいます",
 			"違う",
 			"違います",
 			"ちがう",
@@ -6940,6 +6943,24 @@
 		],
 		"en": [
 			"according to"
+		]
+	},
+	{
+		"id": 306,
+		"sort": 0,
+		"title": "By means of",
+		"form": "によって",
+		"content": "306_my_means_of",
+		"jlpt": 3,
+		"jp": [
+			"によって"
+		],
+		"en": [
+			"by the means of",
+			"by means of",
+			"due to",
+			"owing to",
+			"by using"
 		]
 	}
 ]
