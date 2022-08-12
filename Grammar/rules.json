@@ -6992,5 +6992,21 @@
 			"to be focused on",
 			"to be centered on"
 		]
+	},
+	{
+		"id": 308,
+		"sort": 0,
+		"title": "Starting with",
+		"form": "をはじめ",
+		"content": "308_starting_with",
+		"jlpt": 3,
+		"jp": [
+			"をはじめとする",
+			"を初めとする"
+		],
+		"en": [
+			"starting with",
+			"for example"
+		]
 	}
 ]
