@@ -7008,5 +7008,23 @@
 			"starting with",
 			"for example"
 		]
+	},
+	{
+		"id": 309,
+		"sort": 0,
+		"title": "Full of",
+		"form": "を込めて",
+		"content": "309_full_of",
+		"jlpt": 3,
+		"jp": [
+			"を込めて",
+			"をこめて"
+		],
+		"en": [
+			"full of",
+			"filled with",
+			"full with",
+			"to put into"
+		]
 	}
 ]
