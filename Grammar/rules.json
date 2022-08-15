@@ -7017,14 +7017,31 @@
 		"content": "309_full_of",
 		"jlpt": 3,
 		"jp": [
-			"を込めて",
-			"をこめて"
+			"を込めての",
+			"をこめての"
 		],
 		"en": [
 			"full of",
 			"filled with",
 			"full with",
 			"to put into"
+		]
+	},
+	{
+		"id": 310,
+		"sort": 0,
+		"title": "Thanks to",
+		"form": "おかげで",
+		"content": "310_thanks_to",
+		"jlpt": 3,
+		"jp": [
+			"おかげで",
+			"お陰で"
+		],
+		"en": [
+			"thanks to",
+			"owing to",
+			"because of"
 		]
 	}
 ]
